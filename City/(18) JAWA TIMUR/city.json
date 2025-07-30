@@ -1,0 +1,126 @@
+[
+    {
+        "id": 256,
+        "name": "JEMBER"
+    },
+    {
+        "id": 257,
+        "name": "BANYUWANGI"
+    },
+    {
+        "id": 258,
+        "name": "BONDOWOSO"
+    },
+    {
+        "id": 289,
+        "name": "KEDIRI"
+    },
+    {
+        "id": 353,
+        "name": "MADIUN"
+    },
+    {
+        "id": 355,
+        "name": "MAGETAN"
+    },
+    {
+        "id": 357,
+        "name": "NGAWI"
+    },
+    {
+        "id": 359,
+        "name": "PACITAN"
+    },
+    {
+        "id": 360,
+        "name": "PONOROGO"
+    },
+    {
+        "id": 388,
+        "name": "MOJOKERTO"
+    },
+    {
+        "id": 389,
+        "name": "JOMBANG"
+    },
+    {
+        "id": 390,
+        "name": "NGANJUK"
+    },
+    {
+        "id": 391,
+        "name": "MALANG"
+    },
+    {
+        "id": 392,
+        "name": "BLITAR"
+    },
+    {
+        "id": 393,
+        "name": "BATU"
+    },
+    {
+        "id": 394,
+        "name": "PROBOLINGGO"
+    },
+    {
+        "id": 395,
+        "name": "LUMAJANG"
+    },
+    {
+        "id": 396,
+        "name": "SITUBONDO"
+    },
+    {
+        "id": 531,
+        "name": "PASURUAN"
+    },
+    {
+        "id": 566,
+        "name": "BOJONEGORO"
+    },
+    {
+        "id": 577,
+        "name": "SURABAYA"
+    },
+    {
+        "id": 578,
+        "name": "GRESIK"
+    },
+    {
+        "id": 579,
+        "name": "LAMONGAN"
+    },
+    {
+        "id": 580,
+        "name": "BANGKALAN"
+    },
+    {
+        "id": 581,
+        "name": "PAMEKASAN"
+    },
+    {
+        "id": 582,
+        "name": "SAMPANG"
+    },
+    {
+        "id": 583,
+        "name": "SIDOARJO"
+    },
+    {
+        "id": 584,
+        "name": "SUMENEP"
+    },
+    {
+        "id": 585,
+        "name": "TUBAN"
+    },
+    {
+        "id": 586,
+        "name": "TULUNGAGUNG"
+    },
+    {
+        "id": 587,
+        "name": "TRENGGALEK"
+    }
+]
