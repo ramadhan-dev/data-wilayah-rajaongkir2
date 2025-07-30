@@ -1,0 +1,3944 @@
+[
+    {
+        "id": 31397,
+        "label": "BENER, TEGALREJO, YOGYAKARTA, DI YOGYAKARTA, 55243",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "TEGALREJO",
+        "subdistrict_name": "BENER",
+        "zip_code": "55243"
+    },
+    {
+        "id": 31398,
+        "label": "KARANGWARU, TEGALREJO, YOGYAKARTA, DI YOGYAKARTA, 55241",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "TEGALREJO",
+        "subdistrict_name": "KARANGWARU",
+        "zip_code": "55241"
+    },
+    {
+        "id": 31399,
+        "label": "KRICAK, TEGALREJO, YOGYAKARTA, DI YOGYAKARTA, 55242",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "TEGALREJO",
+        "subdistrict_name": "KRICAK",
+        "zip_code": "55242"
+    },
+    {
+        "id": 31400,
+        "label": "TEGALREJO, TEGALREJO, YOGYAKARTA, DI YOGYAKARTA, 55244",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "TEGALREJO",
+        "subdistrict_name": "TEGALREJO",
+        "zip_code": "55244"
+    },
+    {
+        "id": 31401,
+        "label": "BUMIJO, JETIS, YOGYAKARTA, DI YOGYAKARTA, 55231",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "JETIS",
+        "subdistrict_name": "BUMIJO",
+        "zip_code": "55231"
+    },
+    {
+        "id": 31402,
+        "label": "COKRODININGRATAN, JETIS, YOGYAKARTA, DI YOGYAKARTA, 55233",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "JETIS",
+        "subdistrict_name": "COKRODININGRATAN",
+        "zip_code": "55233"
+    },
+    {
+        "id": 31403,
+        "label": "GOWONGAN, JETIS, YOGYAKARTA, DI YOGYAKARTA, 55232",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "JETIS",
+        "subdistrict_name": "GOWONGAN",
+        "zip_code": "55232"
+    },
+    {
+        "id": 31404,
+        "label": "BAUSASRAN, DANUREJAN, YOGYAKARTA, DI YOGYAKARTA, 55211",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "DANUREJAN",
+        "subdistrict_name": "BAUSASRAN",
+        "zip_code": "55211"
+    },
+    {
+        "id": 31405,
+        "label": "SURYATMAJAN, DANUREJAN, YOGYAKARTA, DI YOGYAKARTA, 55213",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "DANUREJAN",
+        "subdistrict_name": "SURYATMAJAN",
+        "zip_code": "55213"
+    },
+    {
+        "id": 31406,
+        "label": "TEGAL PANGGUNG, DANUREJAN, YOGYAKARTA, DI YOGYAKARTA, 55212",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "DANUREJAN",
+        "subdistrict_name": "TEGAL PANGGUNG",
+        "zip_code": "55212"
+    },
+    {
+        "id": 31407,
+        "label": "PRINGGOKUSUMAN, GEDONG TENGEN, YOGYAKARTA, DI YOGYAKARTA, 55272",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GEDONG TENGEN",
+        "subdistrict_name": "PRINGGOKUSUMAN",
+        "zip_code": "55272"
+    },
+    {
+        "id": 31408,
+        "label": "SOSROMENDURAN, GEDONG TENGEN, YOGYAKARTA, DI YOGYAKARTA, 55271",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GEDONG TENGEN",
+        "subdistrict_name": "SOSROMENDURAN",
+        "zip_code": "55271"
+    },
+    {
+        "id": 31409,
+        "label": "BACIRO, GONDOKUSUMAN, YOGYAKARTA, DI YOGYAKARTA, 55225",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GONDOKUSUMAN",
+        "subdistrict_name": "BACIRO",
+        "zip_code": "55225"
+    },
+    {
+        "id": 31410,
+        "label": "DEMANGAN, GONDOKUSUMAN, YOGYAKARTA, DI YOGYAKARTA, 55221",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GONDOKUSUMAN",
+        "subdistrict_name": "DEMANGAN",
+        "zip_code": "55221"
+    },
+    {
+        "id": 31411,
+        "label": "KLITREN, GONDOKUSUMAN, YOGYAKARTA, DI YOGYAKARTA, 55222",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GONDOKUSUMAN",
+        "subdistrict_name": "KLITREN",
+        "zip_code": "55222"
+    },
+    {
+        "id": 31412,
+        "label": "KOTABARU, GONDOKUSUMAN, YOGYAKARTA, DI YOGYAKARTA, 55224",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GONDOKUSUMAN",
+        "subdistrict_name": "KOTABARU",
+        "zip_code": "55224"
+    },
+    {
+        "id": 31413,
+        "label": "TERBAN, GONDOKUSUMAN, YOGYAKARTA, DI YOGYAKARTA, 55223",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GONDOKUSUMAN",
+        "subdistrict_name": "TERBAN",
+        "zip_code": "55223"
+    },
+    {
+        "id": 31414,
+        "label": "NGUPASAN, GONDOMANAN, YOGYAKARTA, DI YOGYAKARTA, 55122",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GONDOMANAN",
+        "subdistrict_name": "NGUPASAN",
+        "zip_code": "55122"
+    },
+    {
+        "id": 31415,
+        "label": "PRAWIRODIRJAN, GONDOMANAN, YOGYAKARTA, DI YOGYAKARTA, 55121",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "GONDOMANAN",
+        "subdistrict_name": "PRAWIRODIRJAN",
+        "zip_code": "55121"
+    },
+    {
+        "id": 31416,
+        "label": "PRENGGAN, KOTAGEDE, YOGYAKARTA, DI YOGYAKARTA, 55172",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "KOTAGEDE",
+        "subdistrict_name": "PRENGGAN",
+        "zip_code": "55172"
+    },
+    {
+        "id": 31417,
+        "label": "PURBAYAN, KOTAGEDE, YOGYAKARTA, DI YOGYAKARTA, 55173",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "KOTAGEDE",
+        "subdistrict_name": "PURBAYAN",
+        "zip_code": "55173"
+    },
+    {
+        "id": 31418,
+        "label": "REJOWINANGUN, KOTAGEDE, YOGYAKARTA, DI YOGYAKARTA, 55171",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "KOTAGEDE",
+        "subdistrict_name": "REJOWINANGUN",
+        "zip_code": "55171"
+    },
+    {
+        "id": 31419,
+        "label": "KADIPATEN, KRATON, YOGYAKARTA, DI YOGYAKARTA, 55132",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "KRATON",
+        "subdistrict_name": "KADIPATEN",
+        "zip_code": "55132"
+    },
+    {
+        "id": 31420,
+        "label": "PANEMBAHAN, KRATON, YOGYAKARTA, DI YOGYAKARTA, 55131",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "KRATON",
+        "subdistrict_name": "PANEMBAHAN",
+        "zip_code": "55131"
+    },
+    {
+        "id": 31421,
+        "label": "PATEHAN, KRATON, YOGYAKARTA, DI YOGYAKARTA, 55133",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "KRATON",
+        "subdistrict_name": "PATEHAN",
+        "zip_code": "55133"
+    },
+    {
+        "id": 31422,
+        "label": "GEDONGKIWO, MANTRIJERON, YOGYAKARTA, DI YOGYAKARTA, 55142",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "MANTRIJERON",
+        "subdistrict_name": "GEDONGKIWO",
+        "zip_code": "55142"
+    },
+    {
+        "id": 31423,
+        "label": "MANTRIJERON, MANTRIJERON, YOGYAKARTA, DI YOGYAKARTA, 55143",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "MANTRIJERON",
+        "subdistrict_name": "MANTRIJERON",
+        "zip_code": "55143"
+    },
+    {
+        "id": 31424,
+        "label": "SURYODININGRATAN, MANTRIJERON, YOGYAKARTA, DI YOGYAKARTA, 55141",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "MANTRIJERON",
+        "subdistrict_name": "SURYODININGRATAN",
+        "zip_code": "55141"
+    },
+    {
+        "id": 31425,
+        "label": "BRONTOKUSUMAN, MERGANGSAN, YOGYAKARTA, DI YOGYAKARTA, 55153",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "MERGANGSAN",
+        "subdistrict_name": "BRONTOKUSUMAN",
+        "zip_code": "55153"
+    },
+    {
+        "id": 31426,
+        "label": "KEPARAKAN, MERGANGSAN, YOGYAKARTA, DI YOGYAKARTA, 55152",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "MERGANGSAN",
+        "subdistrict_name": "KEPARAKAN",
+        "zip_code": "55152"
+    },
+    {
+        "id": 31427,
+        "label": "WIROGUNAN, MERGANGSAN, YOGYAKARTA, DI YOGYAKARTA, 55151",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "MERGANGSAN",
+        "subdistrict_name": "WIROGUNAN",
+        "zip_code": "55151"
+    },
+    {
+        "id": 31428,
+        "label": "NGAMPILAN, NGAMPILAN, YOGYAKARTA, DI YOGYAKARTA, 55261",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "NGAMPILAN",
+        "subdistrict_name": "NGAMPILAN",
+        "zip_code": "55261"
+    },
+    {
+        "id": 31429,
+        "label": "NOTOPRAJAN, NGAMPILAN, YOGYAKARTA, DI YOGYAKARTA, 55262",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "NGAMPILAN",
+        "subdistrict_name": "NOTOPRAJAN",
+        "zip_code": "55262"
+    },
+    {
+        "id": 31430,
+        "label": "GUNUNG KETUR, PAKUALAMAN, YOGYAKARTA, DI YOGYAKARTA, 55111",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "PAKUALAMAN",
+        "subdistrict_name": "GUNUNG KETUR",
+        "zip_code": "55111"
+    },
+    {
+        "id": 31431,
+        "label": "PURWO KINANTI, PAKUALAMAN, YOGYAKARTA, DI YOGYAKARTA, 55112",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "PAKUALAMAN",
+        "subdistrict_name": "PURWO KINANTI",
+        "zip_code": "55112"
+    },
+    {
+        "id": 31432,
+        "label": "GIWANGAN, UMBULHARJO, YOGYAKARTA, DI YOGYAKARTA, 55163",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "UMBULHARJO",
+        "subdistrict_name": "GIWANGAN",
+        "zip_code": "55163"
+    },
+    {
+        "id": 31433,
+        "label": "MUJA MUJU, UMBULHARJO, YOGYAKARTA, DI YOGYAKARTA, 55165",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "UMBULHARJO",
+        "subdistrict_name": "MUJA MUJU",
+        "zip_code": "55165"
+    },
+    {
+        "id": 31434,
+        "label": "PANDEYAN, UMBULHARJO, YOGYAKARTA, DI YOGYAKARTA, 55161",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "UMBULHARJO",
+        "subdistrict_name": "PANDEYAN",
+        "zip_code": "55161"
+    },
+    {
+        "id": 31435,
+        "label": "SEMAKI, UMBULHARJO, YOGYAKARTA, DI YOGYAKARTA, 55166",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "UMBULHARJO",
+        "subdistrict_name": "SEMAKI",
+        "zip_code": "55166"
+    },
+    {
+        "id": 31436,
+        "label": "SOROSUTAN, UMBULHARJO, YOGYAKARTA, DI YOGYAKARTA, 55162",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "UMBULHARJO",
+        "subdistrict_name": "SOROSUTAN",
+        "zip_code": "55162"
+    },
+    {
+        "id": 31437,
+        "label": "TAHUNAN, UMBULHARJO, YOGYAKARTA, DI YOGYAKARTA, 55167",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "UMBULHARJO",
+        "subdistrict_name": "TAHUNAN",
+        "zip_code": "55167"
+    },
+    {
+        "id": 31438,
+        "label": "WARUNGBOTO, UMBULHARJO, YOGYAKARTA, DI YOGYAKARTA, 55164",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "UMBULHARJO",
+        "subdistrict_name": "WARUNGBOTO",
+        "zip_code": "55164"
+    },
+    {
+        "id": 31439,
+        "label": "PAKUNCEN, WIROBRAJAN, YOGYAKARTA, DI YOGYAKARTA, 55253",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "WIROBRAJAN",
+        "subdistrict_name": "PAKUNCEN",
+        "zip_code": "55253"
+    },
+    {
+        "id": 31440,
+        "label": "PATANGPULUHAN, WIROBRAJAN, YOGYAKARTA, DI YOGYAKARTA, 55251",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "WIROBRAJAN",
+        "subdistrict_name": "PATANGPULUHAN",
+        "zip_code": "55251"
+    },
+    {
+        "id": 31441,
+        "label": "WIROBRAJAN, WIROBRAJAN, YOGYAKARTA, DI YOGYAKARTA, 55252",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "YOGYAKARTA",
+        "district_name": "WIROBRAJAN",
+        "subdistrict_name": "WIROBRAJAN",
+        "zip_code": "55252"
+    },
+    {
+        "id": 31442,
+        "label": "BANTUL, BANTUL, BANTUL, DI YOGYAKARTA, 55711",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANTUL",
+        "subdistrict_name": "BANTUL",
+        "zip_code": "55711"
+    },
+    {
+        "id": 31443,
+        "label": "PALBAPANG, BANTUL, BANTUL, DI YOGYAKARTA, 55713",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANTUL",
+        "subdistrict_name": "PALBAPANG",
+        "zip_code": "55713"
+    },
+    {
+        "id": 31444,
+        "label": "RINGIN HARJO, BANTUL, BANTUL, DI YOGYAKARTA, 55712",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANTUL",
+        "subdistrict_name": "RINGIN HARJO",
+        "zip_code": "55712"
+    },
+    {
+        "id": 31445,
+        "label": "SABDODADI, BANTUL, BANTUL, DI YOGYAKARTA, 55715",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANTUL",
+        "subdistrict_name": "SABDODADI",
+        "zip_code": "55715"
+    },
+    {
+        "id": 31446,
+        "label": "TRIRENGGO, BANTUL, BANTUL, DI YOGYAKARTA, 55714",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANTUL",
+        "subdistrict_name": "TRIRENGGO",
+        "zip_code": "55714"
+    },
+    {
+        "id": 31447,
+        "label": "MULYODADI, BAMBANG LIPURO, BANTUL, DI YOGYAKARTA, 55764",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BAMBANG LIPURO",
+        "subdistrict_name": "MULYODADI",
+        "zip_code": "55764"
+    },
+    {
+        "id": 31448,
+        "label": "SIDOMULYO, BAMBANG LIPURO, BANTUL, DI YOGYAKARTA, 55764",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BAMBANG LIPURO",
+        "subdistrict_name": "SIDOMULYO",
+        "zip_code": "55764"
+    },
+    {
+        "id": 31449,
+        "label": "SUMBERMULYO, BAMBANG LIPURO, BANTUL, DI YOGYAKARTA, 55764",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BAMBANG LIPURO",
+        "subdistrict_name": "SUMBERMULYO",
+        "zip_code": "55764"
+    },
+    {
+        "id": 31450,
+        "label": "DLINGO, DLINGO, BANTUL, DI YOGYAKARTA, 55783",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "DLINGO",
+        "subdistrict_name": "DLINGO",
+        "zip_code": "55783"
+    },
+    {
+        "id": 31451,
+        "label": "JATIMULYO, DLINGO, BANTUL, DI YOGYAKARTA, 55783",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "DLINGO",
+        "subdistrict_name": "JATIMULYO",
+        "zip_code": "55783"
+    },
+    {
+        "id": 31452,
+        "label": "MANGUNAN, DLINGO, BANTUL, DI YOGYAKARTA, 55783",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "DLINGO",
+        "subdistrict_name": "MANGUNAN",
+        "zip_code": "55783"
+    },
+    {
+        "id": 31453,
+        "label": "MUNTUK, DLINGO, BANTUL, DI YOGYAKARTA, 55783",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "DLINGO",
+        "subdistrict_name": "MUNTUK",
+        "zip_code": "55783"
+    },
+    {
+        "id": 31454,
+        "label": "TEMUWUH, DLINGO, BANTUL, DI YOGYAKARTA, 55783",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "DLINGO",
+        "subdistrict_name": "TEMUWUH",
+        "zip_code": "55783"
+    },
+    {
+        "id": 31455,
+        "label": "TERONG, DLINGO, BANTUL, DI YOGYAKARTA, 55783",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "DLINGO",
+        "subdistrict_name": "TERONG",
+        "zip_code": "55783"
+    },
+    {
+        "id": 31456,
+        "label": "GIRIREJO, IMOGIRI, BANTUL, DI YOGYAKARTA, 55782",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "IMOGIRI",
+        "subdistrict_name": "GIRIREJO",
+        "zip_code": "55782"
+    },
+    {
+        "id": 31457,
+        "label": "IMOGIRI, IMOGIRI, BANTUL, DI YOGYAKARTA, 55782",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "IMOGIRI",
+        "subdistrict_name": "IMOGIRI",
+        "zip_code": "55782"
+    },
+    {
+        "id": 31458,
+        "label": "KARANG TENGAH, IMOGIRI, BANTUL, DI YOGYAKARTA, 55782",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "IMOGIRI",
+        "subdistrict_name": "KARANG TENGAH",
+        "zip_code": "55782"
+    },
+    {
+        "id": 31459,
+        "label": "KARANGTALUN, IMOGIRI, BANTUL, DI YOGYAKARTA, 55782",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "IMOGIRI",
+        "subdistrict_name": "KARANGTALUN",
+        "zip_code": "55782"
+    },
+    {
+        "id": 31460,
+        "label": "KEBON AGUNG, IMOGIRI, BANTUL, DI YOGYAKARTA, 55782",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "IMOGIRI",
+        "subdistrict_name": "KEBON AGUNG",
+        "zip_code": "55782"
+    },
+    {
+        "id": 31461,
+        "label": "SELOPAMIORO, IMOGIRI, BANTUL, DI YOGYAKARTA, 55782",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "IMOGIRI",
+        "subdistrict_name": "SELOPAMIORO",
+        "zip_code": "55782"
+    },
+    {
+        "id": 31462,
+        "label": "SRIHARJO, IMOGIRI, BANTUL, DI YOGYAKARTA, 55782",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "IMOGIRI",
+        "subdistrict_name": "SRIHARJO",
+        "zip_code": "55782"
+    },
+    {
+        "id": 31463,
+        "label": "WUKIRSARI, IMOGIRI, BANTUL, DI YOGYAKARTA, 55782",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "IMOGIRI",
+        "subdistrict_name": "WUKIRSARI",
+        "zip_code": "55782"
+    },
+    {
+        "id": 31464,
+        "label": "CANDEN, JETIS, BANTUL, DI YOGYAKARTA, 55781",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "JETIS",
+        "subdistrict_name": "CANDEN",
+        "zip_code": "55781"
+    },
+    {
+        "id": 31465,
+        "label": "PATALAN, JETIS, BANTUL, DI YOGYAKARTA, 55781",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "JETIS",
+        "subdistrict_name": "PATALAN",
+        "zip_code": "55781"
+    },
+    {
+        "id": 31466,
+        "label": "SUMBER AGUNG, JETIS, BANTUL, DI YOGYAKARTA, 55781",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "JETIS",
+        "subdistrict_name": "SUMBER AGUNG",
+        "zip_code": "55781"
+    },
+    {
+        "id": 31467,
+        "label": "TRIMULYO, JETIS, BANTUL, DI YOGYAKARTA, 55781",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "JETIS",
+        "subdistrict_name": "TRIMULYO",
+        "zip_code": "55781"
+    },
+    {
+        "id": 31468,
+        "label": "DONOTIRTO, KRETEK, BANTUL, DI YOGYAKARTA, 55772",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KRETEK",
+        "subdistrict_name": "DONOTIRTO",
+        "zip_code": "55772"
+    },
+    {
+        "id": 31469,
+        "label": "PARANGTRITIS, KRETEK, BANTUL, DI YOGYAKARTA, 55772",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KRETEK",
+        "subdistrict_name": "PARANGTRITIS",
+        "zip_code": "55772"
+    },
+    {
+        "id": 31470,
+        "label": "TIRTOHARGO, KRETEK, BANTUL, DI YOGYAKARTA, 55772",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KRETEK",
+        "subdistrict_name": "TIRTOHARGO",
+        "zip_code": "55772"
+    },
+    {
+        "id": 31471,
+        "label": "TIRTOMULYO, KRETEK, BANTUL, DI YOGYAKARTA, 55772",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KRETEK",
+        "subdistrict_name": "TIRTOMULYO",
+        "zip_code": "55772"
+    },
+    {
+        "id": 31472,
+        "label": "TIRTOSARI, KRETEK, BANTUL, DI YOGYAKARTA, 55772",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KRETEK",
+        "subdistrict_name": "TIRTOSARI",
+        "zip_code": "55772"
+    },
+    {
+        "id": 31473,
+        "label": "GUWOSARI, PAJANGAN, BANTUL, DI YOGYAKARTA, 55751",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PAJANGAN",
+        "subdistrict_name": "GUWOSARI",
+        "zip_code": "55751"
+    },
+    {
+        "id": 31474,
+        "label": "SENDANGSARI, PAJANGAN, BANTUL, DI YOGYAKARTA, 55751",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PAJANGAN",
+        "subdistrict_name": "SENDANGSARI",
+        "zip_code": "55751"
+    },
+    {
+        "id": 31475,
+        "label": "TRIWIDADI, PAJANGAN, BANTUL, DI YOGYAKARTA, 55751",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PAJANGAN",
+        "subdistrict_name": "TRIWIDADI",
+        "zip_code": "55751"
+    },
+    {
+        "id": 31476,
+        "label": "CATURHARJO, PANDAK, BANTUL, DI YOGYAKARTA, 55761",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PANDAK",
+        "subdistrict_name": "CATURHARJO",
+        "zip_code": "55761"
+    },
+    {
+        "id": 31477,
+        "label": "GILANGHARJO, PANDAK, BANTUL, DI YOGYAKARTA, 55761",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PANDAK",
+        "subdistrict_name": "GILANGHARJO",
+        "zip_code": "55761"
+    },
+    {
+        "id": 31478,
+        "label": "TRIHARJO, PANDAK, BANTUL, DI YOGYAKARTA, 55761",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PANDAK",
+        "subdistrict_name": "TRIHARJO",
+        "zip_code": "55761"
+    },
+    {
+        "id": 31479,
+        "label": "WIJIREJO, PANDAK, BANTUL, DI YOGYAKARTA, 55761",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PANDAK",
+        "subdistrict_name": "WIJIREJO",
+        "zip_code": "55761"
+    },
+    {
+        "id": 31480,
+        "label": "SITIMULYO, PIYUNGAN, BANTUL, DI YOGYAKARTA, 55792",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PIYUNGAN",
+        "subdistrict_name": "SITIMULYO",
+        "zip_code": "55792"
+    },
+    {
+        "id": 31481,
+        "label": "SRIMARTANI, PIYUNGAN, BANTUL, DI YOGYAKARTA, 55792",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PIYUNGAN",
+        "subdistrict_name": "SRIMARTANI",
+        "zip_code": "55792"
+    },
+    {
+        "id": 31482,
+        "label": "SRIMULYO, PIYUNGAN, BANTUL, DI YOGYAKARTA, 55792",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PIYUNGAN",
+        "subdistrict_name": "SRIMULYO",
+        "zip_code": "55792"
+    },
+    {
+        "id": 31483,
+        "label": "BAWURAN, PLERET, BANTUL, DI YOGYAKARTA, 55791",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PLERET",
+        "subdistrict_name": "BAWURAN",
+        "zip_code": "55791"
+    },
+    {
+        "id": 31484,
+        "label": "PLERET, PLERET, BANTUL, DI YOGYAKARTA, 55791",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PLERET",
+        "subdistrict_name": "PLERET",
+        "zip_code": "55791"
+    },
+    {
+        "id": 31485,
+        "label": "SEGOROYOSO, PLERET, BANTUL, DI YOGYAKARTA, 55791",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PLERET",
+        "subdistrict_name": "SEGOROYOSO",
+        "zip_code": "55791"
+    },
+    {
+        "id": 31486,
+        "label": "WONOKROMO, PLERET, BANTUL, DI YOGYAKARTA, 55791",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PLERET",
+        "subdistrict_name": "WONOKROMO",
+        "zip_code": "55791"
+    },
+    {
+        "id": 31487,
+        "label": "WONOLELO, PLERET, BANTUL, DI YOGYAKARTA, 55791",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PLERET",
+        "subdistrict_name": "WONOLELO",
+        "zip_code": "55791"
+    },
+    {
+        "id": 31488,
+        "label": "PANJANGREJO, PUNDONG, BANTUL, DI YOGYAKARTA, 55771",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PUNDONG",
+        "subdistrict_name": "PANJANGREJO",
+        "zip_code": "55771"
+    },
+    {
+        "id": 31489,
+        "label": "SELOHARJO, PUNDONG, BANTUL, DI YOGYAKARTA, 55771",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PUNDONG",
+        "subdistrict_name": "SELOHARJO",
+        "zip_code": "55771"
+    },
+    {
+        "id": 31490,
+        "label": "SRIHARDONO, PUNDONG, BANTUL, DI YOGYAKARTA, 55771",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "PUNDONG",
+        "subdistrict_name": "SRIHARDONO",
+        "zip_code": "55771"
+    },
+    {
+        "id": 31491,
+        "label": "GADINGHARJO, SANDEN, BANTUL, DI YOGYAKARTA, 55763",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SANDEN",
+        "subdistrict_name": "GADINGHARJO",
+        "zip_code": "55763"
+    },
+    {
+        "id": 31492,
+        "label": "GADINGSARI, SANDEN, BANTUL, DI YOGYAKARTA, 55763",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SANDEN",
+        "subdistrict_name": "GADINGSARI",
+        "zip_code": "55763"
+    },
+    {
+        "id": 31493,
+        "label": "MURTIGADING, SANDEN, BANTUL, DI YOGYAKARTA, 55763",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SANDEN",
+        "subdistrict_name": "MURTIGADING",
+        "zip_code": "55763"
+    },
+    {
+        "id": 31494,
+        "label": "SRIGADING, SANDEN, BANTUL, DI YOGYAKARTA, 55763",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SANDEN",
+        "subdistrict_name": "SRIGADING",
+        "zip_code": "55763"
+    },
+    {
+        "id": 31495,
+        "label": "ARGODADI, SEDAYU, BANTUL, DI YOGYAKARTA, 55752",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SEDAYU",
+        "subdistrict_name": "ARGODADI",
+        "zip_code": "55752"
+    },
+    {
+        "id": 31496,
+        "label": "ARGOMULYO, SEDAYU, BANTUL, DI YOGYAKARTA, 55752",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SEDAYU",
+        "subdistrict_name": "ARGOMULYO",
+        "zip_code": "55752"
+    },
+    {
+        "id": 31497,
+        "label": "ARGOREJO, SEDAYU, BANTUL, DI YOGYAKARTA, 55752",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SEDAYU",
+        "subdistrict_name": "ARGOREJO",
+        "zip_code": "55752"
+    },
+    {
+        "id": 31498,
+        "label": "ARGOSARI, SEDAYU, BANTUL, DI YOGYAKARTA, 55752",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SEDAYU",
+        "subdistrict_name": "ARGOSARI",
+        "zip_code": "55752"
+    },
+    {
+        "id": 31499,
+        "label": "PONCOSARI, SRANDAKAN, BANTUL, DI YOGYAKARTA, 55762",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SRANDAKAN",
+        "subdistrict_name": "PONCOSARI",
+        "zip_code": "55762"
+    },
+    {
+        "id": 31500,
+        "label": "TRIMURTI, SRANDAKAN, BANTUL, DI YOGYAKARTA, 55762",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SRANDAKAN",
+        "subdistrict_name": "TRIMURTI",
+        "zip_code": "55762"
+    },
+    {
+        "id": 31501,
+        "label": "BANGUNTAPAN, BANGUNTAPAN, BANTUL, DI YOGYAKARTA, 55198",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANGUNTAPAN",
+        "subdistrict_name": "BANGUNTAPAN",
+        "zip_code": "55198"
+    },
+    {
+        "id": 31502,
+        "label": "BATURETNO, BANGUNTAPAN, BANTUL, DI YOGYAKARTA, 55197",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANGUNTAPAN",
+        "subdistrict_name": "BATURETNO",
+        "zip_code": "55197"
+    },
+    {
+        "id": 31503,
+        "label": "JAGALAN, BANGUNTAPAN, BANTUL, DI YOGYAKARTA, 55192",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANGUNTAPAN",
+        "subdistrict_name": "JAGALAN",
+        "zip_code": "55192"
+    },
+    {
+        "id": 31504,
+        "label": "JAMBIDAN, BANGUNTAPAN, BANTUL, DI YOGYAKARTA, 55195",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANGUNTAPAN",
+        "subdistrict_name": "JAMBIDAN",
+        "zip_code": "55195"
+    },
+    {
+        "id": 31505,
+        "label": "POTORONO, BANGUNTAPAN, BANTUL, DI YOGYAKARTA, 55196",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANGUNTAPAN",
+        "subdistrict_name": "POTORONO",
+        "zip_code": "55196"
+    },
+    {
+        "id": 31506,
+        "label": "SINGOSAREN, BANGUNTAPAN, BANTUL, DI YOGYAKARTA, 55193",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANGUNTAPAN",
+        "subdistrict_name": "SINGOSAREN",
+        "zip_code": "55193"
+    },
+    {
+        "id": 31507,
+        "label": "TAMANAN, BANGUNTAPAN, BANTUL, DI YOGYAKARTA, 55191",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANGUNTAPAN",
+        "subdistrict_name": "TAMANAN",
+        "zip_code": "55191"
+    },
+    {
+        "id": 31508,
+        "label": "WIROKERTEN, BANGUNTAPAN, BANTUL, DI YOGYAKARTA, 55194",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "BANGUNTAPAN",
+        "subdistrict_name": "WIROKERTEN",
+        "zip_code": "55194"
+    },
+    {
+        "id": 31509,
+        "label": "BANGUNJIWO, KASIHAN, BANTUL, DI YOGYAKARTA, 55184",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KASIHAN",
+        "subdistrict_name": "BANGUNJIWO",
+        "zip_code": "55184"
+    },
+    {
+        "id": 31510,
+        "label": "NGESTIHARJO, KASIHAN, BANTUL, DI YOGYAKARTA, 55182",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KASIHAN",
+        "subdistrict_name": "NGESTIHARJO",
+        "zip_code": "55182"
+    },
+    {
+        "id": 31511,
+        "label": "TAMANTIRTO, KASIHAN, BANTUL, DI YOGYAKARTA, 55183",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KASIHAN",
+        "subdistrict_name": "TAMANTIRTO",
+        "zip_code": "55183"
+    },
+    {
+        "id": 31512,
+        "label": "TIRTONIRMOLO, KASIHAN, BANTUL, DI YOGYAKARTA, 55181",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "KASIHAN",
+        "subdistrict_name": "TIRTONIRMOLO",
+        "zip_code": "55181"
+    },
+    {
+        "id": 31513,
+        "label": "BANGUNHARJO, SEWON, BANTUL, DI YOGYAKARTA, 55188",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SEWON",
+        "subdistrict_name": "BANGUNHARJO",
+        "zip_code": "55188"
+    },
+    {
+        "id": 31514,
+        "label": "PANGGUNGHARJO, SEWON, BANTUL, DI YOGYAKARTA, 55188",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SEWON",
+        "subdistrict_name": "PANGGUNGHARJO",
+        "zip_code": "55188"
+    },
+    {
+        "id": 31515,
+        "label": "PENDOWOHARJO, SEWON, BANTUL, DI YOGYAKARTA, 55185",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SEWON",
+        "subdistrict_name": "PENDOWOHARJO",
+        "zip_code": "55185"
+    },
+    {
+        "id": 31516,
+        "label": "TIMBULHARJO, SEWON, BANTUL, DI YOGYAKARTA, 55186",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "BANTUL",
+        "district_name": "SEWON",
+        "subdistrict_name": "TIMBULHARJO",
+        "zip_code": "55186"
+    },
+    {
+        "id": 31517,
+        "label": "CATUR HARJO, SLEMAN, SLEMAN, DI YOGYAKARTA, 55515",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SLEMAN",
+        "subdistrict_name": "CATUR HARJO",
+        "zip_code": "55515"
+    },
+    {
+        "id": 31518,
+        "label": "PANDOWO HARJO, SLEMAN, SLEMAN, DI YOGYAKARTA, 55512",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SLEMAN",
+        "subdistrict_name": "PANDOWO HARJO",
+        "zip_code": "55512"
+    },
+    {
+        "id": 31519,
+        "label": "TRI MULYO, SLEMAN, SLEMAN, DI YOGYAKARTA, 55513",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SLEMAN",
+        "subdistrict_name": "TRI MULYO",
+        "zip_code": "55513"
+    },
+    {
+        "id": 31520,
+        "label": "TRIDADI, SLEMAN, SLEMAN, DI YOGYAKARTA, 55511",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SLEMAN",
+        "subdistrict_name": "TRIDADI",
+        "zip_code": "55511"
+    },
+    {
+        "id": 31521,
+        "label": "TRIHARJO, SLEMAN, SLEMAN, DI YOGYAKARTA, 55514",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SLEMAN",
+        "subdistrict_name": "TRIHARJO",
+        "zip_code": "55514"
+    },
+    {
+        "id": 31522,
+        "label": "JOGO TIRTO, BERBAH, SLEMAN, DI YOGYAKARTA, 55573",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "BERBAH",
+        "subdistrict_name": "JOGO TIRTO",
+        "zip_code": "55573"
+    },
+    {
+        "id": 31523,
+        "label": "KALI TIRTO, BERBAH, SLEMAN, DI YOGYAKARTA, 55573",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "BERBAH",
+        "subdistrict_name": "KALI TIRTO",
+        "zip_code": "55573"
+    },
+    {
+        "id": 31524,
+        "label": "SENDANG TIRTO, BERBAH, SLEMAN, DI YOGYAKARTA, 55573",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "BERBAH",
+        "subdistrict_name": "SENDANG TIRTO",
+        "zip_code": "55573"
+    },
+    {
+        "id": 31525,
+        "label": "TEGAL TIRTO, BERBAH, SLEMAN, DI YOGYAKARTA, 55573",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "BERBAH",
+        "subdistrict_name": "TEGAL TIRTO",
+        "zip_code": "55573"
+    },
+    {
+        "id": 31526,
+        "label": "ARGO MULYO, CANGKRINGAN, SLEMAN, DI YOGYAKARTA, 55583",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "CANGKRINGAN",
+        "subdistrict_name": "ARGO MULYO",
+        "zip_code": "55583"
+    },
+    {
+        "id": 31527,
+        "label": "GLAGAH HARJO, CANGKRINGAN, SLEMAN, DI YOGYAKARTA, 55583",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "CANGKRINGAN",
+        "subdistrict_name": "GLAGAH HARJO",
+        "zip_code": "55583"
+    },
+    {
+        "id": 31528,
+        "label": "KEPUH HARJO, CANGKRINGAN, SLEMAN, DI YOGYAKARTA, 55583",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "CANGKRINGAN",
+        "subdistrict_name": "KEPUH HARJO",
+        "zip_code": "55583"
+    },
+    {
+        "id": 31529,
+        "label": "UMBUL HARJO, CANGKRINGAN, SLEMAN, DI YOGYAKARTA, 55583",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "CANGKRINGAN",
+        "subdistrict_name": "UMBUL HARJO",
+        "zip_code": "55583"
+    },
+    {
+        "id": 31530,
+        "label": "WUKIR SARI, CANGKRINGAN, SLEMAN, DI YOGYAKARTA, 55583",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "CANGKRINGAN",
+        "subdistrict_name": "WUKIR SARI",
+        "zip_code": "55583"
+    },
+    {
+        "id": 31531,
+        "label": "SIDOAGUNG, GODEAN, SLEMAN, DI YOGYAKARTA, 55264",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GODEAN",
+        "subdistrict_name": "SIDOAGUNG",
+        "zip_code": "55264"
+    },
+    {
+        "id": 31532,
+        "label": "SIDOARUM, GODEAN, SLEMAN, DI YOGYAKARTA, 55264",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GODEAN",
+        "subdistrict_name": "SIDOARUM",
+        "zip_code": "55264"
+    },
+    {
+        "id": 31533,
+        "label": "SIDOKARTO, GODEAN, SLEMAN, DI YOGYAKARTA, 55264",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GODEAN",
+        "subdistrict_name": "SIDOKARTO",
+        "zip_code": "55264"
+    },
+    {
+        "id": 31534,
+        "label": "SIDOLUHUR, GODEAN, SLEMAN, DI YOGYAKARTA, 55264",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GODEAN",
+        "subdistrict_name": "SIDOLUHUR",
+        "zip_code": "55264"
+    },
+    {
+        "id": 31535,
+        "label": "SIDOMOYO, GODEAN, SLEMAN, DI YOGYAKARTA, 55264",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GODEAN",
+        "subdistrict_name": "SIDOMOYO",
+        "zip_code": "55264"
+    },
+    {
+        "id": 31536,
+        "label": "SIDOMULYO, GODEAN, SLEMAN, DI YOGYAKARTA, 55264",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GODEAN",
+        "subdistrict_name": "SIDOMULYO",
+        "zip_code": "55264"
+    },
+    {
+        "id": 31537,
+        "label": "SIDOREJO, GODEAN, SLEMAN, DI YOGYAKARTA, 55264",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GODEAN",
+        "subdistrict_name": "SIDOREJO",
+        "zip_code": "55264"
+    },
+    {
+        "id": 31538,
+        "label": "PURWO MARTANI, KALASAN, SLEMAN, DI YOGYAKARTA, 55571",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "KALASAN",
+        "subdistrict_name": "PURWO MARTANI",
+        "zip_code": "55571"
+    },
+    {
+        "id": 31539,
+        "label": "SELO MARTANI, KALASAN, SLEMAN, DI YOGYAKARTA, 55571",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "KALASAN",
+        "subdistrict_name": "SELO MARTANI",
+        "zip_code": "55571"
+    },
+    {
+        "id": 31540,
+        "label": "TAMAN MARTANI, KALASAN, SLEMAN, DI YOGYAKARTA, 55571",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "KALASAN",
+        "subdistrict_name": "TAMAN MARTANI",
+        "zip_code": "55571"
+    },
+    {
+        "id": 31541,
+        "label": "TIRTO MARTANI, KALASAN, SLEMAN, DI YOGYAKARTA, 55571",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "KALASAN",
+        "subdistrict_name": "TIRTO MARTANI",
+        "zip_code": "55571"
+    },
+    {
+        "id": 31542,
+        "label": "SENDANG ARUM, MINGGIR, SLEMAN, DI YOGYAKARTA, 55562",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MINGGIR",
+        "subdistrict_name": "SENDANG ARUM",
+        "zip_code": "55562"
+    },
+    {
+        "id": 31543,
+        "label": "SENDANG MULYO, MINGGIR, SLEMAN, DI YOGYAKARTA, 55562",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MINGGIR",
+        "subdistrict_name": "SENDANG MULYO",
+        "zip_code": "55562"
+    },
+    {
+        "id": 31544,
+        "label": "SENDANG REJO, MINGGIR, SLEMAN, DI YOGYAKARTA, 55562",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MINGGIR",
+        "subdistrict_name": "SENDANG REJO",
+        "zip_code": "55562"
+    },
+    {
+        "id": 31545,
+        "label": "SENDANGAGUNG, MINGGIR, SLEMAN, DI YOGYAKARTA, 55562",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MINGGIR",
+        "subdistrict_name": "SENDANGAGUNG",
+        "zip_code": "55562"
+    },
+    {
+        "id": 31546,
+        "label": "SENDANGSARI, MINGGIR, SLEMAN, DI YOGYAKARTA, 55562",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MINGGIR",
+        "subdistrict_name": "SENDANGSARI",
+        "zip_code": "55562"
+    },
+    {
+        "id": 31547,
+        "label": "SUMBER AGUNG, MOYUDAN, SLEMAN, DI YOGYAKARTA, 55563",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MOYUDAN",
+        "subdistrict_name": "SUMBER AGUNG",
+        "zip_code": "55563"
+    },
+    {
+        "id": 31548,
+        "label": "SUMBERARUM, MOYUDAN, SLEMAN, DI YOGYAKARTA, 55563",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MOYUDAN",
+        "subdistrict_name": "SUMBERARUM",
+        "zip_code": "55563"
+    },
+    {
+        "id": 31549,
+        "label": "SUMBERRAHAYU, MOYUDAN, SLEMAN, DI YOGYAKARTA, 55563",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MOYUDAN",
+        "subdistrict_name": "SUMBERRAHAYU",
+        "zip_code": "55563"
+    },
+    {
+        "id": 31550,
+        "label": "SUMBERSARI, MOYUDAN, SLEMAN, DI YOGYAKARTA, 55563",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MOYUDAN",
+        "subdistrict_name": "SUMBERSARI",
+        "zip_code": "55563"
+    },
+    {
+        "id": 31551,
+        "label": "DONOHARJO, NGAGLIK, SLEMAN, DI YOGYAKARTA, 55581",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGAGLIK",
+        "subdistrict_name": "DONOHARJO",
+        "zip_code": "55581"
+    },
+    {
+        "id": 31552,
+        "label": "MINOMARTANI, NGAGLIK, SLEMAN, DI YOGYAKARTA, 55581",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGAGLIK",
+        "subdistrict_name": "MINOMARTANI",
+        "zip_code": "55581"
+    },
+    {
+        "id": 31553,
+        "label": "SARDONOHARJO, NGAGLIK, SLEMAN, DI YOGYAKARTA, 55581",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGAGLIK",
+        "subdistrict_name": "SARDONOHARJO",
+        "zip_code": "55581"
+    },
+    {
+        "id": 31554,
+        "label": "SARI HARJO, NGAGLIK, SLEMAN, DI YOGYAKARTA, 55581",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGAGLIK",
+        "subdistrict_name": "SARI HARJO",
+        "zip_code": "55581"
+    },
+    {
+        "id": 31555,
+        "label": "SINDUHARJO, NGAGLIK, SLEMAN, DI YOGYAKARTA, 55581",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGAGLIK",
+        "subdistrict_name": "SINDUHARJO",
+        "zip_code": "55581"
+    },
+    {
+        "id": 31556,
+        "label": "SUKO HARJO, NGAGLIK, SLEMAN, DI YOGYAKARTA, 55581",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGAGLIK",
+        "subdistrict_name": "SUKO HARJO",
+        "zip_code": "55581"
+    },
+    {
+        "id": 31557,
+        "label": "BIMO MARTANI, NGEMPLAK, SLEMAN, DI YOGYAKARTA, 55584",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGEMPLAK",
+        "subdistrict_name": "BIMO MARTANI",
+        "zip_code": "55584"
+    },
+    {
+        "id": 31558,
+        "label": "SINDUMARTANI, NGEMPLAK, SLEMAN, DI YOGYAKARTA, 55584",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGEMPLAK",
+        "subdistrict_name": "SINDUMARTANI",
+        "zip_code": "55584"
+    },
+    {
+        "id": 31559,
+        "label": "UMBULMARTANI, NGEMPLAK, SLEMAN, DI YOGYAKARTA, 55584",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGEMPLAK",
+        "subdistrict_name": "UMBULMARTANI",
+        "zip_code": "55584"
+    },
+    {
+        "id": 31560,
+        "label": "WEDOMARTANI, NGEMPLAK, SLEMAN, DI YOGYAKARTA, 55584",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGEMPLAK",
+        "subdistrict_name": "WEDOMARTANI",
+        "zip_code": "55584"
+    },
+    {
+        "id": 31561,
+        "label": "WIDODO MARTANI, NGEMPLAK, SLEMAN, DI YOGYAKARTA, 55584",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "NGEMPLAK",
+        "subdistrict_name": "WIDODO MARTANI",
+        "zip_code": "55584"
+    },
+    {
+        "id": 31562,
+        "label": "CANDI BINANGUN, PAKEM, SLEMAN, DI YOGYAKARTA, 55582",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PAKEM",
+        "subdistrict_name": "CANDI BINANGUN",
+        "zip_code": "55582"
+    },
+    {
+        "id": 31563,
+        "label": "HARGO BINANGUN, PAKEM, SLEMAN, DI YOGYAKARTA, 55582",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PAKEM",
+        "subdistrict_name": "HARGO BINANGUN",
+        "zip_code": "55582"
+    },
+    {
+        "id": 31564,
+        "label": "HARJO BINANGUN, PAKEM, SLEMAN, DI YOGYAKARTA, 55582",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PAKEM",
+        "subdistrict_name": "HARJO BINANGUN",
+        "zip_code": "55582"
+    },
+    {
+        "id": 31565,
+        "label": "PAKEM BINANGUN, PAKEM, SLEMAN, DI YOGYAKARTA, 55582",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PAKEM",
+        "subdistrict_name": "PAKEM BINANGUN",
+        "zip_code": "55582"
+    },
+    {
+        "id": 31566,
+        "label": "PURWO BINANGUN, PAKEM, SLEMAN, DI YOGYAKARTA, 55582",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PAKEM",
+        "subdistrict_name": "PURWO BINANGUN",
+        "zip_code": "55582"
+    },
+    {
+        "id": 31567,
+        "label": "BOKO HARJO, PRAMBANAN, SLEMAN, DI YOGYAKARTA, 55572",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PRAMBANAN",
+        "subdistrict_name": "BOKO HARJO",
+        "zip_code": "55572"
+    },
+    {
+        "id": 31568,
+        "label": "GAYAM HARJO, PRAMBANAN, SLEMAN, DI YOGYAKARTA, 55572",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PRAMBANAN",
+        "subdistrict_name": "GAYAM HARJO",
+        "zip_code": "55572"
+    },
+    {
+        "id": 31569,
+        "label": "MADU REJO, PRAMBANAN, SLEMAN, DI YOGYAKARTA, 55572",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PRAMBANAN",
+        "subdistrict_name": "MADU REJO",
+        "zip_code": "55572"
+    },
+    {
+        "id": 31570,
+        "label": "SAMBI REJO, PRAMBANAN, SLEMAN, DI YOGYAKARTA, 55572",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PRAMBANAN",
+        "subdistrict_name": "SAMBI REJO",
+        "zip_code": "55572"
+    },
+    {
+        "id": 31571,
+        "label": "SUMBER HARJO, PRAMBANAN, SLEMAN, DI YOGYAKARTA, 55572",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PRAMBANAN",
+        "subdistrict_name": "SUMBER HARJO",
+        "zip_code": "55572"
+    },
+    {
+        "id": 31572,
+        "label": "WUKIR HARJO, PRAMBANAN, SLEMAN, DI YOGYAKARTA, 55572",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "PRAMBANAN",
+        "subdistrict_name": "WUKIR HARJO",
+        "zip_code": "55572"
+    },
+    {
+        "id": 31573,
+        "label": "MARGOAGUNG, SEYEGAN, SLEMAN, DI YOGYAKARTA, 55561",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SEYEGAN",
+        "subdistrict_name": "MARGOAGUNG",
+        "zip_code": "55561"
+    },
+    {
+        "id": 31574,
+        "label": "MARGODADI, SEYEGAN, SLEMAN, DI YOGYAKARTA, 55561",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SEYEGAN",
+        "subdistrict_name": "MARGODADI",
+        "zip_code": "55561"
+    },
+    {
+        "id": 31575,
+        "label": "MARGOKATON, SEYEGAN, SLEMAN, DI YOGYAKARTA, 55561",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SEYEGAN",
+        "subdistrict_name": "MARGOKATON",
+        "zip_code": "55561"
+    },
+    {
+        "id": 31576,
+        "label": "MARGOLUWIH, SEYEGAN, SLEMAN, DI YOGYAKARTA, 55561",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SEYEGAN",
+        "subdistrict_name": "MARGOLUWIH",
+        "zip_code": "55561"
+    },
+    {
+        "id": 31577,
+        "label": "MARGOMULYO, SEYEGAN, SLEMAN, DI YOGYAKARTA, 55561",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "SEYEGAN",
+        "subdistrict_name": "MARGOMULYO",
+        "zip_code": "55561"
+    },
+    {
+        "id": 31578,
+        "label": "BANYU REJO, TEMPEL, SLEMAN, DI YOGYAKARTA, 55552",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TEMPEL",
+        "subdistrict_name": "BANYU REJO",
+        "zip_code": "55552"
+    },
+    {
+        "id": 31579,
+        "label": "LUMBUNG REJO, TEMPEL, SLEMAN, DI YOGYAKARTA, 55552",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TEMPEL",
+        "subdistrict_name": "LUMBUNG REJO",
+        "zip_code": "55552"
+    },
+    {
+        "id": 31580,
+        "label": "MARGO REJO, TEMPEL, SLEMAN, DI YOGYAKARTA, 55552",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TEMPEL",
+        "subdistrict_name": "MARGO REJO",
+        "zip_code": "55552"
+    },
+    {
+        "id": 31581,
+        "label": "MERDIKO REJO, TEMPEL, SLEMAN, DI YOGYAKARTA, 55552",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TEMPEL",
+        "subdistrict_name": "MERDIKO REJO",
+        "zip_code": "55552"
+    },
+    {
+        "id": 31582,
+        "label": "MORO REJO, TEMPEL, SLEMAN, DI YOGYAKARTA, 55552",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TEMPEL",
+        "subdistrict_name": "MORO REJO",
+        "zip_code": "55552"
+    },
+    {
+        "id": 31583,
+        "label": "PONDOK REJO, TEMPEL, SLEMAN, DI YOGYAKARTA, 55552",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TEMPEL",
+        "subdistrict_name": "PONDOK REJO",
+        "zip_code": "55552"
+    },
+    {
+        "id": 31584,
+        "label": "SUMBER REJO, TEMPEL, SLEMAN, DI YOGYAKARTA, 55552",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TEMPEL",
+        "subdistrict_name": "SUMBER REJO",
+        "zip_code": "55552"
+    },
+    {
+        "id": 31585,
+        "label": "TAMBAK REJO, TEMPEL, SLEMAN, DI YOGYAKARTA, 55552",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TEMPEL",
+        "subdistrict_name": "TAMBAK REJO",
+        "zip_code": "55552"
+    },
+    {
+        "id": 31586,
+        "label": "BANGUN KERTO, TURI, SLEMAN, DI YOGYAKARTA, 55551",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TURI",
+        "subdistrict_name": "BANGUN KERTO",
+        "zip_code": "55551"
+    },
+    {
+        "id": 31587,
+        "label": "DONOKERTO, TURI, SLEMAN, DI YOGYAKARTA, 55551",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TURI",
+        "subdistrict_name": "DONOKERTO",
+        "zip_code": "55551"
+    },
+    {
+        "id": 31588,
+        "label": "GIRI KERTO, TURI, SLEMAN, DI YOGYAKARTA, 55551",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TURI",
+        "subdistrict_name": "GIRI KERTO",
+        "zip_code": "55551"
+    },
+    {
+        "id": 31589,
+        "label": "WONO KERTO, TURI, SLEMAN, DI YOGYAKARTA, 55551",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "TURI",
+        "subdistrict_name": "WONO KERTO",
+        "zip_code": "55551"
+    },
+    {
+        "id": 31590,
+        "label": "CATUR TUNGGAL, DEPOK, SLEMAN, DI YOGYAKARTA, 55281",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "DEPOK",
+        "subdistrict_name": "CATUR TUNGGAL",
+        "zip_code": "55281"
+    },
+    {
+        "id": 31591,
+        "label": "CONDONG CATUR, DEPOK, SLEMAN, DI YOGYAKARTA, 55283",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "DEPOK",
+        "subdistrict_name": "CONDONG CATUR",
+        "zip_code": "55283"
+    },
+    {
+        "id": 31592,
+        "label": "MAGUWOHARJO, DEPOK, SLEMAN, DI YOGYAKARTA, 55282",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "DEPOK",
+        "subdistrict_name": "MAGUWOHARJO",
+        "zip_code": "55282"
+    },
+    {
+        "id": 31593,
+        "label": "AMBARKETAWANG, GAMPING, SLEMAN, DI YOGYAKARTA, 55294",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GAMPING",
+        "subdistrict_name": "AMBARKETAWANG",
+        "zip_code": "55294"
+    },
+    {
+        "id": 31594,
+        "label": "BALECATUR, GAMPING, SLEMAN, DI YOGYAKARTA, 55295",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GAMPING",
+        "subdistrict_name": "BALECATUR",
+        "zip_code": "55295"
+    },
+    {
+        "id": 31595,
+        "label": "BANYURADEN, GAMPING, SLEMAN, DI YOGYAKARTA, 55293",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GAMPING",
+        "subdistrict_name": "BANYURADEN",
+        "zip_code": "55293"
+    },
+    {
+        "id": 31596,
+        "label": "NOGOTIRTO, GAMPING, SLEMAN, DI YOGYAKARTA, 55592",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GAMPING",
+        "subdistrict_name": "NOGOTIRTO",
+        "zip_code": "55592"
+    },
+    {
+        "id": 31597,
+        "label": "TRIHANGGO, GAMPING, SLEMAN, DI YOGYAKARTA, 55291",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "GAMPING",
+        "subdistrict_name": "TRIHANGGO",
+        "zip_code": "55291"
+    },
+    {
+        "id": 31598,
+        "label": "SENDANGADI, MLATI, SLEMAN, DI YOGYAKARTA, 55285",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MLATI",
+        "subdistrict_name": "SENDANGADI",
+        "zip_code": "55285"
+    },
+    {
+        "id": 31599,
+        "label": "SINDUADI, MLATI, SLEMAN, DI YOGYAKARTA, 55284",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MLATI",
+        "subdistrict_name": "SINDUADI",
+        "zip_code": "55284"
+    },
+    {
+        "id": 31600,
+        "label": "SUMBERADI, MLATI, SLEMAN, DI YOGYAKARTA, 55288",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MLATI",
+        "subdistrict_name": "SUMBERADI",
+        "zip_code": "55288"
+    },
+    {
+        "id": 31601,
+        "label": "TIRTOADI, MLATI, SLEMAN, DI YOGYAKARTA, 55287",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MLATI",
+        "subdistrict_name": "TIRTOADI",
+        "zip_code": "55287"
+    },
+    {
+        "id": 31602,
+        "label": "TLOGOADI, MLATI, SLEMAN, DI YOGYAKARTA, 55286",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "SLEMAN",
+        "district_name": "MLATI",
+        "subdistrict_name": "TLOGOADI",
+        "zip_code": "55286"
+    },
+    {
+        "id": 31603,
+        "label": "BENDUNGAN, WATES, KULON PROGO, DI YOGYAKARTA, 55651",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "WATES",
+        "subdistrict_name": "BENDUNGAN",
+        "zip_code": "55651"
+    },
+    {
+        "id": 31604,
+        "label": "GIRI PENI, WATES, KULON PROGO, DI YOGYAKARTA, 55651",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "WATES",
+        "subdistrict_name": "GIRI PENI",
+        "zip_code": "55651"
+    },
+    {
+        "id": 31605,
+        "label": "KARANG WUNI, WATES, KULON PROGO, DI YOGYAKARTA, 55651",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "WATES",
+        "subdistrict_name": "KARANG WUNI",
+        "zip_code": "55651"
+    },
+    {
+        "id": 31606,
+        "label": "KULWARU, WATES, KULON PROGO, DI YOGYAKARTA, 55651",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "WATES",
+        "subdistrict_name": "KULWARU",
+        "zip_code": "55651"
+    },
+    {
+        "id": 31607,
+        "label": "NGESTIHARJO, WATES, KULON PROGO, DI YOGYAKARTA, 55651",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "WATES",
+        "subdistrict_name": "NGESTIHARJO",
+        "zip_code": "55651"
+    },
+    {
+        "id": 31608,
+        "label": "SOGAN, WATES, KULON PROGO, DI YOGYAKARTA, 55651",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "WATES",
+        "subdistrict_name": "SOGAN",
+        "zip_code": "55651"
+    },
+    {
+        "id": 31609,
+        "label": "TRIHARJO, WATES, KULON PROGO, DI YOGYAKARTA, 55651",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "WATES",
+        "subdistrict_name": "TRIHARJO",
+        "zip_code": "55651"
+    },
+    {
+        "id": 31610,
+        "label": "WATES, WATES, KULON PROGO, DI YOGYAKARTA, 55651",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "WATES",
+        "subdistrict_name": "WATES",
+        "zip_code": "55651"
+    },
+    {
+        "id": 31611,
+        "label": "BANARAN, GALUR, KULON PROGO, DI YOGYAKARTA, 55661",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GALUR",
+        "subdistrict_name": "BANARAN",
+        "zip_code": "55661"
+    },
+    {
+        "id": 31612,
+        "label": "BROSOT, GALUR, KULON PROGO, DI YOGYAKARTA, 55661",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GALUR",
+        "subdistrict_name": "BROSOT",
+        "zip_code": "55661"
+    },
+    {
+        "id": 31613,
+        "label": "KARANG SEWU, GALUR, KULON PROGO, DI YOGYAKARTA, 55661",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GALUR",
+        "subdistrict_name": "KARANG SEWU",
+        "zip_code": "55661"
+    },
+    {
+        "id": 31614,
+        "label": "KRANGGAN, GALUR, KULON PROGO, DI YOGYAKARTA, 55661",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GALUR",
+        "subdistrict_name": "KRANGGAN",
+        "zip_code": "55661"
+    },
+    {
+        "id": 31615,
+        "label": "NOMPOREJO, GALUR, KULON PROGO, DI YOGYAKARTA, 55661",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GALUR",
+        "subdistrict_name": "NOMPOREJO",
+        "zip_code": "55661"
+    },
+    {
+        "id": 31616,
+        "label": "PANDOWAN, GALUR, KULON PROGO, DI YOGYAKARTA, 55661",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GALUR",
+        "subdistrict_name": "PANDOWAN",
+        "zip_code": "55661"
+    },
+    {
+        "id": 31617,
+        "label": "TIRTA RAHAYU, GALUR, KULON PROGO, DI YOGYAKARTA, 55661",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GALUR",
+        "subdistrict_name": "TIRTA RAHAYU",
+        "zip_code": "55661"
+    },
+    {
+        "id": 31618,
+        "label": "GIRIPURWO, GIRIMULYO, KULON PROGO, DI YOGYAKARTA, 55674",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GIRIMULYO",
+        "subdistrict_name": "GIRIPURWO",
+        "zip_code": "55674"
+    },
+    {
+        "id": 31619,
+        "label": "JATIMULYO, GIRIMULYO, KULON PROGO, DI YOGYAKARTA, 55674",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GIRIMULYO",
+        "subdistrict_name": "JATIMULYO",
+        "zip_code": "55674"
+    },
+    {
+        "id": 31620,
+        "label": "PENDOWOREJO, GIRIMULYO, KULON PROGO, DI YOGYAKARTA, 55674",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GIRIMULYO",
+        "subdistrict_name": "PENDOWOREJO",
+        "zip_code": "55674"
+    },
+    {
+        "id": 31621,
+        "label": "PURWOSARI, GIRIMULYO, KULON PROGO, DI YOGYAKARTA, 55674",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "GIRIMULYO",
+        "subdistrict_name": "PURWOSARI",
+        "zip_code": "55674"
+    },
+    {
+        "id": 31622,
+        "label": "BANJARARUM, KALIBAWANG, KULON PROGO, DI YOGYAKARTA, 55672",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KALIBAWANG",
+        "subdistrict_name": "BANJARARUM",
+        "zip_code": "55672"
+    },
+    {
+        "id": 31623,
+        "label": "BANJARASRI, KALIBAWANG, KULON PROGO, DI YOGYAKARTA, 55672",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KALIBAWANG",
+        "subdistrict_name": "BANJARASRI",
+        "zip_code": "55672"
+    },
+    {
+        "id": 31624,
+        "label": "BANJARHARJO, KALIBAWANG, KULON PROGO, DI YOGYAKARTA, 55672",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KALIBAWANG",
+        "subdistrict_name": "BANJARHARJO",
+        "zip_code": "55672"
+    },
+    {
+        "id": 31625,
+        "label": "BANJAROYO, KALIBAWANG, KULON PROGO, DI YOGYAKARTA, 55672",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KALIBAWANG",
+        "subdistrict_name": "BANJAROYO",
+        "zip_code": "55672"
+    },
+    {
+        "id": 31626,
+        "label": "HARGOMULYO, KOKAP, KULON PROGO, DI YOGYAKARTA, 55653",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KOKAP",
+        "subdistrict_name": "HARGOMULYO",
+        "zip_code": "55653"
+    },
+    {
+        "id": 31627,
+        "label": "HARGOREJO, KOKAP, KULON PROGO, DI YOGYAKARTA, 55653",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KOKAP",
+        "subdistrict_name": "HARGOREJO",
+        "zip_code": "55653"
+    },
+    {
+        "id": 31628,
+        "label": "HARGOTIRTO, KOKAP, KULON PROGO, DI YOGYAKARTA, 55653",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KOKAP",
+        "subdistrict_name": "HARGOTIRTO",
+        "zip_code": "55653"
+    },
+    {
+        "id": 31629,
+        "label": "HARGOWILIS, KOKAP, KULON PROGO, DI YOGYAKARTA, 55653",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KOKAP",
+        "subdistrict_name": "HARGOWILIS",
+        "zip_code": "55653"
+    },
+    {
+        "id": 31630,
+        "label": "KALIREJO, KOKAP, KULON PROGO, DI YOGYAKARTA, 55653",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "KOKAP",
+        "subdistrict_name": "KALIREJO",
+        "zip_code": "55653"
+    },
+    {
+        "id": 31631,
+        "label": "BUMIREJO, LENDAH, KULON PROGO, DI YOGYAKARTA, 55663",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "LENDAH",
+        "subdistrict_name": "BUMIREJO",
+        "zip_code": "55663"
+    },
+    {
+        "id": 31632,
+        "label": "GULUREJO, LENDAH, KULON PROGO, DI YOGYAKARTA, 55663",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "LENDAH",
+        "subdistrict_name": "GULUREJO",
+        "zip_code": "55663"
+    },
+    {
+        "id": 31633,
+        "label": "JATIREJO, LENDAH, KULON PROGO, DI YOGYAKARTA, 55663",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "LENDAH",
+        "subdistrict_name": "JATIREJO",
+        "zip_code": "55663"
+    },
+    {
+        "id": 31634,
+        "label": "NGENTAKREJO, LENDAH, KULON PROGO, DI YOGYAKARTA, 55663",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "LENDAH",
+        "subdistrict_name": "NGENTAKREJO",
+        "zip_code": "55663"
+    },
+    {
+        "id": 31635,
+        "label": "SIDOREJO, LENDAH, KULON PROGO, DI YOGYAKARTA, 55663",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "LENDAH",
+        "subdistrict_name": "SIDOREJO",
+        "zip_code": "55663"
+    },
+    {
+        "id": 31636,
+        "label": "WAHYUHARJO, LENDAH, KULON PROGO, DI YOGYAKARTA, 55663",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "LENDAH",
+        "subdistrict_name": "WAHYUHARJO",
+        "zip_code": "55663"
+    },
+    {
+        "id": 31637,
+        "label": "BANYUROTO, NANGGULAN, KULON PROGO, DI YOGYAKARTA, 55671",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "NANGGULAN",
+        "subdistrict_name": "BANYUROTO",
+        "zip_code": "55671"
+    },
+    {
+        "id": 31638,
+        "label": "DONOMULYO, NANGGULAN, KULON PROGO, DI YOGYAKARTA, 55671",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "NANGGULAN",
+        "subdistrict_name": "DONOMULYO",
+        "zip_code": "55671"
+    },
+    {
+        "id": 31639,
+        "label": "JATI SARONO, NANGGULAN, KULON PROGO, DI YOGYAKARTA, 55671",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "NANGGULAN",
+        "subdistrict_name": "JATI SARONO",
+        "zip_code": "55671"
+    },
+    {
+        "id": 31640,
+        "label": "KEMBANG, NANGGULAN, KULON PROGO, DI YOGYAKARTA, 55671",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "NANGGULAN",
+        "subdistrict_name": "KEMBANG",
+        "zip_code": "55671"
+    },
+    {
+        "id": 31641,
+        "label": "TANJUNGHARJO, NANGGULAN, KULON PROGO, DI YOGYAKARTA, 55671",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "NANGGULAN",
+        "subdistrict_name": "TANJUNGHARJO",
+        "zip_code": "55671"
+    },
+    {
+        "id": 31642,
+        "label": "WIJIMULYO, NANGGULAN, KULON PROGO, DI YOGYAKARTA, 55671",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "NANGGULAN",
+        "subdistrict_name": "WIJIMULYO",
+        "zip_code": "55671"
+    },
+    {
+        "id": 31643,
+        "label": "BOJONG, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "BOJONG",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31644,
+        "label": "BUGEL, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "BUGEL",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31645,
+        "label": "CERME, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "CERME",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31646,
+        "label": "DEPOK, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "DEPOK",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31647,
+        "label": "GARONGAN, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "GARONGAN",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31648,
+        "label": "GOTAKAN, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "GOTAKAN",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31649,
+        "label": "KANOMAN, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "KANOMAN",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31650,
+        "label": "KREMBANGAN, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "KREMBANGAN",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31651,
+        "label": "PANJATAN, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "PANJATAN",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31652,
+        "label": "PLERET, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "PLERET",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31653,
+        "label": "TAYUBAN, PANJATAN, KULON PROGO, DI YOGYAKARTA, 55655",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PANJATAN",
+        "subdistrict_name": "TAYUBAN",
+        "zip_code": "55655"
+    },
+    {
+        "id": 31654,
+        "label": "KARANGSARI, PENGASIH, KULON PROGO, DI YOGYAKARTA, 55652",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PENGASIH",
+        "subdistrict_name": "KARANGSARI",
+        "zip_code": "55652"
+    },
+    {
+        "id": 31655,
+        "label": "KEDUNGSARI, PENGASIH, KULON PROGO, DI YOGYAKARTA, 55652",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PENGASIH",
+        "subdistrict_name": "KEDUNGSARI",
+        "zip_code": "55652"
+    },
+    {
+        "id": 31656,
+        "label": "MARGOSARI, PENGASIH, KULON PROGO, DI YOGYAKARTA, 55652",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PENGASIH",
+        "subdistrict_name": "MARGOSARI",
+        "zip_code": "55652"
+    },
+    {
+        "id": 31657,
+        "label": "PENGASIH, PENGASIH, KULON PROGO, DI YOGYAKARTA, 55652",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PENGASIH",
+        "subdistrict_name": "PENGASIH",
+        "zip_code": "55652"
+    },
+    {
+        "id": 31658,
+        "label": "SENDANGSARI, PENGASIH, KULON PROGO, DI YOGYAKARTA, 55652",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PENGASIH",
+        "subdistrict_name": "SENDANGSARI",
+        "zip_code": "55652"
+    },
+    {
+        "id": 31659,
+        "label": "SIDOMULYO, PENGASIH, KULON PROGO, DI YOGYAKARTA, 55652",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PENGASIH",
+        "subdistrict_name": "SIDOMULYO",
+        "zip_code": "55652"
+    },
+    {
+        "id": 31660,
+        "label": "TAWANGSARI, PENGASIH, KULON PROGO, DI YOGYAKARTA, 55652",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "PENGASIH",
+        "subdistrict_name": "TAWANGSARI",
+        "zip_code": "55652"
+    },
+    {
+        "id": 31661,
+        "label": "BANJARSARI, SAMIGALUH, KULON PROGO, DI YOGYAKARTA, 55673",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SAMIGALUH",
+        "subdistrict_name": "BANJARSARI",
+        "zip_code": "55673"
+    },
+    {
+        "id": 31662,
+        "label": "GERBOSARI, SAMIGALUH, KULON PROGO, DI YOGYAKARTA, 55673",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SAMIGALUH",
+        "subdistrict_name": "GERBOSARI",
+        "zip_code": "55673"
+    },
+    {
+        "id": 31663,
+        "label": "KEBON HARJO, SAMIGALUH, KULON PROGO, DI YOGYAKARTA, 55673",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SAMIGALUH",
+        "subdistrict_name": "KEBON HARJO",
+        "zip_code": "55673"
+    },
+    {
+        "id": 31664,
+        "label": "NGARGOSARI, SAMIGALUH, KULON PROGO, DI YOGYAKARTA, 55673",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SAMIGALUH",
+        "subdistrict_name": "NGARGOSARI",
+        "zip_code": "55673"
+    },
+    {
+        "id": 31665,
+        "label": "PAGERHARJO, SAMIGALUH, KULON PROGO, DI YOGYAKARTA, 55673",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SAMIGALUH",
+        "subdistrict_name": "PAGERHARJO",
+        "zip_code": "55673"
+    },
+    {
+        "id": 31666,
+        "label": "PURWOHARJO, SAMIGALUH, KULON PROGO, DI YOGYAKARTA, 55673",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SAMIGALUH",
+        "subdistrict_name": "PURWOHARJO",
+        "zip_code": "55673"
+    },
+    {
+        "id": 31667,
+        "label": "SIDOHARJO, SAMIGALUH, KULON PROGO, DI YOGYAKARTA, 55673",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SAMIGALUH",
+        "subdistrict_name": "SIDOHARJO",
+        "zip_code": "55673"
+    },
+    {
+        "id": 31668,
+        "label": "BANGUNCIPTO, SENTOLO, KULON PROGO, DI YOGYAKARTA, 55664",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SENTOLO",
+        "subdistrict_name": "BANGUNCIPTO",
+        "zip_code": "55664"
+    },
+    {
+        "id": 31669,
+        "label": "DEMANGREJO, SENTOLO, KULON PROGO, DI YOGYAKARTA, 55664",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SENTOLO",
+        "subdistrict_name": "DEMANGREJO",
+        "zip_code": "55664"
+    },
+    {
+        "id": 31670,
+        "label": "KALIAGUNG, SENTOLO, KULON PROGO, DI YOGYAKARTA, 55664",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SENTOLO",
+        "subdistrict_name": "KALIAGUNG",
+        "zip_code": "55664"
+    },
+    {
+        "id": 31671,
+        "label": "SALAMREJO, SENTOLO, KULON PROGO, DI YOGYAKARTA, 55664",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SENTOLO",
+        "subdistrict_name": "SALAMREJO",
+        "zip_code": "55664"
+    },
+    {
+        "id": 31672,
+        "label": "SENTOLO, SENTOLO, KULON PROGO, DI YOGYAKARTA, 55664",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SENTOLO",
+        "subdistrict_name": "SENTOLO",
+        "zip_code": "55664"
+    },
+    {
+        "id": 31673,
+        "label": "SRIKAYANGAN, SENTOLO, KULON PROGO, DI YOGYAKARTA, 55664",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SENTOLO",
+        "subdistrict_name": "SRIKAYANGAN",
+        "zip_code": "55664"
+    },
+    {
+        "id": 31674,
+        "label": "SUKORENO, SENTOLO, KULON PROGO, DI YOGYAKARTA, 55664",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SENTOLO",
+        "subdistrict_name": "SUKORENO",
+        "zip_code": "55664"
+    },
+    {
+        "id": 31675,
+        "label": "TUKSONO, SENTOLO, KULON PROGO, DI YOGYAKARTA, 55664",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "SENTOLO",
+        "subdistrict_name": "TUKSONO",
+        "zip_code": "55664"
+    },
+    {
+        "id": 31676,
+        "label": "DEMEN, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "DEMEN",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31677,
+        "label": "GLAGAH, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "GLAGAH",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31678,
+        "label": "JANGKARAN, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "JANGKARAN",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31679,
+        "label": "JANTEN, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "JANTEN",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31680,
+        "label": "KALI DENGEN, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "KALI DENGEN",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31681,
+        "label": "KALIGINTUNG, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "KALIGINTUNG",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31682,
+        "label": "KARANG WULUH, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "KARANG WULUH",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31683,
+        "label": "KEBONREJO, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "KEBONREJO",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31684,
+        "label": "KEDUNDANG, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "KEDUNDANG",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31685,
+        "label": "KULUR, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "KULUR",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31686,
+        "label": "PALIHAN, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "PALIHAN",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31687,
+        "label": "PLUMBON, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "PLUMBON",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31688,
+        "label": "SINDUTAN, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "SINDUTAN",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31689,
+        "label": "TEMON KULON, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "TEMON KULON",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31690,
+        "label": "TEMON WETAN, TEMON, KULON PROGO, DI YOGYAKARTA, 55654",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "KULON PROGO",
+        "district_name": "TEMON",
+        "subdistrict_name": "TEMON WETAN",
+        "zip_code": "55654"
+    },
+    {
+        "id": 31691,
+        "label": "BALEHARJO, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55811",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "BALEHARJO",
+        "zip_code": "55811"
+    },
+    {
+        "id": 31692,
+        "label": "DUWET, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "DUWET",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31693,
+        "label": "GARI, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "GARI",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31694,
+        "label": "KARANG REJEK, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "KARANG REJEK",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31695,
+        "label": "KARANG TENGAH, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "KARANG TENGAH",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31696,
+        "label": "KEPEK, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55813",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "KEPEK",
+        "zip_code": "55813"
+    },
+    {
+        "id": 31697,
+        "label": "MULO, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "MULO",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31698,
+        "label": "PIYAMAN, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "PIYAMAN",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31699,
+        "label": "PULUTAN, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "PULUTAN",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31700,
+        "label": "SELANG, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "SELANG",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31701,
+        "label": "SIRAMAN, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "SIRAMAN",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31702,
+        "label": "WARENG, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "WARENG",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31703,
+        "label": "WONOSARI, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "WONOSARI",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31704,
+        "label": "WUNUNG, WONOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55851",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "WONOSARI",
+        "subdistrict_name": "WUNUNG",
+        "zip_code": "55851"
+    },
+    {
+        "id": 31705,
+        "label": "BEJIHARJO, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "BEJIHARJO",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31706,
+        "label": "BENDUNGAN, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "BENDUNGAN",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31707,
+        "label": "GEDANG REJO, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "GEDANG REJO",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31708,
+        "label": "JATI AYU, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "JATI AYU",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31709,
+        "label": "KARANGMOJO, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "KARANGMOJO",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31710,
+        "label": "KELOR, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "KELOR",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31711,
+        "label": "NGAWIS, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "NGAWIS",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31712,
+        "label": "NGIPAK, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "NGIPAK",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31713,
+        "label": "WILADEG, KARANGMOJO, GUNUNG KIDUL, DI YOGYAKARTA, 55891",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "KARANGMOJO",
+        "subdistrict_name": "WILADEG",
+        "zip_code": "55891"
+    },
+    {
+        "id": 31714,
+        "label": "BEJI, NGAWEN, GUNUNG KIDUL, DI YOGYAKARTA, 55853",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGAWEN",
+        "subdistrict_name": "BEJI",
+        "zip_code": "55853"
+    },
+    {
+        "id": 31715,
+        "label": "JURANG JERO, NGAWEN, GUNUNG KIDUL, DI YOGYAKARTA, 55853",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGAWEN",
+        "subdistrict_name": "JURANG JERO",
+        "zip_code": "55853"
+    },
+    {
+        "id": 31716,
+        "label": "KAMPUNG, NGAWEN, GUNUNG KIDUL, DI YOGYAKARTA, 55853",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGAWEN",
+        "subdistrict_name": "KAMPUNG",
+        "zip_code": "55853"
+    },
+    {
+        "id": 31717,
+        "label": "SAMBIREJO, NGAWEN, GUNUNG KIDUL, DI YOGYAKARTA, 55853",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGAWEN",
+        "subdistrict_name": "SAMBIREJO",
+        "zip_code": "55853"
+    },
+    {
+        "id": 31718,
+        "label": "TANCEP, NGAWEN, GUNUNG KIDUL, DI YOGYAKARTA, 55853",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGAWEN",
+        "subdistrict_name": "TANCEP",
+        "zip_code": "55853"
+    },
+    {
+        "id": 31719,
+        "label": "WATU SIGAR, NGAWEN, GUNUNG KIDUL, DI YOGYAKARTA, 55853",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGAWEN",
+        "subdistrict_name": "WATU SIGAR",
+        "zip_code": "55853"
+    },
+    {
+        "id": 31720,
+        "label": "KATONGAN, NGLIPAR, GUNUNG KIDUL, DI YOGYAKARTA, 55852",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGLIPAR",
+        "subdistrict_name": "KATONGAN",
+        "zip_code": "55852"
+    },
+    {
+        "id": 31721,
+        "label": "KEDUNG KERIS, NGLIPAR, GUNUNG KIDUL, DI YOGYAKARTA, 55852",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGLIPAR",
+        "subdistrict_name": "KEDUNG KERIS",
+        "zip_code": "55852"
+    },
+    {
+        "id": 31722,
+        "label": "KEDUNGPOH, NGLIPAR, GUNUNG KIDUL, DI YOGYAKARTA, 55852",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGLIPAR",
+        "subdistrict_name": "KEDUNGPOH",
+        "zip_code": "55852"
+    },
+    {
+        "id": 31723,
+        "label": "NATAH, NGLIPAR, GUNUNG KIDUL, DI YOGYAKARTA, 55852",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGLIPAR",
+        "subdistrict_name": "NATAH",
+        "zip_code": "55852"
+    },
+    {
+        "id": 31724,
+        "label": "NGLIPAR, NGLIPAR, GUNUNG KIDUL, DI YOGYAKARTA, 55852",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGLIPAR",
+        "subdistrict_name": "NGLIPAR",
+        "zip_code": "55852"
+    },
+    {
+        "id": 31725,
+        "label": "PENGKOL, NGLIPAR, GUNUNG KIDUL, DI YOGYAKARTA, 55852",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGLIPAR",
+        "subdistrict_name": "PENGKOL",
+        "zip_code": "55852"
+    },
+    {
+        "id": 31726,
+        "label": "PILANG REJO, NGLIPAR, GUNUNG KIDUL, DI YOGYAKARTA, 55852",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "NGLIPAR",
+        "subdistrict_name": "PILANG REJO",
+        "zip_code": "55852"
+    },
+    {
+        "id": 31727,
+        "label": "GIRING, PALIYAN, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PALIYAN",
+        "subdistrict_name": "GIRING",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31728,
+        "label": "GROGOL, PALIYAN, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PALIYAN",
+        "subdistrict_name": "GROGOL",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31729,
+        "label": "KARANG ASEM, PALIYAN, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PALIYAN",
+        "subdistrict_name": "KARANG ASEM",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31730,
+        "label": "KARANG DUWET, PALIYAN, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PALIYAN",
+        "subdistrict_name": "KARANG DUWET",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31731,
+        "label": "MULUSAN, PALIYAN, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PALIYAN",
+        "subdistrict_name": "MULUSAN",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31732,
+        "label": "PAMPANG, PALIYAN, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PALIYAN",
+        "subdistrict_name": "PAMPANG",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31733,
+        "label": "SODO, PALIYAN, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PALIYAN",
+        "subdistrict_name": "SODO",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31734,
+        "label": "GIRIHARJO, PANGGANG, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PANGGANG",
+        "subdistrict_name": "GIRIHARJO",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31735,
+        "label": "GIRIKARTO, PANGGANG, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PANGGANG",
+        "subdistrict_name": "GIRIKARTO",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31736,
+        "label": "GIRIMULYO, PANGGANG, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PANGGANG",
+        "subdistrict_name": "GIRIMULYO",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31737,
+        "label": "GIRISEKAR, PANGGANG, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PANGGANG",
+        "subdistrict_name": "GIRISEKAR",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31738,
+        "label": "GIRISUKO, PANGGANG, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PANGGANG",
+        "subdistrict_name": "GIRISUKO",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31739,
+        "label": "GIRIWUNGU, PANGGANG, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PANGGANG",
+        "subdistrict_name": "GIRIWUNGU",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31740,
+        "label": "BEJI, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "BEJI",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31741,
+        "label": "BUNDER, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "BUNDER",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31742,
+        "label": "NGLANGGERAN, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "NGLANGGERAN",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31743,
+        "label": "NGLEGI, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "NGLEGI",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31744,
+        "label": "NGORO ORO, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "NGORO ORO",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31745,
+        "label": "PATUK, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "PATUK",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31746,
+        "label": "PENGKOK, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "PENGKOK",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31747,
+        "label": "PUTAT, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "PUTAT",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31748,
+        "label": "SALAM, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "SALAM",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31749,
+        "label": "SEMOYO, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "SEMOYO",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31750,
+        "label": "TERBAH, PATUK, GUNUNG KIDUL, DI YOGYAKARTA, 55862",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PATUK",
+        "subdistrict_name": "TERBAH",
+        "zip_code": "55862"
+    },
+    {
+        "id": 31751,
+        "label": "BANARAN, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "BANARAN",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31752,
+        "label": "BANDUNG, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "BANDUNG",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31753,
+        "label": "BANYUSOCO, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "BANYUSOCO",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31754,
+        "label": "BLEBERAN, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "BLEBERAN",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31755,
+        "label": "DENGOK, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "DENGOK",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31756,
+        "label": "GADING, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "GADING",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31757,
+        "label": "GETAS, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "GETAS",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31758,
+        "label": "LOGANDENG, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "LOGANDENG",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31759,
+        "label": "NGAWU, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "NGAWU",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31760,
+        "label": "NGLERI, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "NGLERI",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31761,
+        "label": "NGUNUT, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "NGUNUT",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31762,
+        "label": "PLAYEN, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "PLAYEN",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31763,
+        "label": "PLEMBUTAN, PLAYEN, GUNUNG KIDUL, DI YOGYAKARTA, 55861",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PLAYEN",
+        "subdistrict_name": "PLEMBUTAN",
+        "zip_code": "55861"
+    },
+    {
+        "id": 31764,
+        "label": "BEDOYO, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "BEDOYO",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31765,
+        "label": "GENJAHAN, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "GENJAHAN",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31766,
+        "label": "GOMBANG, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "GOMBANG",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31767,
+        "label": "KARANG ASEM, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "KARANG ASEM",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31768,
+        "label": "KENTENG, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "KENTENG",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31769,
+        "label": "PONJONG, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "PONJONG",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31770,
+        "label": "SAWAHAN, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "SAWAHAN",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31771,
+        "label": "SIDOREJO, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "SIDOREJO",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31772,
+        "label": "SUMBER GIRI, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "SUMBER GIRI",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31773,
+        "label": "TAMBAKROMO, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "TAMBAKROMO",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31774,
+        "label": "UMBUL REJO, PONJONG, GUNUNG KIDUL, DI YOGYAKARTA, 55892",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PONJONG",
+        "subdistrict_name": "UMBUL REJO",
+        "zip_code": "55892"
+    },
+    {
+        "id": 31775,
+        "label": "BOHOL, RONGKOP, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "RONGKOP",
+        "subdistrict_name": "BOHOL",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31776,
+        "label": "BOTODAYAKAN (BOTODAYAAN), RONGKOP, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "RONGKOP",
+        "subdistrict_name": "BOTODAYAKAN (BOTODAYAAN)",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31777,
+        "label": "KARANGWUNI, RONGKOP, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "RONGKOP",
+        "subdistrict_name": "KARANGWUNI",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31778,
+        "label": "MELIKAN, RONGKOP, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "RONGKOP",
+        "subdistrict_name": "MELIKAN",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31779,
+        "label": "PETIR, RONGKOP, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "RONGKOP",
+        "subdistrict_name": "PETIR",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31780,
+        "label": "PRINGOMBO, RONGKOP, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "RONGKOP",
+        "subdistrict_name": "PRINGOMBO",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31781,
+        "label": "PUCANGANOM, RONGKOP, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "RONGKOP",
+        "subdistrict_name": "PUCANGANOM",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31782,
+        "label": "SEMUGIH, RONGKOP, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "RONGKOP",
+        "subdistrict_name": "SEMUGIH",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31783,
+        "label": "BENDUNG, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "BENDUNG",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31784,
+        "label": "BULUREJO, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "BULUREJO",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31785,
+        "label": "CANDI REJO, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "CANDI REJO",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31786,
+        "label": "KALITEKUK, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "KALITEKUK",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31787,
+        "label": "KARANG SARI, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "KARANG SARI",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31788,
+        "label": "KEMEJING, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "KEMEJING",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31789,
+        "label": "PUNDUNG SARI, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "PUNDUNG SARI",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31790,
+        "label": "REJOSARI, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "REJOSARI",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31791,
+        "label": "SEMIN, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "SEMIN",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31792,
+        "label": "SUMBERREJO, SEMIN, GUNUNG KIDUL, DI YOGYAKARTA, 55854",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMIN",
+        "subdistrict_name": "SUMBERREJO",
+        "zip_code": "55854"
+    },
+    {
+        "id": 31793,
+        "label": "CANDIREJO, SEMANU, GUNUNG KIDUL, DI YOGYAKARTA, 55893",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMANU",
+        "subdistrict_name": "CANDIREJO",
+        "zip_code": "55893"
+    },
+    {
+        "id": 31794,
+        "label": "DADAPAYU, SEMANU, GUNUNG KIDUL, DI YOGYAKARTA, 55893",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMANU",
+        "subdistrict_name": "DADAPAYU",
+        "zip_code": "55893"
+    },
+    {
+        "id": 31795,
+        "label": "NGEPOSARI, SEMANU, GUNUNG KIDUL, DI YOGYAKARTA, 55893",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMANU",
+        "subdistrict_name": "NGEPOSARI",
+        "zip_code": "55893"
+    },
+    {
+        "id": 31796,
+        "label": "PACAREJO, SEMANU, GUNUNG KIDUL, DI YOGYAKARTA, 55893",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMANU",
+        "subdistrict_name": "PACAREJO",
+        "zip_code": "55893"
+    },
+    {
+        "id": 31797,
+        "label": "SEMANU, SEMANU, GUNUNG KIDUL, DI YOGYAKARTA, 55893",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SEMANU",
+        "subdistrict_name": "SEMANU",
+        "zip_code": "55893"
+    },
+    {
+        "id": 31798,
+        "label": "GIRIPANGGUNG, TEPUS, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TEPUS",
+        "subdistrict_name": "GIRIPANGGUNG",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31799,
+        "label": "PURWODADI, TEPUS, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TEPUS",
+        "subdistrict_name": "PURWODADI",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31800,
+        "label": "SIDOHARJO, TEPUS, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TEPUS",
+        "subdistrict_name": "SIDOHARJO",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31801,
+        "label": "SUMBER WUNGU, TEPUS, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TEPUS",
+        "subdistrict_name": "SUMBER WUNGU",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31802,
+        "label": "TEPUS, TEPUS, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TEPUS",
+        "subdistrict_name": "TEPUS",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31803,
+        "label": "HARGO MULYO, GEDANG SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55863",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GEDANG SARI",
+        "subdistrict_name": "HARGO MULYO",
+        "zip_code": "55863"
+    },
+    {
+        "id": 31804,
+        "label": "MERTELU, GEDANG SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55863",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GEDANG SARI",
+        "subdistrict_name": "MERTELU",
+        "zip_code": "55863"
+    },
+    {
+        "id": 31805,
+        "label": "NGALANG, GEDANG SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55863",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GEDANG SARI",
+        "subdistrict_name": "NGALANG",
+        "zip_code": "55863"
+    },
+    {
+        "id": 31806,
+        "label": "SAMPANG, GEDANG SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55863",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GEDANG SARI",
+        "subdistrict_name": "SAMPANG",
+        "zip_code": "55863"
+    },
+    {
+        "id": 31807,
+        "label": "SERUT, GEDANG SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55863",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GEDANG SARI",
+        "subdistrict_name": "SERUT",
+        "zip_code": "55863"
+    },
+    {
+        "id": 31808,
+        "label": "TEGALREJO, GEDANG SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55863",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GEDANG SARI",
+        "subdistrict_name": "TEGALREJO",
+        "zip_code": "55863"
+    },
+    {
+        "id": 31809,
+        "label": "WATU GAJAH, GEDANG SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55863",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GEDANG SARI",
+        "subdistrict_name": "WATU GAJAH",
+        "zip_code": "55863"
+    },
+    {
+        "id": 31810,
+        "label": "BALONG, GIRISUBO, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GIRISUBO",
+        "subdistrict_name": "BALONG",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31811,
+        "label": "JEPITU, GIRISUBO, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GIRISUBO",
+        "subdistrict_name": "JEPITU",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31812,
+        "label": "JERUKWUDEL, GIRISUBO, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GIRISUBO",
+        "subdistrict_name": "JERUKWUDEL",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31813,
+        "label": "KARANGAWEN, GIRISUBO, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GIRISUBO",
+        "subdistrict_name": "KARANGAWEN",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31814,
+        "label": "NGLINDUR, GIRISUBO, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GIRISUBO",
+        "subdistrict_name": "NGLINDUR",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31815,
+        "label": "PUCUNG, GIRISUBO, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GIRISUBO",
+        "subdistrict_name": "PUCUNG",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31816,
+        "label": "SONGBANYU, GIRISUBO, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GIRISUBO",
+        "subdistrict_name": "SONGBANYU",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31817,
+        "label": "TILENG, GIRISUBO, GUNUNG KIDUL, DI YOGYAKARTA, 55883",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "GIRISUBO",
+        "subdistrict_name": "TILENG",
+        "zip_code": "55883"
+    },
+    {
+        "id": 31818,
+        "label": "GIRIASIH, PURWOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PURWOSARI",
+        "subdistrict_name": "GIRIASIH",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31819,
+        "label": "GIRICAHYO, PURWOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PURWOSARI",
+        "subdistrict_name": "GIRICAHYO",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31820,
+        "label": "GIRIJATI, PURWOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PURWOSARI",
+        "subdistrict_name": "GIRIJATI",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31821,
+        "label": "GIRIPURWO, PURWOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PURWOSARI",
+        "subdistrict_name": "GIRIPURWO",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31822,
+        "label": "GIRITIRTO, PURWOSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55872",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "PURWOSARI",
+        "subdistrict_name": "GIRITIRTO",
+        "zip_code": "55872"
+    },
+    {
+        "id": 31823,
+        "label": "JETIS, SAPTO SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SAPTO SARI",
+        "subdistrict_name": "JETIS",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31824,
+        "label": "KANIGORO, SAPTO SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SAPTO SARI",
+        "subdistrict_name": "KANIGORO",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31825,
+        "label": "KEPEK, SAPTO SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SAPTO SARI",
+        "subdistrict_name": "KEPEK",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31826,
+        "label": "KRAMBIL SAWIT, SAPTO SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SAPTO SARI",
+        "subdistrict_name": "KRAMBIL SAWIT",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31827,
+        "label": "MONGGOL, SAPTO SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SAPTO SARI",
+        "subdistrict_name": "MONGGOL",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31828,
+        "label": "NGLORA, SAPTO SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SAPTO SARI",
+        "subdistrict_name": "NGLORA",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31829,
+        "label": "PLANJAN, SAPTO SARI, GUNUNG KIDUL, DI YOGYAKARTA, 55871",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "SAPTO SARI",
+        "subdistrict_name": "PLANJAN",
+        "zip_code": "55871"
+    },
+    {
+        "id": 31830,
+        "label": "BANJAREJO, TANJUNGSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TANJUNGSARI",
+        "subdistrict_name": "BANJAREJO",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31831,
+        "label": "HARGOSARI, TANJUNGSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TANJUNGSARI",
+        "subdistrict_name": "HARGOSARI",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31832,
+        "label": "KEMADANG, TANJUNGSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TANJUNGSARI",
+        "subdistrict_name": "KEMADANG",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31833,
+        "label": "KEMIRI, TANJUNGSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TANJUNGSARI",
+        "subdistrict_name": "KEMIRI",
+        "zip_code": "55881"
+    },
+    {
+        "id": 31834,
+        "label": "NGESTIREJO, TANJUNGSARI, GUNUNG KIDUL, DI YOGYAKARTA, 55881",
+        "province_name": "DI YOGYAKARTA",
+        "city_name": "GUNUNG KIDUL",
+        "district_name": "TANJUNGSARI",
+        "subdistrict_name": "NGESTIREJO",
+        "zip_code": "55881"
+    }
+]

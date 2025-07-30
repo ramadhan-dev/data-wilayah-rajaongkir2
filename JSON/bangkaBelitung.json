@@ -1,0 +1,3512 @@
+[
+    {
+        "id": 49599,
+        "label": "BANGKA KOTA, SIMPANG RIMBA, BANGKA SELATAN, BANGKA BELITUNG, 33777",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "SIMPANG RIMBA",
+        "subdistrict_name": "BANGKA KOTA",
+        "zip_code": "33777"
+    },
+    {
+        "id": 73825,
+        "label": "AIK KETEKOK, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "AIK KETEKOK",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73826,
+        "label": "AIK PALEMPANG JAYA, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "AIK PALEMPANG JAYA",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73827,
+        "label": "AIK RAYAK, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33413",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "AIK RAYAK",
+        "zip_code": "33413"
+    },
+    {
+        "id": 73828,
+        "label": "AIR MERBAU, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "AIR MERBAU",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73829,
+        "label": "AIR SAGA, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33415",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "AIR SAGA",
+        "zip_code": "33415"
+    },
+    {
+        "id": 73830,
+        "label": "BULUH TUMBANG, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "BULUH TUMBANG",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73831,
+        "label": "DUKONG, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "DUKONG",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73832,
+        "label": "JURU SEBERANG, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33417",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "JURU SEBERANG",
+        "zip_code": "33417"
+    },
+    {
+        "id": 73833,
+        "label": "KAMPONG DAMAI, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "KAMPONG DAMAI",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73834,
+        "label": "KOTA, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "KOTA",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73835,
+        "label": "LESUNG BATANG, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "LESUNG BATANG",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73836,
+        "label": "PAAL SATU, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "PAAL SATU",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73837,
+        "label": "PANGKALLALANG, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33412",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "PANGKALLALANG",
+        "zip_code": "33412"
+    },
+    {
+        "id": 73838,
+        "label": "PARIT, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "PARIT",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73839,
+        "label": "PERAWAS, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33413",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "PERAWAS",
+        "zip_code": "33413"
+    },
+    {
+        "id": 73840,
+        "label": "TANJUNGPENDAM, TANJUNG PANDAN, BELITUNG, BANGKA BELITUNG, 33411",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "TANJUNG PANDAN",
+        "subdistrict_name": "TANJUNGPENDAM",
+        "zip_code": "33411"
+    },
+    {
+        "id": 73841,
+        "label": "BANTAN, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "BANTAN",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73842,
+        "label": "GUNUNG RITING, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "GUNUNG RITING",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73843,
+        "label": "KEMBIRI, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "KEMBIRI",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73844,
+        "label": "LASSAR, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "LASSAR",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73845,
+        "label": "MEMBALONG, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "MEMBALONG",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73846,
+        "label": "MENTIGI, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "MENTIGI",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73847,
+        "label": "PADANG KANDIS, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "PADANG KANDIS",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73848,
+        "label": "PERPAT, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "PERPAT",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73849,
+        "label": "PULAU SELIU, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "PULAU SELIU",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73850,
+        "label": "PULAU SUMEDANG, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "PULAU SUMEDANG",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73851,
+        "label": "SIMPANG RUSA, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "SIMPANG RUSA",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73852,
+        "label": "TANJUNG RUSA, MEMBALONG, BELITUNG, BANGKA BELITUNG, 33452",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "MEMBALONG",
+        "subdistrict_name": "TANJUNG RUSA",
+        "zip_code": "33452"
+    },
+    {
+        "id": 73853,
+        "label": "PETALING, SELAT NASIK, BELITUNG, BANGKA BELITUNG, 33481",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SELAT NASIK",
+        "subdistrict_name": "PETALING",
+        "zip_code": "33481"
+    },
+    {
+        "id": 73854,
+        "label": "PULAU GRESIK, SELAT NASIK, BELITUNG, BANGKA BELITUNG, 33481",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SELAT NASIK",
+        "subdistrict_name": "PULAU GRESIK",
+        "zip_code": "33481"
+    },
+    {
+        "id": 73855,
+        "label": "SELAT NASIK, SELAT NASIK, BELITUNG, BANGKA BELITUNG, 33481",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SELAT NASIK",
+        "subdistrict_name": "SELAT NASIK",
+        "zip_code": "33481"
+    },
+    {
+        "id": 73856,
+        "label": "SUAK GUAL, SELAT NASIK, BELITUNG, BANGKA BELITUNG, 33481",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SELAT NASIK",
+        "subdistrict_name": "SUAK GUAL",
+        "zip_code": "33481"
+    },
+    {
+        "id": 73857,
+        "label": "AIR BATU, BADAU, BELITUNG, BANGKA BELITUNG, 33451",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "BADAU",
+        "subdistrict_name": "AIR BATU",
+        "zip_code": "33451"
+    },
+    {
+        "id": 73858,
+        "label": "BADAU, BADAU, BELITUNG, BANGKA BELITUNG, 33451",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "BADAU",
+        "subdistrict_name": "BADAU",
+        "zip_code": "33451"
+    },
+    {
+        "id": 73859,
+        "label": "CERUCUK, BADAU, BELITUNG, BANGKA BELITUNG, 33451",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "BADAU",
+        "subdistrict_name": "CERUCUK",
+        "zip_code": "33451"
+    },
+    {
+        "id": 73860,
+        "label": "IBUL, BADAU, BELITUNG, BANGKA BELITUNG, 33451",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "BADAU",
+        "subdistrict_name": "IBUL",
+        "zip_code": "33451"
+    },
+    {
+        "id": 73861,
+        "label": "KACANG BOTOR, BADAU, BELITUNG, BANGKA BELITUNG, 33451",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "BADAU",
+        "subdistrict_name": "KACANG BOTOR",
+        "zip_code": "33451"
+    },
+    {
+        "id": 73862,
+        "label": "PEGANTUNGAN, BADAU, BELITUNG, BANGKA BELITUNG, 33451",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "BADAU",
+        "subdistrict_name": "PEGANTUNGAN",
+        "zip_code": "33451"
+    },
+    {
+        "id": 73863,
+        "label": "SUNGAI SAMAK, BADAU, BELITUNG, BANGKA BELITUNG, 33451",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "BADAU",
+        "subdistrict_name": "SUNGAI SAMAK",
+        "zip_code": "33451"
+    },
+    {
+        "id": 73864,
+        "label": "AIR SELUMAR, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "AIR SELUMAR",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73865,
+        "label": "AIR SERU, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "AIR SERU",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73866,
+        "label": "BATU ITAM, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "BATU ITAM",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73867,
+        "label": "KECIPUT, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "KECIPUT",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73868,
+        "label": "PELEPAK PUTE, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "PELEPAK PUTE",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73869,
+        "label": "SIJUK, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "SIJUK",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73870,
+        "label": "SUNGAI PADANG, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "SUNGAI PADANG",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73871,
+        "label": "TANJONG TINGGI, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "TANJONG TINGGI",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73872,
+        "label": "TANJUNG BINGA, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "TANJUNG BINGA",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73873,
+        "label": "TERONG, SIJUK, BELITUNG, BANGKA BELITUNG, 33414",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG",
+        "district_name": "SIJUK",
+        "subdistrict_name": "TERONG",
+        "zip_code": "33414"
+    },
+    {
+        "id": 73874,
+        "label": "BARU, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33512",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "BARU",
+        "zip_code": "33512"
+    },
+    {
+        "id": 73875,
+        "label": "BENTAIAN JAYA, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33517",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "BENTAIAN JAYA",
+        "zip_code": "33517"
+    },
+    {
+        "id": 73876,
+        "label": "KELUBI, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33517",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "KELUBI",
+        "zip_code": "33517"
+    },
+    {
+        "id": 73877,
+        "label": "KURNIA JAYA, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33512",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "KURNIA JAYA",
+        "zip_code": "33512"
+    },
+    {
+        "id": 73878,
+        "label": "LALANG, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33511",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "LALANG",
+        "zip_code": "33511"
+    },
+    {
+        "id": 73879,
+        "label": "LALANG JAYA, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33511",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "LALANG JAYA",
+        "zip_code": "33511"
+    },
+    {
+        "id": 73880,
+        "label": "MEKAR JAYA, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33517",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "MEKAR JAYA",
+        "zip_code": "33517"
+    },
+    {
+        "id": 73881,
+        "label": "PADANG, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33516",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "PADANG",
+        "zip_code": "33516"
+    },
+    {
+        "id": 73882,
+        "label": "PULAU BUKU LIMAU, MANGGAR, BELITUNG TIMUR, BANGKA BELITUNG, 33511",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "MANGGAR",
+        "subdistrict_name": "PULAU BUKU LIMAU",
+        "zip_code": "33511"
+    },
+    {
+        "id": 73883,
+        "label": "BALOK, DENDANG, BELITUNG TIMUR, BANGKA BELITUNG, 33561",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DENDANG",
+        "subdistrict_name": "BALOK",
+        "zip_code": "33561"
+    },
+    {
+        "id": 73884,
+        "label": "DENDANG, DENDANG, BELITUNG TIMUR, BANGKA BELITUNG, 33561",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DENDANG",
+        "subdistrict_name": "DENDANG",
+        "zip_code": "33561"
+    },
+    {
+        "id": 73885,
+        "label": "JANGKANG, DENDANG, BELITUNG TIMUR, BANGKA BELITUNG, 33561",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DENDANG",
+        "subdistrict_name": "JANGKANG",
+        "zip_code": "33561"
+    },
+    {
+        "id": 73886,
+        "label": "NYURUK, DENDANG, BELITUNG TIMUR, BANGKA BELITUNG, 33561",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DENDANG",
+        "subdistrict_name": "NYURUK",
+        "zip_code": "33561"
+    },
+    {
+        "id": 73887,
+        "label": "BATU PENYU, GANTUNG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "GANTUNG",
+        "subdistrict_name": "BATU PENYU",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73888,
+        "label": "GANTUNG, GANTUNG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "GANTUNG",
+        "subdistrict_name": "GANTUNG",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73889,
+        "label": "JANGKAR ASAM, GANTUNG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "GANTUNG",
+        "subdistrict_name": "JANGKAR ASAM",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73890,
+        "label": "LENGGANG, GANTUNG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "GANTUNG",
+        "subdistrict_name": "LENGGANG",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73891,
+        "label": "LILANGAN, GANTUNG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "GANTUNG",
+        "subdistrict_name": "LILANGAN",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73892,
+        "label": "LIMBONGAN, GANTUNG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "GANTUNG",
+        "subdistrict_name": "LIMBONGAN",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73893,
+        "label": "SELINGSING, GANTUNG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "GANTUNG",
+        "subdistrict_name": "SELINGSING",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73894,
+        "label": "BUDING, KELAPA KAMPIT, BELITUNG TIMUR, BANGKA BELITUNG, 33571",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "KELAPA KAMPIT",
+        "subdistrict_name": "BUDING",
+        "zip_code": "33571"
+    },
+    {
+        "id": 73895,
+        "label": "CENDIL, KELAPA KAMPIT, BELITUNG TIMUR, BANGKA BELITUNG, 33571",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "KELAPA KAMPIT",
+        "subdistrict_name": "CENDIL",
+        "zip_code": "33571"
+    },
+    {
+        "id": 73896,
+        "label": "MAYANG, KELAPA KAMPIT, BELITUNG TIMUR, BANGKA BELITUNG, 33571",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "KELAPA KAMPIT",
+        "subdistrict_name": "MAYANG",
+        "zip_code": "33571"
+    },
+    {
+        "id": 73897,
+        "label": "MENTAWAK, KELAPA KAMPIT, BELITUNG TIMUR, BANGKA BELITUNG, 33571",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "KELAPA KAMPIT",
+        "subdistrict_name": "MENTAWAK",
+        "zip_code": "33571"
+    },
+    {
+        "id": 73898,
+        "label": "PEMBAHARUAN, KELAPA KAMPIT, BELITUNG TIMUR, BANGKA BELITUNG, 33571",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "KELAPA KAMPIT",
+        "subdistrict_name": "PEMBAHARUAN",
+        "zip_code": "33571"
+    },
+    {
+        "id": 73899,
+        "label": "SENYUBUK, KELAPA KAMPIT, BELITUNG TIMUR, BANGKA BELITUNG, 33571",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "KELAPA KAMPIT",
+        "subdistrict_name": "SENYUBUK",
+        "zip_code": "33571"
+    },
+    {
+        "id": 73900,
+        "label": "AIR KELIK, DAMAR, BELITUNG TIMUR, BANGKA BELITUNG, 33571",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DAMAR",
+        "subdistrict_name": "AIR KELIK",
+        "zip_code": "33571"
+    },
+    {
+        "id": 73901,
+        "label": "BURUNG MANDI, DAMAR, BELITUNG TIMUR, BANGKA BELITUNG, 33571",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DAMAR",
+        "subdistrict_name": "BURUNG MANDI",
+        "zip_code": "33571"
+    },
+    {
+        "id": 73902,
+        "label": "MEMPAYA, DAMAR, BELITUNG TIMUR, BANGKA BELITUNG, 33515",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DAMAR",
+        "subdistrict_name": "MEMPAYA",
+        "zip_code": "33515"
+    },
+    {
+        "id": 73903,
+        "label": "MENGKUBANG, DAMAR, BELITUNG TIMUR, BANGKA BELITUNG, 33514",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DAMAR",
+        "subdistrict_name": "MENGKUBANG",
+        "zip_code": "33514"
+    },
+    {
+        "id": 73904,
+        "label": "SUKAMANDI, DAMAR, BELITUNG TIMUR, BANGKA BELITUNG, 33513",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "DAMAR",
+        "subdistrict_name": "SUKAMANDI",
+        "zip_code": "33513"
+    },
+    {
+        "id": 73905,
+        "label": "DUKONG, SIMPANG PESAK, BELITUNG TIMUR, BANGKA BELITUNG, 33561",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "SIMPANG PESAK",
+        "subdistrict_name": "DUKONG",
+        "zip_code": "33561"
+    },
+    {
+        "id": 73906,
+        "label": "SIMPANG PESAK, SIMPANG PESAK, BELITUNG TIMUR, BANGKA BELITUNG, 33561",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "SIMPANG PESAK",
+        "subdistrict_name": "SIMPANG PESAK",
+        "zip_code": "33561"
+    },
+    {
+        "id": 73907,
+        "label": "TANJUNG BATU ITAM, SIMPANG PESAK, BELITUNG TIMUR, BANGKA BELITUNG, 33561",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "SIMPANG PESAK",
+        "subdistrict_name": "TANJUNG BATU ITAM",
+        "zip_code": "33561"
+    },
+    {
+        "id": 73908,
+        "label": "TANJUNG KELUMPANG, SIMPANG PESAK, BELITUNG TIMUR, BANGKA BELITUNG, 33561",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "SIMPANG PESAK",
+        "subdistrict_name": "TANJUNG KELUMPANG",
+        "zip_code": "33561"
+    },
+    {
+        "id": 73909,
+        "label": "AIK MADU, SIMPANG RENGGIANG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "SIMPANG RENGGIANG",
+        "subdistrict_name": "AIK MADU",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73910,
+        "label": "LINTANG, SIMPANG RENGGIANG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "SIMPANG RENGGIANG",
+        "subdistrict_name": "LINTANG",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73911,
+        "label": "RENGGIANG, SIMPANG RENGGIANG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "SIMPANG RENGGIANG",
+        "subdistrict_name": "RENGGIANG",
+        "zip_code": "33562"
+    },
+    {
+        "id": 73912,
+        "label": "SIMPANG TIGA, SIMPANG RENGGIANG, BELITUNG TIMUR, BANGKA BELITUNG, 33562",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BELITUNG TIMUR",
+        "district_name": "SIMPANG RENGGIANG",
+        "subdistrict_name": "SIMPANG TIGA",
+        "zip_code": "33562"
+    },
+    {
+        "id": 49361,
+        "label": "BUKIT BETUNG, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33211",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "BUKIT BETUNG",
+        "zip_code": "33211"
+    },
+    {
+        "id": 49362,
+        "label": "JELITIK, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33211",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "JELITIK",
+        "zip_code": "33211"
+    },
+    {
+        "id": 49363,
+        "label": "KENANGA, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33211",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "KENANGA",
+        "zip_code": "33211"
+    },
+    {
+        "id": 49364,
+        "label": "KUDAI, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33213",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "KUDAI",
+        "zip_code": "33213"
+    },
+    {
+        "id": 49365,
+        "label": "LUBUK KELIK, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33211",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "LUBUK KELIK",
+        "zip_code": "33211"
+    },
+    {
+        "id": 49366,
+        "label": "MATRAS, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33212",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "MATRAS",
+        "zip_code": "33212"
+    },
+    {
+        "id": 49367,
+        "label": "PARIT PADANG, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33215",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "PARIT PADANG",
+        "zip_code": "33215"
+    },
+    {
+        "id": 49368,
+        "label": "REBO, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33211",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "REBO",
+        "zip_code": "33211"
+    },
+    {
+        "id": 49369,
+        "label": "SINAR BARU, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33212",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "SINAR BARU",
+        "zip_code": "33212"
+    },
+    {
+        "id": 49370,
+        "label": "SINAR JAYA JELUTUNG, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33212",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "SINAR JAYA JELUTUNG",
+        "zip_code": "33212"
+    },
+    {
+        "id": 49371,
+        "label": "SRI MENANTI, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33214",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "SRI MENANTI",
+        "zip_code": "33214"
+    },
+    {
+        "id": 49372,
+        "label": "SUNGAILIAT, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33211",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "SUNGAILIAT",
+        "zip_code": "33211"
+    },
+    {
+        "id": 49373,
+        "label": "SURYA TIMUR, SUNGAI LIAT, BANGKA, BANGKA BELITUNG, 33211",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "SUNGAI LIAT",
+        "subdistrict_name": "SURYA TIMUR",
+        "zip_code": "33211"
+    },
+    {
+        "id": 49374,
+        "label": "AIR JUKUNG, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "AIR JUKUNG",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49375,
+        "label": "BINTET, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "BINTET",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49376,
+        "label": "BUKIT KETOK, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "BUKIT KETOK",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49377,
+        "label": "GUNUNG MUDA, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "GUNUNG MUDA",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49378,
+        "label": "GUNUNG PELAWAN, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "GUNUNG PELAWAN",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49379,
+        "label": "KUTO PANJI, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "KUTO PANJI",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49380,
+        "label": "LUMUT, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "LUMUT",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49381,
+        "label": "RIDING PANJANG, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "RIDING PANJANG",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49382,
+        "label": "BANYU ASIN, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "BANYU ASIN",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49383,
+        "label": "BERBURA, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "BERBURA",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49384,
+        "label": "CIT, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "CIT",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49385,
+        "label": "DENIANG, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "DENIANG",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49386,
+        "label": "MAPUR, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "MAPUR",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49387,
+        "label": "PANGKAL NIUR, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "PANGKAL NIUR",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49388,
+        "label": "PUGUL, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "PUGUL",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49389,
+        "label": "RIAU, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "RIAU",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49390,
+        "label": "SILIP, RIAU SILIP, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "RIAU SILIP",
+        "subdistrict_name": "SILIP",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49391,
+        "label": "BAKAM, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "BAKAM",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49392,
+        "label": "BUKIT LAYANG, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "BUKIT LAYANG",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49393,
+        "label": "DALIL, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "DALIL",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49394,
+        "label": "KAPUK, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "KAPUK",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49395,
+        "label": "MABAT, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "MABAT",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49396,
+        "label": "MANGKA, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "MANGKA",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49397,
+        "label": "MARAS SENANG, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "MARAS SENANG",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49398,
+        "label": "NEKNANG, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "NEKNANG",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49399,
+        "label": "TIANG TARA, BAKAM, BANGKA, BANGKA BELITUNG, 33252",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BAKAM",
+        "subdistrict_name": "TIANG TARA",
+        "zip_code": "33252"
+    },
+    {
+        "id": 49400,
+        "label": "AIR DUREN, PEMALI, BANGKA, BANGKA BELITUNG, 33255",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PEMALI",
+        "subdistrict_name": "AIR DUREN",
+        "zip_code": "33255"
+    },
+    {
+        "id": 49401,
+        "label": "AIR RUAI, PEMALI, BANGKA, BANGKA BELITUNG, 33255",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PEMALI",
+        "subdistrict_name": "AIR RUAI",
+        "zip_code": "33255"
+    },
+    {
+        "id": 49402,
+        "label": "KARYA MAKMUR, PEMALI, BANGKA, BANGKA BELITUNG, 33255",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PEMALI",
+        "subdistrict_name": "KARYA MAKMUR",
+        "zip_code": "33255"
+    },
+    {
+        "id": 49403,
+        "label": "PEMALI, PEMALI, BANGKA, BANGKA BELITUNG, 33255",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PEMALI",
+        "subdistrict_name": "PEMALI",
+        "zip_code": "33255"
+    },
+    {
+        "id": 49404,
+        "label": "PENYAMUN, PEMALI, BANGKA, BANGKA BELITUNG, 33251",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PEMALI",
+        "subdistrict_name": "PENYAMUN",
+        "zip_code": "33251"
+    },
+    {
+        "id": 49405,
+        "label": "SEMPAN, PEMALI, BANGKA, BANGKA BELITUNG, 33251",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PEMALI",
+        "subdistrict_name": "SEMPAN",
+        "zip_code": "33251"
+    },
+    {
+        "id": 49406,
+        "label": "AIR BULUH, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "AIR BULUH",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49407,
+        "label": "AIR DUREN, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "AIR DUREN",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49408,
+        "label": "CENGKONG ABANG, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "CENGKONG ABANG",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49409,
+        "label": "KACE, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "KACE",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49410,
+        "label": "KACE TIMUR, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "KACE TIMUR",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49411,
+        "label": "KEMUJA, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "KEMUJA",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49412,
+        "label": "KOTA KAPUR, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "KOTA KAPUR",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49413,
+        "label": "LABUH AIR PANDAN, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "LABUH AIR PANDAN",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49414,
+        "label": "MENDO (MENDUK), MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "MENDO (MENDUK)",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49415,
+        "label": "PAYABENUA, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "PAYABENUA",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49416,
+        "label": "PENAGAN, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "PENAGAN",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49417,
+        "label": "PETALING, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "PETALING",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49418,
+        "label": "PETALING BANJAR, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "PETALING BANJAR",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49419,
+        "label": "RUKAM, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "RUKAM",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49420,
+        "label": "ZED, MENDO BARAT, BANGKA, BANGKA BELITUNG, 33173",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MENDO BARAT",
+        "subdistrict_name": "ZED",
+        "zip_code": "33173"
+    },
+    {
+        "id": 49421,
+        "label": "AIR ANYIR, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "AIR ANYIR",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49422,
+        "label": "BALUN IJUK, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "BALUN IJUK",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49423,
+        "label": "BATURUSA, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "BATURUSA",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49424,
+        "label": "DWI MAKMUR, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "DWI MAKMUR",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49425,
+        "label": "JADA BAHRIN, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "JADA BAHRIN",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49426,
+        "label": "JURUNG, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "JURUNG",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49427,
+        "label": "KIMAK, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "KIMAK",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49428,
+        "label": "MERAWANG, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "MERAWANG",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49429,
+        "label": "PAGARAWAN, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "PAGARAWAN",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49430,
+        "label": "RIDING PANJANG, MERAWANG, BANGKA, BANGKA BELITUNG, 33172",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "MERAWANG",
+        "subdistrict_name": "RIDING PANJANG",
+        "zip_code": "33172"
+    },
+    {
+        "id": 49431,
+        "label": "KAYU BESI, PUDING BESAR, BANGKA, BANGKA BELITUNG, 33179",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PUDING BESAR",
+        "subdistrict_name": "KAYU BESI",
+        "zip_code": "33179"
+    },
+    {
+        "id": 49432,
+        "label": "KOTA WARINGIN, PUDING BESAR, BANGKA, BANGKA BELITUNG, 33179",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PUDING BESAR",
+        "subdistrict_name": "KOTA WARINGIN",
+        "zip_code": "33179"
+    },
+    {
+        "id": 49433,
+        "label": "LABU, PUDING BESAR, BANGKA, BANGKA BELITUNG, 33179",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PUDING BESAR",
+        "subdistrict_name": "LABU",
+        "zip_code": "33179"
+    },
+    {
+        "id": 49434,
+        "label": "NIBUNG, PUDING BESAR, BANGKA, BANGKA BELITUNG, 33179",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PUDING BESAR",
+        "subdistrict_name": "NIBUNG",
+        "zip_code": "33179"
+    },
+    {
+        "id": 49435,
+        "label": "PUDINGBESAR, PUDING BESAR, BANGKA, BANGKA BELITUNG, 33179",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PUDING BESAR",
+        "subdistrict_name": "PUDINGBESAR",
+        "zip_code": "33179"
+    },
+    {
+        "id": 49436,
+        "label": "SAING, PUDING BESAR, BANGKA, BANGKA BELITUNG, 33179",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PUDING BESAR",
+        "subdistrict_name": "SAING",
+        "zip_code": "33179"
+    },
+    {
+        "id": 49437,
+        "label": "TANAH BAWAH, PUDING BESAR, BANGKA, BANGKA BELITUNG, 33179",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "PUDING BESAR",
+        "subdistrict_name": "TANAH BAWAH",
+        "zip_code": "33179"
+    },
+    {
+        "id": 49438,
+        "label": "AIR BULIN, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "AIR BULIN",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49439,
+        "label": "BERUAS, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "BERUAS",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49440,
+        "label": "DENDANG, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "DENDANG",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49441,
+        "label": "KACUNG, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "KACUNG",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49442,
+        "label": "KAYUARANG, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "KAYUARANG",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49443,
+        "label": "KELAPA, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "KELAPA",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49444,
+        "label": "MANCUNG, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "MANCUNG",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49445,
+        "label": "PANGKAL BERAS, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "PANGKAL BERAS",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49446,
+        "label": "PUSUK, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "PUSUK",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49447,
+        "label": "SINAR SARI, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "SINAR SARI",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49448,
+        "label": "TEBING, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "TEBING",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49449,
+        "label": "TERENTANG, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "TERENTANG",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49450,
+        "label": "TUGANG, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "TUGANG",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49451,
+        "label": "TUIK, KELAPA, BANGKA BARAT, BANGKA BELITUNG, 33364",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "KELAPA",
+        "subdistrict_name": "TUIK",
+        "zip_code": "33364"
+    },
+    {
+        "id": 49452,
+        "label": "AIR BELO, MENTOK (MUNTOK), BANGKA BARAT, BANGKA BELITUNG, 33351",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "MENTOK (MUNTOK)",
+        "subdistrict_name": "AIR BELO",
+        "zip_code": "33351"
+    },
+    {
+        "id": 49453,
+        "label": "AIR LIMAU, MENTOK (MUNTOK), BANGKA BARAT, BANGKA BELITUNG, 33351",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "MENTOK (MUNTOK)",
+        "subdistrict_name": "AIR LIMAU",
+        "zip_code": "33351"
+    },
+    {
+        "id": 49454,
+        "label": "AIR PUTIH, MENTOK (MUNTOK), BANGKA BARAT, BANGKA BELITUNG, 33351",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "MENTOK (MUNTOK)",
+        "subdistrict_name": "AIR PUTIH",
+        "zip_code": "33351"
+    },
+    {
+        "id": 49455,
+        "label": "BELOLAUT, MENTOK (MUNTOK), BANGKA BARAT, BANGKA BELITUNG, 33351",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "MENTOK (MUNTOK)",
+        "subdistrict_name": "BELOLAUT",
+        "zip_code": "33351"
+    },
+    {
+        "id": 49456,
+        "label": "SUNGAI BARU, MENTOK (MUNTOK), BANGKA BARAT, BANGKA BELITUNG, 33312",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "MENTOK (MUNTOK)",
+        "subdistrict_name": "SUNGAI BARU",
+        "zip_code": "33312"
+    },
+    {
+        "id": 49457,
+        "label": "SUNGAI DAENG, MENTOK (MUNTOK), BANGKA BARAT, BANGKA BELITUNG, 33313",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "MENTOK (MUNTOK)",
+        "subdistrict_name": "SUNGAI DAENG",
+        "zip_code": "33313"
+    },
+    {
+        "id": 49458,
+        "label": "TANJUNG, MENTOK (MUNTOK), BANGKA BARAT, BANGKA BELITUNG, 33311",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "MENTOK (MUNTOK)",
+        "subdistrict_name": "TANJUNG",
+        "zip_code": "33311"
+    },
+    {
+        "id": 49459,
+        "label": "AIR LINTANG, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "AIR LINTANG",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49460,
+        "label": "BENTENG KOTA/KUTA, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "BENTENG KOTA/KUTA",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49461,
+        "label": "BUYAN KELUMBI, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "BUYAN KELUMBI",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49462,
+        "label": "PENYAMPAK, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "PENYAMPAK",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49463,
+        "label": "SANGKU, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "SANGKU",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49464,
+        "label": "SIMPANG YUL, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "SIMPANG YUL",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49465,
+        "label": "SINAR SURYA, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "SINAR SURYA",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49466,
+        "label": "TANJUNGNIUR, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "TANJUNGNIUR",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49467,
+        "label": "TEMPILANG, TEMPILANG, BANGKA BARAT, BANGKA BELITUNG, 33365",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "TEMPILANG",
+        "subdistrict_name": "TEMPILANG",
+        "zip_code": "33365"
+    },
+    {
+        "id": 49468,
+        "label": "AIR MENDUYUNG, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "AIR MENDUYUNG",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49469,
+        "label": "AIR NYATOH, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "AIR NYATOH",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49470,
+        "label": "BERANG, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "BERANG",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49471,
+        "label": "BUKIT TERAK, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "BUKIT TERAK",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49472,
+        "label": "IBUL, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "IBUL",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49473,
+        "label": "KUNDI, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "KUNDI",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49474,
+        "label": "MAYANG, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "MAYANG",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49475,
+        "label": "PANGEK, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "PANGEK",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49476,
+        "label": "PELANGAS, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "PELANGAS",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49477,
+        "label": "PERADONG, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "PERADONG",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49478,
+        "label": "RAMBAT, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "RAMBAT",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49479,
+        "label": "SIMPANG GUNG, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "SIMPANG GUNG",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49480,
+        "label": "SIMPANG TIGA, SIMPANG TERITIP, BANGKA BARAT, BANGKA BELITUNG, 33366",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "SIMPANG TERITIP",
+        "subdistrict_name": "SIMPANG TIGA",
+        "zip_code": "33366"
+    },
+    {
+        "id": 49481,
+        "label": "AIR KUANG, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "AIR KUANG",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49482,
+        "label": "JEBUS, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "JEBUS",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49483,
+        "label": "KETAP, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "KETAP",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49484,
+        "label": "LIMBUNG, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "LIMBUNG",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49485,
+        "label": "MISLAK, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "MISLAK",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49486,
+        "label": "PEBUAR, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "PEBUAR",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49487,
+        "label": "RANGGI ASAM, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "RANGGI ASAM",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49488,
+        "label": "RUKAM, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "RUKAM",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49489,
+        "label": "SINAR MANIK, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "SINAR MANIK",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49490,
+        "label": "SUNGAI BULUH, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "SUNGAI BULUH",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49491,
+        "label": "TUMBAK PETAR, JEBUS, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "JEBUS",
+        "subdistrict_name": "TUMBAK PETAR",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49492,
+        "label": "AIR GANTANG, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "AIR GANTANG",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49493,
+        "label": "BAKIT, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "BAKIT",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49494,
+        "label": "CUPAT, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "CUPAT",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49495,
+        "label": "KAPIT, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "KAPIT",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49496,
+        "label": "KELABAT, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "KELABAT",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49497,
+        "label": "PUPUT, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "PUPUT",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49498,
+        "label": "SEKAR BIRU, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "SEKAR BIRU",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49499,
+        "label": "SEMULUT, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "SEMULUT",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49500,
+        "label": "TELAK, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "TELAK",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49501,
+        "label": "TELUK LIMAU, PARITTIGA, BANGKA BARAT, BANGKA BELITUNG, 33362",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA BARAT",
+        "district_name": "PARITTIGA",
+        "subdistrict_name": "TELUK LIMAU",
+        "zip_code": "33362"
+    },
+    {
+        "id": 49502,
+        "label": "ARUNG DALAM, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "ARUNG DALAM",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49503,
+        "label": "BEROK, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "BEROK",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49504,
+        "label": "GUNTUNG, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "GUNTUNG",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49505,
+        "label": "KOBA, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "KOBA",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49506,
+        "label": "KURAU (TIMUR), KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "KURAU (TIMUR)",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49507,
+        "label": "KURAU BARAT, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "KURAU BARAT",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49508,
+        "label": "NIBUNG, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "NIBUNG",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49509,
+        "label": "PADANG MULYA, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "PADANG MULYA",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49510,
+        "label": "PENYAK, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "PENYAK",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49511,
+        "label": "SIMPANG PERLANG, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "SIMPANG PERLANG",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49512,
+        "label": "TERENTANG III, KOBA, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "KOBA",
+        "subdistrict_name": "TERENTANG III",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49513,
+        "label": "KEMINGKING, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "KEMINGKING",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49514,
+        "label": "KERAKAS, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "KERAKAS",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49515,
+        "label": "KERANTAI, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "KERANTAI",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49516,
+        "label": "KERETAK, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "KERETAK",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49517,
+        "label": "KERETAK ATAS, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "KERETAK ATAS",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49518,
+        "label": "LAMPUR, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "LAMPUR",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49519,
+        "label": "MELABUN, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "MELABUN",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49520,
+        "label": "MUNGGU, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "MUNGGU",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49521,
+        "label": "RAMADHON (ROMADHONI), SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "RAMADHON (ROMADHONI)",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49522,
+        "label": "SARANGMANDI, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "SARANGMANDI",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49523,
+        "label": "SUNGAI SELAN, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "SUNGAI SELAN",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49524,
+        "label": "SUNGAI SELAN ATAS, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "SUNGAI SELAN ATAS",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49525,
+        "label": "TANJUNG PURA, SUNGAI SELAN, BANGKA TENGAH, BANGKA BELITUNG, 33675",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SUNGAI SELAN",
+        "subdistrict_name": "TANJUNG PURA",
+        "zip_code": "33675"
+    },
+    {
+        "id": 49526,
+        "label": "BERUAS, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "BERUAS",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49527,
+        "label": "CELUAK, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "CELUAK",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49528,
+        "label": "KATIS, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "KATIS",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49529,
+        "label": "PASIR GARAM, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "PASIR GARAM",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49530,
+        "label": "PINANG SEBATANG, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "PINANG SEBATANG",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49531,
+        "label": "PUPUT, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "PUPUT",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49532,
+        "label": "SIMPANG KATIS, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "SIMPANG KATIS",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49533,
+        "label": "SUNGKAP, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "SUNGKAP",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49534,
+        "label": "TERAK, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "TERAK",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49535,
+        "label": "TERU, SIMPANG KATIS, BANGKA TENGAH, BANGKA BELITUNG, 33674",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "SIMPANG KATIS",
+        "subdistrict_name": "TERU",
+        "zip_code": "33674"
+    },
+    {
+        "id": 49536,
+        "label": "AIR MESU TIMUR, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "AIR MESU TIMUR",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49537,
+        "label": "AIRMESU, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "AIRMESU",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49538,
+        "label": "BATU BELUBANG, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "BATU BELUBANG",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49539,
+        "label": "BELULUK, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "BELULUK",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49540,
+        "label": "BENTENG, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "BENTENG",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49541,
+        "label": "DUL, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "DUL",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49542,
+        "label": "JERUK, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "JERUK",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49543,
+        "label": "KEBINTIK, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "KEBINTIK",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49544,
+        "label": "MANGKOL, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "MANGKOL",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49545,
+        "label": "PADANG BARU, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "PADANG BARU",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49546,
+        "label": "PELINDANG (SELINDUNG), PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "PELINDANG (SELINDUNG)",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49547,
+        "label": "TANJUNG GUNUNG, PANGKALAN BARU, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "PANGKALAN BARU",
+        "subdistrict_name": "TANJUNG GUNUNG",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49548,
+        "label": "BASKARA BAKTI/BHAKTI, NAMANG, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "NAMANG",
+        "subdistrict_name": "BASKARA BAKTI/BHAKTI",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49549,
+        "label": "BELILIK, NAMANG, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "NAMANG",
+        "subdistrict_name": "BELILIK",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49550,
+        "label": "BUKIT KIJANG, NAMANG, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "NAMANG",
+        "subdistrict_name": "BUKIT KIJANG",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49551,
+        "label": "CAMBAI, NAMANG, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "NAMANG",
+        "subdistrict_name": "CAMBAI",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49552,
+        "label": "CAMBAI SELATAN, NAMANG, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "NAMANG",
+        "subdistrict_name": "CAMBAI SELATAN",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49553,
+        "label": "JELUTUNG, NAMANG, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "NAMANG",
+        "subdistrict_name": "JELUTUNG",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49554,
+        "label": "KAYU BESI, NAMANG, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "NAMANG",
+        "subdistrict_name": "KAYU BESI",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49555,
+        "label": "NAMANG, NAMANG, BANGKA TENGAH, BANGKA BELITUNG, 33684",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "NAMANG",
+        "subdistrict_name": "NAMANG",
+        "zip_code": "33684"
+    },
+    {
+        "id": 49556,
+        "label": "BATU BERIGA, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "BATU BERIGA",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49557,
+        "label": "BELIMBING, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "BELIMBING",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49558,
+        "label": "KULUR, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "KULUR",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49559,
+        "label": "KULUR HILIR, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "KULUR HILIR",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49560,
+        "label": "LUBUK BESAR, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "LUBUK BESAR",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49561,
+        "label": "LUBUK LINGKUK, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "LUBUK LINGKUK",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49562,
+        "label": "LUBUK PABRIK, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "LUBUK PABRIK",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49563,
+        "label": "PERLANG, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "PERLANG",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49564,
+        "label": "TRUBUS, LUBUK BESAR, BANGKA TENGAH, BANGKA BELITUNG, 33681",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA TENGAH",
+        "district_name": "LUBUK BESAR",
+        "subdistrict_name": "TRUBUS",
+        "zip_code": "33681"
+    },
+    {
+        "id": 49565,
+        "label": "BIKANG, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "BIKANG",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49566,
+        "label": "GADUNG, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "GADUNG",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49567,
+        "label": "JERIJI, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "JERIJI",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49568,
+        "label": "KAPOSANG/KEPOSANG, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "KAPOSANG/KEPOSANG",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49569,
+        "label": "KEPOH, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "KEPOH",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49570,
+        "label": "RIAS, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "RIAS",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49571,
+        "label": "RINDIK, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "RINDIK",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49572,
+        "label": "SERDANG, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "SERDANG",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49573,
+        "label": "TANJUNG KETAPANG, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "TANJUNG KETAPANG",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49574,
+        "label": "TELADAN, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "TELADAN",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49575,
+        "label": "TOBOALI, TOBOALI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TOBOALI",
+        "subdistrict_name": "TOBOALI",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49576,
+        "label": "KUMBUNG, LEPAR PONGOK, BANGKA SELATAN, BANGKA BELITUNG, 33791",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "LEPAR PONGOK",
+        "subdistrict_name": "KUMBUNG",
+        "zip_code": "33791"
+    },
+    {
+        "id": 49577,
+        "label": "PENUTUK, LEPAR PONGOK, BANGKA SELATAN, BANGKA BELITUNG, 33791",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "LEPAR PONGOK",
+        "subdistrict_name": "PENUTUK",
+        "zip_code": "33791"
+    },
+    {
+        "id": 49578,
+        "label": "TANJUNG LABU, LEPAR PONGOK, BANGKA SELATAN, BANGKA BELITUNG, 33791",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "LEPAR PONGOK",
+        "subdistrict_name": "TANJUNG LABU",
+        "zip_code": "33791"
+    },
+    {
+        "id": 49579,
+        "label": "TANJUNG SANGKAR, LEPAR PONGOK, BANGKA SELATAN, BANGKA BELITUNG, 33791",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "LEPAR PONGOK",
+        "subdistrict_name": "TANJUNG SANGKAR",
+        "zip_code": "33791"
+    },
+    {
+        "id": 49580,
+        "label": "BEDENGUNG, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "BEDENGUNG",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49581,
+        "label": "IRAT, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "IRAT",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49582,
+        "label": "MALIK, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "MALIK",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49583,
+        "label": "NADUNG, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "NADUNG",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49584,
+        "label": "PAKU, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "PAKU",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49585,
+        "label": "PANGKALBULUH, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "PANGKALBULUH",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49586,
+        "label": "PAYUNG, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "PAYUNG",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49587,
+        "label": "RANGGUNG, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "RANGGUNG",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49588,
+        "label": "SENGIR, PAYUNG, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PAYUNG",
+        "subdistrict_name": "SENGIR",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49589,
+        "label": "AIR BARA, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "AIR BARA",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49590,
+        "label": "AIR GEGAS, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "AIR GEGAS",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49591,
+        "label": "BENCAH, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "BENCAH",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49592,
+        "label": "DELAS, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "DELAS",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49593,
+        "label": "NANGKA, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "NANGKA",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49594,
+        "label": "NYELANDING, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "NYELANDING",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49595,
+        "label": "PERGAM, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "PERGAM",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49596,
+        "label": "RANGGAS, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "RANGGAS",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49597,
+        "label": "SIDOHARJO, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "SIDOHARJO",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49598,
+        "label": "TEPUS, AIR GEGAS, BANGKA SELATAN, BANGKA BELITUNG, 33782",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "AIR GEGAS",
+        "subdistrict_name": "TEPUS",
+        "zip_code": "33782"
+    },
+    {
+        "id": 49600,
+        "label": "GUDANG, SIMPANG RIMBA, BANGKA SELATAN, BANGKA BELITUNG, 33777",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "SIMPANG RIMBA",
+        "subdistrict_name": "GUDANG",
+        "zip_code": "33777"
+    },
+    {
+        "id": 49601,
+        "label": "JELUTUNG II, SIMPANG RIMBA, BANGKA SELATAN, BANGKA BELITUNG, 33777",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "SIMPANG RIMBA",
+        "subdistrict_name": "JELUTUNG II",
+        "zip_code": "33777"
+    },
+    {
+        "id": 49602,
+        "label": "PERMIS, SIMPANG RIMBA, BANGKA SELATAN, BANGKA BELITUNG, 33777",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "SIMPANG RIMBA",
+        "subdistrict_name": "PERMIS",
+        "zip_code": "33777"
+    },
+    {
+        "id": 49603,
+        "label": "RAJIK, SIMPANG RIMBA, BANGKA SELATAN, BANGKA BELITUNG, 33777",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "SIMPANG RIMBA",
+        "subdistrict_name": "RAJIK",
+        "zip_code": "33777"
+    },
+    {
+        "id": 49604,
+        "label": "SEBAGIN, SIMPANG RIMBA, BANGKA SELATAN, BANGKA BELITUNG, 33777",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "SIMPANG RIMBA",
+        "subdistrict_name": "SEBAGIN",
+        "zip_code": "33777"
+    },
+    {
+        "id": 49605,
+        "label": "SIMPANG RIMBA, SIMPANG RIMBA, BANGKA SELATAN, BANGKA BELITUNG, 33777",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "SIMPANG RIMBA",
+        "subdistrict_name": "SIMPANG RIMBA",
+        "zip_code": "33777"
+    },
+    {
+        "id": 49606,
+        "label": "BATU BETUMPANG, PULAU BESAR, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PULAU BESAR",
+        "subdistrict_name": "BATU BETUMPANG",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49607,
+        "label": "FAJAR INDAH (TRANS 1), PULAU BESAR, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PULAU BESAR",
+        "subdistrict_name": "FAJAR INDAH (TRANS 1)",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49608,
+        "label": "PANCA TUNGGAL (TRANS 3), PULAU BESAR, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PULAU BESAR",
+        "subdistrict_name": "PANCA TUNGGAL (TRANS 3)",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49609,
+        "label": "SUKAJAYA, PULAU BESAR, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PULAU BESAR",
+        "subdistrict_name": "SUKAJAYA",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49610,
+        "label": "SUMBER JAYA PERMAI (TRANS 4), PULAU BESAR, BANGKA SELATAN, BANGKA BELITUNG, 33778",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "PULAU BESAR",
+        "subdistrict_name": "SUMBER JAYA PERMAI (TRANS 4)",
+        "zip_code": "33778"
+    },
+    {
+        "id": 49611,
+        "label": "CELAGEN, KEPULAUAN PONGOK, BANGKA SELATAN, BANGKA BELITUNG, 33791",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "KEPULAUAN PONGOK",
+        "subdistrict_name": "CELAGEN",
+        "zip_code": "33791"
+    },
+    {
+        "id": 49612,
+        "label": "PONGOK, KEPULAUAN PONGOK, BANGKA SELATAN, BANGKA BELITUNG, 33791",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "KEPULAUAN PONGOK",
+        "subdistrict_name": "PONGOK",
+        "zip_code": "33791"
+    },
+    {
+        "id": 49613,
+        "label": "BUKIT TERAP, TUKAK SADAI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TUKAK SADAI",
+        "subdistrict_name": "BUKIT TERAP",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49614,
+        "label": "PASIR PUTIH, TUKAK SADAI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TUKAK SADAI",
+        "subdistrict_name": "PASIR PUTIH",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49615,
+        "label": "SADAI, TUKAK SADAI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TUKAK SADAI",
+        "subdistrict_name": "SADAI",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49616,
+        "label": "TIRAM, TUKAK SADAI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TUKAK SADAI",
+        "subdistrict_name": "TIRAM",
+        "zip_code": "33783"
+    },
+    {
+        "id": 49617,
+        "label": "TUKAK, TUKAK SADAI, BANGKA SELATAN, BANGKA BELITUNG, 33783",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA SELATAN",
+        "district_name": "TUKAK SADAI",
+        "subdistrict_name": "TUKAK",
+        "zip_code": "33783"
+    },
+    {
+        "id": 82828,
+        "label": "MANTUNG, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "MANTUNG",
+        "zip_code": "33253"
+    },
+    {
+        "id": 82859,
+        "label": "REMODONG INDAH, BELINYU, BANGKA, BANGKA BELITUNG, 33253",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "BANGKA",
+        "district_name": "BELINYU",
+        "subdistrict_name": "REMODONG INDAH",
+        "zip_code": "33253"
+    },
+    {
+        "id": 49319,
+        "label": "ASAM, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33135",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "ASAM",
+        "zip_code": "33135"
+    },
+    {
+        "id": 49320,
+        "label": "BINTANG, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33138",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "BINTANG",
+        "zip_code": "33138"
+    },
+    {
+        "id": 49321,
+        "label": "KERAMAT, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33134",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "KERAMAT",
+        "zip_code": "33134"
+    },
+    {
+        "id": 49322,
+        "label": "MASJID JAMIK, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33132",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "MASJID JAMIK",
+        "zip_code": "33132"
+    },
+    {
+        "id": 49323,
+        "label": "MELINTANG, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33136",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "MELINTANG",
+        "zip_code": "33136"
+    },
+    {
+        "id": 49324,
+        "label": "PARIT LALANG, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33137",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "PARIT LALANG",
+        "zip_code": "33137"
+    },
+    {
+        "id": 49325,
+        "label": "PASIR PUTIH, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33139",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "PASIR PUTIH",
+        "zip_code": "33139"
+    },
+    {
+        "id": 49326,
+        "label": "PINTU AIR, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33133",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "PINTU AIR",
+        "zip_code": "33133"
+    },
+    {
+        "id": 49327,
+        "label": "AIR ITAM, BUKIT INTAN, PANGKAL PINANG, BANGKA BELITUNG, 33149",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "BUKIT INTAN",
+        "subdistrict_name": "AIR ITAM",
+        "zip_code": "33149"
+    },
+    {
+        "id": 49328,
+        "label": "AIR MAWAR, BUKIT INTAN, PANGKAL PINANG, BANGKA BELITUNG, 33147",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "BUKIT INTAN",
+        "subdistrict_name": "AIR MAWAR",
+        "zip_code": "33147"
+    },
+    {
+        "id": 49329,
+        "label": "BACANG, BUKIT INTAN, PANGKAL PINANG, BANGKA BELITUNG, 33148",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "BUKIT INTAN",
+        "subdistrict_name": "BACANG",
+        "zip_code": "33148"
+    },
+    {
+        "id": 49330,
+        "label": "PASIR PUTIH, BUKIT INTAN, PANGKAL PINANG, BANGKA BELITUNG, 33147",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "BUKIT INTAN",
+        "subdistrict_name": "PASIR PUTIH",
+        "zip_code": "33147"
+    },
+    {
+        "id": 49331,
+        "label": "SEMABUNG LAMA, BUKIT INTAN, PANGKAL PINANG, BANGKA BELITUNG, 33147",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "BUKIT INTAN",
+        "subdistrict_name": "SEMABUNG LAMA",
+        "zip_code": "33147"
+    },
+    {
+        "id": 49332,
+        "label": "SINAR BULAN, BUKIT INTAN, PANGKAL PINANG, BANGKA BELITUNG, 33147",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "BUKIT INTAN",
+        "subdistrict_name": "SINAR BULAN",
+        "zip_code": "33147"
+    },
+    {
+        "id": 49333,
+        "label": "TEMBERAN, BUKIT INTAN, PANGKAL PINANG, BANGKA BELITUNG, 33147",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "BUKIT INTAN",
+        "subdistrict_name": "TEMBERAN",
+        "zip_code": "33147"
+    },
+    {
+        "id": 49334,
+        "label": "AMPUI, PANGKAL BALAM, PANGKAL PINANG, BANGKA BELITUNG, 33113",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "PANGKAL BALAM",
+        "subdistrict_name": "AMPUI",
+        "zip_code": "33113"
+    },
+    {
+        "id": 49335,
+        "label": "KETAPANG, PANGKAL BALAM, PANGKAL PINANG, BANGKA BELITUNG, 33111",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "PANGKAL BALAM",
+        "subdistrict_name": "KETAPANG",
+        "zip_code": "33111"
+    },
+    {
+        "id": 49336,
+        "label": "LONTONG PANCUR, PANGKAL BALAM, PANGKAL PINANG, BANGKA BELITUNG, 33115",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "PANGKAL BALAM",
+        "subdistrict_name": "LONTONG PANCUR",
+        "zip_code": "33115"
+    },
+    {
+        "id": 49337,
+        "label": "PASIR GARAM, PANGKAL BALAM, PANGKAL PINANG, BANGKA BELITUNG, 33115",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "PANGKAL BALAM",
+        "subdistrict_name": "PASIR GARAM",
+        "zip_code": "33115"
+    },
+    {
+        "id": 49338,
+        "label": "REJOSARI, PANGKAL BALAM, PANGKAL PINANG, BANGKA BELITUNG, 33111",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "PANGKAL BALAM",
+        "subdistrict_name": "REJOSARI",
+        "zip_code": "33111"
+    },
+    {
+        "id": 49339,
+        "label": "AIR KEPALA TUJUH, GERUNGGANG, PANGKAL PINANG, BANGKA BELITUNG, 33123",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GERUNGGANG",
+        "subdistrict_name": "AIR KEPALA TUJUH",
+        "zip_code": "33123"
+    },
+    {
+        "id": 49340,
+        "label": "BUKIT MERAPIN (BUKIT MERAPEN), GERUNGGANG, PANGKAL PINANG, BANGKA BELITUNG, 33123",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GERUNGGANG",
+        "subdistrict_name": "BUKIT MERAPIN (BUKIT MERAPEN)",
+        "zip_code": "33123"
+    },
+    {
+        "id": 49341,
+        "label": "BUKIT SARI, GERUNGGANG, PANGKAL PINANG, BANGKA BELITUNG, 33123",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GERUNGGANG",
+        "subdistrict_name": "BUKIT SARI",
+        "zip_code": "33123"
+    },
+    {
+        "id": 49342,
+        "label": "KACANG PEDANG, GERUNGGANG, PANGKAL PINANG, BANGKA BELITUNG, 33125",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GERUNGGANG",
+        "subdistrict_name": "KACANG PEDANG",
+        "zip_code": "33125"
+    },
+    {
+        "id": 49343,
+        "label": "TAMAN BUNGA, GERUNGGANG, PANGKAL PINANG, BANGKA BELITUNG, 33123",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GERUNGGANG",
+        "subdistrict_name": "TAMAN BUNGA",
+        "zip_code": "33123"
+    },
+    {
+        "id": 49344,
+        "label": "TUA TUNU INDAH, GERUNGGANG, PANGKAL PINANG, BANGKA BELITUNG, 33124",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GERUNGGANG",
+        "subdistrict_name": "TUA TUNU INDAH",
+        "zip_code": "33124"
+    },
+    {
+        "id": 49345,
+        "label": "BATIN TIKAL, TAMAN SARI, PANGKAL PINANG, BANGKA BELITUNG, 33121",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "TAMAN SARI",
+        "subdistrict_name": "BATIN TIKAL",
+        "zip_code": "33121"
+    },
+    {
+        "id": 49346,
+        "label": "GEDUNG NASIONAL, TAMAN SARI, PANGKAL PINANG, BANGKA BELITUNG, 33127",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "TAMAN SARI",
+        "subdistrict_name": "GEDUNG NASIONAL",
+        "zip_code": "33127"
+    },
+    {
+        "id": 49347,
+        "label": "KEJAKSAAN, TAMAN SARI, PANGKAL PINANG, BANGKA BELITUNG, 33123",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "TAMAN SARI",
+        "subdistrict_name": "KEJAKSAAN",
+        "zip_code": "33123"
+    },
+    {
+        "id": 49348,
+        "label": "OPAS INDAH, TAMAN SARI, PANGKAL PINANG, BANGKA BELITUNG, 33121",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "TAMAN SARI",
+        "subdistrict_name": "OPAS INDAH",
+        "zip_code": "33121"
+    },
+    {
+        "id": 49349,
+        "label": "RAWA BANGUN, TAMAN SARI, PANGKAL PINANG, BANGKA BELITUNG, 33121",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "TAMAN SARI",
+        "subdistrict_name": "RAWA BANGUN",
+        "zip_code": "33121"
+    },
+    {
+        "id": 49350,
+        "label": "BATU INTAN, GIRIMAYA, PANGKAL PINANG, BANGKA BELITUNG, 33141",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GIRIMAYA",
+        "subdistrict_name": "BATU INTAN",
+        "zip_code": "33141"
+    },
+    {
+        "id": 49351,
+        "label": "BUKIT BESAR, GIRIMAYA, PANGKAL PINANG, BANGKA BELITUNG, 33145",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GIRIMAYA",
+        "subdistrict_name": "BUKIT BESAR",
+        "zip_code": "33145"
+    },
+    {
+        "id": 49352,
+        "label": "PASAR PADI, GIRIMAYA, PANGKAL PINANG, BANGKA BELITUNG, 33142",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GIRIMAYA",
+        "subdistrict_name": "PASAR PADI",
+        "zip_code": "33142"
+    },
+    {
+        "id": 49353,
+        "label": "SEMABUNG BARU, GIRIMAYA, PANGKAL PINANG, BANGKA BELITUNG, 33146",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GIRIMAYA",
+        "subdistrict_name": "SEMABUNG BARU",
+        "zip_code": "33146"
+    },
+    {
+        "id": 49354,
+        "label": "SRIWIJAYA, GIRIMAYA, PANGKAL PINANG, BANGKA BELITUNG, 33143",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GIRIMAYA",
+        "subdistrict_name": "SRIWIJAYA",
+        "zip_code": "33143"
+    },
+    {
+        "id": 49355,
+        "label": "AIR SALEMBA, GABEK, PANGKAL PINANG, BANGKA BELITUNG, 33111",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GABEK",
+        "subdistrict_name": "AIR SALEMBA",
+        "zip_code": "33111"
+    },
+    {
+        "id": 49356,
+        "label": "GABEK DUA, GABEK, PANGKAL PINANG, BANGKA BELITUNG, 33116",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GABEK",
+        "subdistrict_name": "GABEK DUA",
+        "zip_code": "33116"
+    },
+    {
+        "id": 49357,
+        "label": "GABEK SATU, GABEK, PANGKAL PINANG, BANGKA BELITUNG, 33118",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GABEK",
+        "subdistrict_name": "GABEK SATU",
+        "zip_code": "33118"
+    },
+    {
+        "id": 49358,
+        "label": "JERAMBAH GANTUNG, GABEK, PANGKAL PINANG, BANGKA BELITUNG, 33119",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GABEK",
+        "subdistrict_name": "JERAMBAH GANTUNG",
+        "zip_code": "33119"
+    },
+    {
+        "id": 49359,
+        "label": "SELINDUNG (SELINDUNG LAMA), GABEK, PANGKAL PINANG, BANGKA BELITUNG, 33117",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GABEK",
+        "subdistrict_name": "SELINDUNG (SELINDUNG LAMA)",
+        "zip_code": "33117"
+    },
+    {
+        "id": 49360,
+        "label": "SELINDUNG BARU, GABEK, PANGKAL PINANG, BANGKA BELITUNG, 33117",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "GABEK",
+        "subdistrict_name": "SELINDUNG BARU",
+        "zip_code": "33117"
+    },
+    {
+        "id": 82879,
+        "label": "GAJAH MADA, RANGKUI, PANGKAL PINANG, BANGKA BELITUNG, 33139",
+        "province_name": "BANGKA BELITUNG",
+        "city_name": "PANGKAL PINANG",
+        "district_name": "RANGKUI",
+        "subdistrict_name": "GAJAH MADA",
+        "zip_code": "33139"
+    }
+]

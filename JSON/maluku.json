@@ -1,0 +1,5231 @@
+[
+    {
+        "id": 1191,
+        "label": "AMPERA, KOTA MASOHI, MALUKU TENGAH, MALUKU, 97513",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "KOTA MASOHI",
+        "subdistrict_name": "AMPERA",
+        "zip_code": "97513"
+    },
+    {
+        "id": 1192,
+        "label": "LESANE, KOTA MASOHI, MALUKU TENGAH, MALUKU, 97514",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "KOTA MASOHI",
+        "subdistrict_name": "LESANE",
+        "zip_code": "97514"
+    },
+    {
+        "id": 1193,
+        "label": "LETWARU, KOTA MASOHI, MALUKU TENGAH, MALUKU, 97515",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "KOTA MASOHI",
+        "subdistrict_name": "LETWARU",
+        "zip_code": "97515"
+    },
+    {
+        "id": 1194,
+        "label": "NAMAELO, KOTA MASOHI, MALUKU TENGAH, MALUKU, 97511",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "KOTA MASOHI",
+        "subdistrict_name": "NAMAELO",
+        "zip_code": "97511"
+    },
+    {
+        "id": 1195,
+        "label": "NAMASINA, KOTA MASOHI, MALUKU TENGAH, MALUKU, 97512",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "KOTA MASOHI",
+        "subdistrict_name": "NAMASINA",
+        "zip_code": "97512"
+    },
+    {
+        "id": 1196,
+        "label": "BOIYAUW, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "BOIYAUW",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1197,
+        "label": "COMBIR KASESTOREN, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "COMBIR KASESTOREN",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1198,
+        "label": "DENDER, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "DENDER",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1199,
+        "label": "DWIWARNA, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "DWIWARNA",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1200,
+        "label": "KAMPUNG BARU, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "KAMPUNG BARU",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1201,
+        "label": "LAUTANG, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "LAUTANG",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1202,
+        "label": "LONTHOIR, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "LONTHOIR",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1203,
+        "label": "MERDEKA, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "MERDEKA",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1204,
+        "label": "NUSANTARA, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "NUSANTARA",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1205,
+        "label": "PULAU AY, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "PULAU AY",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1206,
+        "label": "PULAU HATTA, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "PULAU HATTA",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1207,
+        "label": "PULAU RHUN, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "PULAU RHUN",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1208,
+        "label": "RAJAWALI, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "RAJAWALI",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1209,
+        "label": "SELAMON, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "SELAMON",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1210,
+        "label": "TANAH RATA, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "TANAH RATA",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1211,
+        "label": "URING TUTRA, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "URING TUTRA",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1212,
+        "label": "WAER, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "WAER",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1213,
+        "label": "WAILING SPANCIBY, BANDA, MALUKU TENGAH, MALUKU, 97593",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "BANDA",
+        "subdistrict_name": "WAILING SPANCIBY",
+        "zip_code": "97593"
+    },
+    {
+        "id": 1214,
+        "label": "ASILULU, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "ASILULU",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1215,
+        "label": "HILA, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "HILA",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1216,
+        "label": "HITU LAMA, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "HITU LAMA",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1217,
+        "label": "HITU MESING, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "HITU MESING",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1218,
+        "label": "KAITETU, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "KAITETU",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1219,
+        "label": "MAMALA, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "MAMALA",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1220,
+        "label": "MORELA, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "MORELA",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1221,
+        "label": "NEGERI LIMA, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "NEGERI LIMA",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1222,
+        "label": "SEITH, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "SEITH",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1223,
+        "label": "URENG, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "URENG",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1224,
+        "label": "WAKAL, LEIHITU, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU",
+        "subdistrict_name": "WAKAL",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1225,
+        "label": "ABORU, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "ABORU",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1226,
+        "label": "HARUKU, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "HARUKU",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1227,
+        "label": "HULALIU, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "HULALIU",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1228,
+        "label": "KABAU, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "KABAU",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1229,
+        "label": "KAILOLO, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "KAILOLO",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1230,
+        "label": "KARIUW, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "KARIUW",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1231,
+        "label": "OMA, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "OMA",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1232,
+        "label": "PELAUW, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "PELAUW",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1233,
+        "label": "ROHOMONI, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "ROHOMONI",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1234,
+        "label": "SAMETH, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "SAMETH",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1235,
+        "label": "WASSU, PULAU HARUKU, MALUKU TENGAH, MALUKU, 97591",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "PULAU HARUKU",
+        "subdistrict_name": "WASSU",
+        "zip_code": "97591"
+    },
+    {
+        "id": 1236,
+        "label": "LIANG, SALAHUTU, MALUKU TENGAH, MALUKU, 97582",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SALAHUTU",
+        "subdistrict_name": "LIANG",
+        "zip_code": "97582"
+    },
+    {
+        "id": 1237,
+        "label": "SULI, SALAHUTU, MALUKU TENGAH, MALUKU, 97582",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SALAHUTU",
+        "subdistrict_name": "SULI",
+        "zip_code": "97582"
+    },
+    {
+        "id": 1238,
+        "label": "TENGAH-TENGAH, SALAHUTU, MALUKU TENGAH, MALUKU, 97582",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SALAHUTU",
+        "subdistrict_name": "TENGAH-TENGAH",
+        "zip_code": "97582"
+    },
+    {
+        "id": 1239,
+        "label": "TIAL, SALAHUTU, MALUKU TENGAH, MALUKU, 97582",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SALAHUTU",
+        "subdistrict_name": "TIAL",
+        "zip_code": "97582"
+    },
+    {
+        "id": 1240,
+        "label": "TULEHU, SALAHUTU, MALUKU TENGAH, MALUKU, 97582",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SALAHUTU",
+        "subdistrict_name": "TULEHU",
+        "zip_code": "97582"
+    },
+    {
+        "id": 1241,
+        "label": "WAAI, SALAHUTU, MALUKU TENGAH, MALUKU, 97582",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SALAHUTU",
+        "subdistrict_name": "WAAI",
+        "zip_code": "97582"
+    },
+    {
+        "id": 1242,
+        "label": "AIR BESAR, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "AIR BESAR",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1243,
+        "label": "BESI, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "BESI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1244,
+        "label": "ELEMATA, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "ELEMATA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1245,
+        "label": "HATUOLO, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "HATUOLO",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1246,
+        "label": "HUAULU, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "HUAULU",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1247,
+        "label": "KALOA, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "KALOA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1248,
+        "label": "KANIKEH, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "KANIKEH",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1249,
+        "label": "MALAKU, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "MALAKU",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1250,
+        "label": "MANUSELA, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "MANUSELA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1251,
+        "label": "MARAINA, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "MARAINA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1252,
+        "label": "MASIHULAN, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "MASIHULAN",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1253,
+        "label": "OLONG, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "OLONG",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1254,
+        "label": "OPING, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "OPING",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1255,
+        "label": "PASAHARI, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "PASAHARI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1256,
+        "label": "ROHO, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "ROHO",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1257,
+        "label": "RUMAHSOKAT, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "RUMAHSOKAT",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1258,
+        "label": "SAWAI, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "SAWAI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1259,
+        "label": "SIATELE, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "SIATELE",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1260,
+        "label": "SOLEA, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "SOLEA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1261,
+        "label": "WAHAI, SERAM UTARA, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA",
+        "subdistrict_name": "WAHAI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1262,
+        "label": "HATU, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "HATU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1263,
+        "label": "HATUMETE, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "HATUMETE",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1264,
+        "label": "HAYA, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "HAYA",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1265,
+        "label": "MOSSO, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "MOSSO",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1266,
+        "label": "PILIAMA (PILIANA), TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "PILIAMA (PILIANA)",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1267,
+        "label": "SALAMAHU, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "SALAMAHU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1268,
+        "label": "SAUNULU, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "SAUNULU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1269,
+        "label": "TEHORU, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "TEHORU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1270,
+        "label": "TELUTI BARU, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "TELUTI BARU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1271,
+        "label": "YAPUTIH, TEHORU, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEHORU",
+        "subdistrict_name": "YAPUTIH",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1272,
+        "label": "AMETH, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "AMETH",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1273,
+        "label": "BUMEY, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "BUMEY",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1274,
+        "label": "ISU (ISSU), TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "ISU (ISSU)",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1275,
+        "label": "JERILI, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "JERILI",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1276,
+        "label": "KOKROMAN, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "KOKROMAN",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1277,
+        "label": "KURALELE, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "KURALELE",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1278,
+        "label": "LAYENI, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "LAYENI",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1279,
+        "label": "LESLURU, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "LESLURU",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1280,
+        "label": "MESA (MESSA), TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "MESA (MESSA)",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1281,
+        "label": "NAKUPIA, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "NAKUPIA",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1282,
+        "label": "SEFLURU (SIFLURU), TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "SEFLURU (SIFLURU)",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1283,
+        "label": "TRANA, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "TRANA",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1284,
+        "label": "USLIAPAN, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "USLIAPAN",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1285,
+        "label": "WARU, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "WARU",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1286,
+        "label": "WATLUDAN, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "WATLUDAN",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1287,
+        "label": "WOTAY, TEON NILA SERUA, MALUKU TENGAH, MALUKU, 97558",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TEON NILA SERUA",
+        "subdistrict_name": "WOTAY",
+        "zip_code": "97558"
+    },
+    {
+        "id": 1288,
+        "label": "AMAHAI, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "AMAHAI",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1289,
+        "label": "BANDA BARU, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "BANDA BARU",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1290,
+        "label": "HARURU, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "HARURU",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1291,
+        "label": "HATUHENU, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "HATUHENU",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1292,
+        "label": "HOLLO, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "HOLLO",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1293,
+        "label": "MAKARIKI, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "MAKARIKI",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1294,
+        "label": "NUA NEA, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "NUA NEA",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1295,
+        "label": "NUWELETETU, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "NUWELETETU",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1296,
+        "label": "RUTAH, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "RUTAH",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1297,
+        "label": "SEHATI, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "SEHATI",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1298,
+        "label": "SEPA, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "SEPA",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1299,
+        "label": "SOAHUKU, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "SOAHUKU",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1300,
+        "label": "TAMILOUW, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "TAMILOUW",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1301,
+        "label": "YAFILA, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "YAFILA",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1302,
+        "label": "YAINUELO, AMAHAI, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "AMAHAI",
+        "subdistrict_name": "YAINUELO",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1303,
+        "label": "ABUBU, NUSA LAUT, MALUKU TENGAH, MALUKU, 97511",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "NUSA LAUT",
+        "subdistrict_name": "ABUBU",
+        "zip_code": "97511"
+    },
+    {
+        "id": 1304,
+        "label": "AKOON, NUSA LAUT, MALUKU TENGAH, MALUKU, 97511",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "NUSA LAUT",
+        "subdistrict_name": "AKOON",
+        "zip_code": "97511"
+    },
+    {
+        "id": 1305,
+        "label": "AMETH, NUSA LAUT, MALUKU TENGAH, MALUKU, 97511",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "NUSA LAUT",
+        "subdistrict_name": "AMETH",
+        "zip_code": "97511"
+    },
+    {
+        "id": 1306,
+        "label": "LEINITU, NUSA LAUT, MALUKU TENGAH, MALUKU, 97511",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "NUSA LAUT",
+        "subdistrict_name": "LEINITU",
+        "zip_code": "97511"
+    },
+    {
+        "id": 1307,
+        "label": "NALAHIA, NUSA LAUT, MALUKU TENGAH, MALUKU, 97511",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "NUSA LAUT",
+        "subdistrict_name": "NALAHIA",
+        "zip_code": "97511"
+    },
+    {
+        "id": 1308,
+        "label": "SILA, NUSA LAUT, MALUKU TENGAH, MALUKU, 97511",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "NUSA LAUT",
+        "subdistrict_name": "SILA",
+        "zip_code": "97511"
+    },
+    {
+        "id": 1309,
+        "label": "TITAWAAI, NUSA LAUT, MALUKU TENGAH, MALUKU, 97511",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "NUSA LAUT",
+        "subdistrict_name": "TITAWAAI",
+        "zip_code": "97511"
+    },
+    {
+        "id": 1310,
+        "label": "BOOI, SAPARUA, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA",
+        "subdistrict_name": "BOOI",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1311,
+        "label": "HARIA, SAPARUA, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA",
+        "subdistrict_name": "HARIA",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1312,
+        "label": "KULUR, SAPARUA, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA",
+        "subdistrict_name": "KULUR",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1313,
+        "label": "PAPERU, SAPARUA, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA",
+        "subdistrict_name": "PAPERU",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1314,
+        "label": "PORTHO, SAPARUA, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA",
+        "subdistrict_name": "PORTHO",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1315,
+        "label": "SAPARUA, SAPARUA, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA",
+        "subdistrict_name": "SAPARUA",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1316,
+        "label": "TIOUW, SAPARUA, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA",
+        "subdistrict_name": "TIOUW",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1317,
+        "label": "LIANG, TELUK ELPAPUTIH, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUK ELPAPUTIH",
+        "subdistrict_name": "LIANG",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1318,
+        "label": "SAHULAU, TELUK ELPAPUTIH, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUK ELPAPUTIH",
+        "subdistrict_name": "SAHULAU",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1319,
+        "label": "TANANAHU, TELUK ELPAPUTIH, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUK ELPAPUTIH",
+        "subdistrict_name": "TANANAHU",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1320,
+        "label": "WARAKA, TELUK ELPAPUTIH, MALUKU TENGAH, MALUKU, 97516",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUK ELPAPUTIH",
+        "subdistrict_name": "WARAKA",
+        "zip_code": "97516"
+    },
+    {
+        "id": 1321,
+        "label": "GALE-GALE, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "GALE-GALE",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1322,
+        "label": "HERLAU PAUNI, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "HERLAU PAUNI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1323,
+        "label": "HORALE, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "HORALE",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1324,
+        "label": "KARLUTU KARA, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "KARLUTU KARA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1325,
+        "label": "LABUAN, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "LABUAN",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1326,
+        "label": "LATEA, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "LATEA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1327,
+        "label": "LISABATA TIMUR, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "LISABATA TIMUR",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1328,
+        "label": "PAA, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "PAA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1329,
+        "label": "PASANEA, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "PASANEA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1330,
+        "label": "RUMAHWEY, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "RUMAHWEY",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1331,
+        "label": "SALEMAN, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "SALEMAN",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1332,
+        "label": "WAILULU, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "WAILULU",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1333,
+        "label": "WARASIWA, SERAM UTARA BARAT, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA BARAT",
+        "subdistrict_name": "WARASIWA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1334,
+        "label": "ALLANG, LEIHITU BARAT, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU BARAT",
+        "subdistrict_name": "ALLANG",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1335,
+        "label": "HATU, LEIHITU BARAT, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU BARAT",
+        "subdistrict_name": "HATU",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1336,
+        "label": "LARIKE, LEIHITU BARAT, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU BARAT",
+        "subdistrict_name": "LARIKE",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1337,
+        "label": "LILIBOI, LEIHITU BARAT, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU BARAT",
+        "subdistrict_name": "LILIBOI",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1338,
+        "label": "WAKASIHU, LEIHITU BARAT, MALUKU TENGAH, MALUKU, 97581",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "LEIHITU BARAT",
+        "subdistrict_name": "WAKASIHU",
+        "zip_code": "97581"
+    },
+    {
+        "id": 1339,
+        "label": "IHA, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "IHA",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1340,
+        "label": "IHAMAHU, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "IHAMAHU",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1341,
+        "label": "ITAWAKA, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "ITAWAKA",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1342,
+        "label": "MAHU, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "MAHU",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1343,
+        "label": "NOLOTH, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "NOLOTH",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1344,
+        "label": "OUW, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "OUW",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1345,
+        "label": "SIRI SORI, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "SIRI SORI",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1346,
+        "label": "SIRI-SORI AMALATU, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "SIRI-SORI AMALATU",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1347,
+        "label": "TUHAHA, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "TUHAHA",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1348,
+        "label": "ULLATH, SAPARUA TIMUR, MALUKU TENGAH, MALUKU, 97592",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SAPARUA TIMUR",
+        "subdistrict_name": "ULLATH",
+        "zip_code": "97592"
+    },
+    {
+        "id": 1349,
+        "label": "KABAUHARI, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "KABAUHARI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1350,
+        "label": "KOBI, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "KOBI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1351,
+        "label": "KOBIMUKTI, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "KOBIMUKTI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1352,
+        "label": "LEAWAY, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "LEAWAY",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1353,
+        "label": "MANEO RENDAH, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "MANEO RENDAH",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1354,
+        "label": "MARASAHUA, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "MARASAHUA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1355,
+        "label": "MOROKAI, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "MOROKAI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1356,
+        "label": "SAMAL, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "SAMAL",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1357,
+        "label": "SARIPUTIH, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "SARIPUTIH",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1358,
+        "label": "WAIMUSI, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "WAIMUSI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1359,
+        "label": "WAITONIPA, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "WAITONIPA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1360,
+        "label": "WAY ASIH, SERAM UTARA TIMUR KOBI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR KOBI",
+        "subdistrict_name": "WAY ASIH",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1361,
+        "label": "AKETERNATE, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "AKETERNATE",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1362,
+        "label": "KOBISONTA, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "KOBISONTA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1363,
+        "label": "LOPING MULYO, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "LOPING MULYO",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1364,
+        "label": "NAMTO, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "NAMTO",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1365,
+        "label": "SETI, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "SETI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1366,
+        "label": "TANAH MERAH, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "TANAH MERAH",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1367,
+        "label": "TIHUANA, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "TIHUANA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1368,
+        "label": "WAILOPING, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "WAILOPING",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1369,
+        "label": "WAIMUSAL, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "WAIMUSAL",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1370,
+        "label": "WAIPUTIH, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "WAIPUTIH",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1371,
+        "label": "WAITILA, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "WAITILA",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1372,
+        "label": "WONOSARI, SERAM UTARA TIMUR SETI, MALUKU TENGAH, MALUKU, 97557",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "SERAM UTARA TIMUR SETI",
+        "subdistrict_name": "WONOSARI",
+        "zip_code": "97557"
+    },
+    {
+        "id": 1373,
+        "label": "HUNISI, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "HUNISI",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1374,
+        "label": "LAFA, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "LAFA",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1375,
+        "label": "LAHA, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "LAHA",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1376,
+        "label": "LAHAKABA, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "LAHAKABA",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1377,
+        "label": "LAIMU, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "LAIMU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1378,
+        "label": "MANEO RATU, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "MANEO RATU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1379,
+        "label": "TEHUA, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "TEHUA",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1380,
+        "label": "ULAHAHAN, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "ULAHAHAN",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1381,
+        "label": "WOLU, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "WOLU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1382,
+        "label": "YAMALATU, TELUTIH, MALUKU TENGAH, MALUKU, 97553",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGAH",
+        "district_name": "TELUTIH",
+        "subdistrict_name": "YAMALATU",
+        "zip_code": "97553"
+    },
+    {
+        "id": 1384,
+        "label": "BOMBAY, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "BOMBAY",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1385,
+        "label": "DAFTEL, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "DAFTEL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1386,
+        "label": "DEPUR, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "DEPUR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1387,
+        "label": "EL RALANG, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "EL RALANG",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1388,
+        "label": "ELAT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "ELAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1389,
+        "label": "FAKO, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "FAKO",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1390,
+        "label": "FANGAMAS, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "FANGAMAS",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1391,
+        "label": "HARANGUR, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "HARANGUR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1392,
+        "label": "KARKARIT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "KARKARIT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1393,
+        "label": "LER OHOILIM, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "LER OHOILIM",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1394,
+        "label": "MATAHOLAT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "MATAHOLAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1395,
+        "label": "NABAHENG, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "NABAHENG",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1396,
+        "label": "NGAT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "NGAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1397,
+        "label": "NGEFUIT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "NGEFUIT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1398,
+        "label": "NGEFUIT ATAS, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "NGEFUIT ATAS",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1399,
+        "label": "NGURDU, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "NGURDU",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1400,
+        "label": "OHOIEL, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "OHOIEL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1401,
+        "label": "OHOILIM, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "OHOILIM",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1402,
+        "label": "OHOINANGAN, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "OHOINANGAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1403,
+        "label": "OHOINANGAN ATAS, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "OHOINANGAN ATAS",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1404,
+        "label": "OHOIWAIT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "OHOIWAIT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1405,
+        "label": "OHOIWANG, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "OHOIWANG",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1406,
+        "label": "RAHARENG, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "RAHARENG",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1407,
+        "label": "RAHARENG ATAS, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "RAHARENG ATAS",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1408,
+        "label": "REYAMRU, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "REYAMRU",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1409,
+        "label": "SIRBANTE, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "SIRBANTE",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1410,
+        "label": "SOINRAT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "SOINRAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1411,
+        "label": "UDAR, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "UDAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1412,
+        "label": "WAKOL, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "WAKOL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1413,
+        "label": "WATSIN, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "WATSIN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1414,
+        "label": "WATUAR, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "WATUAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1415,
+        "label": "WAUR, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "WAUR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1416,
+        "label": "WAUR TAHIT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "WAUR TAHIT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1417,
+        "label": "WERKA, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "WERKA",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1418,
+        "label": "WERMAF, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "WERMAF",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1419,
+        "label": "WULURAT, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "WULURAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1420,
+        "label": "YAMTEL, KEI BESAR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR",
+        "subdistrict_name": "YAMTEL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1421,
+        "label": "KILWAT, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "KILWAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1422,
+        "label": "LARAT, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "LARAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1423,
+        "label": "NERONG, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "NERONG",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1424,
+        "label": "OHOIRENAN, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "OHOIRENAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1425,
+        "label": "SATHEN (SETHER/SATHER), KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "SATHEN (SETHER/SATHER)",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1426,
+        "label": "SOINDAT, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "SOINDAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1427,
+        "label": "TAMANGIL NUHUTEN, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "TAMANGIL NUHUTEN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1428,
+        "label": "TAMANGIL NUHUYANAT, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "TAMANGIL NUHUYANAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1429,
+        "label": "TUTREAN, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "TUTREAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1430,
+        "label": "WEDUAR, KEI BESAR SELATAN, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN",
+        "subdistrict_name": "WEDUAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1431,
+        "label": "BANDA EFRUAN, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "BANDA EFRUAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1432,
+        "label": "BANDA ELI/ELY, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "BANDA ELI/ELY",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1433,
+        "label": "BANDA SUKU TIGAPULUH, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "BANDA SUKU TIGAPULUH",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1434,
+        "label": "FANWAV, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "FANWAV",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1435,
+        "label": "HAAR OHOIMEL, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HAAR OHOIMEL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1436,
+        "label": "HAAR OHOIMUR GPM, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HAAR OHOIMUR GPM",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1437,
+        "label": "HAAR OHOIMUR RK, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HAAR OHOIMUR RK",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1438,
+        "label": "HAAR OHOIWAIT, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HAAR OHOIWAIT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1439,
+        "label": "HAAR RENRAHANTEL, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HAAR RENRAHANTEL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1440,
+        "label": "HAAR WASSAR, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HAAR WASSAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1441,
+        "label": "HOKO, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HOKO",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1442,
+        "label": "HOLLAT, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HOLLAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1443,
+        "label": "HOLLAT SOLAIR, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HOLLAT SOLAIR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1444,
+        "label": "HOLLAY, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "HOLLAY",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1445,
+        "label": "KILWAIR, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "KILWAIR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1446,
+        "label": "LANGGIAR HAAR, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "LANGGIAR HAAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1447,
+        "label": "OHOIFARUAN, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "OHOIFARUAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1448,
+        "label": "OHOIFAU, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "OHOIFAU",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1449,
+        "label": "OHOIMAJANG, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "OHOIMAJANG",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1450,
+        "label": "OHOIRAUT, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "OHOIRAUT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1451,
+        "label": "OHOIWIRIN, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "OHOIWIRIN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1452,
+        "label": "RENFAAN GPM, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "RENFAAN GPM",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1453,
+        "label": "RENFAAN ISLAM, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "RENFAAN ISLAM",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1454,
+        "label": "RENFAN (RENFAAN), KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "RENFAN (RENFAAN)",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1455,
+        "label": "SOIN, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "SOIN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1456,
+        "label": "TUBURLAY, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "TUBURLAY",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1457,
+        "label": "TUBURNGIL, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "TUBURNGIL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1458,
+        "label": "UR, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "UR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1459,
+        "label": "WATLAR, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "WATLAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1460,
+        "label": "YAMTIMUR, KEI BESAR UTARA TIMUR, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA TIMUR",
+        "subdistrict_name": "YAMTIMUR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1461,
+        "label": "DUDUNWAHAN, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "DUDUNWAHAN",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1462,
+        "label": "FAAN, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "FAAN",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1463,
+        "label": "IBRA, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "IBRA",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1464,
+        "label": "KELANIT, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "KELANIT",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1465,
+        "label": "KOLSER, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "KOLSER",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1466,
+        "label": "LANGGUR, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "LANGGUR",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1467,
+        "label": "LETMAN, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "LETMAN",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1468,
+        "label": "LOON, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "LOON",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1469,
+        "label": "NGABUB, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "NGABUB",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1470,
+        "label": "OHODERTAWUN, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "OHODERTAWUN",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1471,
+        "label": "OHOIDER ATAS, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "OHOIDER ATAS",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1472,
+        "label": "OHOIJANG/OHOIYONG WATDEK, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "OHOIJANG/OHOIYONG WATDEK",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1473,
+        "label": "SATHEAN, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "SATHEAN",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1474,
+        "label": "SITNIOHOI, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "SITNIOHOI",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1475,
+        "label": "WEARLILIR, KEI KECIL, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL",
+        "subdistrict_name": "WEARLILIR",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1480,
+        "label": "ABEAN, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "ABEAN",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1481,
+        "label": "DENWET, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "DENWET",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1482,
+        "label": "DISUK, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "DISUK",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1483,
+        "label": "ISO, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "ISO",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1484,
+        "label": "MARFUN, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "MARFUN",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1485,
+        "label": "MASTUR, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "MASTUR",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1486,
+        "label": "MASTUR BARU, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "MASTUR BARU",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1487,
+        "label": "OHOILUS, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "OHOILUS",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1488,
+        "label": "OHOINOL, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "OHOINOL",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1489,
+        "label": "RAT, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "RAT",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1490,
+        "label": "REWAV, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "REWAV",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1491,
+        "label": "RUMAAT, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "RUMAAT",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1492,
+        "label": "SEMAWI, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "SEMAWI",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1493,
+        "label": "TENBUK, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "TENBUK",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1494,
+        "label": "WAIN, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "WAIN",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1495,
+        "label": "WAIN BARU, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "WAIN BARU",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1496,
+        "label": "WATNGON, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "WATNGON",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1497,
+        "label": "YAFAVUN, KEI KECIL TIMUR, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR",
+        "subdistrict_name": "YAFAVUN",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1498,
+        "label": "MATWAIR (MADWAER), KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "MATWAIR (MADWAER)",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1499,
+        "label": "OHOIDERTOM, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "OHOIDERTOM",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1500,
+        "label": "OHOIDERTUTU, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "OHOIDERTUTU",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1501,
+        "label": "OHOIRA, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "OHOIRA",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1502,
+        "label": "OHOIREN, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "OHOIREN",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1503,
+        "label": "SOMLAIN, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "SOMLAIN",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1504,
+        "label": "TANIMBAR KEI, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "TANIMBAR KEI",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1505,
+        "label": "UR PULAU, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "UR PULAU",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1506,
+        "label": "WARBAL, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "WARBAL",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1507,
+        "label": "YATWAV, KEI KECIL BARAT, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL BARAT",
+        "subdistrict_name": "YATWAV",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1508,
+        "label": "ARSO, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "ARSO",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1509,
+        "label": "DIAN DARAT, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "DIAN DARAT",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1510,
+        "label": "DIAN PULAU, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "DIAN PULAU",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1511,
+        "label": "EVU, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "EVU",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1512,
+        "label": "LETVUAN, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "LETVUAN",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1513,
+        "label": "MADWAT, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "MADWAT",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1514,
+        "label": "NGURSIT, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "NGURSIT",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1515,
+        "label": "OHOIBADAR, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "OHOIBADAR",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1516,
+        "label": "TETOAT, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "TETOAT",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1517,
+        "label": "WAB, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "WAB",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1518,
+        "label": "WARWUT, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "WARWUT",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1519,
+        "label": "WATNGIL, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "WATNGIL",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1520,
+        "label": "WIRIN, HOAT SORBAY, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "HOAT SORBAY",
+        "subdistrict_name": "WIRIN",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1521,
+        "label": "FEER, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "FEER",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1522,
+        "label": "HOAT, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "HOAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1523,
+        "label": "HOKO, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "HOKO",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1524,
+        "label": "NGAFAN, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "NGAFAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1525,
+        "label": "NGAN, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "NGAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1526,
+        "label": "NGURKO, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "NGURKO",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1527,
+        "label": "OHOILEAN, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "OHOILEAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1528,
+        "label": "RAHANGIAR, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "RAHANGIAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1529,
+        "label": "REREAN, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "REREAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1530,
+        "label": "UAT, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "UAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1531,
+        "label": "WAFOL, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "WAFOL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1532,
+        "label": "WATKIDAT, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "WATKIDAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1533,
+        "label": "WEDUAR FEER, KEI BESAR SELATAN BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR SELATAN BARAT",
+        "subdistrict_name": "WEDUAR FEER",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1534,
+        "label": "AD NGURWUL, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "AD NGURWUL",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1535,
+        "label": "AD OHOIWAF, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "AD OHOIWAF",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1536,
+        "label": "AD WEARAUR, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "AD WEARAUR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1537,
+        "label": "DANGARAT, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "DANGARAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1538,
+        "label": "FAA, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "FAA",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1539,
+        "label": "HANGUR, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "HANGUR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1540,
+        "label": "HOOR ISLAM, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "HOOR ISLAM",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1541,
+        "label": "HOOR KRISTEN, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "HOOR KRISTEN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1542,
+        "label": "LAAR PERDA, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "LAAR PERDA",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1543,
+        "label": "MUN ESSOY, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "MUN ESSOY",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1544,
+        "label": "MUN KAHAR, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "MUN KAHAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1545,
+        "label": "MUN NGURDITWAIN, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "MUN NGURDITWAIN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1546,
+        "label": "MUN OHOIIR, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "MUN OHOIIR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1547,
+        "label": "MUN OHOITADIUM, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "MUN OHOITADIUM",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1548,
+        "label": "MUN WERFAN, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "MUN WERFAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1549,
+        "label": "NGURWALEK, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "NGURWALEK",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1550,
+        "label": "OHOITUF, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "OHOITUF",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1551,
+        "label": "UWAT, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "UWAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1552,
+        "label": "UWAT REYAAN, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "UWAT REYAAN",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1553,
+        "label": "UWAT WEAR, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "UWAT WEAR",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1554,
+        "label": "WAER, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "WAER",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1555,
+        "label": "WAERAT, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "WAERAT",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1556,
+        "label": "WEER FRAWAF, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "WEER FRAWAF",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1557,
+        "label": "WEER OHOIKER, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "WEER OHOIKER",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1558,
+        "label": "WEER OHOINAM, KEI BESAR UTARA BARAT, MALUKU TENGGARA, MALUKU, 97661",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI BESAR UTARA BARAT",
+        "subdistrict_name": "WEER OHOINAM",
+        "zip_code": "97661"
+    },
+    {
+        "id": 1559,
+        "label": "DANAR LUMEFAR, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "DANAR LUMEFAR",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1560,
+        "label": "DANAR OHOISEB, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "DANAR OHOISEB",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1561,
+        "label": "DANAR TERNATE, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "DANAR TERNATE",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1562,
+        "label": "ELAAR LAMAGORANG, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "ELAAR LAMAGORANG",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1563,
+        "label": "ELAAR LET, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "ELAAR LET",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1564,
+        "label": "ELAAR NGURSOIN, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "ELAAR NGURSOIN",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1565,
+        "label": "GARARA, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "GARARA",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1566,
+        "label": "MAAR, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "MAAR",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1567,
+        "label": "NGURWUL, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "NGURWUL",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1568,
+        "label": "SARE, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "SARE",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1569,
+        "label": "UF, KEI KECIL TIMUR SELATAN, MALUKU TENGGARA, MALUKU, 97615",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "KEI KECIL TIMUR SELATAN",
+        "subdistrict_name": "UF",
+        "zip_code": "97615"
+    },
+    {
+        "id": 1570,
+        "label": "DEBUT, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "DEBUT",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1571,
+        "label": "LAIRNGANGAS, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "LAIRNGANGAS",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1572,
+        "label": "NAMAR, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "NAMAR",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1573,
+        "label": "NGAYUB, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "NGAYUB",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1574,
+        "label": "NGILNGOF, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "NGILNGOF",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1575,
+        "label": "OHOILILIR, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "OHOILILIR",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1576,
+        "label": "OHOILUK, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "OHOILUK",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1577,
+        "label": "RUMADIAN, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "RUMADIAN",
+        "zip_code": "97611"
+    },
+    {
+        "id": 1578,
+        "label": "SELAYAR, MANYEUW, MALUKU TENGGARA, MALUKU, 97611",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA",
+        "district_name": "MANYEUW",
+        "subdistrict_name": "SELAYAR",
+        "zip_code": "97611"
+    },
+    {
+        "id": 2162,
+        "label": "BATUMERAH, DAMER, MALUKU BARAT DAYA, MALUKU, 97128",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAMER",
+        "subdistrict_name": "BATUMERAH",
+        "zip_code": "97128"
+    },
+    {
+        "id": 2163,
+        "label": "BEBAR TIMUR, DAMER, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAMER",
+        "subdistrict_name": "BEBAR TIMUR",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2164,
+        "label": "ILIH, DAMER, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAMER",
+        "subdistrict_name": "ILIH",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2165,
+        "label": "KEHLI, DAMER, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAMER",
+        "subdistrict_name": "KEHLI",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2166,
+        "label": "KUAY MELU, DAMER, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAMER",
+        "subdistrict_name": "KUAY MELU",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2167,
+        "label": "KUMUR, DAMER, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAMER",
+        "subdistrict_name": "KUMUR",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2168,
+        "label": "WULUR, DAMER, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAMER",
+        "subdistrict_name": "WULUR",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2169,
+        "label": "ALUSI BATJASI, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "ALUSI BATJASI",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2170,
+        "label": "ALUSI BUKJALIM, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "ALUSI BUKJALIM",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2171,
+        "label": "ALUSI KELAAN, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "ALUSI KELAAN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2172,
+        "label": "ALUSI KRAWAIN, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "ALUSI KRAWAIN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2173,
+        "label": "ALUSI TAMRIAN, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "ALUSI TAMRIAN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2174,
+        "label": "KILMASA, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "KILMASA",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2175,
+        "label": "LORWEMBUN, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "LORWEMBUN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2176,
+        "label": "LUMASEBU, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "LUMASEBU",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2177,
+        "label": "MEYANO BAB, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "MEYANO BAB",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2178,
+        "label": "MEYANO DAS, KORMOMOLIN, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "KORMOMOLIN",
+        "subdistrict_name": "MEYANO DAS",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2181,
+        "label": "ARMA, NIRUNMAS, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "NIRUNMAS",
+        "subdistrict_name": "ARMA",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2182,
+        "label": "MANGLUSI, NIRUNMAS, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "NIRUNMAS",
+        "subdistrict_name": "MANGLUSI",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2183,
+        "label": "TUTUKEMBONG, NIRUNMAS, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "NIRUNMAS",
+        "subdistrict_name": "TUTUKEMBONG",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2184,
+        "label": "WATMURI, NIRUNMAS, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "NIRUNMAS",
+        "subdistrict_name": "WATMURI",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2185,
+        "label": "WATURU, NIRUNMAS, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "NIRUNMAS",
+        "subdistrict_name": "WATURU",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2186,
+        "label": "HERTUTI, PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "HERTUTI",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2187,
+        "label": "IMROING, PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "IMROING",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2188,
+        "label": "LETSIARA, PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "LETSIARA",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2189,
+        "label": "LEWAH, PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "LEWAH",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2190,
+        "label": "SINAIRUSI, PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "SINAIRUSI",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2191,
+        "label": "TELA, PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "TELA",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2192,
+        "label": "TEPA, PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "TEPA",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2193,
+        "label": "WANUWUI (MANUWUI), PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "WANUWUI (MANUWUI)",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2194,
+        "label": "YALTUBUNG, PULAU PULAU BABAR, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU BABAR",
+        "subdistrict_name": "YALTUBUNG",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2195,
+        "label": "AHANARI, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "AHANARI",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2196,
+        "label": "ANALUTUR, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "ANALUTUR",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2197,
+        "label": "EMPLAWAS (EMPALWAS), PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "EMPLAWAS (EMPALWAS)",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2198,
+        "label": "KOKWARI, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "KOKWARI",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2199,
+        "label": "KROING, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "KROING",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2200,
+        "label": "LETWURUNG, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "LETWURUNG",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2201,
+        "label": "MANUWERI (MANUARI), PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "MANUWERI (MANUARI)",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2202,
+        "label": "NAKARHAMTO, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "NAKARHAMTO",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2203,
+        "label": "TUTUWAWANG, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "TUTUWAWANG",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2204,
+        "label": "WAKPAPAPI, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "WAKPAPAPI",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2205,
+        "label": "YATOKE, PULAU-PULAU BABAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU-PULAU BABAR TIMUR",
+        "subdistrict_name": "YATOKE",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2206,
+        "label": "BATUMIAU, PULAU LETTI (LETI MOA LAKOR), MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LETTI (LETI MOA LAKOR)",
+        "subdistrict_name": "BATUMIAU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2207,
+        "label": "LAITUTUN, PULAU LETTI (LETI MOA LAKOR), MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LETTI (LETI MOA LAKOR)",
+        "subdistrict_name": "LAITUTUN",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2208,
+        "label": "LUHULELY (LUHULELI), PULAU LETTI (LETI MOA LAKOR), MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LETTI (LETI MOA LAKOR)",
+        "subdistrict_name": "LUHULELY (LUHULELI)",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2209,
+        "label": "NUWEWANG, PULAU LETTI (LETI MOA LAKOR), MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LETTI (LETI MOA LAKOR)",
+        "subdistrict_name": "NUWEWANG",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2210,
+        "label": "TOMRA, PULAU LETTI (LETI MOA LAKOR), MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LETTI (LETI MOA LAKOR)",
+        "subdistrict_name": "TOMRA",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2211,
+        "label": "TUTUKEY, PULAU LETTI (LETI MOA LAKOR), MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LETTI (LETI MOA LAKOR)",
+        "subdistrict_name": "TUTUKEY",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2212,
+        "label": "TUTUWARU, PULAU LETTI (LETI MOA LAKOR), MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LETTI (LETI MOA LAKOR)",
+        "subdistrict_name": "TUTUWARU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2213,
+        "label": "ABUSUR, PULAU PULAU TERSELATAN, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU TERSELATAN",
+        "subdistrict_name": "ABUSUR",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2214,
+        "label": "KOTA LAMA, PULAU PULAU TERSELATAN, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU TERSELATAN",
+        "subdistrict_name": "KOTA LAMA",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2215,
+        "label": "LEKLOOR, PULAU PULAU TERSELATAN, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU TERSELATAN",
+        "subdistrict_name": "LEKLOOR",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2216,
+        "label": "OIRATA BARAT, PULAU PULAU TERSELATAN, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU TERSELATAN",
+        "subdistrict_name": "OIRATA BARAT",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2217,
+        "label": "OIRATA TIMUR, PULAU PULAU TERSELATAN, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU TERSELATAN",
+        "subdistrict_name": "OIRATA TIMUR",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2218,
+        "label": "WONRELI, PULAU PULAU TERSELATAN, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU PULAU TERSELATAN",
+        "subdistrict_name": "WONRELI",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2219,
+        "label": "AMAU, WETAR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR",
+        "subdistrict_name": "AMAU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2220,
+        "label": "HIAY, WETAR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR",
+        "subdistrict_name": "HIAY",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2221,
+        "label": "ILPUTIH, WETAR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR",
+        "subdistrict_name": "ILPUTIH",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2222,
+        "label": "ILWAKI, WETAR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR",
+        "subdistrict_name": "ILWAKI",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2223,
+        "label": "MAHUAN, WETAR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR",
+        "subdistrict_name": "MAHUAN",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2224,
+        "label": "MASAPUN, WETAR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR",
+        "subdistrict_name": "MASAPUN",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2225,
+        "label": "ADAUT, SELARU, MALUKU TENGGARA BARAT, MALUKU, 97453",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "SELARU",
+        "subdistrict_name": "ADAUT",
+        "zip_code": "97453"
+    },
+    {
+        "id": 2226,
+        "label": "ELIASA, SELARU, MALUKU TENGGARA BARAT, MALUKU, 97453",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "SELARU",
+        "subdistrict_name": "ELIASA",
+        "zip_code": "97453"
+    },
+    {
+        "id": 2227,
+        "label": "FURSUI, SELARU, MALUKU TENGGARA BARAT, MALUKU, 97453",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "SELARU",
+        "subdistrict_name": "FURSUI",
+        "zip_code": "97453"
+    },
+    {
+        "id": 2228,
+        "label": "KANDAR, SELARU, MALUKU TENGGARA BARAT, MALUKU, 97453",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "SELARU",
+        "subdistrict_name": "KANDAR",
+        "zip_code": "97453"
+    },
+    {
+        "id": 2229,
+        "label": "LINGAT, SELARU, MALUKU TENGGARA BARAT, MALUKU, 97453",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "SELARU",
+        "subdistrict_name": "LINGAT",
+        "zip_code": "97453"
+    },
+    {
+        "id": 2230,
+        "label": "NAMTABUNG, SELARU, MALUKU TENGGARA BARAT, MALUKU, 97453",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "SELARU",
+        "subdistrict_name": "NAMTABUNG",
+        "zip_code": "97453"
+    },
+    {
+        "id": 2231,
+        "label": "WERAIN, SELARU, MALUKU TENGGARA BARAT, MALUKU, 97453",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "SELARU",
+        "subdistrict_name": "WERAIN",
+        "zip_code": "97453"
+    },
+    {
+        "id": 2232,
+        "label": "BOMAKI, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "BOMAKI",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2233,
+        "label": "ILNGEI, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "ILNGEI",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2234,
+        "label": "KABIARAT RAYA, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "KABIARAT RAYA",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2235,
+        "label": "LATDALAM, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "LATDALAM",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2236,
+        "label": "LAURAN, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "LAURAN",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2237,
+        "label": "LERMATANG, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "LERMATANG",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2238,
+        "label": "MATAKUS, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "MATAKUS",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2239,
+        "label": "OLILIT, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "OLILIT",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2240,
+        "label": "SAUMLAKI, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "SAUMLAKI",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2241,
+        "label": "SIFNANA, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "SIFNANA",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2242,
+        "label": "WOWONDA, TANIMBAR SELATAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR SELATAN",
+        "subdistrict_name": "WOWONDA",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2243,
+        "label": "KELAAN, TANIMBAR UTARA, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR UTARA",
+        "subdistrict_name": "KELAAN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2244,
+        "label": "KELIOBER, TANIMBAR UTARA, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR UTARA",
+        "subdistrict_name": "KELIOBER",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2245,
+        "label": "LAMDESAR BARAT, TANIMBAR UTARA, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR UTARA",
+        "subdistrict_name": "LAMDESAR BARAT",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2246,
+        "label": "LAMDESAR TIMUR, TANIMBAR UTARA, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR UTARA",
+        "subdistrict_name": "LAMDESAR TIMUR",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2247,
+        "label": "LELINGLUAN, TANIMBAR UTARA, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR UTARA",
+        "subdistrict_name": "LELINGLUAN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2248,
+        "label": "RIDOOL, TANIMBAR UTARA, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR UTARA",
+        "subdistrict_name": "RIDOOL",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2249,
+        "label": "RITABEL, TANIMBAR UTARA, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR UTARA",
+        "subdistrict_name": "RITABEL",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2250,
+        "label": "WATIDAL, TANIMBAR UTARA, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "TANIMBAR UTARA",
+        "subdistrict_name": "WATIDAL",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2251,
+        "label": "BATU PUTIH, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "BATU PUTIH",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2252,
+        "label": "KAMATUBUN, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "KAMATUBUN",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2253,
+        "label": "MAKATIANG, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "MAKATIANG",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2254,
+        "label": "MARANTUTUL, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "MARANTUTUL",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2255,
+        "label": "RUMASALUT, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "RUMASALUT",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2256,
+        "label": "THEMIN, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "THEMIN",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2257,
+        "label": "WELUTU, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "WELUTU",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2258,
+        "label": "WERATAN, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "WERATAN",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2259,
+        "label": "WERMATANG, WER MAKTIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER MAKTIAN",
+        "subdistrict_name": "WERMATANG",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2260,
+        "label": "AMDASA, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "AMDASA",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2261,
+        "label": "ARUI BAB, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "ARUI BAB",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2262,
+        "label": "ARUI DAS, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "ARUI DAS",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2263,
+        "label": "ATUBUL DA, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "ATUBUL DA",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2264,
+        "label": "ATUBUL DOL, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "ATUBUL DOL",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2265,
+        "label": "LORULUN, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "LORULUN",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2266,
+        "label": "SANGLIAT DOL, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "SANGLIAT DOL",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2267,
+        "label": "SANGLIAT KRAWAIN, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "SANGLIAT KRAWAIN",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2268,
+        "label": "TUMBUR, WER TAMRIAN, MALUKU TENGGARA BARAT, MALUKU, 97464",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WER TAMRIAN",
+        "subdistrict_name": "TUMBUR",
+        "zip_code": "97464"
+    },
+    {
+        "id": 2269,
+        "label": "ABAT, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "ABAT",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2270,
+        "label": "AWEAR RUMNGEUR, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "AWEAR RUMNGEUR",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2271,
+        "label": "KARATAT, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "KARATAT",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2272,
+        "label": "KILOON, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "KILOON",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2273,
+        "label": "LABOBAR, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "LABOBAR",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2274,
+        "label": "LINGADA, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "LINGADA",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2275,
+        "label": "ROMNUS, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "ROMNUS",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2276,
+        "label": "TEINEMAN, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "TEINEMAN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2277,
+        "label": "WABAR, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "WABAR",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2278,
+        "label": "WATMASA, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "WATMASA",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2279,
+        "label": "WUNLAH, WUAR LABOBAR, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "WUAR LABOBAR",
+        "subdistrict_name": "WUNLAH",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2280,
+        "label": "ADODO FORDATA, YARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "YARU",
+        "subdistrict_name": "ADODO FORDATA",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2281,
+        "label": "AWEAR, YARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "YARU",
+        "subdistrict_name": "AWEAR",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2282,
+        "label": "ROMEAN, YARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "YARU",
+        "subdistrict_name": "ROMEAN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2283,
+        "label": "RUMNGEUR, YARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "YARU",
+        "subdistrict_name": "RUMNGEUR",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2284,
+        "label": "SOFYANIN, YARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "YARU",
+        "subdistrict_name": "SOFYANIN",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2285,
+        "label": "WALERANG, YARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "YARU",
+        "subdistrict_name": "WALERANG",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2287,
+        "label": "ADODO MOLO, MOLU MARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "MOLU MARU",
+        "subdistrict_name": "ADODO MOLO",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2288,
+        "label": "NURKAT, MOLU MARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "MOLU MARU",
+        "subdistrict_name": "NURKAT",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2289,
+        "label": "TUTUNAMETAL, MOLU MARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "MOLU MARU",
+        "subdistrict_name": "TUTUNAMETAL",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2290,
+        "label": "WADANKOU (WADANKAU), MOLU MARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "MOLU MARU",
+        "subdistrict_name": "WADANKOU (WADANKAU)",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2291,
+        "label": "WULMASA, MOLU MARU, MALUKU TENGGARA BARAT, MALUKU, 97463",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU TENGGARA BARAT",
+        "district_name": "MOLU MARU",
+        "subdistrict_name": "WULMASA",
+        "zip_code": "97463"
+    },
+    {
+        "id": 2292,
+        "label": "KAIWATU, MOA LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MOA LAKOR",
+        "subdistrict_name": "KAIWATU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2293,
+        "label": "KLIS, MOA LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MOA LAKOR",
+        "subdistrict_name": "KLIS",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2294,
+        "label": "MOAIN, MOA LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MOA LAKOR",
+        "subdistrict_name": "MOAIN",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2295,
+        "label": "PATTI, MOA LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MOA LAKOR",
+        "subdistrict_name": "PATTI",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2296,
+        "label": "TOUNWAWAN, MOA LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MOA LAKOR",
+        "subdistrict_name": "TOUNWAWAN",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2297,
+        "label": "WAKARLELI, MOA LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MOA LAKOR",
+        "subdistrict_name": "WAKARLELI",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2298,
+        "label": "WERWARU, MOA LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MOA LAKOR",
+        "subdistrict_name": "WERWARU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2299,
+        "label": "BATU GAJAH, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "BATU GAJAH",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2300,
+        "label": "ELO, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "ELO",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2301,
+        "label": "LELANG, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "LELANG",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2302,
+        "label": "LUANG BARAT, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "LUANG BARAT",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2303,
+        "label": "LUANG TIMUR, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "LUANG TIMUR",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2304,
+        "label": "MAHALETA, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "MAHALETA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2305,
+        "label": "PUPIOLIORA, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "PUPIOLIORA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2306,
+        "label": "REGOHA, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "REGOHA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2307,
+        "label": "ROMDARA, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "ROMDARA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2308,
+        "label": "ROMKISAR, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "ROMKISAR",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2309,
+        "label": "ROTNAMA, MDONA HYERA/HIERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "MDONA HYERA/HIERA",
+        "subdistrict_name": "ROTNAMA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2320,
+        "label": "LEBELAU, KISAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "KISAR UTARA",
+        "subdistrict_name": "LEBELAU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2321,
+        "label": "NOMAHA, KISAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "KISAR UTARA",
+        "subdistrict_name": "NOMAHA",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2322,
+        "label": "PURPURA (PUR-PURA), KISAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "KISAR UTARA",
+        "subdistrict_name": "PURPURA (PUR-PURA)",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2323,
+        "label": "KETY (KETTY), PULAU LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LAKOR",
+        "subdistrict_name": "KETY (KETTY)",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2324,
+        "label": "LETODA, PULAU LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LAKOR",
+        "subdistrict_name": "LETODA",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2325,
+        "label": "LOLOTWARA (LOLOTUARA), PULAU LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LAKOR",
+        "subdistrict_name": "LOLOTWARA (LOLOTUARA)",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2326,
+        "label": "SERA, PULAU LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LAKOR",
+        "subdistrict_name": "SERA",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2327,
+        "label": "YAMLULI, PULAU LAKOR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU LAKOR",
+        "subdistrict_name": "YAMLULI",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2328,
+        "label": "BABYOTANG (BABIOTANG), PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "BABYOTANG (BABIOTANG)",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2329,
+        "label": "BULULORA, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "BULULORA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2330,
+        "label": "IBLATMUNTAH, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "IBLATMUNTAH",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2331,
+        "label": "ILBUTUNG, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "ILBUTUNG",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2332,
+        "label": "LATALOLA BESAR, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "LATALOLA BESAR",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2333,
+        "label": "LATALOLA KECIL, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "LATALOLA KECIL",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2334,
+        "label": "LAWAWANG, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "LAWAWANG",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2335,
+        "label": "MARSELA, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "MARSELA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2336,
+        "label": "NURA, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "NURA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2337,
+        "label": "SERILI, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "SERILI",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2338,
+        "label": "TELALORA - LETODA, PULAU MASELA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU MASELA",
+        "subdistrict_name": "TELALORA - LETODA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2339,
+        "label": "HERLEY (HERLEY HOKA), PULAU WETANG, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU WETANG",
+        "subdistrict_name": "HERLEY (HERLEY HOKA)",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2340,
+        "label": "NUSIATA, PULAU WETANG, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU WETANG",
+        "subdistrict_name": "NUSIATA",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2341,
+        "label": "POTA BESAR, PULAU WETANG, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU WETANG",
+        "subdistrict_name": "POTA BESAR",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2342,
+        "label": "POTA KECIL, PULAU WETANG, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU WETANG",
+        "subdistrict_name": "POTA KECIL",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2343,
+        "label": "RUMALEWANG BESAR (RUMAHLEWANG BESAR), PULAU WETANG, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU WETANG",
+        "subdistrict_name": "RUMALEWANG BESAR (RUMAHLEWANG BESAR)",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2344,
+        "label": "RUMALEWANG KECIL (RUMAHLEWANG KECIL), PULAU WETANG, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU WETANG",
+        "subdistrict_name": "RUMALEWANG KECIL (RUMAHLEWANG KECIL)",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2345,
+        "label": "UPUHUPUN (UPUHUPU), PULAU WETANG, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU WETANG",
+        "subdistrict_name": "UPUHUPUN (UPUHUPU)",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2346,
+        "label": "WASARILI, PULAU WETANG, MALUKU BARAT DAYA, MALUKU, 97452",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "PULAU WETANG",
+        "subdistrict_name": "WASARILI",
+        "zip_code": "97452"
+    },
+    {
+        "id": 2347,
+        "label": "ILMAMAU, WETAR BARAT, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR BARAT",
+        "subdistrict_name": "ILMAMAU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2348,
+        "label": "KARBUBU, WETAR BARAT, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR BARAT",
+        "subdistrict_name": "KARBUBU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2349,
+        "label": "KLISHATU, WETAR BARAT, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR BARAT",
+        "subdistrict_name": "KLISHATU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2350,
+        "label": "TELEMAR, WETAR BARAT, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR BARAT",
+        "subdistrict_name": "TELEMAR",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2351,
+        "label": "USTUTUN, WETAR BARAT, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR BARAT",
+        "subdistrict_name": "USTUTUN",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2352,
+        "label": "ARWALA, WETAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR TIMUR",
+        "subdistrict_name": "ARWALA",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2353,
+        "label": "ILPOKIL, WETAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR TIMUR",
+        "subdistrict_name": "ILPOKIL",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2354,
+        "label": "ILWAY, WETAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR TIMUR",
+        "subdistrict_name": "ILWAY",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2355,
+        "label": "KAHILIN, WETAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR TIMUR",
+        "subdistrict_name": "KAHILIN",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2356,
+        "label": "MONING, WETAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR TIMUR",
+        "subdistrict_name": "MONING",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2357,
+        "label": "TOMLIAPAT, WETAR TIMUR, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR TIMUR",
+        "subdistrict_name": "TOMLIAPAT",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2358,
+        "label": "ELSULITH, WETAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR UTARA",
+        "subdistrict_name": "ELSULITH",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2359,
+        "label": "ERAY, WETAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR UTARA",
+        "subdistrict_name": "ERAY",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2360,
+        "label": "LURANG, WETAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR UTARA",
+        "subdistrict_name": "LURANG",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2361,
+        "label": "NABAR, WETAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR UTARA",
+        "subdistrict_name": "NABAR",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2362,
+        "label": "NAUMATANG, WETAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR UTARA",
+        "subdistrict_name": "NAUMATANG",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2363,
+        "label": "UHAK, WETAR UTARA, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "WETAR UTARA",
+        "subdistrict_name": "UHAK",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2364,
+        "label": "ILMARANG, DAWELOR DAWERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAWELOR DAWERA",
+        "subdistrict_name": "ILMARANG",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2365,
+        "label": "LETMASA, DAWELOR DAWERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAWELOR DAWERA",
+        "subdistrict_name": "LETMASA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2366,
+        "label": "NURNYAMAN, DAWELOR DAWERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAWELOR DAWERA",
+        "subdistrict_name": "NURNYAMAN",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2367,
+        "label": "WAIRATAN (WIRATAN/WIRATANG), DAWELOR DAWERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAWELOR DAWERA",
+        "subdistrict_name": "WAIRATAN (WIRATAN/WIRATANG)",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2368,
+        "label": "WATUWEY (WATUWEI), DAWELOR DAWERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAWELOR DAWERA",
+        "subdistrict_name": "WATUWEY (WATUWEI)",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2369,
+        "label": "WELORA, DAWELOR DAWERA, MALUKU BARAT DAYA, MALUKU, 97652",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "DAWELOR DAWERA",
+        "subdistrict_name": "WELORA",
+        "zip_code": "97652"
+    },
+    {
+        "id": 2370,
+        "label": "HILA, KEPULAUAN ROMANG, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "KEPULAUAN ROMANG",
+        "subdistrict_name": "HILA",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2371,
+        "label": "JERUSU, KEPULAUAN ROMANG, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "KEPULAUAN ROMANG",
+        "subdistrict_name": "JERUSU",
+        "zip_code": "97454"
+    },
+    {
+        "id": 2372,
+        "label": "SOLATH, KEPULAUAN ROMANG, MALUKU BARAT DAYA, MALUKU, 97454",
+        "province_name": "MALUKU",
+        "city_name": "MALUKU BARAT DAYA",
+        "district_name": "KEPULAUAN ROMANG",
+        "subdistrict_name": "SOLATH",
+        "zip_code": "97454"
+    }
+]

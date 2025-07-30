@@ -1,0 +1,3773 @@
+[
+    {
+        "id": 9329,
+        "label": "AIR BIRU, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "AIR BIRU",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9330,
+        "label": "BATU BERAPIT, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "BATU BERAPIT",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9331,
+        "label": "IMPOL, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "IMPOL",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9332,
+        "label": "KERAMUT, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "KERAMUT",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9333,
+        "label": "LANDAK, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "LANDAK",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9334,
+        "label": "LETUNG, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "LETUNG",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9335,
+        "label": "MAMPOK, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "MAMPOK",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9336,
+        "label": "REWAK, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "REWAK",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9337,
+        "label": "SUNGGAK, JEMAJA, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA",
+        "subdistrict_name": "SUNGGAK",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9338,
+        "label": "BUKIT PADI, JEMAJA TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA TIMUR",
+        "subdistrict_name": "BUKIT PADI",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9339,
+        "label": "GENTING PULUR, JEMAJA TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA TIMUR",
+        "subdistrict_name": "GENTING PULUR",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9340,
+        "label": "KUALA MARAS, JEMAJA TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA TIMUR",
+        "subdistrict_name": "KUALA MARAS",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9341,
+        "label": "ULU MARAS, JEMAJA TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29792",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "JEMAJA TIMUR",
+        "subdistrict_name": "ULU MARAS",
+        "zip_code": "29792"
+    },
+    {
+        "id": 9348,
+        "label": "BATU AMPAR, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "BATU AMPAR",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9349,
+        "label": "BAYAT, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "BAYAT",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9350,
+        "label": "BELIBAK, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "BELIBAK",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9351,
+        "label": "CANDI, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "CANDI",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9352,
+        "label": "LADAN, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "LADAN",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9353,
+        "label": "LANGIR, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "LANGIR",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9354,
+        "label": "MATAK, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "MATAK",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9355,
+        "label": "MUBUR, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "MUBUR",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9356,
+        "label": "PAYALAMAN, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "PAYALAMAN",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9357,
+        "label": "PAYAMARAM, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "PAYAMARAM",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9358,
+        "label": "PIABUNG, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "PIABUNG",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9359,
+        "label": "PIASAN, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "PIASAN",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9360,
+        "label": "PUTIK, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "PUTIK",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9361,
+        "label": "TEBANG, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "TEBANG",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9362,
+        "label": "TELUK BAYUR, PALMATAK, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "PALMATAK",
+        "subdistrict_name": "TELUK BAYUR",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9370,
+        "label": "MUNJAN, SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN",
+        "subdistrict_name": "MUNJAN",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9371,
+        "label": "SRI TANJUNG, SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN",
+        "subdistrict_name": "SRI TANJUNG",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9372,
+        "label": "TAREMPA, SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN",
+        "subdistrict_name": "TAREMPA",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9373,
+        "label": "TAREMPA BARAT, SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN",
+        "subdistrict_name": "TAREMPA BARAT",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9374,
+        "label": "TAREMPA BARAT DAYA, SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN",
+        "subdistrict_name": "TAREMPA BARAT DAYA",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9375,
+        "label": "TAREMPA SELATAN, SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN",
+        "subdistrict_name": "TAREMPA SELATAN",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9376,
+        "label": "TIANGAU, SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN",
+        "subdistrict_name": "TIANGAU",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9377,
+        "label": "AIR BINI, SIANTAN SELATAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN SELATAN",
+        "subdistrict_name": "AIR BINI",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9378,
+        "label": "KIABU, SIANTAN SELATAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN SELATAN",
+        "subdistrict_name": "KIABU",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9379,
+        "label": "LINGA, SIANTAN SELATAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN SELATAN",
+        "subdistrict_name": "LINGA",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9380,
+        "label": "MENGKAIT, SIANTAN SELATAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN SELATAN",
+        "subdistrict_name": "MENGKAIT",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9381,
+        "label": "TELAGA, SIANTAN SELATAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN SELATAN",
+        "subdistrict_name": "TELAGA",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9382,
+        "label": "TELAGA KECIL, SIANTAN SELATAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN SELATAN",
+        "subdistrict_name": "TELAGA KECIL",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9383,
+        "label": "TIANGAU, SIANTAN SELATAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN SELATAN",
+        "subdistrict_name": "TIANGAU",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9384,
+        "label": "AIR PUTIH, SIANTAN TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TIMUR",
+        "subdistrict_name": "AIR PUTIH",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9385,
+        "label": "BATU BELAH, SIANTAN TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TIMUR",
+        "subdistrict_name": "BATU BELAH",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9386,
+        "label": "MUNJAN, SIANTAN TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TIMUR",
+        "subdistrict_name": "MUNJAN",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9387,
+        "label": "NYAMUK, SIANTAN TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TIMUR",
+        "subdistrict_name": "NYAMUK",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9388,
+        "label": "SERAT, SIANTAN TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TIMUR",
+        "subdistrict_name": "SERAT",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9389,
+        "label": "TEMBURUN, SIANTAN TIMUR, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TIMUR",
+        "subdistrict_name": "TEMBURUN",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9492,
+        "label": "AIR ASUK, SIANTAN TENGAH, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TENGAH",
+        "subdistrict_name": "AIR ASUK",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9493,
+        "label": "AIR SENA, SIANTAN TENGAH, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TENGAH",
+        "subdistrict_name": "AIR SENA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9494,
+        "label": "LIDI, SIANTAN TENGAH, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TENGAH",
+        "subdistrict_name": "LIDI",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9495,
+        "label": "LIUK, SIANTAN TENGAH, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TENGAH",
+        "subdistrict_name": "LIUK",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9496,
+        "label": "TELUK SIANTAN, SIANTAN TENGAH, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TENGAH",
+        "subdistrict_name": "TELUK SIANTAN",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9497,
+        "label": "TELUK SUNTING, SIANTAN TENGAH, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN TENGAH",
+        "subdistrict_name": "TELUK SUNTING",
+        "zip_code": "29783"
+    },
+    {
+        "id": 82854,
+        "label": "MATAK, KUTE SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29796",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "KUTE SIANTAN",
+        "subdistrict_name": "MATAK",
+        "zip_code": "29796"
+    },
+    {
+        "id": 83096,
+        "label": "TAREMPA TIMUR, SIANTAN, KEPULAUAN ANAMBAS, KEPULAUAN RIAU, 29791",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KEPULAUAN ANAMBAS",
+        "district_name": "SIANTAN",
+        "subdistrict_name": "TAREMPA TIMUR",
+        "zip_code": "29791"
+    },
+    {
+        "id": 9160,
+        "label": "TANJUNG RIAU, SEKUPANG, BATAM, KEPULAUAN RIAU, 29425",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEKUPANG",
+        "subdistrict_name": "TANJUNG RIAU",
+        "zip_code": "29425"
+    },
+    {
+        "id": 9147,
+        "label": "BALOI PERMAI, BATAM KOTA, BATAM, KEPULAUAN RIAU, 29431",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATAM KOTA",
+        "subdistrict_name": "BALOI PERMAI",
+        "zip_code": "29431"
+    },
+    {
+        "id": 9148,
+        "label": "BELIAN, BATAM KOTA, BATAM, KEPULAUAN RIAU, 29464",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATAM KOTA",
+        "subdistrict_name": "BELIAN",
+        "zip_code": "29464"
+    },
+    {
+        "id": 9149,
+        "label": "SUKAJADI, BATAM KOTA, BATAM, KEPULAUAN RIAU, 29432",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATAM KOTA",
+        "subdistrict_name": "SUKAJADI",
+        "zip_code": "29432"
+    },
+    {
+        "id": 9150,
+        "label": "SUNGAI PANAS, BATAM KOTA, BATAM, KEPULAUAN RIAU, 29433",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATAM KOTA",
+        "subdistrict_name": "SUNGAI PANAS",
+        "zip_code": "29433"
+    },
+    {
+        "id": 9151,
+        "label": "TAMAN BALOI, BATAM KOTA, BATAM, KEPULAUAN RIAU, 29432",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATAM KOTA",
+        "subdistrict_name": "TAMAN BALOI",
+        "zip_code": "29432"
+    },
+    {
+        "id": 9152,
+        "label": "TELUK TERING, BATAM KOTA, BATAM, KEPULAUAN RIAU, 29461",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATAM KOTA",
+        "subdistrict_name": "TELUK TERING",
+        "zip_code": "29461"
+    },
+    {
+        "id": 9153,
+        "label": "BATU BESAR, NONGSA, BATAM, KEPULAUAN RIAU, 29466",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "NONGSA",
+        "subdistrict_name": "BATU BESAR",
+        "zip_code": "29466"
+    },
+    {
+        "id": 9154,
+        "label": "KABIL, NONGSA, BATAM, KEPULAUAN RIAU, 29467",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "NONGSA",
+        "subdistrict_name": "KABIL",
+        "zip_code": "29467"
+    },
+    {
+        "id": 9155,
+        "label": "NGENANG, NONGSA, BATAM, KEPULAUAN RIAU, 29468",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "NONGSA",
+        "subdistrict_name": "NGENANG",
+        "zip_code": "29468"
+    },
+    {
+        "id": 9156,
+        "label": "SAMBAU, NONGSA, BATAM, KEPULAUAN RIAU, 29465",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "NONGSA",
+        "subdistrict_name": "SAMBAU",
+        "zip_code": "29465"
+    },
+    {
+        "id": 9157,
+        "label": "PATAM LESTARI, SEKUPANG, BATAM, KEPULAUAN RIAU, 29427",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEKUPANG",
+        "subdistrict_name": "PATAM LESTARI",
+        "zip_code": "29427"
+    },
+    {
+        "id": 9158,
+        "label": "SUNGAI HARAPAN, SEKUPANG, BATAM, KEPULAUAN RIAU, 29428",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEKUPANG",
+        "subdistrict_name": "SUNGAI HARAPAN",
+        "zip_code": "29428"
+    },
+    {
+        "id": 9159,
+        "label": "TANJUNG PINGGIR, SEKUPANG, BATAM, KEPULAUAN RIAU, 29428",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEKUPANG",
+        "subdistrict_name": "TANJUNG PINGGIR",
+        "zip_code": "29428"
+    },
+    {
+        "id": 9161,
+        "label": "TIBAN BARU, SEKUPANG, BATAM, KEPULAUAN RIAU, 29426",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEKUPANG",
+        "subdistrict_name": "TIBAN BARU",
+        "zip_code": "29426"
+    },
+    {
+        "id": 9162,
+        "label": "TIBAN INDAH, SEKUPANG, BATAM, KEPULAUAN RIAU, 29426",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEKUPANG",
+        "subdistrict_name": "TIBAN INDAH",
+        "zip_code": "29426"
+    },
+    {
+        "id": 9163,
+        "label": "TIBAN LAMA, SEKUPANG, BATAM, KEPULAUAN RIAU, 29425",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEKUPANG",
+        "subdistrict_name": "TIBAN LAMA",
+        "zip_code": "29425"
+    },
+    {
+        "id": 9164,
+        "label": "BATU MERAH, BATU AMPAR, BATAM, KEPULAUAN RIAU, 29452",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATU AMPAR",
+        "subdistrict_name": "BATU MERAH",
+        "zip_code": "29452"
+    },
+    {
+        "id": 9165,
+        "label": "KAMPUNG SERAYA, BATU AMPAR, BATAM, KEPULAUAN RIAU, 29454",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATU AMPAR",
+        "subdistrict_name": "KAMPUNG SERAYA",
+        "zip_code": "29454"
+    },
+    {
+        "id": 9166,
+        "label": "SUNGAI JODOH, BATU AMPAR, BATAM, KEPULAUAN RIAU, 29453",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATU AMPAR",
+        "subdistrict_name": "SUNGAI JODOH",
+        "zip_code": "29453"
+    },
+    {
+        "id": 9167,
+        "label": "TANJUNG SENGKUANG, BATU AMPAR, BATAM, KEPULAUAN RIAU, 29453",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATU AMPAR",
+        "subdistrict_name": "TANJUNG SENGKUANG",
+        "zip_code": "29453"
+    },
+    {
+        "id": 9168,
+        "label": "KASU, BELAKANG PADANG, BATAM, KEPULAUAN RIAU, 29413",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BELAKANG PADANG",
+        "subdistrict_name": "KASU",
+        "zip_code": "29413"
+    },
+    {
+        "id": 9169,
+        "label": "PECONG, BELAKANG PADANG, BATAM, KEPULAUAN RIAU, 29414",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BELAKANG PADANG",
+        "subdistrict_name": "PECONG",
+        "zip_code": "29414"
+    },
+    {
+        "id": 9170,
+        "label": "PEMPING, BELAKANG PADANG, BATAM, KEPULAUAN RIAU, 29412",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BELAKANG PADANG",
+        "subdistrict_name": "PEMPING",
+        "zip_code": "29412"
+    },
+    {
+        "id": 9171,
+        "label": "PULAU TERONG, BELAKANG PADANG, BATAM, KEPULAUAN RIAU, 29416",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BELAKANG PADANG",
+        "subdistrict_name": "PULAU TERONG",
+        "zip_code": "29416"
+    },
+    {
+        "id": 9172,
+        "label": "SEKANAK RAYA, BELAKANG PADANG, BATAM, KEPULAUAN RIAU, 29416",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BELAKANG PADANG",
+        "subdistrict_name": "SEKANAK RAYA",
+        "zip_code": "29416"
+    },
+    {
+        "id": 9173,
+        "label": "TANJUNG SARI, BELAKANG PADANG, BATAM, KEPULAUAN RIAU, 29416",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BELAKANG PADANG",
+        "subdistrict_name": "TANJUNG SARI",
+        "zip_code": "29416"
+    },
+    {
+        "id": 9174,
+        "label": "BATU LEGONG, BULANG, BATAM, KEPULAUAN RIAU, 29474",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BULANG",
+        "subdistrict_name": "BATU LEGONG",
+        "zip_code": "29474"
+    },
+    {
+        "id": 9175,
+        "label": "BULANG LINTANG, BULANG, BATAM, KEPULAUAN RIAU, 29471",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BULANG",
+        "subdistrict_name": "BULANG LINTANG",
+        "zip_code": "29471"
+    },
+    {
+        "id": 9176,
+        "label": "PANTAI GELAM, BULANG, BATAM, KEPULAUAN RIAU, 29473",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BULANG",
+        "subdistrict_name": "PANTAI GELAM",
+        "zip_code": "29473"
+    },
+    {
+        "id": 9177,
+        "label": "PULAU BULUH, BULANG, BATAM, KEPULAUAN RIAU, 29472",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BULANG",
+        "subdistrict_name": "PULAU BULUH",
+        "zip_code": "29472"
+    },
+    {
+        "id": 9178,
+        "label": "PULAU SETOKOK, BULANG, BATAM, KEPULAUAN RIAU, 29476",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BULANG",
+        "subdistrict_name": "PULAU SETOKOK",
+        "zip_code": "29476"
+    },
+    {
+        "id": 9179,
+        "label": "TEMOYONG, BULANG, BATAM, KEPULAUAN RIAU, 29475",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BULANG",
+        "subdistrict_name": "TEMOYONG",
+        "zip_code": "29475"
+    },
+    {
+        "id": 9180,
+        "label": "AIR RAJA, GALANG, BATAM, KEPULAUAN RIAU, 29483",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "GALANG",
+        "subdistrict_name": "AIR RAJA",
+        "zip_code": "29483"
+    },
+    {
+        "id": 9181,
+        "label": "GALANG BARU (PULAU), GALANG, BATAM, KEPULAUAN RIAU, 29484",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "GALANG",
+        "subdistrict_name": "GALANG BARU (PULAU)",
+        "zip_code": "29484"
+    },
+    {
+        "id": 9182,
+        "label": "KARAS (PULAU KARAS), GALANG, BATAM, KEPULAUAN RIAU, 29486",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "GALANG",
+        "subdistrict_name": "KARAS (PULAU KARAS)",
+        "zip_code": "29486"
+    },
+    {
+        "id": 9183,
+        "label": "PULAU ABANG, GALANG, BATAM, KEPULAUAN RIAU, 29487",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "GALANG",
+        "subdistrict_name": "PULAU ABANG",
+        "zip_code": "29487"
+    },
+    {
+        "id": 9184,
+        "label": "REMPANG CATE, GALANG, BATAM, KEPULAUAN RIAU, 29482",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "GALANG",
+        "subdistrict_name": "REMPANG CATE",
+        "zip_code": "29482"
+    },
+    {
+        "id": 9185,
+        "label": "SEMBULANG (PULAU REMPANG), GALANG, BATAM, KEPULAUAN RIAU, 29481",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "GALANG",
+        "subdistrict_name": "SEMBULANG (PULAU REMPANG)",
+        "zip_code": "29481"
+    },
+    {
+        "id": 9186,
+        "label": "SIJANTUNG, GALANG, BATAM, KEPULAUAN RIAU, 29485",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "GALANG",
+        "subdistrict_name": "SIJANTUNG",
+        "zip_code": "29485"
+    },
+    {
+        "id": 9187,
+        "label": "SUBANG MAS, GALANG, BATAM, KEPULAUAN RIAU, 29483",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "GALANG",
+        "subdistrict_name": "SUBANG MAS",
+        "zip_code": "29483"
+    },
+    {
+        "id": 9188,
+        "label": "BALOI INDAH, LUBUK BAJA, BATAM, KEPULAUAN RIAU, 29432",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "LUBUK BAJA",
+        "subdistrict_name": "BALOI INDAH",
+        "zip_code": "29432"
+    },
+    {
+        "id": 9189,
+        "label": "BATU SELICIN, LUBUK BAJA, BATAM, KEPULAUAN RIAU, 29441",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "LUBUK BAJA",
+        "subdistrict_name": "BATU SELICIN",
+        "zip_code": "29441"
+    },
+    {
+        "id": 9190,
+        "label": "KAMPUNG PELITA, LUBUK BAJA, BATAM, KEPULAUAN RIAU, 29443",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "LUBUK BAJA",
+        "subdistrict_name": "KAMPUNG PELITA",
+        "zip_code": "29443"
+    },
+    {
+        "id": 9191,
+        "label": "LUBUK BAJA KOTA, LUBUK BAJA, BATAM, KEPULAUAN RIAU, 29444",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "LUBUK BAJA",
+        "subdistrict_name": "LUBUK BAJA KOTA",
+        "zip_code": "29444"
+    },
+    {
+        "id": 9192,
+        "label": "TANJUNG UMA, LUBUK BAJA, BATAM, KEPULAUAN RIAU, 29445",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "LUBUK BAJA",
+        "subdistrict_name": "TANJUNG UMA",
+        "zip_code": "29445"
+    },
+    {
+        "id": 9193,
+        "label": "DURIANGKA, SEI/SUNGAI BEDUK, BATAM, KEPULAUAN RIAU, 29437",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEI/SUNGAI BEDUK",
+        "subdistrict_name": "DURIANGKA",
+        "zip_code": "29437"
+    },
+    {
+        "id": 9194,
+        "label": "MANGSANG (MANGSA), SEI/SUNGAI BEDUK, BATAM, KEPULAUAN RIAU, 29437",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEI/SUNGAI BEDUK",
+        "subdistrict_name": "MANGSANG (MANGSA)",
+        "zip_code": "29437"
+    },
+    {
+        "id": 9195,
+        "label": "MUKA KUNING, SEI/SUNGAI BEDUK, BATAM, KEPULAUAN RIAU, 29433",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEI/SUNGAI BEDUK",
+        "subdistrict_name": "MUKA KUNING",
+        "zip_code": "29433"
+    },
+    {
+        "id": 9196,
+        "label": "TANJUNG PIAYU, SEI/SUNGAI BEDUK, BATAM, KEPULAUAN RIAU, 29437",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SEI/SUNGAI BEDUK",
+        "subdistrict_name": "TANJUNG PIAYU",
+        "zip_code": "29437"
+    },
+    {
+        "id": 9197,
+        "label": "SAGULUNG KOTA, SAGULUNG, BATAM, KEPULAUAN RIAU, 29439",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SAGULUNG",
+        "subdistrict_name": "SAGULUNG KOTA",
+        "zip_code": "29439"
+    },
+    {
+        "id": 9198,
+        "label": "SUNGAI BINTI, SAGULUNG, BATAM, KEPULAUAN RIAU, 29439",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SAGULUNG",
+        "subdistrict_name": "SUNGAI BINTI",
+        "zip_code": "29439"
+    },
+    {
+        "id": 9199,
+        "label": "SUNGAI LANGKAI, SAGULUNG, BATAM, KEPULAUAN RIAU, 29439",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SAGULUNG",
+        "subdistrict_name": "SUNGAI LANGKAI",
+        "zip_code": "29439"
+    },
+    {
+        "id": 9200,
+        "label": "SUNGAI LEKOP, SAGULUNG, BATAM, KEPULAUAN RIAU, 29439",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SAGULUNG",
+        "subdistrict_name": "SUNGAI LEKOP",
+        "zip_code": "29439"
+    },
+    {
+        "id": 9201,
+        "label": "SUNGAI PELENGGUT/PELUNGGUT, SAGULUNG, BATAM, KEPULAUAN RIAU, 29439",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SAGULUNG",
+        "subdistrict_name": "SUNGAI PELENGGUT/PELUNGGUT",
+        "zip_code": "29439"
+    },
+    {
+        "id": 9202,
+        "label": "TEMBESI, SAGULUNG, BATAM, KEPULAUAN RIAU, 29439",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "SAGULUNG",
+        "subdistrict_name": "TEMBESI",
+        "zip_code": "29439"
+    },
+    {
+        "id": 9203,
+        "label": "BENGKONG INDAH, BENGKONG, BATAM, KEPULAUAN RIAU, 29458",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BENGKONG",
+        "subdistrict_name": "BENGKONG INDAH",
+        "zip_code": "29458"
+    },
+    {
+        "id": 9204,
+        "label": "BENGKONG LAUT, BENGKONG, BATAM, KEPULAUAN RIAU, 29458",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BENGKONG",
+        "subdistrict_name": "BENGKONG LAUT",
+        "zip_code": "29458"
+    },
+    {
+        "id": 9205,
+        "label": "SADAI, BENGKONG, BATAM, KEPULAUAN RIAU, 29432",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BENGKONG",
+        "subdistrict_name": "SADAI",
+        "zip_code": "29432"
+    },
+    {
+        "id": 9206,
+        "label": "TANJUNG BUNTUNG, BENGKONG, BATAM, KEPULAUAN RIAU, 29432",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BENGKONG",
+        "subdistrict_name": "TANJUNG BUNTUNG",
+        "zip_code": "29432"
+    },
+    {
+        "id": 9207,
+        "label": "BUKIT TEMPAYAN, BATU AJI, BATAM, KEPULAUAN RIAU, 29438",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATU AJI",
+        "subdistrict_name": "BUKIT TEMPAYAN",
+        "zip_code": "29438"
+    },
+    {
+        "id": 9208,
+        "label": "BULIANG, BATU AJI, BATAM, KEPULAUAN RIAU, 29438",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATU AJI",
+        "subdistrict_name": "BULIANG",
+        "zip_code": "29438"
+    },
+    {
+        "id": 9209,
+        "label": "KIBING, BATU AJI, BATAM, KEPULAUAN RIAU, 29422",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATU AJI",
+        "subdistrict_name": "KIBING",
+        "zip_code": "29422"
+    },
+    {
+        "id": 9210,
+        "label": "TANJUNG UNCANG, BATU AJI, BATAM, KEPULAUAN RIAU, 29424",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BATAM",
+        "district_name": "BATU AJI",
+        "subdistrict_name": "TANJUNG UNCANG",
+        "zip_code": "29424"
+    },
+    {
+        "id": 9212,
+        "label": "DAIK, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "DAIK",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9213,
+        "label": "KELOMBOK, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "KELOMBOK",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9214,
+        "label": "KELUMU, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "KELUMU",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9215,
+        "label": "MENTUDA, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "MENTUDA",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9216,
+        "label": "MEPAR, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "MEPAR",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9217,
+        "label": "MERAWANG, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "MERAWANG",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9218,
+        "label": "MUSAI, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "MUSAI",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9219,
+        "label": "NEREKEH, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "NEREKEH",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9220,
+        "label": "PANGGAK DARAT, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "PANGGAK DARAT",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9221,
+        "label": "PANGGAK LAUT, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "PANGGAK LAUT",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9222,
+        "label": "PEKAJANG, LINGGA, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA",
+        "subdistrict_name": "PEKAJANG",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9223,
+        "label": "BELUNGKUR, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "BELUNGKUR",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9224,
+        "label": "BUKIT HARAPAN, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "BUKIT HARAPAN",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9225,
+        "label": "DUARA, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "DUARA",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9226,
+        "label": "LIMBUNG, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "LIMBUNG",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9227,
+        "label": "LINAU, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "LINAU",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9228,
+        "label": "PANCUR, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "PANCUR",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9229,
+        "label": "RANTAU PANJANG, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "RANTAU PANJANG",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9230,
+        "label": "RESUN, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "RESUN",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9231,
+        "label": "RESUN PESISIR, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "RESUN PESISIR",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9232,
+        "label": "SEKANAH, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "SEKANAH",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9233,
+        "label": "SUNGAI BESAR, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "SUNGAI BESAR",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9234,
+        "label": "TELUK, LINGGA UTARA, LINGGA, KEPULAUAN RIAU, 29874",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA UTARA",
+        "subdistrict_name": "TELUK",
+        "zip_code": "29874"
+    },
+    {
+        "id": 9235,
+        "label": "BARAN, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "BARAN",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9236,
+        "label": "BATU BELUBANG, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "BATU BELUBANG",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9237,
+        "label": "BENAN, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "BENAN",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9238,
+        "label": "CEMPA, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "CEMPA",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9239,
+        "label": "LABO, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "LABO",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9240,
+        "label": "MAMUT, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "MAMUT",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9241,
+        "label": "MENSANAK, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "MENSANAK",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9242,
+        "label": "PASIR PANJANG, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "PASIR PANJANG",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9243,
+        "label": "PENAAH, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "PENAAH",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9244,
+        "label": "PULAU BATANG, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "PULAU BATANG",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9245,
+        "label": "PULAU BUKIT, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "PULAU BUKIT",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9246,
+        "label": "PULAU DUYUNG, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "PULAU DUYUNG",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9247,
+        "label": "PULAU MEDANG, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "PULAU MEDANG",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9248,
+        "label": "REJAI, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "REJAI",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9249,
+        "label": "SENAYANG, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "SENAYANG",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9250,
+        "label": "TAJUR BIRU, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "TAJUR BIRU",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9251,
+        "label": "TANJUNG KELIT, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "TANJUNG KELIT",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9252,
+        "label": "TANJUNG LIPAT, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "TANJUNG LIPAT",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9253,
+        "label": "TEMIANG, SENAYANG, LINGGA, KEPULAUAN RIAU, 29873",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SENAYANG",
+        "subdistrict_name": "TEMIANG",
+        "zip_code": "29873"
+    },
+    {
+        "id": 9254,
+        "label": "BATU BERDAUN, SINGKEP, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP",
+        "subdistrict_name": "BATU BERDAUN",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9255,
+        "label": "BATU KARANG, SINGKEP, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP",
+        "subdistrict_name": "BATU KARANG",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9256,
+        "label": "DABO, SINGKEP, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP",
+        "subdistrict_name": "DABO",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9257,
+        "label": "DABO LAMA, SINGKEP, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP",
+        "subdistrict_name": "DABO LAMA",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9258,
+        "label": "RESANG, SINGKEP, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP",
+        "subdistrict_name": "RESANG",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9259,
+        "label": "SUNGAILUMPUR, SINGKEP, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP",
+        "subdistrict_name": "SUNGAILUMPUR",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9260,
+        "label": "TANJUNG HARAPAN, SINGKEP, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP",
+        "subdistrict_name": "TANJUNG HARAPAN",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9261,
+        "label": "BAKONG, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "BAKONG",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9262,
+        "label": "BUKIT BELAH, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "BUKIT BELAH",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9263,
+        "label": "BUSUNG PANJANG, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "BUSUNG PANJANG",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9264,
+        "label": "JAQOH, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "JAQOH",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9265,
+        "label": "KUALA RAYA, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "KUALA RAYA",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9266,
+        "label": "LANGKAP, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "LANGKAP",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9267,
+        "label": "MAROK TUA, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "MAROK TUA",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9268,
+        "label": "POSEK, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "POSEK",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9269,
+        "label": "RAYA, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "RAYA",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9270,
+        "label": "SUAK BUAYA, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "SUAK BUAYA",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9271,
+        "label": "SUNGAI BULUH, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "SUNGAI BULUH",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9272,
+        "label": "SUNGAI HARAPAN, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "SUNGAI HARAPAN",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9273,
+        "label": "SUNGAI RAYA, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "SUNGAI RAYA",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9274,
+        "label": "TANJUNG IRAT, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "TANJUNG IRAT",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9275,
+        "label": "TINJUL, SINGKEP BARAT, LINGGA, KEPULAUAN RIAU, 29875",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP BARAT",
+        "subdistrict_name": "TINJUL",
+        "zip_code": "29875"
+    },
+    {
+        "id": 9276,
+        "label": "BUKIT LANGKAP, LINGGA TIMUR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA TIMUR",
+        "subdistrict_name": "BUKIT LANGKAP",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9277,
+        "label": "KERANDIN, LINGGA TIMUR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA TIMUR",
+        "subdistrict_name": "KERANDIN",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9278,
+        "label": "KETON, LINGGA TIMUR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA TIMUR",
+        "subdistrict_name": "KETON",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9279,
+        "label": "KUDUNG, LINGGA TIMUR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA TIMUR",
+        "subdistrict_name": "KUDUNG",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9280,
+        "label": "PEKAKA, LINGGA TIMUR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA TIMUR",
+        "subdistrict_name": "PEKAKA",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9281,
+        "label": "SEI/SUNGAI PINANG, LINGGA TIMUR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "LINGGA TIMUR",
+        "subdistrict_name": "SEI/SUNGAI PINANG",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9282,
+        "label": "PANTAI HARAPAN, SELAYAR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SELAYAR",
+        "subdistrict_name": "PANTAI HARAPAN",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9283,
+        "label": "PENUBA, SELAYAR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SELAYAR",
+        "subdistrict_name": "PENUBA",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9284,
+        "label": "PENUBA TIMUR, SELAYAR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SELAYAR",
+        "subdistrict_name": "PENUBA TIMUR",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9285,
+        "label": "SELAYAR, SELAYAR, LINGGA, KEPULAUAN RIAU, 29872",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SELAYAR",
+        "subdistrict_name": "SELAYAR",
+        "zip_code": "29872"
+    },
+    {
+        "id": 9286,
+        "label": "BERINDAT, SINGKEP PESISIR, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP PESISIR",
+        "subdistrict_name": "BERINDAT",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9287,
+        "label": "KOTA/KOTE, SINGKEP PESISIR, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP PESISIR",
+        "subdistrict_name": "KOTA/KOTE",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9288,
+        "label": "LANJUT, SINGKEP PESISIR, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP PESISIR",
+        "subdistrict_name": "LANJUT",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9289,
+        "label": "PELAKAK, SINGKEP PESISIR, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP PESISIR",
+        "subdistrict_name": "PELAKAK",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9290,
+        "label": "PERSING, SINGKEP PESISIR, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP PESISIR",
+        "subdistrict_name": "PERSING",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9291,
+        "label": "SEDAMAI, SINGKEP PESISIR, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP PESISIR",
+        "subdistrict_name": "SEDAMAI",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9292,
+        "label": "BERHALA, SINGKEP SELATAN, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP SELATAN",
+        "subdistrict_name": "BERHALA",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9293,
+        "label": "MAROK, SINGKEP SELATAN, LINGGA, KEPULAUAN RIAU, 29871",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "LINGGA",
+        "district_name": "SINGKEP SELATAN",
+        "subdistrict_name": "MAROK",
+        "zip_code": "29871"
+    },
+    {
+        "id": 9295,
+        "label": "BATUBI JAYA, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "BATUBI JAYA",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9296,
+        "label": "BINJAI, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "BINJAI",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9297,
+        "label": "GUNUNG PUTRI, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "GUNUNG PUTRI",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9298,
+        "label": "MEKAR JAYA, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "MEKAR JAYA",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9299,
+        "label": "PIAN TENGAH, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "PIAN TENGAH",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9300,
+        "label": "SEDANAU, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "SEDANAU",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9301,
+        "label": "SEDANAU TIMUR, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "SEDANAU TIMUR",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9302,
+        "label": "SEDARAT BARU, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "SEDARAT BARU",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9303,
+        "label": "SELAUT, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "SELAUT",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9304,
+        "label": "SEMEDANG, BUNGURAN BARAT, NATUNA, KEPULAUAN RIAU, 29782",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN BARAT",
+        "subdistrict_name": "SEMEDANG",
+        "zip_code": "29782"
+    },
+    {
+        "id": 9305,
+        "label": "BANDARSYAH, BUNGURAN TIMUR, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR",
+        "subdistrict_name": "BANDARSYAH",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9306,
+        "label": "BATU GAJAH, BUNGURAN TIMUR, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR",
+        "subdistrict_name": "BATU GAJAH",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9307,
+        "label": "RANAI DARAT, BUNGURAN TIMUR, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR",
+        "subdistrict_name": "RANAI DARAT",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9308,
+        "label": "RANAI KOTA, BUNGURAN TIMUR, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR",
+        "subdistrict_name": "RANAI KOTA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9309,
+        "label": "SEPEMPANG, BUNGURAN TIMUR, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR",
+        "subdistrict_name": "SEPEMPANG",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9310,
+        "label": "SUNGAI ULU, BUNGURAN TIMUR, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR",
+        "subdistrict_name": "SUNGAI ULU",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9311,
+        "label": "CERUK, BUNGURAN TIMUR LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR LAUT",
+        "subdistrict_name": "CERUK",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9312,
+        "label": "KELANGA, BUNGURAN TIMUR LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR LAUT",
+        "subdistrict_name": "KELANGA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9313,
+        "label": "LIMAU MANIS, BUNGURAN TIMUR LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR LAUT",
+        "subdistrict_name": "LIMAU MANIS",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9314,
+        "label": "PENGADAH, BUNGURAN TIMUR LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR LAUT",
+        "subdistrict_name": "PENGADAH",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9315,
+        "label": "SEBADAI ULU / HULU, BUNGURAN TIMUR LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR LAUT",
+        "subdistrict_name": "SEBADAI ULU / HULU",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9316,
+        "label": "SELEMAN, BUNGURAN TIMUR LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR LAUT",
+        "subdistrict_name": "SELEMAN",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9317,
+        "label": "TANJUNG, BUNGURAN TIMUR LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR LAUT",
+        "subdistrict_name": "TANJUNG",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9318,
+        "label": "AIR LENGIT, BUNGURAN TENGAH, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TENGAH",
+        "subdistrict_name": "AIR LENGIT",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9319,
+        "label": "HARAPAN JAYA, BUNGURAN TENGAH, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TENGAH",
+        "subdistrict_name": "HARAPAN JAYA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9320,
+        "label": "TAPAU, BUNGURAN TENGAH, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TENGAH",
+        "subdistrict_name": "TAPAU",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9321,
+        "label": "BELAKANG GUNUNG, BUNGURAN UTARA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN UTARA",
+        "subdistrict_name": "BELAKANG GUNUNG",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9322,
+        "label": "GUNUNG DURIAN, BUNGURAN UTARA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN UTARA",
+        "subdistrict_name": "GUNUNG DURIAN",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9323,
+        "label": "KELARIK, BUNGURAN UTARA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN UTARA",
+        "subdistrict_name": "KELARIK",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9324,
+        "label": "KELARIK AIR MALI, BUNGURAN UTARA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN UTARA",
+        "subdistrict_name": "KELARIK AIR MALI",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9325,
+        "label": "KELARIK BARAT, BUNGURAN UTARA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN UTARA",
+        "subdistrict_name": "KELARIK BARAT",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9326,
+        "label": "KELARIK UTARA, BUNGURAN UTARA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN UTARA",
+        "subdistrict_name": "KELARIK UTARA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9327,
+        "label": "SELUAN BARAT, BUNGURAN UTARA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN UTARA",
+        "subdistrict_name": "SELUAN BARAT",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9328,
+        "label": "TELUK BUTON, BUNGURAN UTARA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN UTARA",
+        "subdistrict_name": "TELUK BUTON",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9342,
+        "label": "AIR KUMPAI, MIDAI, NATUNA, KEPULAUAN RIAU, 29784",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "MIDAI",
+        "subdistrict_name": "AIR KUMPAI",
+        "zip_code": "29784"
+    },
+    {
+        "id": 9343,
+        "label": "AIR PUTIH, MIDAI, NATUNA, KEPULAUAN RIAU, 29784",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "MIDAI",
+        "subdistrict_name": "AIR PUTIH",
+        "zip_code": "29784"
+    },
+    {
+        "id": 9344,
+        "label": "BATU BELANAK, MIDAI, NATUNA, KEPULAUAN RIAU, 29784",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "MIDAI",
+        "subdistrict_name": "BATU BELANAK",
+        "zip_code": "29784"
+    },
+    {
+        "id": 9345,
+        "label": "GUNUNG JAMBAT, MIDAI, NATUNA, KEPULAUAN RIAU, 29784",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "MIDAI",
+        "subdistrict_name": "GUNUNG JAMBAT",
+        "zip_code": "29784"
+    },
+    {
+        "id": 9346,
+        "label": "SABANG BARAT, MIDAI, NATUNA, KEPULAUAN RIAU, 29784",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "MIDAI",
+        "subdistrict_name": "SABANG BARAT",
+        "zip_code": "29784"
+    },
+    {
+        "id": 9347,
+        "label": "SEBELAT, MIDAI, NATUNA, KEPULAUAN RIAU, 29784",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "MIDAI",
+        "subdistrict_name": "SEBELAT",
+        "zip_code": "29784"
+    },
+    {
+        "id": 9363,
+        "label": "BATU BERIAN, SERASAN, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN",
+        "subdistrict_name": "BATU BERIAN",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9364,
+        "label": "JERNALIK, SERASAN, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN",
+        "subdistrict_name": "JERNALIK",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9365,
+        "label": "KAMPUNG HILIR, SERASAN, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN",
+        "subdistrict_name": "KAMPUNG HILIR",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9366,
+        "label": "PANGKALAN, SERASAN, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN",
+        "subdistrict_name": "PANGKALAN",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9367,
+        "label": "SERASAN, SERASAN, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN",
+        "subdistrict_name": "SERASAN",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9368,
+        "label": "TANJUNG BALAU, SERASAN, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN",
+        "subdistrict_name": "TANJUNG BALAU",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9369,
+        "label": "TANJUNG SETELUNG, SERASAN, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN",
+        "subdistrict_name": "TANJUNG SETELUNG",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9390,
+        "label": "MELIAH, SUBI, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SUBI",
+        "subdistrict_name": "MELIAH",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9391,
+        "label": "MELIAH SELATAN, SUBI, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SUBI",
+        "subdistrict_name": "MELIAH SELATAN",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9392,
+        "label": "PULAU KERDAU, SUBI, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SUBI",
+        "subdistrict_name": "PULAU KERDAU",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9393,
+        "label": "PULAU PANJANG, SUBI, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SUBI",
+        "subdistrict_name": "PULAU PANJANG",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9394,
+        "label": "SUBI, SUBI, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SUBI",
+        "subdistrict_name": "SUBI",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9395,
+        "label": "SUBI BESAR, SUBI, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SUBI",
+        "subdistrict_name": "SUBI BESAR",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9396,
+        "label": "SUBI BESAR TIMUR, SUBI, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SUBI",
+        "subdistrict_name": "SUBI BESAR TIMUR",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9397,
+        "label": "TERAYAK, SUBI, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SUBI",
+        "subdistrict_name": "TERAYAK",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9398,
+        "label": "AIR PAYANG, PULAU LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU LAUT",
+        "subdistrict_name": "AIR PAYANG",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9399,
+        "label": "KADUR, PULAU LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU LAUT",
+        "subdistrict_name": "KADUR",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9400,
+        "label": "TANJUNG PALA, PULAU LAUT, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU LAUT",
+        "subdistrict_name": "TANJUNG PALA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9401,
+        "label": "PULAU TIGA, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "PULAU TIGA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9402,
+        "label": "SABANG MAWANG, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "SABANG MAWANG",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9403,
+        "label": "SABANG MAWANG BARAT, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "SABANG MAWANG BARAT",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9404,
+        "label": "SEDEDAP, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "SEDEDAP",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9405,
+        "label": "SELADING, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "SELADING",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9406,
+        "label": "SERANTAS, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "SERANTAS",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9407,
+        "label": "SETUMUK, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "SETUMUK",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9408,
+        "label": "TANJUNG BATANG, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "TANJUNG BATANG",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9409,
+        "label": "TANJUNG KUMBIK UTARA, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "TANJUNG KUMBIK UTARA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9410,
+        "label": "TELUK LABUH, PULAU TIGA, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "PULAU TIGA",
+        "subdistrict_name": "TELUK LABUH",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9411,
+        "label": "CEMAGA, BUNGURAN SELATAN, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN SELATAN",
+        "subdistrict_name": "CEMAGA",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9412,
+        "label": "CEMAGA SELATAN (SETEGAR), BUNGURAN SELATAN, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN SELATAN",
+        "subdistrict_name": "CEMAGA SELATAN (SETEGAR)",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9413,
+        "label": "CEMAGA TENGAH, BUNGURAN SELATAN, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN SELATAN",
+        "subdistrict_name": "CEMAGA TENGAH",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9414,
+        "label": "CEMAGA UTARA (SINGGANG BBULAN), BUNGURAN SELATAN, NATUNA, KEPULAUAN RIAU, 29783",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN SELATAN",
+        "subdistrict_name": "CEMAGA UTARA (SINGGANG BBULAN)",
+        "zip_code": "29783"
+    },
+    {
+        "id": 9415,
+        "label": "AIR NUSA, SERASAN TIMUR, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN TIMUR",
+        "subdistrict_name": "AIR NUSA",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9416,
+        "label": "AIR RINGAU, SERASAN TIMUR, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN TIMUR",
+        "subdistrict_name": "AIR RINGAU",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9417,
+        "label": "ARUNG AYAM, SERASAN TIMUR, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN TIMUR",
+        "subdistrict_name": "ARUNG AYAM",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9418,
+        "label": "PAYAK (HARAPAN BARU), SERASAN TIMUR, NATUNA, KEPULAUAN RIAU, 29781",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "SERASAN TIMUR",
+        "subdistrict_name": "PAYAK (HARAPAN BARU)",
+        "zip_code": "29781"
+    },
+    {
+        "id": 9420,
+        "label": "BURU, BURU, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BURU",
+        "subdistrict_name": "BURU",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9421,
+        "label": "LUBUK PUDING, BURU, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BURU",
+        "subdistrict_name": "LUBUK PUDING",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9422,
+        "label": "TANJUNG BATU KECIL, BURU, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BURU",
+        "subdistrict_name": "TANJUNG BATU KECIL",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9423,
+        "label": "TANJUNG HUTAN, BURU, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BURU",
+        "subdistrict_name": "TANJUNG HUTAN",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9424,
+        "label": "LUBUK SEMUT, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "LUBUK SEMUT",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9425,
+        "label": "PARIT, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "PARIT",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9426,
+        "label": "SELAT MENDAUN, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "SELAT MENDAUN",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9427,
+        "label": "SUNGAI LAKAM BARAT, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "SUNGAI LAKAM BARAT",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9428,
+        "label": "SUNGAI LAKAM TIMUR, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "SUNGAI LAKAM TIMUR",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9429,
+        "label": "TANJUNG BALAI, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "TANJUNG BALAI",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9430,
+        "label": "TANJUNG BALAI KOTA, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "TANJUNG BALAI KOTA",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9431,
+        "label": "TELUK AIR, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "TELUK AIR",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9432,
+        "label": "TULANG, KARIMUN, KARIMUN, KEPULAUAN RIAU, 29661",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KARIMUN",
+        "subdistrict_name": "TULANG",
+        "zip_code": "29661"
+    },
+    {
+        "id": 9433,
+        "label": "GADING SARI, KUNDUR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR",
+        "subdistrict_name": "GADING SARI",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9434,
+        "label": "LUBUK, KUNDUR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR",
+        "subdistrict_name": "LUBUK",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9435,
+        "label": "SEBESI (SEI SEBESI), KUNDUR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR",
+        "subdistrict_name": "SEBESI (SEI SEBESI)",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9436,
+        "label": "SEI/SUNGAI UNGAR, KUNDUR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR",
+        "subdistrict_name": "SEI/SUNGAI UNGAR",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9437,
+        "label": "TANJUNG BATU BARAT, KUNDUR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR",
+        "subdistrict_name": "TANJUNG BATU BARAT",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9438,
+        "label": "TANJUNG BATU KOTA, KUNDUR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR",
+        "subdistrict_name": "TANJUNG BATU KOTA",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9439,
+        "label": "GEMURUH, KUNDUR BARAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR BARAT",
+        "subdistrict_name": "GEMURUH",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9440,
+        "label": "KUNDUR, KUNDUR BARAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR BARAT",
+        "subdistrict_name": "KUNDUR",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9441,
+        "label": "SAWANG, KUNDUR BARAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR BARAT",
+        "subdistrict_name": "SAWANG",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9442,
+        "label": "SAWANG LAUT, KUNDUR BARAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR BARAT",
+        "subdistrict_name": "SAWANG LAUT",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9443,
+        "label": "SAWANG SELATAN, KUNDUR BARAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR BARAT",
+        "subdistrict_name": "SAWANG SELATAN",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9444,
+        "label": "PERAYUN, KUNDUR UTARA, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR UTARA",
+        "subdistrict_name": "PERAYUN",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9445,
+        "label": "SEI/SUNGAI UNGAR UTARA, KUNDUR UTARA, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR UTARA",
+        "subdistrict_name": "SEI/SUNGAI UNGAR UTARA",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9446,
+        "label": "TANJUNG BERLIAN BARAT (URUNG BARAT), KUNDUR UTARA, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR UTARA",
+        "subdistrict_name": "TANJUNG BERLIAN BARAT (URUNG BARAT)",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9447,
+        "label": "TANJUNG BERLIAN KOTA (URUNG), KUNDUR UTARA, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR UTARA",
+        "subdistrict_name": "TANJUNG BERLIAN KOTA (URUNG)",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9448,
+        "label": "TELUK RADANG, KUNDUR UTARA, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "KUNDUR UTARA",
+        "subdistrict_name": "TELUK RADANG",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9449,
+        "label": "BARAN BARAT, MERAL, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL",
+        "subdistrict_name": "BARAN BARAT",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9450,
+        "label": "BARAN TIMUR, MERAL, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL",
+        "subdistrict_name": "BARAN TIMUR",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9451,
+        "label": "MERAL KOTA, MERAL, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL",
+        "subdistrict_name": "MERAL KOTA",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9452,
+        "label": "PASIR BENUT, MERAL, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL",
+        "subdistrict_name": "PASIR BENUT",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9453,
+        "label": "SEI/SUNGAI RAYA, MERAL, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL",
+        "subdistrict_name": "SEI/SUNGAI RAYA",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9454,
+        "label": "SUNGAI PASIR, MERAL, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL",
+        "subdistrict_name": "SUNGAI PASIR",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9455,
+        "label": "BULUH PATAH, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "BULUH PATAH",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9456,
+        "label": "JANG (PULAU JANG), MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "JANG (PULAU JANG)",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9457,
+        "label": "KEBAN, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "KEBAN",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9458,
+        "label": "MORO, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "MORO",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9459,
+        "label": "MORO TIMUR, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "MORO TIMUR",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9460,
+        "label": "NIUR PERMAI, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "NIUR PERMAI",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9461,
+        "label": "PAUH, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "PAUH",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9462,
+        "label": "PULAUMORO, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "PULAUMORO",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9463,
+        "label": "RAWAJAYA, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "RAWAJAYA",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9464,
+        "label": "SELAT MIE, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "SELAT MIE",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9465,
+        "label": "SUGIE, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "SUGIE",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9466,
+        "label": "TANJUNG PELANDUK, MORO, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MORO",
+        "subdistrict_name": "TANJUNG PELANDUK",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9467,
+        "label": "HARJOSARI, TEBING, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "TEBING",
+        "subdistrict_name": "HARJOSARI",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9468,
+        "label": "KAPLING, TEBING, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "TEBING",
+        "subdistrict_name": "KAPLING",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9469,
+        "label": "PAMAK, TEBING, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "TEBING",
+        "subdistrict_name": "PAMAK",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9470,
+        "label": "PONGKAR, TEBING, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "TEBING",
+        "subdistrict_name": "PONGKAR",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9471,
+        "label": "TEBING, TEBING, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "TEBING",
+        "subdistrict_name": "TEBING",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9472,
+        "label": "TELUK UMA, TEBING, KARIMUN, KEPULAUAN RIAU, 29663",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "TEBING",
+        "subdistrict_name": "TELUK UMA",
+        "zip_code": "29663"
+    },
+    {
+        "id": 9474,
+        "label": "DURAI, DURAI, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "DURAI",
+        "subdistrict_name": "DURAI",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9475,
+        "label": "SANGLAR, DURAI, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "DURAI",
+        "subdistrict_name": "SANGLAR",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9476,
+        "label": "SIMEMBANG (SEMEMBANG), DURAI, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "DURAI",
+        "subdistrict_name": "SIMEMBANG (SEMEMBANG)",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9477,
+        "label": "TANJUNG KILANG, DURAI, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "DURAI",
+        "subdistrict_name": "TANJUNG KILANG",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9478,
+        "label": "DEGONG, BELAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BELAT",
+        "subdistrict_name": "DEGONG",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9479,
+        "label": "LEBUH, BELAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BELAT",
+        "subdistrict_name": "LEBUH",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9480,
+        "label": "PENARAH, BELAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BELAT",
+        "subdistrict_name": "PENARAH",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9481,
+        "label": "SEBELE, BELAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BELAT",
+        "subdistrict_name": "SEBELE",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9482,
+        "label": "SEI/SUNGAI ASAM, BELAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BELAT",
+        "subdistrict_name": "SEI/SUNGAI ASAM",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9483,
+        "label": "TEBIAS, BELAT, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "BELAT",
+        "subdistrict_name": "TEBIAS",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9484,
+        "label": "DARUSSALAM, MERAL BARAT, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL BARAT",
+        "subdistrict_name": "DARUSSALAM",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9485,
+        "label": "PANGKE, MERAL BARAT, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL BARAT",
+        "subdistrict_name": "PANGKE",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9486,
+        "label": "PANGKE BARAT, MERAL BARAT, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL BARAT",
+        "subdistrict_name": "PANGKE BARAT",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9487,
+        "label": "PASIR PANJANG, MERAL BARAT, KARIMUN, KEPULAUAN RIAU, 29664",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "MERAL BARAT",
+        "subdistrict_name": "PASIR PANJANG",
+        "zip_code": "29664"
+    },
+    {
+        "id": 9488,
+        "label": "ALAI, UNGAR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "UNGAR",
+        "subdistrict_name": "ALAI",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9489,
+        "label": "BATU LIMAU, UNGAR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "UNGAR",
+        "subdistrict_name": "BATU LIMAU",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9490,
+        "label": "NGAL, UNGAR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "UNGAR",
+        "subdistrict_name": "NGAL",
+        "zip_code": "29662"
+    },
+    {
+        "id": 9491,
+        "label": "SUNGAI BULUH, UNGAR, KARIMUN, KEPULAUAN RIAU, 29662",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "KARIMUN",
+        "district_name": "UNGAR",
+        "subdistrict_name": "SUNGAI BULUH",
+        "zip_code": "29662"
+    },
+    {
+        "id": 76561,
+        "label": "DOMPAK, BUKIT BESTARI, TANJUNG PINANG, KEPULAUAN RIAU, 29124",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "BUKIT BESTARI",
+        "subdistrict_name": "DOMPAK",
+        "zip_code": "29124"
+    },
+    {
+        "id": 76562,
+        "label": "SEI JANG, BUKIT BESTARI, TANJUNG PINANG, KEPULAUAN RIAU, 29124",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "BUKIT BESTARI",
+        "subdistrict_name": "SEI JANG",
+        "zip_code": "29124"
+    },
+    {
+        "id": 76563,
+        "label": "TANJUNG AYUN SAKTI, BUKIT BESTARI, TANJUNG PINANG, KEPULAUAN RIAU, 29124",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "BUKIT BESTARI",
+        "subdistrict_name": "TANJUNG AYUN SAKTI",
+        "zip_code": "29124"
+    },
+    {
+        "id": 76564,
+        "label": "TANJUNG PINANG TIMUR, BUKIT BESTARI, TANJUNG PINANG, KEPULAUAN RIAU, 29122",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "BUKIT BESTARI",
+        "subdistrict_name": "TANJUNG PINANG TIMUR",
+        "zip_code": "29122"
+    },
+    {
+        "id": 76565,
+        "label": "TANJUNG UNGGAT, BUKIT BESTARI, TANJUNG PINANG, KEPULAUAN RIAU, 29122",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "BUKIT BESTARI",
+        "subdistrict_name": "TANJUNG UNGGAT",
+        "zip_code": "29122"
+    },
+    {
+        "id": 76566,
+        "label": "BUKIT CERMIN, TANJUNG PINANG BARAT, TANJUNG PINANG, KEPULAUAN RIAU, 29111",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG BARAT",
+        "subdistrict_name": "BUKIT CERMIN",
+        "zip_code": "29111"
+    },
+    {
+        "id": 76567,
+        "label": "KAMPUNG BARU, TANJUNG PINANG BARAT, TANJUNG PINANG, KEPULAUAN RIAU, 29113",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG BARAT",
+        "subdistrict_name": "KAMPUNG BARU",
+        "zip_code": "29113"
+    },
+    {
+        "id": 76568,
+        "label": "KEMBOJA, TANJUNG PINANG BARAT, TANJUNG PINANG, KEPULAUAN RIAU, 29112",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG BARAT",
+        "subdistrict_name": "KEMBOJA",
+        "zip_code": "29112"
+    },
+    {
+        "id": 76569,
+        "label": "TANJUNG PINANG BARAT, TANJUNG PINANG BARAT, TANJUNG PINANG, KEPULAUAN RIAU, 29113",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG BARAT",
+        "subdistrict_name": "TANJUNG PINANG BARAT",
+        "zip_code": "29113"
+    },
+    {
+        "id": 76570,
+        "label": "KAMPUNG BUGIS, TANJUNG PINANG KOTA, TANJUNG PINANG, KEPULAUAN RIAU, 29115",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG KOTA",
+        "subdistrict_name": "KAMPUNG BUGIS",
+        "zip_code": "29115"
+    },
+    {
+        "id": 76571,
+        "label": "PENYENGAT, TANJUNG PINANG KOTA, TANJUNG PINANG, KEPULAUAN RIAU, 29114",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG KOTA",
+        "subdistrict_name": "PENYENGAT",
+        "zip_code": "29114"
+    },
+    {
+        "id": 76572,
+        "label": "SENGGARANG, TANJUNG PINANG KOTA, TANJUNG PINANG, KEPULAUAN RIAU, 29111",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG KOTA",
+        "subdistrict_name": "SENGGARANG",
+        "zip_code": "29111"
+    },
+    {
+        "id": 76573,
+        "label": "TANJUNG PINANG KOTA, TANJUNG PINANG KOTA, TANJUNG PINANG, KEPULAUAN RIAU, 29111",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG KOTA",
+        "subdistrict_name": "TANJUNG PINANG KOTA",
+        "zip_code": "29111"
+    },
+    {
+        "id": 76574,
+        "label": "AIR RAJA, TANJUNG PINANG TIMUR, TANJUNG PINANG, KEPULAUAN RIAU, 29122",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG TIMUR",
+        "subdistrict_name": "AIR RAJA",
+        "zip_code": "29122"
+    },
+    {
+        "id": 76575,
+        "label": "BATU IX (SEMBILAN), TANJUNG PINANG TIMUR, TANJUNG PINANG, KEPULAUAN RIAU, 29125",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG TIMUR",
+        "subdistrict_name": "BATU IX (SEMBILAN)",
+        "zip_code": "29125"
+    },
+    {
+        "id": 76576,
+        "label": "KAMPUNG BULANG, TANJUNG PINANG TIMUR, TANJUNG PINANG, KEPULAUAN RIAU, 29122",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG TIMUR",
+        "subdistrict_name": "KAMPUNG BULANG",
+        "zip_code": "29122"
+    },
+    {
+        "id": 76577,
+        "label": "MELAYU KOTA PIRING, TANJUNG PINANG TIMUR, TANJUNG PINANG, KEPULAUAN RIAU, 29123",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG TIMUR",
+        "subdistrict_name": "MELAYU KOTA PIRING",
+        "zip_code": "29123"
+    },
+    {
+        "id": 76578,
+        "label": "PINANG KENCANA, TANJUNG PINANG TIMUR, TANJUNG PINANG, KEPULAUAN RIAU, 29122",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "TANJUNG PINANG",
+        "district_name": "TANJUNG PINANG TIMUR",
+        "subdistrict_name": "PINANG KENCANA",
+        "zip_code": "29122"
+    },
+    {
+        "id": 76583,
+        "label": "GUNUNG LENGKUAS, BINTAN TIMUR, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN TIMUR",
+        "subdistrict_name": "GUNUNG LENGKUAS",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76584,
+        "label": "KIJANG KOTA, BINTAN TIMUR, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN TIMUR",
+        "subdistrict_name": "KIJANG KOTA",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76585,
+        "label": "SUNGAI ENAM, BINTAN TIMUR, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN TIMUR",
+        "subdistrict_name": "SUNGAI ENAM",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76586,
+        "label": "SUNGAI LEKOP, BINTAN TIMUR, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN TIMUR",
+        "subdistrict_name": "SUNGAI LEKOP",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76587,
+        "label": "LANCANG KUNING, BINTAN UTARA, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN UTARA",
+        "subdistrict_name": "LANCANG KUNING",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76588,
+        "label": "TANJUNG UBAN KOTA, BINTAN UTARA, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN UTARA",
+        "subdistrict_name": "TANJUNG UBAN KOTA",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76589,
+        "label": "TANJUNG UBAN SELATAN, BINTAN UTARA, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN UTARA",
+        "subdistrict_name": "TANJUNG UBAN SELATAN",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76590,
+        "label": "TANJUNG UBAN TIMUR, BINTAN UTARA, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN UTARA",
+        "subdistrict_name": "TANJUNG UBAN TIMUR",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76591,
+        "label": "TANJUNG UBAN UTARA, BINTAN UTARA, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN UTARA",
+        "subdistrict_name": "TANJUNG UBAN UTARA",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76592,
+        "label": "GUNUNG KIJANG, GUNUNG KIJANG, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "GUNUNG KIJANG",
+        "subdistrict_name": "GUNUNG KIJANG",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76593,
+        "label": "KAWAL, GUNUNG KIJANG, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "GUNUNG KIJANG",
+        "subdistrict_name": "KAWAL",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76594,
+        "label": "MALANG RAPAT, GUNUNG KIJANG, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "GUNUNG KIJANG",
+        "subdistrict_name": "MALANG RAPAT",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76595,
+        "label": "TELUK BAKAU, GUNUNG KIJANG, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "GUNUNG KIJANG",
+        "subdistrict_name": "TELUK BAKAU",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76596,
+        "label": "BATU LEPUK, TAMBELAN, BINTAN, KEPULAUAN RIAU, 29193",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TAMBELAN",
+        "subdistrict_name": "BATU LEPUK",
+        "zip_code": "29193"
+    },
+    {
+        "id": 76597,
+        "label": "KAMPUNG HILIR, TAMBELAN, BINTAN, KEPULAUAN RIAU, 29193",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TAMBELAN",
+        "subdistrict_name": "KAMPUNG HILIR",
+        "zip_code": "29193"
+    },
+    {
+        "id": 76598,
+        "label": "KAMPUNG MELAYU, TAMBELAN, BINTAN, KEPULAUAN RIAU, 29193",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TAMBELAN",
+        "subdistrict_name": "KAMPUNG MELAYU",
+        "zip_code": "29193"
+    },
+    {
+        "id": 76599,
+        "label": "KUKUP, TAMBELAN, BINTAN, KEPULAUAN RIAU, 29193",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TAMBELAN",
+        "subdistrict_name": "KUKUP",
+        "zip_code": "29193"
+    },
+    {
+        "id": 76600,
+        "label": "PENGIKIK, TAMBELAN, BINTAN, KEPULAUAN RIAU, 29193",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TAMBELAN",
+        "subdistrict_name": "PENGIKIK",
+        "zip_code": "29193"
+    },
+    {
+        "id": 76601,
+        "label": "PULAU MENTEBUNG, TAMBELAN, BINTAN, KEPULAUAN RIAU, 29193",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TAMBELAN",
+        "subdistrict_name": "PULAU MENTEBUNG",
+        "zip_code": "29193"
+    },
+    {
+        "id": 76602,
+        "label": "PULAU PINANG, TAMBELAN, BINTAN, KEPULAUAN RIAU, 29193",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TAMBELAN",
+        "subdistrict_name": "PULAU PINANG",
+        "zip_code": "29193"
+    },
+    {
+        "id": 76603,
+        "label": "TELUK SEKUNI, TAMBELAN, BINTAN, KEPULAUAN RIAU, 29193",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TAMBELAN",
+        "subdistrict_name": "TELUK SEKUNI",
+        "zip_code": "29193"
+    },
+    {
+        "id": 76604,
+        "label": "BINTAN BUYU, TELUK BINTAN, BINTAN, KEPULAUAN RIAU, 29133",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK BINTAN",
+        "subdistrict_name": "BINTAN BUYU",
+        "zip_code": "29133"
+    },
+    {
+        "id": 76605,
+        "label": "PANGKIL, TELUK BINTAN, BINTAN, KEPULAUAN RIAU, 29136",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK BINTAN",
+        "subdistrict_name": "PANGKIL",
+        "zip_code": "29136"
+    },
+    {
+        "id": 76606,
+        "label": "PENAGA, TELUK BINTAN, BINTAN, KEPULAUAN RIAU, 29134",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK BINTAN",
+        "subdistrict_name": "PENAGA",
+        "zip_code": "29134"
+    },
+    {
+        "id": 76607,
+        "label": "PENGUJAN, TELUK BINTAN, BINTAN, KEPULAUAN RIAU, 29135",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK BINTAN",
+        "subdistrict_name": "PENGUJAN",
+        "zip_code": "29135"
+    },
+    {
+        "id": 76608,
+        "label": "TEMBELING, TELUK BINTAN, BINTAN, KEPULAUAN RIAU, 29132",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK BINTAN",
+        "subdistrict_name": "TEMBELING",
+        "zip_code": "29132"
+    },
+    {
+        "id": 76609,
+        "label": "TEMBELING TANJUNG, TELUK BINTAN, BINTAN, KEPULAUAN RIAU, 29132",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK BINTAN",
+        "subdistrict_name": "TEMBELING TANJUNG",
+        "zip_code": "29132"
+    },
+    {
+        "id": 76610,
+        "label": "BERAKIT, TELUK SEBONG, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK SEBONG",
+        "subdistrict_name": "BERAKIT",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76611,
+        "label": "EKANG ANCULAI, TELUK SEBONG, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK SEBONG",
+        "subdistrict_name": "EKANG ANCULAI",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76612,
+        "label": "KOTA BARU, TELUK SEBONG, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK SEBONG",
+        "subdistrict_name": "KOTA BARU",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76613,
+        "label": "PENGUDANG, TELUK SEBONG, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK SEBONG",
+        "subdistrict_name": "PENGUDANG",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76614,
+        "label": "SEBUNG/SEBONG LAGOI, TELUK SEBONG, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK SEBONG",
+        "subdistrict_name": "SEBUNG/SEBONG LAGOI",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76615,
+        "label": "SEBUNG/SEBONG PEREH, TELUK SEBONG, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK SEBONG",
+        "subdistrict_name": "SEBUNG/SEBONG PEREH",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76616,
+        "label": "SRI BINTAN, TELUK SEBONG, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TELUK SEBONG",
+        "subdistrict_name": "SRI BINTAN",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76618,
+        "label": "TOAPAYA, TOAPAYA, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TOAPAYA",
+        "subdistrict_name": "TOAPAYA",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76619,
+        "label": "TOAPAYA ASRI, TOAPAYA, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TOAPAYA",
+        "subdistrict_name": "TOAPAYA ASRI",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76620,
+        "label": "TOAPAYA SELATAN, TOAPAYA, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TOAPAYA",
+        "subdistrict_name": "TOAPAYA SELATAN",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76621,
+        "label": "TOAPAYA UTARA, TOAPAYA, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "TOAPAYA",
+        "subdistrict_name": "TOAPAYA UTARA",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76622,
+        "label": "BUSUNG, SERI/SRI KUALA LOBAM, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "SERI/SRI KUALA LOBAM",
+        "subdistrict_name": "BUSUNG",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76623,
+        "label": "KUALA SEMPANG, SERI/SRI KUALA LOBAM, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "SERI/SRI KUALA LOBAM",
+        "subdistrict_name": "KUALA SEMPANG",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76624,
+        "label": "TANJUNG PERMAI, SERI/SRI KUALA LOBAM, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "SERI/SRI KUALA LOBAM",
+        "subdistrict_name": "TANJUNG PERMAI",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76625,
+        "label": "TELUK LOBAM, SERI/SRI KUALA LOBAM, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "SERI/SRI KUALA LOBAM",
+        "subdistrict_name": "TELUK LOBAM",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76626,
+        "label": "TELUK SASAH, SERI/SRI KUALA LOBAM, BINTAN, KEPULAUAN RIAU, 29152",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "SERI/SRI KUALA LOBAM",
+        "subdistrict_name": "TELUK SASAH",
+        "zip_code": "29152"
+    },
+    {
+        "id": 76627,
+        "label": "DENDUN, MANTANG, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "MANTANG",
+        "subdistrict_name": "DENDUN",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76628,
+        "label": "MANTANG BARU, MANTANG, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "MANTANG",
+        "subdistrict_name": "MANTANG BARU",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76629,
+        "label": "MANTANG BESAR, MANTANG, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "MANTANG",
+        "subdistrict_name": "MANTANG BESAR",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76630,
+        "label": "MANTANG LAMA, MANTANG, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "MANTANG",
+        "subdistrict_name": "MANTANG LAMA",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76631,
+        "label": "AIR GLUBI/GELUBI, BINTAN PESISIR, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN PESISIR",
+        "subdistrict_name": "AIR GLUBI/GELUBI",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76632,
+        "label": "KELONG, BINTAN PESISIR, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN PESISIR",
+        "subdistrict_name": "KELONG",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76633,
+        "label": "MAPUR, BINTAN PESISIR, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN PESISIR",
+        "subdistrict_name": "MAPUR",
+        "zip_code": "29151"
+    },
+    {
+        "id": 76634,
+        "label": "NUMBING, BINTAN PESISIR, BINTAN, KEPULAUAN RIAU, 29151",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "BINTAN",
+        "district_name": "BINTAN PESISIR",
+        "subdistrict_name": "NUMBING",
+        "zip_code": "29151"
+    },
+    {
+        "id": 82893,
+        "label": "BATU HITAM, BUNGURAN TIMUR, NATUNA, KEPULAUAN RIAU, 29777",
+        "province_name": "KEPULAUAN RIAU",
+        "city_name": "NATUNA",
+        "district_name": "BUNGURAN TIMUR",
+        "subdistrict_name": "BATU HITAM",
+        "zip_code": "29777"
+    }
+]

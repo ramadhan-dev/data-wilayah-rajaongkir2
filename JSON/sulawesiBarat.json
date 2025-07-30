@@ -1,0 +1,5852 @@
+[
+    {
+        "id": 80099,
+        "label": "KALUKKU BARAT, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "KALUKKU BARAT",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80169,
+        "label": "AHU, TAPALANG BARAT, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG BARAT",
+        "subdistrict_name": "AHU",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80170,
+        "label": "DUNGKAIT, TAPALANG BARAT, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG BARAT",
+        "subdistrict_name": "DUNGKAIT",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80171,
+        "label": "LABUANG RANO, TAPALANG BARAT, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG BARAT",
+        "subdistrict_name": "LABUANG RANO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80172,
+        "label": "LEBANI, TAPALANG BARAT, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG BARAT",
+        "subdistrict_name": "LEBANI",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80173,
+        "label": "PANGASAAN, TAPALANG BARAT, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG BARAT",
+        "subdistrict_name": "PANGASAAN",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80174,
+        "label": "PASABU (PASA BU), TAPALANG BARAT, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG BARAT",
+        "subdistrict_name": "PASABU (PASA BU)",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80175,
+        "label": "TANETE PAO, TAPALANG BARAT, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG BARAT",
+        "subdistrict_name": "TANETE PAO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80189,
+        "label": "LELING BARAT, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "LELING BARAT",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80440,
+        "label": "BATTANG BARAT, WARA BARAT, PALOPO, SULAWESI SELATAN, 91921",
+        "province_name": "SULAWESI SELATAN",
+        "city_name": "PALOPO",
+        "district_name": "WARA BARAT",
+        "subdistrict_name": "BATTANG BARAT",
+        "zip_code": "91921"
+    },
+    {
+        "id": 80673,
+        "label": "MAPILLI BARAT, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "MAPILLI BARAT",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80676,
+        "label": "PUSSUI BARAT, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "PUSSUI BARAT",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80686,
+        "label": "RAPPANG BARAT, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "RAPPANG BARAT",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80717,
+        "label": "TAPANGO BARAT, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "TAPANGO BARAT",
+        "zip_code": "91352"
+    },
+    {
+        "id": 82655,
+        "label": "TABANG BARAT, TABANG, MAMASA, SULAWESI BARAT, 91364",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABANG",
+        "subdistrict_name": "TABANG BARAT",
+        "zip_code": "91364"
+    },
+    {
+        "id": 82684,
+        "label": "BALLA BARAT, BALLA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BALLA",
+        "subdistrict_name": "BALLA BARAT",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82710,
+        "label": "ULUMAMBI BARAT, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "ULUMAMBI BARAT",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82719,
+        "label": "SALUTAMBUN BARAT, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "SALUTAMBUN BARAT",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82726,
+        "label": "MEHALAAN BARAT, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "MEHALAAN BARAT",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82738,
+        "label": "SALUMOKANAN BARAT, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "RANTEBULAHAN TIMUR",
+        "subdistrict_name": "SALUMOKANAN BARAT",
+        "zip_code": "91371"
+    },
+    {
+        "id": 80061,
+        "label": "BAMBU, MAMUJU, MAMUJU, SULAWESI BARAT, 91514",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "MAMUJU",
+        "subdistrict_name": "BAMBU",
+        "zip_code": "91514"
+    },
+    {
+        "id": 80062,
+        "label": "BATU PANNU, MAMUJU, MAMUJU, SULAWESI BARAT, 91511",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "MAMUJU",
+        "subdistrict_name": "BATU PANNU",
+        "zip_code": "91511"
+    },
+    {
+        "id": 80063,
+        "label": "BINANGA, MAMUJU, MAMUJU, SULAWESI BARAT, 91511",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "MAMUJU",
+        "subdistrict_name": "BINANGA",
+        "zip_code": "91511"
+    },
+    {
+        "id": 80064,
+        "label": "KARAMPUANG, MAMUJU, MAMUJU, SULAWESI BARAT, 91515",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "MAMUJU",
+        "subdistrict_name": "KARAMPUANG",
+        "zip_code": "91515"
+    },
+    {
+        "id": 80065,
+        "label": "KAREMA, MAMUJU, MAMUJU, SULAWESI BARAT, 91515",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "MAMUJU",
+        "subdistrict_name": "KAREMA",
+        "zip_code": "91515"
+    },
+    {
+        "id": 80066,
+        "label": "MAMUNYU, MAMUJU, MAMUJU, SULAWESI BARAT, 91511",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "MAMUJU",
+        "subdistrict_name": "MAMUNYU",
+        "zip_code": "91511"
+    },
+    {
+        "id": 80067,
+        "label": "RIMUKU, MAMUJU, MAMUJU, SULAWESI BARAT, 91515",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "MAMUJU",
+        "subdistrict_name": "RIMUKU",
+        "zip_code": "91515"
+    },
+    {
+        "id": 80068,
+        "label": "TADUI, MAMUJU, MAMUJU, SULAWESI BARAT, 91511",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "MAMUJU",
+        "subdistrict_name": "TADUI",
+        "zip_code": "91511"
+    },
+    {
+        "id": 80069,
+        "label": "BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "BABANA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80070,
+        "label": "BARAKKANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "BARAKKANG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80071,
+        "label": "BOJO, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "BOJO",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80072,
+        "label": "KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "KIRE",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80073,
+        "label": "LEMBAH HADA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "LEMBAH HADA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80074,
+        "label": "LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "LUMU",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80075,
+        "label": "PASAPA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "PASAPA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80076,
+        "label": "PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "PONTANAKAYANG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80077,
+        "label": "SALUGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "SALUGATTA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80078,
+        "label": "SALUMANURUNG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "SALUMANURUNG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80079,
+        "label": "TINALI, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "BUDONG-BUDONG",
+        "subdistrict_name": "TINALI",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80080,
+        "label": "BATU MAKKADA, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "BATU MAKKADA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80081,
+        "label": "KALUMPANG, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "KALUMPANG",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80082,
+        "label": "KARAMA, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "KARAMA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80083,
+        "label": "KARATAUN, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "KARATAUN",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80084,
+        "label": "KONDO BULO, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "KONDO BULO",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80085,
+        "label": "LASA, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "LASA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80086,
+        "label": "LIMBONG, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "LIMBONG",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80087,
+        "label": "MAKKALIKI, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "MAKKALIKI",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80088,
+        "label": "POLIO (BA'SAN), KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "POLIO (BA'SAN)",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80089,
+        "label": "SALUMAKKI, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "SALUMAKKI",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80090,
+        "label": "SANDAPANG, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "SANDAPANG",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80091,
+        "label": "SIRAUN, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "SIRAUN",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80092,
+        "label": "TUMONGA, KALUMPANG, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUMPANG",
+        "subdistrict_name": "TUMONGA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80093,
+        "label": "BEBANGA, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "BEBANGA",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80094,
+        "label": "BELANG-BELANG, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "BELANG-BELANG",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80095,
+        "label": "BERU-BERU, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "BERU-BERU",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80096,
+        "label": "GULILING, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "GULILING",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80097,
+        "label": "KABULOANG, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "KABULOANG",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80098,
+        "label": "KALUKKU, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "KALUKKU",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80100,
+        "label": "KEANG, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "KEANG",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80101,
+        "label": "PAMMULUKANG, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "PAMMULUKANG",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80102,
+        "label": "POKKANG, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "POKKANG",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80103,
+        "label": "SINYONYOI, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "SINYONYOI",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80104,
+        "label": "SONDOANG, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "SONDOANG",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80105,
+        "label": "UHAIMATE, KALUKKU, MAMUJU, SULAWESI BARAT, 91561",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KALUKKU",
+        "subdistrict_name": "UHAIMATE",
+        "zip_code": "91561"
+    },
+    {
+        "id": 80106,
+        "label": "BELA, TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "BELA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80107,
+        "label": "GALUNG, TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "GALUNG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80108,
+        "label": "KASAMBANG, TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "KASAMBANG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80109,
+        "label": "KOPEANG, TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "KOPEANG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80110,
+        "label": "OROBATU, TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "OROBATU",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80111,
+        "label": "RANTEDODA, TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "RANTEDODA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80112,
+        "label": "TAANG (TA'AN), TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "TAANG (TA'AN)",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80113,
+        "label": "TAKANDEANG, TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "TAKANDEANG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80114,
+        "label": "TAMPALANG, TAPALANG, MAMUJU, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "TAMPALANG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80115,
+        "label": "BANUADA, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "BANUADA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80116,
+        "label": "BONEHAU, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "BONEHAU",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80117,
+        "label": "BUTTUADA, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "BUTTUADA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80118,
+        "label": "HINUA, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "HINUA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80119,
+        "label": "KINATANG, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "KINATANG",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80120,
+        "label": "LUMIKA, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "LUMIKA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80121,
+        "label": "LUMIKA I, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "LUMIKA I",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80122,
+        "label": "MAPPU, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "MAPPU",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80123,
+        "label": "SALUTIWO, BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "SALUTIWO",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80124,
+        "label": "TAMALEA (TALONDO I), BONEHAU, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "BONEHAU",
+        "subdistrict_name": "TAMALEA (TALONDO I)",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80125,
+        "label": "BENGGAULU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "BENGGAULU",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80126,
+        "label": "KADAILA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "KADAILA",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80127,
+        "label": "KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "KAMBUNONG",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80128,
+        "label": "KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "KAROSSA",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80129,
+        "label": "KAYU CALLA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "KAYU CALLA",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80130,
+        "label": "LARA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "LARA",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80131,
+        "label": "LEMBAH HOPO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "LEMBAH HOPO",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80132,
+        "label": "SALUBIRO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "SALUBIRO",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80133,
+        "label": "SANJANGO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "SANJANGO",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80134,
+        "label": "SUKA MAJU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "SUKA MAJU",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80135,
+        "label": "TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "KAROSSA",
+        "subdistrict_name": "TASOKKO",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80136,
+        "label": "KOMBILING, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "KOMBILING",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80137,
+        "label": "KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "KUO",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80138,
+        "label": "LAMBA LAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "LAMBA LAMBA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80139,
+        "label": "LEMO-LEMO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "LEMO-LEMO",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80140,
+        "label": "PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "PANGALE",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80141,
+        "label": "POLO CAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "POLO CAMBA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80142,
+        "label": "POLO LERENG, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "POLO LERENG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80143,
+        "label": "POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "POLO PANGALE",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80144,
+        "label": "SARTANA MAJU, PANGALE, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "PANGALE",
+        "subdistrict_name": "SARTANA MAJU",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80145,
+        "label": "BATU AMPA, PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "BATU AMPA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80146,
+        "label": "BODA-BODA, PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "BODA-BODA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80147,
+        "label": "BONDA, PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "BONDA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80148,
+        "label": "PAPALANG, PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "PAPALANG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80149,
+        "label": "SALUKAYU (SALOKAYU), PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "SALUKAYU (SALOKAYU)",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80150,
+        "label": "SISANGO, PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "SISANGO",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80151,
+        "label": "SUKADAMAI, PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "SUKADAMAI",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80152,
+        "label": "TOABO, PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "TOABO",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80153,
+        "label": "TOPARE (TAPORE), PAPALANG, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "PAPALANG",
+        "subdistrict_name": "TOPARE (TAPORE)",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80154,
+        "label": "BUNDE, SAMPAGA, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SAMPAGA",
+        "subdistrict_name": "BUNDE",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80155,
+        "label": "KALONDING, SAMPAGA, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SAMPAGA",
+        "subdistrict_name": "KALONDING",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80156,
+        "label": "LOSSO, SAMPAGA, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SAMPAGA",
+        "subdistrict_name": "LOSSO",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80157,
+        "label": "SALUBARANA, SAMPAGA, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SAMPAGA",
+        "subdistrict_name": "SALUBARANA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80158,
+        "label": "SAMPAGA, SAMPAGA, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SAMPAGA",
+        "subdistrict_name": "SAMPAGA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80159,
+        "label": "TANAM BUAH (TANAMBUA), SAMPAGA, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SAMPAGA",
+        "subdistrict_name": "TANAM BUAH (TANAMBUA)",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80160,
+        "label": "TARAILU, SAMPAGA, MAMUJU, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SAMPAGA",
+        "subdistrict_name": "TARAILU",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80161,
+        "label": "BOTTENG, SIMBORO DAN KEPULAUAN, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SIMBORO DAN KEPULAUAN",
+        "subdistrict_name": "BOTTENG",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80162,
+        "label": "BOTTENG UTARA, SIMBORO DAN KEPULAUAN, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SIMBORO DAN KEPULAUAN",
+        "subdistrict_name": "BOTTENG UTARA",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80163,
+        "label": "KUPTD BOTTENG I, SIMBORO DAN KEPULAUAN, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SIMBORO DAN KEPULAUAN",
+        "subdistrict_name": "KUPTD BOTTENG I",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80164,
+        "label": "KUPTD BOTTENG II, SIMBORO DAN KEPULAUAN, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SIMBORO DAN KEPULAUAN",
+        "subdistrict_name": "KUPTD BOTTENG II",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80165,
+        "label": "RANGAS, SIMBORO DAN KEPULAUAN, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SIMBORO DAN KEPULAUAN",
+        "subdistrict_name": "RANGAS",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80166,
+        "label": "SALLETTO, SIMBORO DAN KEPULAUAN, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SIMBORO DAN KEPULAUAN",
+        "subdistrict_name": "SALLETTO",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80167,
+        "label": "SIMBORO, SIMBORO DAN KEPULAUAN, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SIMBORO DAN KEPULAUAN",
+        "subdistrict_name": "SIMBORO",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80168,
+        "label": "SUMARE, SIMBORO DAN KEPULAUAN, MAMUJU, SULAWESI BARAT, 91513",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "SIMBORO DAN KEPULAUAN",
+        "subdistrict_name": "SUMARE",
+        "zip_code": "91513"
+    },
+    {
+        "id": 80176,
+        "label": "BAMBADARU, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOBADAK",
+        "subdistrict_name": "BAMBADARU",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80177,
+        "label": "BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOBADAK",
+        "subdistrict_name": "BATU PARIGI",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80178,
+        "label": "MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOBADAK",
+        "subdistrict_name": "MAHAHE",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80179,
+        "label": "POLONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOBADAK",
+        "subdistrict_name": "POLONGAAN",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80180,
+        "label": "SALOADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOBADAK",
+        "subdistrict_name": "SALOADAK",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80181,
+        "label": "SEJATI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOBADAK",
+        "subdistrict_name": "SEJATI",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80182,
+        "label": "SULOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOBADAK",
+        "subdistrict_name": "SULOBAJA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80183,
+        "label": "TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOBADAK",
+        "subdistrict_name": "TOBADAK",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80184,
+        "label": "BUANA SAKTI, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "BUANA SAKTI",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80185,
+        "label": "CAMPALOGA, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "CAMPALOGA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80186,
+        "label": "KAKULASANG (KAKULLASAN), TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "KAKULASANG (KAKULLASAN)",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80187,
+        "label": "KALEPU, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "KALEPU",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80188,
+        "label": "LELING, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "LELING",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80190,
+        "label": "LELING UTARA, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "LELING UTARA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80191,
+        "label": "MALINO, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "MALINO",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80192,
+        "label": "RANTE MARIO, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "RANTE MARIO",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80193,
+        "label": "SALUDENGEN, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "SALUDENGEN",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80194,
+        "label": "SANDANA, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "SANDANA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80195,
+        "label": "TAMEJARRA (TAMMEJARRA), TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "TAMEJARRA (TAMMEJARRA)",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80196,
+        "label": "TAMEMONGGA, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "TAMEMONGGA",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80197,
+        "label": "TOMMO, TOMMO, MAMUJU, SULAWESI BARAT, 91562",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TOMMO",
+        "subdistrict_name": "TOMMO",
+        "zip_code": "91562"
+    },
+    {
+        "id": 80198,
+        "label": "BAMBAMANURUNG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "BAMBAMANURUNG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80199,
+        "label": "BUDONG-BUDONG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "BUDONG-BUDONG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80200,
+        "label": "KABUBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "KABUBU",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80201,
+        "label": "PANGALLOANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "PANGALLOANG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80202,
+        "label": "PARAILI, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "PARAILI",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80203,
+        "label": "SALULEBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "SALULEBO",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80204,
+        "label": "SALUPANGKANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "SALUPANGKANG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80205,
+        "label": "SALUPANGKANG IV, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "SALUPANGKANG IV",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80206,
+        "label": "SINABATTA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "SINABATTA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80207,
+        "label": "TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "TABOLANG",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80208,
+        "label": "TANGKAU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "TANGKAU",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80209,
+        "label": "TAPPILINA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "TAPPILINA",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80210,
+        "label": "TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "TOPOYO",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80211,
+        "label": "TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "TUMBU",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80212,
+        "label": "WAE PUTEH, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT, 91563",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU TENGAH",
+        "district_name": "TOPOYO",
+        "subdistrict_name": "WAE PUTEH",
+        "zip_code": "91563"
+    },
+    {
+        "id": 80213,
+        "label": "BALA BALAKANG, KEP. BALA BALAKANG, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KEP. BALA BALAKANG",
+        "subdistrict_name": "BALA BALAKANG",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80214,
+        "label": "BALA BALAKANG TIMUR, KEP. BALA BALAKANG, MAMUJU, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "KEP. BALA BALAKANG",
+        "subdistrict_name": "BALA BALAKANG TIMUR",
+        "zip_code": "91512"
+    },
+    {
+        "id": 80321,
+        "label": "BAMBANGAN, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "BAMBANGAN",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80322,
+        "label": "KAYUANGIN, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "KAYUANGIN",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80323,
+        "label": "LAMUNGANG BATU, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "LAMUNGANG BATU",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80324,
+        "label": "LOMBANG, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "LOMBANG",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80325,
+        "label": "LOMBANG TIMUR, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "LOMBANG TIMUR",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80326,
+        "label": "LOMBONG, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "LOMBONG",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80327,
+        "label": "LOMBONG TIMUR, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "LOMBONG TIMUR",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80328,
+        "label": "MALIAYA, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "MALIAYA",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80329,
+        "label": "MALUNDA, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "MALUNDA",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80330,
+        "label": "MEKKATTA, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "MEKKATTA",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80331,
+        "label": "MEKKATTA SELATAN, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "MEKKATTA SELATAN",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80332,
+        "label": "SALUTAHONGAN, MALUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "MALUNDA",
+        "subdistrict_name": "SALUTAHONGAN",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80333,
+        "label": "ADOLANG, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "ADOLANG",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80334,
+        "label": "ADOLANG DHUA, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "ADOLANG DHUA",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80335,
+        "label": "BABABULO, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "BABABULO",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80336,
+        "label": "BABABULO UTARA, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "BABABULO UTARA",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80337,
+        "label": "BALOMBONG, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "BALOMBONG",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80338,
+        "label": "BANUA ADOLANG, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "BANUA ADOLANG",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80339,
+        "label": "BETTENG, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "BETTENG",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80340,
+        "label": "BONDE, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "BONDE",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80341,
+        "label": "BONDE UTARA, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "BONDE UTARA",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80342,
+        "label": "BUTTU PAMBOANG, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "BUTTU PAMBOANG",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80343,
+        "label": "LALAMPANUA, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "LALAMPANUA",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80344,
+        "label": "PESULOANG, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "PESULOANG",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80345,
+        "label": "SIMBANG, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "SIMBANG",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80346,
+        "label": "SIRINDU, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "SIRINDU",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80347,
+        "label": "TINAMBUNG, PAMBOANG, MAJENE, SULAWESI BARAT, 91451",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "PAMBOANG",
+        "subdistrict_name": "TINAMBUNG",
+        "zip_code": "91451"
+    },
+    {
+        "id": 80348,
+        "label": "BANUA SENDANA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "BANUA SENDANA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80349,
+        "label": "BINANGA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "BINANGA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80350,
+        "label": "BUKIT SAMANG, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "BUKIT SAMANG",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80351,
+        "label": "LALATEDZONG, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "LALATEDZONG",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80352,
+        "label": "LEPPANGANG, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "LEPPANGANG",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80353,
+        "label": "LIMBORO RAMBU-RAMBU, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "LIMBORO RAMBU-RAMBU",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80354,
+        "label": "LIMBUA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "LIMBUA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80355,
+        "label": "MOSSO, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "MOSSO",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80356,
+        "label": "MOSSO DHUA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "MOSSO DHUA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80357,
+        "label": "PAMINGGALAN, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "PAMINGGALAN",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80358,
+        "label": "PUNDAU, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "PUNDAU",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80359,
+        "label": "PUTTADA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "PUTTADA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80360,
+        "label": "SENDANA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "SENDANA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80361,
+        "label": "TALLUBANUA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "TALLUBANUA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80362,
+        "label": "TALLUBANUA UTARA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "TALLUBANUA UTARA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80363,
+        "label": "TOTOLISI SENDANA, SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "SENDANA",
+        "subdistrict_name": "TOTOLISI SENDANA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80364,
+        "label": "BANGGAE, BANGGAE, MAJENE, SULAWESI BARAT, 91411",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE",
+        "subdistrict_name": "BANGGAE",
+        "zip_code": "91411"
+    },
+    {
+        "id": 80365,
+        "label": "BARU, BANGGAE, MAJENE, SULAWESI BARAT, 91415",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE",
+        "subdistrict_name": "BARU",
+        "zip_code": "91415"
+    },
+    {
+        "id": 80366,
+        "label": "GALUNG, BANGGAE, MAJENE, SULAWESI BARAT, 91411",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE",
+        "subdistrict_name": "GALUNG",
+        "zip_code": "91411"
+    },
+    {
+        "id": 80367,
+        "label": "PALIPI SOREANG, BANGGAE, MAJENE, SULAWESI BARAT, 91415",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE",
+        "subdistrict_name": "PALIPI SOREANG",
+        "zip_code": "91415"
+    },
+    {
+        "id": 80368,
+        "label": "PAMBOBORANG, BANGGAE, MAJENE, SULAWESI BARAT, 91415",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE",
+        "subdistrict_name": "PAMBOBORANG",
+        "zip_code": "91415"
+    },
+    {
+        "id": 80369,
+        "label": "PANGALI-ALI, BANGGAE, MAJENE, SULAWESI BARAT, 91411",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE",
+        "subdistrict_name": "PANGALI-ALI",
+        "zip_code": "91411"
+    },
+    {
+        "id": 80370,
+        "label": "RANGAS, BANGGAE, MAJENE, SULAWESI BARAT, 91415",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE",
+        "subdistrict_name": "RANGAS",
+        "zip_code": "91415"
+    },
+    {
+        "id": 80371,
+        "label": "TOTOLI, BANGGAE, MAJENE, SULAWESI BARAT, 91415",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE",
+        "subdistrict_name": "TOTOLI",
+        "zip_code": "91415"
+    },
+    {
+        "id": 80372,
+        "label": "BARUGA, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91414",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "BARUGA",
+        "zip_code": "91414"
+    },
+    {
+        "id": 80373,
+        "label": "BARUGA DUA, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91411",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "BARUGA DUA",
+        "zip_code": "91411"
+    },
+    {
+        "id": 80374,
+        "label": "BAURUNG, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91412",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "BAURUNG",
+        "zip_code": "91412"
+    },
+    {
+        "id": 80375,
+        "label": "BUTTU BARUGA, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "BUTTU BARUGA",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80376,
+        "label": "LABUANG, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91412",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "LABUANG",
+        "zip_code": "91412"
+    },
+    {
+        "id": 80377,
+        "label": "LABUANG UTARA, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "LABUANG UTARA",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80378,
+        "label": "LEMBANG, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "LEMBANG",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80379,
+        "label": "TANDE, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "TANDE",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80380,
+        "label": "TANDE TIMUR, BANGGAE TIMUR, MAJENE, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "BANGGAE TIMUR",
+        "subdistrict_name": "TANDE TIMUR",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80381,
+        "label": "AWO, TAMMEREDO SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TAMMEREDO SENDANA",
+        "subdistrict_name": "AWO",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80382,
+        "label": "MANYAMBA, TAMMEREDO SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TAMMEREDO SENDANA",
+        "subdistrict_name": "MANYAMBA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80383,
+        "label": "SEPPONG, TAMMEREDO SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TAMMEREDO SENDANA",
+        "subdistrict_name": "SEPPONG",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80384,
+        "label": "TALLAMBALAO, TAMMEREDO SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TAMMEREDO SENDANA",
+        "subdistrict_name": "TALLAMBALAO",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80385,
+        "label": "TAMMERODO, TAMMEREDO SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TAMMEREDO SENDANA",
+        "subdistrict_name": "TAMMERODO",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80386,
+        "label": "TAMMERODO UTARA, TAMMEREDO SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TAMMEREDO SENDANA",
+        "subdistrict_name": "TAMMERODO UTARA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80387,
+        "label": "ULIDANG, TAMMEREDO SENDANA, MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TAMMEREDO SENDANA",
+        "subdistrict_name": "ULIDANG",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80388,
+        "label": "BONDE BONDE, TUBO (TUBO SENDANA), MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TUBO (TUBO SENDANA)",
+        "subdistrict_name": "BONDE BONDE",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80389,
+        "label": "ONANG SELATAN, TUBO (TUBO SENDANA), MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TUBO (TUBO SENDANA)",
+        "subdistrict_name": "ONANG SELATAN",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80390,
+        "label": "ONANG UTARA, TUBO (TUBO SENDANA), MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TUBO (TUBO SENDANA)",
+        "subdistrict_name": "ONANG UTARA",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80391,
+        "label": "TUBO, TUBO (TUBO SENDANA), MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TUBO (TUBO SENDANA)",
+        "subdistrict_name": "TUBO",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80392,
+        "label": "TUBO POANG, TUBO (TUBO SENDANA), MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TUBO (TUBO SENDANA)",
+        "subdistrict_name": "TUBO POANG",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80393,
+        "label": "TUBO SELATAN, TUBO (TUBO SENDANA), MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TUBO (TUBO SENDANA)",
+        "subdistrict_name": "TUBO SELATAN",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80394,
+        "label": "TUBO TENGAH, TUBO (TUBO SENDANA), MAJENE, SULAWESI BARAT, 91452",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "TUBO (TUBO SENDANA)",
+        "subdistrict_name": "TUBO TENGAH",
+        "zip_code": "91452"
+    },
+    {
+        "id": 80395,
+        "label": "KABIRAAN, ULUMUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "ULUMUNDA",
+        "subdistrict_name": "KABIRAAN",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80396,
+        "label": "PANGGALO, ULUMUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "ULUMUNDA",
+        "subdistrict_name": "PANGGALO",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80397,
+        "label": "POPENGA, ULUMUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "ULUMUNDA",
+        "subdistrict_name": "POPENGA",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80398,
+        "label": "SALUTAMBUNG, ULUMUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "ULUMUNDA",
+        "subdistrict_name": "SALUTAMBUNG",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80399,
+        "label": "SAMBABO, ULUMUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "ULUMUNDA",
+        "subdistrict_name": "SAMBABO",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80400,
+        "label": "SULAI, ULUMUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "ULUMUNDA",
+        "subdistrict_name": "SULAI",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80401,
+        "label": "TANDEALLO, ULUMUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "ULUMUNDA",
+        "subdistrict_name": "TANDEALLO",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80402,
+        "label": "ULUMANDA, ULUMUNDA, MAJENE, SULAWESI BARAT, 91453",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAJENE",
+        "district_name": "ULUMUNDA",
+        "subdistrict_name": "ULUMANDA",
+        "zip_code": "91453"
+    },
+    {
+        "id": 80561,
+        "label": "DARMA, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91314",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "DARMA",
+        "zip_code": "91314"
+    },
+    {
+        "id": 80562,
+        "label": "LANTORA, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91313",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "LANTORA",
+        "zip_code": "91313"
+    },
+    {
+        "id": 80563,
+        "label": "MADATTE, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91315",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "MADATTE",
+        "zip_code": "91315"
+    },
+    {
+        "id": 80564,
+        "label": "MANDING, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91311",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "MANDING",
+        "zip_code": "91311"
+    },
+    {
+        "id": 80565,
+        "label": "PEKKABATA, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91311",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "PEKKABATA",
+        "zip_code": "91311"
+    },
+    {
+        "id": 80566,
+        "label": "POLEWALI, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91311",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "POLEWALI",
+        "zip_code": "91311"
+    },
+    {
+        "id": 80567,
+        "label": "SULEWATANG, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91315",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "SULEWATANG",
+        "zip_code": "91315"
+    },
+    {
+        "id": 80568,
+        "label": "TAKATIDUNG, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91311",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "TAKATIDUNG",
+        "zip_code": "91311"
+    },
+    {
+        "id": 80569,
+        "label": "WATTANG, POLEWALI, POLEWALI MANDAR, SULAWESI BARAT, 91315",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "POLEWALI",
+        "subdistrict_name": "WATTANG",
+        "zip_code": "91315"
+    },
+    {
+        "id": 80570,
+        "label": "BONDE, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "BONDE",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80571,
+        "label": "BOTTO, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "BOTTO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80572,
+        "label": "GATTUNGAN, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "GATTUNGAN",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80573,
+        "label": "KATUMBANGAN, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "KATUMBANGAN",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80574,
+        "label": "KATUMBANGAN LEMO, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "KATUMBANGAN LEMO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80575,
+        "label": "KENJE, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "KENJE",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80576,
+        "label": "LAGI-AGI, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "LAGI-AGI",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80577,
+        "label": "LALIKO, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "LALIKO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80578,
+        "label": "LAMPOKO, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "LAMPOKO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80579,
+        "label": "LAPEO, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "LAPEO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80580,
+        "label": "ONGKO, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "ONGKO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80581,
+        "label": "PADANG, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "PADANG",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80582,
+        "label": "PADANG TIMUR, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "PADANG TIMUR",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80583,
+        "label": "PANYAMPA, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "PANYAMPA",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80584,
+        "label": "PAPPANG, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "PAPPANG",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80585,
+        "label": "PARAPPE, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "PARAPPE",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80586,
+        "label": "SUMARANG (SUMARRANG), CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "SUMARANG (SUMARRANG)",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80587,
+        "label": "SURUANG, CAMPALAGIAN, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "CAMPALAGIAN",
+        "subdistrict_name": "SURUANG",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80588,
+        "label": "BATULAYA, TINAMBUNG, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TINAMBUNG",
+        "subdistrict_name": "BATULAYA",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80589,
+        "label": "GALUNG LOMBOK, TINAMBUNG, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TINAMBUNG",
+        "subdistrict_name": "GALUNG LOMBOK",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80590,
+        "label": "KARAMA, TINAMBUNG, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TINAMBUNG",
+        "subdistrict_name": "KARAMA",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80591,
+        "label": "LEKOPADIS, TINAMBUNG, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TINAMBUNG",
+        "subdistrict_name": "LEKOPADIS",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80592,
+        "label": "SEPA BATU, TINAMBUNG, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TINAMBUNG",
+        "subdistrict_name": "SEPA BATU",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80593,
+        "label": "TANDUNG, TINAMBUNG, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TINAMBUNG",
+        "subdistrict_name": "TANDUNG",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80594,
+        "label": "TANGNGA-TANGNGA, TINAMBUNG, POLEWALI MANDAR, SULAWESI BARAT, 91412",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TINAMBUNG",
+        "subdistrict_name": "TANGNGA-TANGNGA",
+        "zip_code": "91412"
+    },
+    {
+        "id": 80595,
+        "label": "TINAMBUNG, TINAMBUNG, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TINAMBUNG",
+        "subdistrict_name": "TINAMBUNG",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80596,
+        "label": "AMBO PADANG, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "AMBO PADANG",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80597,
+        "label": "ARABUA, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "ARABUA",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80598,
+        "label": "BESOANGIN, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "BESOANGIN",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80599,
+        "label": "BESOANGIN UTARA, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "BESOANGIN UTARA",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80600,
+        "label": "PEBURRU, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "PEBURRU",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80601,
+        "label": "PIRIANG TAPIKO, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "PIRIANG TAPIKO",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80602,
+        "label": "PODA, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "PODA",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80603,
+        "label": "POLLEWANI, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "POLLEWANI",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80604,
+        "label": "RATTE, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "RATTE",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80605,
+        "label": "TALOBA, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "TALOBA",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80606,
+        "label": "TARAMANU, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "TARAMANU",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80607,
+        "label": "TARAMANU TUA, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "TARAMANU TUA",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80608,
+        "label": "TUBBI, TUBBI TARAMANU (TUTAR/TUTALLU), POLEWALI MANDAR, SULAWESI BARAT, 91355",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TUBBI TARAMANU (TUTAR/TUTALLU)",
+        "subdistrict_name": "TUBBI",
+        "zip_code": "91355"
+    },
+    {
+        "id": 80609,
+        "label": "ARJOSARI, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "ARJOSARI",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80610,
+        "label": "BAKKA-BAKKA, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "BAKKA-BAKKA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80611,
+        "label": "BANUA BARU, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "BANUA BARU",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80612,
+        "label": "BUMI MULYO, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "BUMI MULYO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80613,
+        "label": "BUMIAYU, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "BUMIAYU",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80614,
+        "label": "CAMPURJO, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "CAMPURJO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80615,
+        "label": "GELESO, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "GELESO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80616,
+        "label": "KEBUNSARI, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "KEBUNSARI",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80617,
+        "label": "NEPO, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "NEPO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80618,
+        "label": "SIDODADI, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "SIDODADI",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80619,
+        "label": "SIDOREJO, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "SIDOREJO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80620,
+        "label": "SUGIH WARAS, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "SUGIH WARAS",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80621,
+        "label": "SUMBERJO, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "SUMBERJO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80622,
+        "label": "TUMPILING, WONOMULYO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "WONOMULYO",
+        "subdistrict_name": "TUMPILING",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80623,
+        "label": "ALU (ALLU), ALU (ALLU), POLEWALI MANDAR, SULAWESI BARAT, 96365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ALU (ALLU)",
+        "subdistrict_name": "ALU (ALLU)",
+        "zip_code": "96365"
+    },
+    {
+        "id": 80624,
+        "label": "KALUMAMMANG, ALU (ALLU), POLEWALI MANDAR, SULAWESI BARAT, 96365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ALU (ALLU)",
+        "subdistrict_name": "KALUMAMMANG",
+        "zip_code": "96365"
+    },
+    {
+        "id": 80625,
+        "label": "MOMBI, ALU (ALLU), POLEWALI MANDAR, SULAWESI BARAT, 96365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ALU (ALLU)",
+        "subdistrict_name": "MOMBI",
+        "zip_code": "96365"
+    },
+    {
+        "id": 80626,
+        "label": "PAO PAO, ALU (ALLU), POLEWALI MANDAR, SULAWESI BARAT, 96365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ALU (ALLU)",
+        "subdistrict_name": "PAO PAO",
+        "zip_code": "96365"
+    },
+    {
+        "id": 80627,
+        "label": "PETOOSANG, ALU (ALLU), POLEWALI MANDAR, SULAWESI BARAT, 96365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ALU (ALLU)",
+        "subdistrict_name": "PETOOSANG",
+        "zip_code": "96365"
+    },
+    {
+        "id": 80628,
+        "label": "PUPU URING (PUPPURING), ALU (ALLU), POLEWALI MANDAR, SULAWESI BARAT, 96365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ALU (ALLU)",
+        "subdistrict_name": "PUPU URING (PUPPURING)",
+        "zip_code": "96365"
+    },
+    {
+        "id": 80629,
+        "label": "SARAGIAN, ALU (ALLU), POLEWALI MANDAR, SULAWESI BARAT, 96365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ALU (ALLU)",
+        "subdistrict_name": "SARAGIAN",
+        "zip_code": "96365"
+    },
+    {
+        "id": 80630,
+        "label": "SAYOANG, ALU (ALLU), POLEWALI MANDAR, SULAWESI BARAT, 96365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ALU (ALLU)",
+        "subdistrict_name": "SAYOANG",
+        "zip_code": "96365"
+    },
+    {
+        "id": 80631,
+        "label": "ANREAPI, ANREAPI, POLEWALI MANDAR, SULAWESI BARAT, 91315",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ANREAPI",
+        "subdistrict_name": "ANREAPI",
+        "zip_code": "91315"
+    },
+    {
+        "id": 80632,
+        "label": "DUAMPANUA, ANREAPI, POLEWALI MANDAR, SULAWESI BARAT, 91315",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ANREAPI",
+        "subdistrict_name": "DUAMPANUA",
+        "zip_code": "91315"
+    },
+    {
+        "id": 80633,
+        "label": "KELAPA DUA, ANREAPI, POLEWALI MANDAR, SULAWESI BARAT, 91315",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ANREAPI",
+        "subdistrict_name": "KELAPA DUA",
+        "zip_code": "91315"
+    },
+    {
+        "id": 80634,
+        "label": "KUNYI, ANREAPI, POLEWALI MANDAR, SULAWESI BARAT, 91315",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ANREAPI",
+        "subdistrict_name": "KUNYI",
+        "zip_code": "91315"
+    },
+    {
+        "id": 80635,
+        "label": "PAPPANDANGAN, ANREAPI, POLEWALI MANDAR, SULAWESI BARAT, 91315",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "ANREAPI",
+        "subdistrict_name": "PAPPANDANGAN",
+        "zip_code": "91315"
+    },
+    {
+        "id": 80636,
+        "label": "BALA, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "BALA",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80637,
+        "label": "BALANIPA, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "BALANIPA",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80638,
+        "label": "GALUNG TULU, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "GALUNG TULU",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80639,
+        "label": "LAMBANAN, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "LAMBANAN",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80640,
+        "label": "LEGO, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "LEGO",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80641,
+        "label": "MOSSO, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "MOSSO",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80642,
+        "label": "PALLIS, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "PALLIS",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80643,
+        "label": "PAMBUSUANG, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "PAMBUSUANG",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80644,
+        "label": "SABANG SUBIK, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "SABANG SUBIK",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80645,
+        "label": "TAMMANGALLE, BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "TAMMANGALLE",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80646,
+        "label": "TAMMEJARRA (TAMMAJARRA), BALANIPA, POLEWALI MANDAR, SULAWESI BARAT, 91354",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BALANIPA",
+        "subdistrict_name": "TAMMEJARRA (TAMMAJARRA)",
+        "zip_code": "91354"
+    },
+    {
+        "id": 80647,
+        "label": "AMASSANGAN, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91312",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "AMASSANGAN",
+        "zip_code": "91312"
+    },
+    {
+        "id": 80648,
+        "label": "AMOLA, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91312",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "AMOLA",
+        "zip_code": "91312"
+    },
+    {
+        "id": 80649,
+        "label": "BATETANGNGA, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91312",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "BATETANGNGA",
+        "zip_code": "91312"
+    },
+    {
+        "id": 80650,
+        "label": "KALEOK, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91312",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "KALEOK",
+        "zip_code": "91312"
+    },
+    {
+        "id": 80651,
+        "label": "KUAJANG, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91351",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "KUAJANG",
+        "zip_code": "91351"
+    },
+    {
+        "id": 80652,
+        "label": "MAMMI, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91311",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "MAMMI",
+        "zip_code": "91311"
+    },
+    {
+        "id": 80653,
+        "label": "MIRRING, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91312",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "MIRRING",
+        "zip_code": "91312"
+    },
+    {
+        "id": 80654,
+        "label": "PAKU, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91351",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "PAKU",
+        "zip_code": "91351"
+    },
+    {
+        "id": 80655,
+        "label": "REA, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91312",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "REA",
+        "zip_code": "91312"
+    },
+    {
+        "id": 80656,
+        "label": "TONYAMAN, BINUANG, POLEWALI MANDAR, SULAWESI BARAT, 91312",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BINUANG",
+        "subdistrict_name": "TONYAMAN",
+        "zip_code": "91312"
+    },
+    {
+        "id": 80657,
+        "label": "LEMBANG LEMBANG, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "LEMBANG LEMBANG",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80658,
+        "label": "LIMBORO, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "LIMBORO",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80659,
+        "label": "NAPO, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "NAPO",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80660,
+        "label": "PALECE, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "PALECE",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80661,
+        "label": "PENDULANGAN (PANDULANGAN), LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "PENDULANGAN (PANDULANGAN)",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80662,
+        "label": "RENGGEANG, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "RENGGEANG",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80663,
+        "label": "SALARRI, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "SALARRI",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80664,
+        "label": "SAMASUNDU, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "SAMASUNDU",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80665,
+        "label": "TANDASURA (TANDASSURA), LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "TANDASURA (TANDASSURA)",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80666,
+        "label": "TANGAN BARU, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "TANGAN BARU",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80667,
+        "label": "TODANG TODANG, LIMBORO, POLEWALI MANDAR, SULAWESI BARAT, 91413",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LIMBORO",
+        "subdistrict_name": "TODANG TODANG",
+        "zip_code": "91413"
+    },
+    {
+        "id": 80668,
+        "label": "BARU, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "BARU",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80669,
+        "label": "BATU PANGA, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "BATU PANGA",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80670,
+        "label": "BATUPANGA DAALA, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "BATUPANGA DAALA",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80671,
+        "label": "LUYO (LUJO), LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "LUYO (LUJO)",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80672,
+        "label": "MAMBU, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "MAMBU",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80674,
+        "label": "PUCCADI, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "PUCCADI",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80675,
+        "label": "PUSSUI, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "PUSSUI",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80677,
+        "label": "SAMBALI WALI, LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "SAMBALI WALI",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80678,
+        "label": "TENGGELANG (TENGGELAN), LUYO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "LUYO",
+        "subdistrict_name": "TENGGELANG (TENGGELAN)",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80679,
+        "label": "BEROANGIN, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "BEROANGIN",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80680,
+        "label": "BONNE-BONNE, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "BONNE-BONNE",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80681,
+        "label": "BONRA, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "BONRA",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80682,
+        "label": "BUKU, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "BUKU",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80683,
+        "label": "KURMA, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "KURMA",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80684,
+        "label": "LANDI KANUSUANG, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "LANDI KANUSUANG",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80685,
+        "label": "MAPILLI, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "MAPILLI",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80687,
+        "label": "RUMPA, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "RUMPA",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80688,
+        "label": "SATTOKO, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "SATTOKO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80689,
+        "label": "SEGERANG, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "SEGERANG",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80690,
+        "label": "UGI BARU, MAPILLI, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MAPILLI",
+        "subdistrict_name": "UGI BARU",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80691,
+        "label": "BARUMBUNG, MATAKALI, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATAKALI",
+        "subdistrict_name": "BARUMBUNG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80692,
+        "label": "BUNGA-BUNGA, MATAKALI, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATAKALI",
+        "subdistrict_name": "BUNGA-BUNGA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80693,
+        "label": "INDO MAKKOMBONG (INDOMAKKONDANG), MATAKALI, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATAKALI",
+        "subdistrict_name": "INDO MAKKOMBONG (INDOMAKKONDANG)",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80694,
+        "label": "MATAKALI, MATAKALI, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATAKALI",
+        "subdistrict_name": "MATAKALI",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80695,
+        "label": "PASIANG, MATAKALI, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATAKALI",
+        "subdistrict_name": "PASIANG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80696,
+        "label": "PATAMPANUA, MATAKALI, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATAKALI",
+        "subdistrict_name": "PATAMPANUA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80697,
+        "label": "TONRO LIMA, MATAKALI, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATAKALI",
+        "subdistrict_name": "TONRO LIMA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80698,
+        "label": "BA'BA TAPUA, MATANGNGA, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATANGNGA",
+        "subdistrict_name": "BA'BA TAPUA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80699,
+        "label": "KATIMBANG, MATANGNGA, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATANGNGA",
+        "subdistrict_name": "KATIMBANG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80700,
+        "label": "LILLI, MATANGNGA, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATANGNGA",
+        "subdistrict_name": "LILLI",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80701,
+        "label": "MAMBU TAPUA, MATANGNGA, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATANGNGA",
+        "subdistrict_name": "MAMBU TAPUA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80702,
+        "label": "MATANGNGA, MATANGNGA, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATANGNGA",
+        "subdistrict_name": "MATANGNGA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80703,
+        "label": "RANGOAN, MATANGNGA, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATANGNGA",
+        "subdistrict_name": "RANGOAN",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80704,
+        "label": "TAPUA, MATANGNGA, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "MATANGNGA",
+        "subdistrict_name": "TAPUA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80705,
+        "label": "BANATO REJO, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "BANATO REJO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80706,
+        "label": "BATU, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "BATU",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80707,
+        "label": "BUSSU, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "BUSSU",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80708,
+        "label": "DAKKA, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "DAKKA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80709,
+        "label": "JAMBU MALEA, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "JAMBU MALEA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80710,
+        "label": "KALIMBUA, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "KALIMBUA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80711,
+        "label": "KURRAK, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "KURRAK",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80712,
+        "label": "PALATTA, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "PALATTA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80713,
+        "label": "PELITAKAN, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "PELITAKAN",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80714,
+        "label": "RAPPANG, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "RAPPANG",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80715,
+        "label": "RISO, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "RISO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80716,
+        "label": "TAPANGO, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "TAPANGO",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80718,
+        "label": "TUTTULA, TAPANGO, POLEWALI MANDAR, SULAWESI BARAT, 91352",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "TAPANGO",
+        "subdistrict_name": "TUTTULA",
+        "zip_code": "91352"
+    },
+    {
+        "id": 80719,
+        "label": "BULO, BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "BULO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80720,
+        "label": "DAALA TIMUR, BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "DAALA TIMUR",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80721,
+        "label": "IHING, BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "IHING",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80722,
+        "label": "KAROMBANG, BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "KAROMBANG",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80723,
+        "label": "LENGGO, BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "LENGGO",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80724,
+        "label": "PULLIWA, BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "PULLIWA",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80725,
+        "label": "SABURA, BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "SABURA",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80726,
+        "label": "SEPPORRAKI, BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "SEPPORRAKI",
+        "zip_code": "91353"
+    },
+    {
+        "id": 80727,
+        "label": "TAPAMBANUA (PATAMBANUA), BULO, POLEWALI MANDAR, SULAWESI BARAT, 91353",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "POLEWALI MANDAR",
+        "district_name": "BULO",
+        "subdistrict_name": "TAPAMBANUA (PATAMBANUA)",
+        "zip_code": "91353"
+    },
+    {
+        "id": 82564,
+        "label": "BOMBONG LAMBE, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "BOMBONG LAMBE",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82565,
+        "label": "BUBUN BATU, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "BUBUN BATU",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82566,
+        "label": "BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "BUNTU BUDA",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82567,
+        "label": "LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "LAMBANAN",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82568,
+        "label": "LEMBANA SALULO, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "LEMBANA SALULO",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82569,
+        "label": "MAMASA, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "MAMASA",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82570,
+        "label": "MAMBULILING, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "MAMBULILING",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82571,
+        "label": "OSANGO, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "OSANGO",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82572,
+        "label": "PEBASSIAN, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "PEBASSIAN",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82573,
+        "label": "RAMBUSARATU, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "RAMBUSARATU",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82574,
+        "label": "TAUPE, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "TAUPE",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82575,
+        "label": "TONDOK BAKARU, MAMASA, MAMASA, SULAWESI BARAT, 91362",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMASA",
+        "subdistrict_name": "TONDOK BAKARU",
+        "zip_code": "91362"
+    },
+    {
+        "id": 82576,
+        "label": "ARALLE, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "ARALLE",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82577,
+        "label": "ARALLE SELATAN, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "ARALLE SELATAN",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82578,
+        "label": "ARALLE UTARA, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "ARALLE UTARA",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82579,
+        "label": "BARURU, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "BARURU",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82580,
+        "label": "HAHANGAN, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "HAHANGAN",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82581,
+        "label": "KALABE, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "KALABE",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82582,
+        "label": "PAMOSEANG PANGGA, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "PAMOSEANG PANGGA",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82583,
+        "label": "PANETEAN, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "PANETEAN",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82584,
+        "label": "RALLE ANAK, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "RALLE ANAK",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82585,
+        "label": "RALLEANAK UTARA, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "RALLEANAK UTARA",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82586,
+        "label": "UHAIDAHO, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "UHAIDAHO",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82587,
+        "label": "UHAILANU, ARALLE, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "ARALLE",
+        "subdistrict_name": "UHAILANU",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82588,
+        "label": "BUJUNG MANURUNG, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "BUJUNG MANURUNG",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82589,
+        "label": "INDOBANUA, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "INDOBANUA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82590,
+        "label": "MAMBI, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "MAMBI",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82591,
+        "label": "PAMOSEAN, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "PAMOSEAN",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82592,
+        "label": "RANTEBULAHAN, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "RANTEBULAHAN",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82593,
+        "label": "SALU ALO, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "SALU ALO",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82594,
+        "label": "SALUBANUA, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "SALUBANUA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82595,
+        "label": "SALUDURIAN, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "SALUDURIAN",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82596,
+        "label": "SELUMAKA, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "SELUMAKA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82597,
+        "label": "SENDANA, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "SENDANA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82598,
+        "label": "SONDONGLAYU, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "SONDONGLAYU",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82599,
+        "label": "TALIPUKKI, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "TALIPUKKI",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82600,
+        "label": "TAPALINA, MAMBI, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MAMBI",
+        "subdistrict_name": "TAPALINA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82601,
+        "label": "MAKUANG, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "MAKUANG",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82602,
+        "label": "MALIMBONG, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "MALIMBONG",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82603,
+        "label": "MATANDE, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "MATANDE",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82604,
+        "label": "MESSAWA, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "MESSAWA",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82605,
+        "label": "PASMA MAMBU, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "PASMA MAMBU",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82606,
+        "label": "RIPPUNG, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "RIPPUNG",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82607,
+        "label": "SEPANG, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "SEPANG",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82608,
+        "label": "SIPAI, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "SIPAI",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82609,
+        "label": "TANETE BATU, MESSAWA, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MESSAWA",
+        "subdistrict_name": "TANETE BATU",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82610,
+        "label": "DATUBARINGAN, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "DATUBARINGAN",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82611,
+        "label": "KARAKA, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "KARAKA",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82612,
+        "label": "MAMULLU, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "MAMULLU",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82613,
+        "label": "MANIPI, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "MANIPI",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82614,
+        "label": "PANA, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "PANA",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82615,
+        "label": "PANURA, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "PANURA",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82616,
+        "label": "SALOAN, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "SALOAN",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82617,
+        "label": "SALUTAMBUN, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "SALUTAMBUN",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82618,
+        "label": "SAPAN, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "SAPAN",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82619,
+        "label": "TALLANG BULAWAN, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "TALLANG BULAWAN",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82620,
+        "label": "ULUSALU, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "ULUSALU",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82621,
+        "label": "ULUSALU INDAH, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "ULUSALU INDAH",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82622,
+        "label": "WERI, PANA, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "PANA",
+        "subdistrict_name": "WERI",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82623,
+        "label": "BATUPAPAN, NOSU, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "NOSU",
+        "subdistrict_name": "BATUPAPAN",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82624,
+        "label": "MASEWWE, NOSU, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "NOSU",
+        "subdistrict_name": "MASEWWE",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82625,
+        "label": "MINANGA, NOSU, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "NOSU",
+        "subdistrict_name": "MINANGA",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82626,
+        "label": "MINANGA TIMUR, NOSU, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "NOSU",
+        "subdistrict_name": "MINANGA TIMUR",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82627,
+        "label": "NOSU, NOSU, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "NOSU",
+        "subdistrict_name": "NOSU",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82628,
+        "label": "PARINDING, NOSU, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "NOSU",
+        "subdistrict_name": "PARINDING",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82629,
+        "label": "SIWI, NOSU, MAMASA, SULAWESI BARAT, 91363",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "NOSU",
+        "subdistrict_name": "SIWI",
+        "zip_code": "91363"
+    },
+    {
+        "id": 82630,
+        "label": "LISUAN ADA, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "LISUAN ADA",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82631,
+        "label": "MALANGKENA PADANG, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "MALANGKENA PADANG",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82632,
+        "label": "MALIMBONG, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "MALIMBONG",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82633,
+        "label": "MARAMPAN OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "MARAMPAN OROBUA",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82634,
+        "label": "OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "OROBUA",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82635,
+        "label": "OROBUA SELATAN, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "OROBUA SELATAN",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82636,
+        "label": "OROBUA TIMUR, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "OROBUA TIMUR",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82637,
+        "label": "PALADAN, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "PALADAN",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82638,
+        "label": "RANTE PUANG, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "RANTE PUANG",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82639,
+        "label": "SATENETEAN, SESENAPADANG, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SESENAPADANG",
+        "subdistrict_name": "SATENETEAN",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82640,
+        "label": "BANEA, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "BANEA",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82641,
+        "label": "BATANG URU, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "BATANG URU",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82642,
+        "label": "BATANGNGURU TIMUR, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "BATANGNGURU TIMUR",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82643,
+        "label": "RANTE KAMASE, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "RANTE KAMASE",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82644,
+        "label": "SALUBALO, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "SALUBALO",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82645,
+        "label": "SASAKAN, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "SASAKAN",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82646,
+        "label": "SIBANAWA, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "SIBANAWA",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82647,
+        "label": "SUMARORONG, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "SUMARORONG",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82648,
+        "label": "TABONE, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "TABONE",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82649,
+        "label": "TADISI, SUMARORONG, MAMASA, SULAWESI BARAT, 91361",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "SUMARORONG",
+        "subdistrict_name": "TADISI",
+        "zip_code": "91361"
+    },
+    {
+        "id": 82650,
+        "label": "BAKADISURA, TABANG, MAMASA, SULAWESI BARAT, 91364",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABANG",
+        "subdistrict_name": "BAKADISURA",
+        "zip_code": "91364"
+    },
+    {
+        "id": 82651,
+        "label": "KALAMA, TABANG, MAMASA, SULAWESI BARAT, 91364",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABANG",
+        "subdistrict_name": "KALAMA",
+        "zip_code": "91364"
+    },
+    {
+        "id": 82652,
+        "label": "MASUPU, TABANG, MAMASA, SULAWESI BARAT, 91364",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABANG",
+        "subdistrict_name": "MASUPU",
+        "zip_code": "91364"
+    },
+    {
+        "id": 82653,
+        "label": "SALUKONA, TABANG, MAMASA, SULAWESI BARAT, 91364",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABANG",
+        "subdistrict_name": "SALUKONA",
+        "zip_code": "91364"
+    },
+    {
+        "id": 82654,
+        "label": "TABANG, TABANG, MAMASA, SULAWESI BARAT, 91364",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABANG",
+        "subdistrict_name": "TABANG",
+        "zip_code": "91364"
+    },
+    {
+        "id": 82656,
+        "label": "TADOKALUA, TABANG, MAMASA, SULAWESI BARAT, 91364",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABANG",
+        "subdistrict_name": "TADOKALUA",
+        "zip_code": "91364"
+    },
+    {
+        "id": 82657,
+        "label": "BURANA, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "BURANA",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82658,
+        "label": "GANDANG DEWATA, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "GANDANG DEWATA",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82659,
+        "label": "LAKAHANG, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "LAKAHANG",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82660,
+        "label": "LAKAHANG UTAMA, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "LAKAHANG UTAMA",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82661,
+        "label": "MALATIRO, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "MALATIRO",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82662,
+        "label": "PANGANDARAN, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "PANGANDARAN",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82663,
+        "label": "PERIANGAN, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "PERIANGAN",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82664,
+        "label": "PEU, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "PEU",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82665,
+        "label": "SALUBAKKA, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "SALUBAKKA",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82666,
+        "label": "SALULEANG, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "SALULEANG",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82667,
+        "label": "TABULAHAN, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "TABULAHAN",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82668,
+        "label": "TALOPAK, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "TALOPAK",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82669,
+        "label": "TAMPAK KURRA, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "TAMPAK KURRA",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82670,
+        "label": "TIMORO, TABULAHAN, MAMASA, SULAWESI BARAT, 91372",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TABULAHAN",
+        "subdistrict_name": "TIMORO",
+        "zip_code": "91372"
+    },
+    {
+        "id": 82671,
+        "label": "BALLABATU, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "BALLABATU",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82672,
+        "label": "KANAN, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "KANAN",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82673,
+        "label": "MALABO, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "MALABO",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82674,
+        "label": "MANNABABA, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "MANNABABA",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82675,
+        "label": "MESAKADA, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "MESAKADA",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82676,
+        "label": "MINAKE, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "MINAKE",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82677,
+        "label": "PAMBE, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "PAMBE",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82678,
+        "label": "PARONDOBULAWAN, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "PARONDOBULAWAN",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82679,
+        "label": "SALURANO, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "SALURANO",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82680,
+        "label": "SINDAGAMANIK, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "SINDAGAMANIK",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82681,
+        "label": "TALIMBUNG, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "TALIMBUNG",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82682,
+        "label": "TAMALANTIK, TANDUK KALUA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TANDUK KALUA",
+        "subdistrict_name": "TAMALANTIK",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82683,
+        "label": "BALLA, BALLA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BALLA",
+        "subdistrict_name": "BALLA",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82685,
+        "label": "BALLA SATANETEAN, BALLA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BALLA",
+        "subdistrict_name": "BALLA SATANETEAN",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82686,
+        "label": "BALLA TIMUR, BALLA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BALLA",
+        "subdistrict_name": "BALLA TIMUR",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82687,
+        "label": "BALLA TUMUKA, BALLA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BALLA",
+        "subdistrict_name": "BALLA TUMUKA",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82688,
+        "label": "BAMBAPUANG, BALLA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BALLA",
+        "subdistrict_name": "BAMBAPUANG",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82689,
+        "label": "PIDARA, BALLA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BALLA",
+        "subdistrict_name": "PIDARA",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82690,
+        "label": "SEPAKUAN, BALLA, MAMASA, SULAWESI BARAT, 91366",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BALLA",
+        "subdistrict_name": "SEPAKUAN",
+        "zip_code": "91366"
+    },
+    {
+        "id": 82691,
+        "label": "BALATANA, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "BALATANA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82692,
+        "label": "BAMBANG, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "BAMBANG",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82693,
+        "label": "BAMBANG TIMUR, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "BAMBANG TIMUR",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82694,
+        "label": "LIMBADEBATA, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "LIMBADEBATA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82695,
+        "label": "MASOSO, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "MASOSO",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82696,
+        "label": "MINANGA, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "MINANGA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82697,
+        "label": "MOKALLANG, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "MOKALLANG",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82698,
+        "label": "RANTELEMO, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "RANTELEMO",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82699,
+        "label": "RANTETARIMA, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "RANTETARIMA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82700,
+        "label": "SALUASSING, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "SALUASSING",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82701,
+        "label": "SALUBULO, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "SALUBULO",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82702,
+        "label": "SALUDENGEN, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "SALUDENGEN",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82703,
+        "label": "SALUKADI, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "SALUKADI",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82704,
+        "label": "SALUKEPOPOK, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "SALUKEPOPOK",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82705,
+        "label": "SALURURU, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "SALURURU",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82706,
+        "label": "SALUTABANG, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "SALUTABANG",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82707,
+        "label": "SIKAMASE, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "SIKAMASE",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82708,
+        "label": "TANETE TOMBA, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "TANETE TOMBA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82709,
+        "label": "ULUMAMBI, BAMBANG, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BAMBANG",
+        "subdistrict_name": "ULUMAMBI",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82711,
+        "label": "ARALLE TIMUR, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "ARALLE TIMUR",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82712,
+        "label": "BUNTUMALANGKA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "BUNTUMALANGKA",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82713,
+        "label": "KABAE, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "KABAE",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82714,
+        "label": "KEBANGA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "KEBANGA",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82715,
+        "label": "PENATANGAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "PENATANGAN",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82716,
+        "label": "RANTEBERAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "RANTEBERAN",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82717,
+        "label": "SALURINDU, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "SALURINDU",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82718,
+        "label": "SALUTAMBUN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "SALUTAMBUN",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82720,
+        "label": "SALUTAMBUN TIMUR, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "SALUTAMBUN TIMUR",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82721,
+        "label": "TAORA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT, 91373",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "BUNTUMALANGKA",
+        "subdistrict_name": "TAORA",
+        "zip_code": "91373"
+    },
+    {
+        "id": 82722,
+        "label": "BOTTENG, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "BOTTENG",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82723,
+        "label": "KONDO, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "KONDO",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82724,
+        "label": "LEKO SUKAMAJU, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "LEKO SUKAMAJU",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82725,
+        "label": "MEHALAAN, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "MEHALAAN",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82727,
+        "label": "MESAKADA, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "MESAKADA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82728,
+        "label": "PASSEMBUK, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "PASSEMBUK",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82729,
+        "label": "SALUAHOK, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "SALUAHOK",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82730,
+        "label": "SALUBALO, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "SALUBALO",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82731,
+        "label": "SALUKONTA, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "SALUKONTA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82732,
+        "label": "ULUMEA, MEHALAAN, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "MEHALAAN",
+        "subdistrict_name": "ULUMEA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82733,
+        "label": "BAMBANG BUDA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "RANTEBULAHAN TIMUR",
+        "subdistrict_name": "BAMBANG BUDA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82734,
+        "label": "BUANGIN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "RANTEBULAHAN TIMUR",
+        "subdistrict_name": "BUANGIN",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82735,
+        "label": "KIRAK, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "RANTEBULAHAN TIMUR",
+        "subdistrict_name": "KIRAK",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82736,
+        "label": "LEKO, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "RANTEBULAHAN TIMUR",
+        "subdistrict_name": "LEKO",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82737,
+        "label": "SALUMOKANAN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "RANTEBULAHAN TIMUR",
+        "subdistrict_name": "SALUMOKANAN",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82739,
+        "label": "SALUMOKANAN UTARA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "RANTEBULAHAN TIMUR",
+        "subdistrict_name": "SALUMOKANAN UTARA",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82740,
+        "label": "SAMPALE, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT, 91371",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "RANTEBULAHAN TIMUR",
+        "subdistrict_name": "SAMPALE",
+        "zip_code": "91371"
+    },
+    {
+        "id": 82741,
+        "label": "KARIANGO, TAWALIAN, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TAWALIAN",
+        "subdistrict_name": "KARIANGO",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82742,
+        "label": "RANTE TANGNGA, TAWALIAN, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TAWALIAN",
+        "subdistrict_name": "RANTE TANGNGA",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82743,
+        "label": "TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TAWALIAN",
+        "subdistrict_name": "TAWALIAN",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82744,
+        "label": "TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT, 91365",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMASA",
+        "district_name": "TAWALIAN",
+        "subdistrict_name": "TAWALIAN TIMUR",
+        "zip_code": "91365"
+    },
+    {
+        "id": 82745,
+        "label": "AKO, PASANGKAYU, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PASANGKAYU",
+        "subdistrict_name": "AKO",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82746,
+        "label": "KARYA BERSAMA, PASANGKAYU, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PASANGKAYU",
+        "subdistrict_name": "KARYA BERSAMA",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82747,
+        "label": "MALEI, PASANGKAYU, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PASANGKAYU",
+        "subdistrict_name": "MALEI",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82748,
+        "label": "MARTAJAYA, PASANGKAYU, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PASANGKAYU",
+        "subdistrict_name": "MARTAJAYA",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82749,
+        "label": "PASANGKAYU, PASANGKAYU, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PASANGKAYU",
+        "subdistrict_name": "PASANGKAYU",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82750,
+        "label": "PEDANDA, PASANGKAYU, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PASANGKAYU",
+        "subdistrict_name": "PEDANDA",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82751,
+        "label": "BAMBALAMOTU, BAMBALAMOTU, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBALAMOTU",
+        "subdistrict_name": "BAMBALAMOTU",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82752,
+        "label": "KALOLA, BAMBALAMOTU, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBALAMOTU",
+        "subdistrict_name": "KALOLA",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82753,
+        "label": "PANGIANG, BAMBALAMOTU, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBALAMOTU",
+        "subdistrict_name": "PANGIANG",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82754,
+        "label": "POLEWALI, BAMBALAMOTU, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBALAMOTU",
+        "subdistrict_name": "POLEWALI",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82755,
+        "label": "RANDOMAYANG, BAMBALAMOTU, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBALAMOTU",
+        "subdistrict_name": "RANDOMAYANG",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82756,
+        "label": "WULAI, BAMBALAMOTU, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBALAMOTU",
+        "subdistrict_name": "WULAI",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82757,
+        "label": "BALANTI, BARAS, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BARAS",
+        "subdistrict_name": "BALANTI",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82758,
+        "label": "BARAS, BARAS, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BARAS",
+        "subdistrict_name": "BARAS",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82759,
+        "label": "BULU PARIGI, BARAS, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BARAS",
+        "subdistrict_name": "BULU PARIGI",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82760,
+        "label": "KASANO, BARAS, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BARAS",
+        "subdistrict_name": "KASANO",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82761,
+        "label": "MOTU, BARAS, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BARAS",
+        "subdistrict_name": "MOTU",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82762,
+        "label": "TOWONI (TORONI), BARAS, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BARAS",
+        "subdistrict_name": "TOWONI (TORONI)",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82763,
+        "label": "BULU MARIO, SARUDU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARUDU",
+        "subdistrict_name": "BULU MARIO",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82764,
+        "label": "DODA, SARUDU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARUDU",
+        "subdistrict_name": "DODA",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82765,
+        "label": "KUMASARI, SARUDU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARUDU",
+        "subdistrict_name": "KUMASARI",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82766,
+        "label": "PATIKA, SARUDU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARUDU",
+        "subdistrict_name": "PATIKA",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82767,
+        "label": "SARUDU, SARUDU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARUDU",
+        "subdistrict_name": "SARUDU",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82768,
+        "label": "JENGENG RAYA, TIKKE RAYA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "TIKKE RAYA",
+        "subdistrict_name": "JENGENG RAYA",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82769,
+        "label": "LARIANG, TIKKE RAYA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "TIKKE RAYA",
+        "subdistrict_name": "LARIANG",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82770,
+        "label": "MAKMUR JAYA, TIKKE RAYA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "TIKKE RAYA",
+        "subdistrict_name": "MAKMUR JAYA",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82771,
+        "label": "PAJALELE (PAKAWA), TIKKE RAYA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "TIKKE RAYA",
+        "subdistrict_name": "PAJALELE (PAKAWA)",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82772,
+        "label": "TIKKE, TIKKE RAYA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "TIKKE RAYA",
+        "subdistrict_name": "TIKKE",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82773,
+        "label": "LETAWA, SARJO, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARJO",
+        "subdistrict_name": "LETAWA",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82774,
+        "label": "MAPONU, SARJO, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARJO",
+        "subdistrict_name": "MAPONU",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82775,
+        "label": "SARJO, SARJO, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARJO",
+        "subdistrict_name": "SARJO",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82776,
+        "label": "SARUDE, SARJO, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "SARJO",
+        "subdistrict_name": "SARUDE",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82777,
+        "label": "BATU OGE, PEDONGGA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PEDONGGA",
+        "subdistrict_name": "BATU OGE",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82778,
+        "label": "MALEI II, PEDONGGA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PEDONGGA",
+        "subdistrict_name": "MALEI II",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82779,
+        "label": "MARTASARI, PEDONGGA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PEDONGGA",
+        "subdistrict_name": "MARTASARI",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82780,
+        "label": "PEDANDA II, PEDONGGA, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PEDONGGA",
+        "subdistrict_name": "PEDANDA II",
+        "zip_code": "91571"
+    },
+    {
+        "id": 82781,
+        "label": "BAJAWALI, LARIANG, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "LARIANG",
+        "subdistrict_name": "BAJAWALI",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82782,
+        "label": "BAMBAKORO, LARIANG, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "LARIANG",
+        "subdistrict_name": "BAMBAKORO",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82783,
+        "label": "BATU MATORU, LARIANG, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "LARIANG",
+        "subdistrict_name": "BATU MATORU",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82784,
+        "label": "KENANGAN, LARIANG, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "LARIANG",
+        "subdistrict_name": "KENANGAN",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82785,
+        "label": "KULU, LARIANG, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "LARIANG",
+        "subdistrict_name": "KULU",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82786,
+        "label": "PARABU, LARIANG, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "LARIANG",
+        "subdistrict_name": "PARABU",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82787,
+        "label": "SINGGANI, LARIANG, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "LARIANG",
+        "subdistrict_name": "SINGGANI",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82788,
+        "label": "SAPTANAJAYA, DURIPOKU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DURIPOKU",
+        "subdistrict_name": "SAPTANAJAYA",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82789,
+        "label": "SIPAKAINGA, DURIPOKU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DURIPOKU",
+        "subdistrict_name": "SIPAKAINGA",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82790,
+        "label": "TAMMARUNNANG, DURIPOKU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DURIPOKU",
+        "subdistrict_name": "TAMMARUNNANG",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82791,
+        "label": "TARANGGI, DURIPOKU, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DURIPOKU",
+        "subdistrict_name": "TARANGGI",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82792,
+        "label": "BENGGAULU, DAPURANG, MAMUJU UTARA, SULAWESI BARAT, 91512",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DAPURANG",
+        "subdistrict_name": "BENGGAULU",
+        "zip_code": "91512"
+    },
+    {
+        "id": 82793,
+        "label": "BULU BONGGU, DAPURANG, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DAPURANG",
+        "subdistrict_name": "BULU BONGGU",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82794,
+        "label": "DAPURANG, DAPURANG, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DAPURANG",
+        "subdistrict_name": "DAPURANG",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82795,
+        "label": "SERASA, DAPURANG, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DAPURANG",
+        "subdistrict_name": "SERASA",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82796,
+        "label": "TIRTA BUANA, DAPURANG, MAMUJU UTARA, SULAWESI BARAT, 91573",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "DAPURANG",
+        "subdistrict_name": "TIRTA BUANA",
+        "zip_code": "91573"
+    },
+    {
+        "id": 82797,
+        "label": "BUKIT HARAPAN, BULU TABA, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BULU TABA",
+        "subdistrict_name": "BUKIT HARAPAN",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82798,
+        "label": "KARAVE (KARABE), BULU TABA, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BULU TABA",
+        "subdistrict_name": "KARAVE (KARABE)",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82799,
+        "label": "KASTA BUANA, BULU TABA, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BULU TABA",
+        "subdistrict_name": "KASTA BUANA",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82800,
+        "label": "LELEJAE, BULU TABA, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BULU TABA",
+        "subdistrict_name": "LELEJAE",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82801,
+        "label": "LILIMORI (LELEMORI), BULU TABA, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BULU TABA",
+        "subdistrict_name": "LILIMORI (LELEMORI)",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82802,
+        "label": "OMPI, BULU TABA, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BULU TABA",
+        "subdistrict_name": "OMPI",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82803,
+        "label": "SUMBERSARI, BULU TABA, MAMUJU UTARA, SULAWESI BARAT, 91572",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BULU TABA",
+        "subdistrict_name": "SUMBERSARI",
+        "zip_code": "91572"
+    },
+    {
+        "id": 82804,
+        "label": "BAMBAIRA, BAMBAIRA, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBAIRA",
+        "subdistrict_name": "BAMBAIRA",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82805,
+        "label": "KALUKUNANGKA, BAMBAIRA, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBAIRA",
+        "subdistrict_name": "KALUKUNANGKA",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82806,
+        "label": "KASOLOANG, BAMBAIRA, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBAIRA",
+        "subdistrict_name": "KASOLOANG",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82807,
+        "label": "TAMPAURE, BAMBAIRA, MAMUJU UTARA, SULAWESI BARAT, 91574",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "BAMBAIRA",
+        "subdistrict_name": "TAMPAURE",
+        "zip_code": "91574"
+    },
+    {
+        "id": 82905,
+        "label": "DAYANGINNA, TAPALANG, MAMUJU, SULAWESI BARAT, 91551",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU",
+        "district_name": "TAPALANG",
+        "subdistrict_name": "DAYANGINNA",
+        "zip_code": "91551"
+    },
+    {
+        "id": 82938,
+        "label": "GUNUNG SARI, PASANGKAYU, MAMUJU UTARA, SULAWESI BARAT, 91571",
+        "province_name": "SULAWESI BARAT",
+        "city_name": "MAMUJU UTARA",
+        "district_name": "PASANGKAYU",
+        "subdistrict_name": "GUNUNG SARI",
+        "zip_code": "91571"
+    }
+]

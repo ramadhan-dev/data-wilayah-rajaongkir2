@@ -1,0 +1,4349 @@
+[
+    {
+        "id": 76653,
+        "label": "JUATA KRIKIL/KERIKIL, TARAKAN UTARA, TARAKAN, KALIMANTAN UTARA, 77116",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN UTARA",
+        "subdistrict_name": "JUATA KRIKIL/KERIKIL",
+        "zip_code": "77116"
+    },
+    {
+        "id": 76654,
+        "label": "JUATA LAUT, TARAKAN UTARA, TARAKAN, KALIMANTAN UTARA, 77116",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN UTARA",
+        "subdistrict_name": "JUATA LAUT",
+        "zip_code": "77116"
+    },
+    {
+        "id": 76655,
+        "label": "JUATA PERMAI, TARAKAN UTARA, TARAKAN, KALIMANTAN UTARA, 77116",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN UTARA",
+        "subdistrict_name": "JUATA PERMAI",
+        "zip_code": "77116"
+    },
+    {
+        "id": 76731,
+        "label": "ARDI MULYA, TANJUNG PALAS UTARA, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS UTARA",
+        "subdistrict_name": "ARDI MULYA",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76732,
+        "label": "KARANG AGUNG, TANJUNG PALAS UTARA, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS UTARA",
+        "subdistrict_name": "KARANG AGUNG",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76733,
+        "label": "KELUBIR, TANJUNG PALAS UTARA, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS UTARA",
+        "subdistrict_name": "KELUBIR",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76734,
+        "label": "PANCA AGUNG, TANJUNG PALAS UTARA, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS UTARA",
+        "subdistrict_name": "PANCA AGUNG",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76735,
+        "label": "PIMPING, TANJUNG PALAS UTARA, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS UTARA",
+        "subdistrict_name": "PIMPING",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76736,
+        "label": "RUHUI RAHAYU, TANJUNG PALAS UTARA, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS UTARA",
+        "subdistrict_name": "RUHUI RAHAYU",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76789,
+        "label": "BELAYAN, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "BELAYAN",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76790,
+        "label": "KALIAMOK, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "KALIAMOK",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76791,
+        "label": "KELAPIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "KELAPIS",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76792,
+        "label": "LUBOK MANIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "LUBOK MANIS",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76793,
+        "label": "LUSO, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "LUSO",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76794,
+        "label": "MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "MALINAU SEBERANG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76795,
+        "label": "PUTAT, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "PUTAT",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76796,
+        "label": "RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "RESPEN TUBU",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76797,
+        "label": "SALAP, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "SALAP",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76798,
+        "label": "SEMANGGARIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "SEMANGGARIS",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76799,
+        "label": "SEMBUAK WAROT/WAROD, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "SEMBUAK WAROT/WAROD",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76800,
+        "label": "SERUYUNG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU UTARA",
+        "subdistrict_name": "SERUYUNG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76850,
+        "label": "NUNUKAN UTARA, NUNUKAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN",
+        "subdistrict_name": "NUNUKAN UTARA",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77047,
+        "label": "LAPRI, SEBATIK UTARA, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK UTARA",
+        "subdistrict_name": "LAPRI",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77048,
+        "label": "SEBERANG, SEBATIK UTARA, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK UTARA",
+        "subdistrict_name": "SEBERANG",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77049,
+        "label": "SEI/SUNGAI PANCANG, SEBATIK UTARA, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK UTARA",
+        "subdistrict_name": "SEI/SUNGAI PANCANG",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76636,
+        "label": "KARANG ANYAR, TARAKAN BARAT, TARAKAN, KALIMANTAN UTARA, 77111",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN BARAT",
+        "subdistrict_name": "KARANG ANYAR",
+        "zip_code": "77111"
+    },
+    {
+        "id": 76637,
+        "label": "KARANG ANYAR PANTAI, TARAKAN BARAT, TARAKAN, KALIMANTAN UTARA, 77111",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN BARAT",
+        "subdistrict_name": "KARANG ANYAR PANTAI",
+        "zip_code": "77111"
+    },
+    {
+        "id": 76638,
+        "label": "KARANG BALIK, TARAKAN BARAT, TARAKAN, KALIMANTAN UTARA, 77112",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN BARAT",
+        "subdistrict_name": "KARANG BALIK",
+        "zip_code": "77112"
+    },
+    {
+        "id": 76639,
+        "label": "KARANG HARAPAN, TARAKAN BARAT, TARAKAN, KALIMANTAN UTARA, 77111",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN BARAT",
+        "subdistrict_name": "KARANG HARAPAN",
+        "zip_code": "77111"
+    },
+    {
+        "id": 76640,
+        "label": "KARANG REJO, TARAKAN BARAT, TARAKAN, KALIMANTAN UTARA, 77112",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN BARAT",
+        "subdistrict_name": "KARANG REJO",
+        "zip_code": "77112"
+    },
+    {
+        "id": 76641,
+        "label": "KAMPUNG SATU (SKIP), TARAKAN TENGAH, TARAKAN, KALIMANTAN UTARA, 77113",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TENGAH",
+        "subdistrict_name": "KAMPUNG SATU (SKIP)",
+        "zip_code": "77113"
+    },
+    {
+        "id": 76642,
+        "label": "PAMUSIAN, TARAKAN TENGAH, TARAKAN, KALIMANTAN UTARA, 77113",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TENGAH",
+        "subdistrict_name": "PAMUSIAN",
+        "zip_code": "77113"
+    },
+    {
+        "id": 76643,
+        "label": "SEBENGKOK, TARAKAN TENGAH, TARAKAN, KALIMANTAN UTARA, 77114",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TENGAH",
+        "subdistrict_name": "SEBENGKOK",
+        "zip_code": "77114"
+    },
+    {
+        "id": 76644,
+        "label": "SELUMIT, TARAKAN TENGAH, TARAKAN, KALIMANTAN UTARA, 77113",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TENGAH",
+        "subdistrict_name": "SELUMIT",
+        "zip_code": "77113"
+    },
+    {
+        "id": 76645,
+        "label": "SELUMIT PANTAI, TARAKAN TENGAH, TARAKAN, KALIMANTAN UTARA, 77113",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TENGAH",
+        "subdistrict_name": "SELUMIT PANTAI",
+        "zip_code": "77113"
+    },
+    {
+        "id": 76646,
+        "label": "GUNUNG LINGKAS, TARAKAN TIMUR, TARAKAN, KALIMANTAN UTARA, 77115",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TIMUR",
+        "subdistrict_name": "GUNUNG LINGKAS",
+        "zip_code": "77115"
+    },
+    {
+        "id": 76647,
+        "label": "KAMPUNG EMPAT, TARAKAN TIMUR, TARAKAN, KALIMANTAN UTARA, 77124",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TIMUR",
+        "subdistrict_name": "KAMPUNG EMPAT",
+        "zip_code": "77124"
+    },
+    {
+        "id": 76648,
+        "label": "KAMPUNG ENAM, TARAKAN TIMUR, TARAKAN, KALIMANTAN UTARA, 77123",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TIMUR",
+        "subdistrict_name": "KAMPUNG ENAM",
+        "zip_code": "77123"
+    },
+    {
+        "id": 76649,
+        "label": "LINGKAS UJUNG, TARAKAN TIMUR, TARAKAN, KALIMANTAN UTARA, 77126",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TIMUR",
+        "subdistrict_name": "LINGKAS UJUNG",
+        "zip_code": "77126"
+    },
+    {
+        "id": 76650,
+        "label": "MAMBURUNGAN, TARAKAN TIMUR, TARAKAN, KALIMANTAN UTARA, 77125",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TIMUR",
+        "subdistrict_name": "MAMBURUNGAN",
+        "zip_code": "77125"
+    },
+    {
+        "id": 76651,
+        "label": "MAMBURUNGAN TIMUR, TARAKAN TIMUR, TARAKAN, KALIMANTAN UTARA, 77115",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TIMUR",
+        "subdistrict_name": "MAMBURUNGAN TIMUR",
+        "zip_code": "77115"
+    },
+    {
+        "id": 76652,
+        "label": "PANTAI AMAL, TARAKAN TIMUR, TARAKAN, KALIMANTAN UTARA, 77115",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TARAKAN",
+        "district_name": "TARAKAN TIMUR",
+        "subdistrict_name": "PANTAI AMAL",
+        "zip_code": "77115"
+    },
+    {
+        "id": 76656,
+        "label": "APUNG, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77212",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "APUNG",
+        "zip_code": "77212"
+    },
+    {
+        "id": 76657,
+        "label": "BUMI RAHAYU, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77212",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "BUMI RAHAYU",
+        "zip_code": "77212"
+    },
+    {
+        "id": 76658,
+        "label": "GUNUNG SARI, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77212",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "GUNUNG SARI",
+        "zip_code": "77212"
+    },
+    {
+        "id": 76659,
+        "label": "GUNUNG SERIANG, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77212",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "GUNUNG SERIANG",
+        "zip_code": "77212"
+    },
+    {
+        "id": 76660,
+        "label": "JELARAI SELOR, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77212",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "JELARAI SELOR",
+        "zip_code": "77212"
+    },
+    {
+        "id": 76661,
+        "label": "TANJUNG SELOR ILIR/HILIR, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77212",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "TANJUNG SELOR ILIR/HILIR",
+        "zip_code": "77212"
+    },
+    {
+        "id": 76662,
+        "label": "TANJUNG SELOR TIMUR, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77212",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "TANJUNG SELOR TIMUR",
+        "zip_code": "77212"
+    },
+    {
+        "id": 76663,
+        "label": "TANJUNG SELOR ULU/HULU, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77211",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "TANJUNG SELOR ULU/HULU",
+        "zip_code": "77211"
+    },
+    {
+        "id": 76664,
+        "label": "TENGKAPAK, TANJUNG SELOR, BULUNGAN, KALIMANTAN UTARA, 77212",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG SELOR",
+        "subdistrict_name": "TENGKAPAK",
+        "zip_code": "77212"
+    },
+    {
+        "id": 76665,
+        "label": "LEPAK ARU, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LEPAK ARU",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76666,
+        "label": "LONG BIA, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LONG BIA",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76667,
+        "label": "LONG BUANG, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LONG BUANG",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76668,
+        "label": "LONG LASAN, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LONG LASAN",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76669,
+        "label": "LONG LEJU, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LONG LEJU",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76670,
+        "label": "LONG LIAN, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LONG LIAN",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76671,
+        "label": "LONG PELEBAN, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LONG PELEBAN",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76672,
+        "label": "LONG PESO, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LONG PESO",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76673,
+        "label": "LONG YIIN/PELAAH, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "LONG YIIN/PELAAH",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76674,
+        "label": "MUARA PENGEAN, PESO, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO",
+        "subdistrict_name": "MUARA PENGEAN",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76675,
+        "label": "PULAU BUNYU BARAT, PULAU BUNYU, BULUNGAN, KALIMANTAN UTARA, 77281",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PULAU BUNYU",
+        "subdistrict_name": "PULAU BUNYU BARAT",
+        "zip_code": "77281"
+    },
+    {
+        "id": 76676,
+        "label": "PULAU BUNYU SELATAN, PULAU BUNYU, BULUNGAN, KALIMANTAN UTARA, 77281",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PULAU BUNYU",
+        "subdistrict_name": "PULAU BUNYU SELATAN",
+        "zip_code": "77281"
+    },
+    {
+        "id": 76677,
+        "label": "PULAU BUNYU TIMUR, PULAU BUNYU, BULUNGAN, KALIMANTAN UTARA, 77281",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PULAU BUNYU",
+        "subdistrict_name": "PULAU BUNYU TIMUR",
+        "zip_code": "77281"
+    },
+    {
+        "id": 76678,
+        "label": "LONG BANG, PESO HILIR/ILIR, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO HILIR/ILIR",
+        "subdistrict_name": "LONG BANG",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76679,
+        "label": "LONG BANG HULU, PESO HILIR/ILIR, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO HILIR/ILIR",
+        "subdistrict_name": "LONG BANG HULU",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76680,
+        "label": "LONG LEMBU, PESO HILIR/ILIR, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO HILIR/ILIR",
+        "subdistrict_name": "LONG LEMBU",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76681,
+        "label": "LONG TELENJAU, PESO HILIR/ILIR, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO HILIR/ILIR",
+        "subdistrict_name": "LONG TELENJAU",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76682,
+        "label": "LONG TUNGU, PESO HILIR/ILIR, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO HILIR/ILIR",
+        "subdistrict_name": "LONG TUNGU",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76683,
+        "label": "NAHA AYA, PESO HILIR/ILIR, BULUNGAN, KALIMANTAN UTARA, 77261",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "PESO HILIR/ILIR",
+        "subdistrict_name": "NAHA AYA",
+        "zip_code": "77261"
+    },
+    {
+        "id": 76684,
+        "label": "AMBALAT, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "AMBALAT",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76685,
+        "label": "ANJAR ARIP (ANJARAREF), SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "ANJAR ARIP (ANJARAREF)",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76686,
+        "label": "BAMBANG, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "BAMBANG",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76687,
+        "label": "BEKILIU, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "BEKILIU",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76688,
+        "label": "BUNAU, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "BUNAU",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76689,
+        "label": "KELINCAWAN, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "KELINCAWAN",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76690,
+        "label": "KELISING (KELIISING), SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "KELISING (KELIISING)",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76691,
+        "label": "KELUMBUNAN (KELEMBUNAN), SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "KELUMBUNAN (KELEMBUNAN)",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76692,
+        "label": "KENDARI, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "KENDARI",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76693,
+        "label": "KERITING, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "KERITING",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76694,
+        "label": "LIU AGU (LIAGU), SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "LIU AGU (LIAGU)",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76695,
+        "label": "MARITAM, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "MARITAM",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76696,
+        "label": "PARU ABANG, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "PARU ABANG",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76697,
+        "label": "PENTIAN, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "PENTIAN",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76698,
+        "label": "PUNAN DULAU, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "PUNAN DULAU",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76699,
+        "label": "PUNGIT, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "PUNGIT",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76700,
+        "label": "SEKATAK BENGARA, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "SEKATAK BENGARA",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76701,
+        "label": "SEKATAK BUJI, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "SEKATAK BUJI",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76702,
+        "label": "TENGGILING, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "TENGGILING",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76703,
+        "label": "TERINDAK, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "TERINDAK",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76704,
+        "label": "TURUNG, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "TURUNG",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76705,
+        "label": "UJANG, SEKATAK, BULUNGAN, KALIMANTAN UTARA, 77263",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "SEKATAK",
+        "subdistrict_name": "UJANG",
+        "zip_code": "77263"
+    },
+    {
+        "id": 76706,
+        "label": "ANTUTAN, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77211",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "ANTUTAN",
+        "zip_code": "77211"
+    },
+    {
+        "id": 76707,
+        "label": "GUNUNG PUTIH, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77211",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "GUNUNG PUTIH",
+        "zip_code": "77211"
+    },
+    {
+        "id": 76708,
+        "label": "KARANG ANYAR, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77214",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "KARANG ANYAR",
+        "zip_code": "77214"
+    },
+    {
+        "id": 76709,
+        "label": "PEJALIN, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77211",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "PEJALIN",
+        "zip_code": "77211"
+    },
+    {
+        "id": 76710,
+        "label": "TANJUNG PALAS ILIR/HILIR, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77211",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "TANJUNG PALAS ILIR/HILIR",
+        "zip_code": "77211"
+    },
+    {
+        "id": 76711,
+        "label": "TANJUNG PALAS TENGAH, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77216",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "TANJUNG PALAS TENGAH",
+        "zip_code": "77216"
+    },
+    {
+        "id": 76712,
+        "label": "TANJUNG PALAS ULU/HULU, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "TANJUNG PALAS ULU/HULU",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76713,
+        "label": "TERAS BARU, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77214",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "TERAS BARU",
+        "zip_code": "77214"
+    },
+    {
+        "id": 76714,
+        "label": "TERAS NAWANG, TANJUNG PALAS, BULUNGAN, KALIMANTAN UTARA, 77214",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS",
+        "subdistrict_name": "TERAS NAWANG",
+        "zip_code": "77214"
+    },
+    {
+        "id": 76715,
+        "label": "LONG BELUAH, TANJUNG PALAS BARAT, BULUNGAN, KALIMANTAN UTARA, 77217",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS BARAT",
+        "subdistrict_name": "LONG BELUAH",
+        "zip_code": "77217"
+    },
+    {
+        "id": 76716,
+        "label": "LONG PARI, TANJUNG PALAS BARAT, BULUNGAN, KALIMANTAN UTARA, 77217",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS BARAT",
+        "subdistrict_name": "LONG PARI",
+        "zip_code": "77217"
+    },
+    {
+        "id": 76717,
+        "label": "LONG SAM, TANJUNG PALAS BARAT, BULUNGAN, KALIMANTAN UTARA, 77217",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS BARAT",
+        "subdistrict_name": "LONG SAM",
+        "zip_code": "77217"
+    },
+    {
+        "id": 76718,
+        "label": "MARA HILIR, TANJUNG PALAS BARAT, BULUNGAN, KALIMANTAN UTARA, 77217",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS BARAT",
+        "subdistrict_name": "MARA HILIR",
+        "zip_code": "77217"
+    },
+    {
+        "id": 76719,
+        "label": "MARA SATU, TANJUNG PALAS BARAT, BULUNGAN, KALIMANTAN UTARA, 77217",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS BARAT",
+        "subdistrict_name": "MARA SATU",
+        "zip_code": "77217"
+    },
+    {
+        "id": 76720,
+        "label": "SALIM BATU, TANJUNG PALAS TENGAH, BULUNGAN, KALIMANTAN UTARA, 77216",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TENGAH",
+        "subdistrict_name": "SALIM BATU",
+        "zip_code": "77216"
+    },
+    {
+        "id": 76721,
+        "label": "SILVA RAHAYU, TANJUNG PALAS TENGAH, BULUNGAN, KALIMANTAN UTARA, 77216",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TENGAH",
+        "subdistrict_name": "SILVA RAHAYU",
+        "zip_code": "77216"
+    },
+    {
+        "id": 76722,
+        "label": "TANJUNG BUKA, TANJUNG PALAS TENGAH, BULUNGAN, KALIMANTAN UTARA, 77216",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TENGAH",
+        "subdistrict_name": "TANJUNG BUKA",
+        "zip_code": "77216"
+    },
+    {
+        "id": 76723,
+        "label": "BINAI, TANJUNG PALAS TIMUR, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TIMUR",
+        "subdistrict_name": "BINAI",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76724,
+        "label": "MANGKUPADI, TANJUNG PALAS TIMUR, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TIMUR",
+        "subdistrict_name": "MANGKUPADI",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76725,
+        "label": "PURA SAJAU, TANJUNG PALAS TIMUR, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TIMUR",
+        "subdistrict_name": "PURA SAJAU",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76726,
+        "label": "SAJAU, TANJUNG PALAS TIMUR, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TIMUR",
+        "subdistrict_name": "SAJAU",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76727,
+        "label": "SAJAU TIMUR, TANJUNG PALAS TIMUR, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TIMUR",
+        "subdistrict_name": "SAJAU TIMUR",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76728,
+        "label": "TANAH KUNING, TANJUNG PALAS TIMUR, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TIMUR",
+        "subdistrict_name": "TANAH KUNING",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76729,
+        "label": "TANJUNG AGUNG, TANJUNG PALAS TIMUR, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TIMUR",
+        "subdistrict_name": "TANJUNG AGUNG",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76730,
+        "label": "WONO MULYO, TANJUNG PALAS TIMUR, BULUNGAN, KALIMANTAN UTARA, 77215",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "BULUNGAN",
+        "district_name": "TANJUNG PALAS TIMUR",
+        "subdistrict_name": "WONO MULYO",
+        "zip_code": "77215"
+    },
+    {
+        "id": 76737,
+        "label": "BATU LIDUNG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU KOTA",
+        "subdistrict_name": "BATU LIDUNG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76738,
+        "label": "MALINAU HILIR, MALINAU KOTA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU KOTA",
+        "subdistrict_name": "MALINAU HILIR",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76739,
+        "label": "MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU KOTA",
+        "subdistrict_name": "MALINAU HULU",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76740,
+        "label": "MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU KOTA",
+        "subdistrict_name": "MALINAU KOTA",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76741,
+        "label": "PELITA KANAAN, MALINAU KOTA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU KOTA",
+        "subdistrict_name": "PELITA KANAAN",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76742,
+        "label": "TANJUNG KERANJANG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU KOTA",
+        "subdistrict_name": "TANJUNG KERANJANG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76743,
+        "label": "HARAPAN MAJU, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "HARAPAN MAJU",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76744,
+        "label": "LIDUNG KEMENCI, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "LIDUNG KEMENCI",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76745,
+        "label": "LONG BISAI, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "LONG BISAI",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76746,
+        "label": "LONG GAFID, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "LONG GAFID",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76747,
+        "label": "LONG LIKU, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "LONG LIKU",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76748,
+        "label": "MENTARANG BARU, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "MENTARANG BARU",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76749,
+        "label": "PAKING, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "PAKING",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76750,
+        "label": "PULAU SAPI, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "PULAU SAPI",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76751,
+        "label": "TEMALANG, MENTARANG, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG",
+        "subdistrict_name": "TEMALANG",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76752,
+        "label": "LONG BETAOH, KAYAN HULU, MALINAU, KALIMANTAN UTARA, 77572",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HULU",
+        "subdistrict_name": "LONG BETAOH",
+        "zip_code": "77572"
+    },
+    {
+        "id": 76753,
+        "label": "LONG NAWANG, KAYAN HULU, MALINAU, KALIMANTAN UTARA, 77572",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HULU",
+        "subdistrict_name": "LONG NAWANG",
+        "zip_code": "77572"
+    },
+    {
+        "id": 76754,
+        "label": "LONG PAYAU, KAYAN HULU, MALINAU, KALIMANTAN UTARA, 77572",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HULU",
+        "subdistrict_name": "LONG PAYAU",
+        "zip_code": "77572"
+    },
+    {
+        "id": 76755,
+        "label": "LONG TEMUNYAT/TEMUYAT, KAYAN HULU, MALINAU, KALIMANTAN UTARA, 77572",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HULU",
+        "subdistrict_name": "LONG TEMUNYAT/TEMUYAT",
+        "zip_code": "77572"
+    },
+    {
+        "id": 76756,
+        "label": "NAWANG BARU, KAYAN HULU, MALINAU, KALIMANTAN UTARA, 77572",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HULU",
+        "subdistrict_name": "NAWANG BARU",
+        "zip_code": "77572"
+    },
+    {
+        "id": 76757,
+        "label": "DATA DIAN, KAYAN HILIR, MALINAU, KALIMANTAN UTARA, 77571",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HILIR",
+        "subdistrict_name": "DATA DIAN",
+        "zip_code": "77571"
+    },
+    {
+        "id": 76758,
+        "label": "LONG METUN (LONG METUN II), KAYAN HILIR, MALINAU, KALIMANTAN UTARA, 77571",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HILIR",
+        "subdistrict_name": "LONG METUN (LONG METUN II)",
+        "zip_code": "77571"
+    },
+    {
+        "id": 76759,
+        "label": "LONG PIPA, KAYAN HILIR, MALINAU, KALIMANTAN UTARA, 77571",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HILIR",
+        "subdistrict_name": "LONG PIPA",
+        "zip_code": "77571"
+    },
+    {
+        "id": 76760,
+        "label": "METUN (LONG METUN I), KAYAN HILIR, MALINAU, KALIMANTAN UTARA, 77571",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HILIR",
+        "subdistrict_name": "METUN (LONG METUN I)",
+        "zip_code": "77571"
+    },
+    {
+        "id": 76761,
+        "label": "SEI/SUNGAI ANAI, KAYAN HILIR, MALINAU, KALIMANTAN UTARA, 77571",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN HILIR",
+        "subdistrict_name": "SEI/SUNGAI ANAI",
+        "zip_code": "77571"
+    },
+    {
+        "id": 76762,
+        "label": "LAME, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LAME",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76763,
+        "label": "LONG ARAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LONG ARAN",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76764,
+        "label": "LONG BELAKA PITAU, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LONG BELAKA PITAU",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76765,
+        "label": "LONG BENA, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LONG BENA",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76766,
+        "label": "LONG JELET, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LONG JELET",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76767,
+        "label": "LONG KETAMAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LONG KETAMAN",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76768,
+        "label": "LONG PALIRAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LONG PALIRAN",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76769,
+        "label": "LONG PUA, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LONG PUA",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76770,
+        "label": "LONG PUJUNGAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "PUJUNGAN",
+        "subdistrict_name": "LONG PUJUNGAN",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76771,
+        "label": "KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "KUALA LAPANG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76772,
+        "label": "LONG BILA, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "LONG BILA",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76773,
+        "label": "LONG KENIPE, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "LONG KENIPE",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76774,
+        "label": "PUNAN BENGALUN, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "PUNAN BENGALUN",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76775,
+        "label": "SEMPAYANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "SEMPAYANG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76776,
+        "label": "SENTABAN, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "SENTABAN",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76777,
+        "label": "SESUA, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "SESUA",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76778,
+        "label": "TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "TANJUNG LAPANG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76779,
+        "label": "TARAS, MALINAU BARAT, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU BARAT",
+        "subdistrict_name": "TARAS",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76780,
+        "label": "BILA BEKAYUK, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "BILA BEKAYUK",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76781,
+        "label": "LABAN NYARIT, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "LABAN NYARIT",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76782,
+        "label": "LANGAP, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "LANGAP",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76783,
+        "label": "LONG LOREH, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "LONG LOREH",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76784,
+        "label": "NUNUK TANAH KIBANG, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "NUNUK TANAH KIBANG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76785,
+        "label": "PAYA SETURAN, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "PAYA SETURAN",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76786,
+        "label": "PELENCAU, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "PELENCAU",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76787,
+        "label": "PUNAN RIAN, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "PUNAN RIAN",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76788,
+        "label": "SENGAYAN, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN",
+        "subdistrict_name": "SENGAYAN",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76801,
+        "label": "AGUNG BARU, SUNGAI BOH, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI BOH",
+        "subdistrict_name": "AGUNG BARU",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76802,
+        "label": "DATA BARU, SUNGAI BOH, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI BOH",
+        "subdistrict_name": "DATA BARU",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76803,
+        "label": "DUMU MAHAK, SUNGAI BOH, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI BOH",
+        "subdistrict_name": "DUMU MAHAK",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76804,
+        "label": "LONG LEBUSAN, SUNGAI BOH, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI BOH",
+        "subdistrict_name": "LONG LEBUSAN",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76805,
+        "label": "LONG TOP, SUNGAI BOH, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI BOH",
+        "subdistrict_name": "LONG TOP",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76806,
+        "label": "MAHAK BARU, SUNGAI BOH, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI BOH",
+        "subdistrict_name": "MAHAK BARU",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76807,
+        "label": "LONG BERANG, MENTARANG HULU, MALINAU, KALIMANTAN UTARA, 77155",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG HULU",
+        "subdistrict_name": "LONG BERANG",
+        "zip_code": "77155"
+    },
+    {
+        "id": 76808,
+        "label": "LONG KEBINU, MENTARANG HULU, MALINAU, KALIMANTAN UTARA, 77155",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG HULU",
+        "subdistrict_name": "LONG KEBINU",
+        "zip_code": "77155"
+    },
+    {
+        "id": 76809,
+        "label": "LONG MEKATIF, MENTARANG HULU, MALINAU, KALIMANTAN UTARA, 77155",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG HULU",
+        "subdistrict_name": "LONG MEKATIF",
+        "zip_code": "77155"
+    },
+    {
+        "id": 76810,
+        "label": "LONG PALA, MENTARANG HULU, MALINAU, KALIMANTAN UTARA, 77155",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG HULU",
+        "subdistrict_name": "LONG PALA",
+        "zip_code": "77155"
+    },
+    {
+        "id": 76811,
+        "label": "LONG SEMAMU, MENTARANG HULU, MALINAU, KALIMANTAN UTARA, 77155",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG HULU",
+        "subdistrict_name": "LONG SEMAMU",
+        "zip_code": "77155"
+    },
+    {
+        "id": 76812,
+        "label": "LONG SIMAU, MENTARANG HULU, MALINAU, KALIMANTAN UTARA, 77155",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG HULU",
+        "subdistrict_name": "LONG SIMAU",
+        "zip_code": "77155"
+    },
+    {
+        "id": 76813,
+        "label": "LONG SULIT, MENTARANG HULU, MALINAU, KALIMANTAN UTARA, 77155",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MENTARANG HULU",
+        "subdistrict_name": "LONG SULIT",
+        "zip_code": "77155"
+    },
+    {
+        "id": 76814,
+        "label": "LIDUNG PAYAU, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN SELATAN",
+        "subdistrict_name": "LIDUNG PAYAU",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76815,
+        "label": "LONG AMPUNG, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN SELATAN",
+        "subdistrict_name": "LONG AMPUNG",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76816,
+        "label": "LONG URO, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN SELATAN",
+        "subdistrict_name": "LONG URO",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76817,
+        "label": "METULANG, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN SELATAN",
+        "subdistrict_name": "METULANG",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76818,
+        "label": "SUNGAI BARANG, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA, 77573",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "KAYAN SELATAN",
+        "subdistrict_name": "SUNGAI BARANG",
+        "zip_code": "77573"
+    },
+    {
+        "id": 76819,
+        "label": "APAU PING MADING, BAHAU HULU, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "BAHAU HULU",
+        "subdistrict_name": "APAU PING MADING",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76820,
+        "label": "LONG ALANGO, BAHAU HULU, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "BAHAU HULU",
+        "subdistrict_name": "LONG ALANGO",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76821,
+        "label": "LONG ATUA/LONG KEMUAT, BAHAU HULU, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "BAHAU HULU",
+        "subdistrict_name": "LONG ATUA/LONG KEMUAT",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76822,
+        "label": "LONG BERINI MARARIAN, BAHAU HULU, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "BAHAU HULU",
+        "subdistrict_name": "LONG BERINI MARARIAN",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76823,
+        "label": "LONG TABULO/TEBULO, BAHAU HULU, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "BAHAU HULU",
+        "subdistrict_name": "LONG TABULO/TEBULO",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76824,
+        "label": "LONG ULI, BAHAU HULU, MALINAU, KALIMANTAN UTARA, 77562",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "BAHAU HULU",
+        "subdistrict_name": "LONG ULI",
+        "zip_code": "77562"
+    },
+    {
+        "id": 76825,
+        "label": "BATU KAJANG, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HILIR",
+        "subdistrict_name": "BATU KAJANG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76826,
+        "label": "GONG SOLOK, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HILIR",
+        "subdistrict_name": "GONG SOLOK",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76827,
+        "label": "LONG ADIU, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HILIR",
+        "subdistrict_name": "LONG ADIU",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76828,
+        "label": "PUNAN GONG SOLOK, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HILIR",
+        "subdistrict_name": "PUNAN GONG SOLOK",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76829,
+        "label": "PUNAN LONG ADIU, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HILIR",
+        "subdistrict_name": "PUNAN LONG ADIU",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76830,
+        "label": "PUNAN SETARAP, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HILIR",
+        "subdistrict_name": "PUNAN SETARAP",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76831,
+        "label": "SETARAP, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HILIR",
+        "subdistrict_name": "SETARAP",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76832,
+        "label": "SETULANG, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HILIR",
+        "subdistrict_name": "SETULANG",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76833,
+        "label": "HALANGA, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HULU",
+        "subdistrict_name": "HALANGA",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76834,
+        "label": "LONG JALAN, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HULU",
+        "subdistrict_name": "LONG JALAN",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76835,
+        "label": "LONG LAKE, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HULU",
+        "subdistrict_name": "LONG LAKE",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76836,
+        "label": "LONG RAT, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HULU",
+        "subdistrict_name": "LONG RAT",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76837,
+        "label": "METUT, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HULU",
+        "subdistrict_name": "METUT",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76838,
+        "label": "NAHAKRAMO BARU, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HULU",
+        "subdistrict_name": "NAHAKRAMO BARU",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76839,
+        "label": "PUNAN MIRAU, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HULU",
+        "subdistrict_name": "PUNAN MIRAU",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76840,
+        "label": "TANJUNG NANGA, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA, 77554",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "MALINAU SELATAN HULU",
+        "subdistrict_name": "TANJUNG NANGA",
+        "zip_code": "77554"
+    },
+    {
+        "id": 76841,
+        "label": "LONG NYAU, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI TUBU",
+        "subdistrict_name": "LONG NYAU",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76842,
+        "label": "LONG PADA, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI TUBU",
+        "subdistrict_name": "LONG PADA",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76843,
+        "label": "LONG RANAU, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI TUBU",
+        "subdistrict_name": "LONG RANAU",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76844,
+        "label": "LONG TITI, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI TUBU",
+        "subdistrict_name": "LONG TITI",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76845,
+        "label": "RIAN TUBU, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA, 77555",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "MALINAU",
+        "district_name": "SUNGAI TUBU",
+        "subdistrict_name": "RIAN TUBU",
+        "zip_code": "77555"
+    },
+    {
+        "id": 76846,
+        "label": "BINUSAN, NUNUKAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN",
+        "subdistrict_name": "BINUSAN",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76847,
+        "label": "NUNUKAN BARAT, NUNUKAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN",
+        "subdistrict_name": "NUNUKAN BARAT",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76848,
+        "label": "NUNUKAN TENGAH, NUNUKAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN",
+        "subdistrict_name": "NUNUKAN TENGAH",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76849,
+        "label": "NUNUKAN TIMUR, NUNUKAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN",
+        "subdistrict_name": "NUNUKAN TIMUR",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76851,
+        "label": "BA SIKOR, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "BA SIKOR",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76852,
+        "label": "BUDUK KINANGAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "BUDUK KINANGAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76853,
+        "label": "BUDUK KUBUL, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "BUDUK KUBUL",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76854,
+        "label": "BUDUK TUMU, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "BUDUK TUMU",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76855,
+        "label": "BUNGAYAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "BUNGAYAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76856,
+        "label": "CINGLAT, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "CINGLAT",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76857,
+        "label": "KAMPUNG BARU, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "KAMPUNG BARU",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76858,
+        "label": "LEMBADA, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LEMBADA",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76859,
+        "label": "LEMBUDUD, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LEMBUDUD",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76860,
+        "label": "LEPATAR, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LEPATAR",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76861,
+        "label": "LIANG ALIG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LIANG ALIG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76862,
+        "label": "LIANG BUA, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LIANG BUA",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76863,
+        "label": "LIANG BUTAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LIANG BUTAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76864,
+        "label": "LIANG TUER, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LIANG TUER",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76865,
+        "label": "LIANG TURAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LIANG TURAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76866,
+        "label": "LONG BAWAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG BAWAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76867,
+        "label": "LONG BERAYANG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG BERAYANG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76868,
+        "label": "LONG BIA DUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG BIA DUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76869,
+        "label": "LONG KABID, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG KABID",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76870,
+        "label": "LONG KATUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG KATUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76871,
+        "label": "LONG MANGAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG MANGAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76872,
+        "label": "LONG MATUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG MATUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76873,
+        "label": "LONG NAWANG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG NAWANG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76874,
+        "label": "LONG NUAT, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG NUAT",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76875,
+        "label": "LONG PUAK, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG PUAK",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76876,
+        "label": "LONG RUPAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG RUPAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76877,
+        "label": "LONG SEPAYANG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG SEPAYANG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76878,
+        "label": "LONG TENEM, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG TENEM",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76879,
+        "label": "LONG TUGUL, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG TUGUL",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76880,
+        "label": "LONG UMUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "LONG UMUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76881,
+        "label": "MA LIBU, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "MA LIBU",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76882,
+        "label": "PA API, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA API",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76883,
+        "label": "PA BETUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA BETUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76884,
+        "label": "PA BUTAL, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA BUTAL",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76885,
+        "label": "PA DELUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA DELUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76886,
+        "label": "PA INAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA INAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76887,
+        "label": "PA KEBUAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA KEBUAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76888,
+        "label": "PA KEMUT, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA KEMUT",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76889,
+        "label": "PA KIDANG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA KIDANG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76890,
+        "label": "PA LIDUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA LIDUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76891,
+        "label": "PA LUTUT, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA LUTUT",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76892,
+        "label": "PA MALADE (PA MELADE), KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA MALADE (PA MELADE)",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76893,
+        "label": "PA MATUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA MATUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76894,
+        "label": "PA MERING, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA MERING",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76895,
+        "label": "PA MULAK, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA MULAK",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76896,
+        "label": "PA NADO, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA NADO",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76897,
+        "label": "PA PADI, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA PADI",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76898,
+        "label": "PA PALA, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA PALA",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76899,
+        "label": "PA PANI, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA PANI",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76900,
+        "label": "PA PAWAN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA PAWAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76901,
+        "label": "PA PAYAK, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA PAYAK",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76902,
+        "label": "PA PIRIT, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA PIRIT",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76903,
+        "label": "PA PUTUK, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA PUTUK",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76904,
+        "label": "PA RANGEB (PARANGEB), KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA RANGEB (PARANGEB)",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76905,
+        "label": "PA RAYE, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA RAYE",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76906,
+        "label": "PA RUPAI, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA RUPAI",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76907,
+        "label": "PA SIRE (PASIRE), KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA SIRE (PASIRE)",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76908,
+        "label": "PA TERUTUN, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA TERUTUN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76909,
+        "label": "PA UMUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA UMUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76910,
+        "label": "PA URUD, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "PA URUD",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76911,
+        "label": "SEMBUDUD, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "SEMBUDUD",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76912,
+        "label": "SINAR BARU, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "SINAR BARU",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76913,
+        "label": "WA LAYA, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "WA LAYA",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76914,
+        "label": "WA YAGUNG, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "WA YAGUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76915,
+        "label": "WA YANUD, KRAYAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN",
+        "subdistrict_name": "WA YANUD",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76916,
+        "label": "BULAN BULAN, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "BULAN BULAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76917,
+        "label": "DABULON (DUBULON), LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "DABULON (DUBULON)",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76918,
+        "label": "DERALON, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "DERALON",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76919,
+        "label": "KALAMPISING, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "KALAMPISING",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76920,
+        "label": "LIANG, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "LIANG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76921,
+        "label": "LIBANG, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "LIBANG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76922,
+        "label": "LIKOS, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "LIKOS",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76923,
+        "label": "LINTONG, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "LINTONG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76924,
+        "label": "MANSALONG, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "MANSALONG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76925,
+        "label": "NAINSID, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "NAINSID",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76926,
+        "label": "PA LEMUMUT, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "PA LEMUMUT",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76927,
+        "label": "PA LOO, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "PA LOO",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76928,
+        "label": "PATAL I (SATU), LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "PATAL I (SATU)",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76929,
+        "label": "PATAL II (DUA), LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "PATAL II (DUA)",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76930,
+        "label": "PODONG, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "PODONG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76931,
+        "label": "PULU BULAWAN, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "PULU BULAWAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76932,
+        "label": "SALUDAN, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "SALUDAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76933,
+        "label": "SANGKUP, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "SANGKUP",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76934,
+        "label": "SAPUYAN, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "SAPUYAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76935,
+        "label": "SASIBU, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "SASIBU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76936,
+        "label": "SEDONGON, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "SEDONGON",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76937,
+        "label": "SEMALAT, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "SEMALAT",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76938,
+        "label": "SIAWANG, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "SIAWANG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76939,
+        "label": "SUMALUMUNG, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "SUMALUMUNG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76940,
+        "label": "TALUAN, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "TALUAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76941,
+        "label": "TANJUNG HILIR, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "TANJUNG HILIR",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76942,
+        "label": "TANJUNG HULU, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "TANJUNG HULU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76943,
+        "label": "TUBUS, LUMBIS, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS",
+        "subdistrict_name": "TUBUS",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76944,
+        "label": "BA LIKU, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "BA LIKU",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76945,
+        "label": "BINUANG (BA BINUANG), KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "BINUANG (BA BINUANG)",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76946,
+        "label": "LIANG LUNUK, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LIANG LUNUK",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76947,
+        "label": "LONG BIRAR, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG BIRAR",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76948,
+        "label": "LONG BUDUNG, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG BUDUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76949,
+        "label": "LONG KELUPAN / KLUPAN, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG KELUPAN / KLUPAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76950,
+        "label": "LONG MUTAN, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG MUTAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76951,
+        "label": "LONG PADI, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG PADI",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76952,
+        "label": "LONG PASIA, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG PASIA",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76953,
+        "label": "LONG PUPUNG, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG PUPUNG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76954,
+        "label": "LONG RIAN, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG RIAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76955,
+        "label": "LONG RUNGAN, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "LONG RUNGAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76956,
+        "label": "PA AMAI, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA AMAI",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76957,
+        "label": "PA DALAN, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA DALAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76958,
+        "label": "PA IBANG, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA IBANG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76959,
+        "label": "PA KABER, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA KABER",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76960,
+        "label": "PA MILAU, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA MILAU",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76961,
+        "label": "PA SING, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA SING",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76962,
+        "label": "PA TERA, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA TERA",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76963,
+        "label": "PA UPAN, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA UPAN",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76964,
+        "label": "PA URANG, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA URANG",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76965,
+        "label": "PA YALAU, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "PA YALAU",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76966,
+        "label": "TANG BADUI, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "TANG BADUI",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76967,
+        "label": "TANG PAYE, KRAYAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77456",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "KRAYAN SELATAN",
+        "subdistrict_name": "TANG PAYE",
+        "zip_code": "77456"
+    },
+    {
+        "id": 76968,
+        "label": "BALANSIKU, SEBATIK, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK",
+        "subdistrict_name": "BALANSIKU",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76969,
+        "label": "PADAIDI, SEBATIK, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK",
+        "subdistrict_name": "PADAIDI",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76970,
+        "label": "SUNGAI MANURUNG, SEBATIK, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK",
+        "subdistrict_name": "SUNGAI MANURUNG",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76971,
+        "label": "TANJUNG KARANG, SEBATIK, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK",
+        "subdistrict_name": "TANJUNG KARANG",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76972,
+        "label": "APAS, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "APAS",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76973,
+        "label": "BEBANAS, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "BEBANAS",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76974,
+        "label": "HARAPAN, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "HARAPAN",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76975,
+        "label": "KEKAYAP, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "KEKAYAP",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76976,
+        "label": "KUNYIT, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "KUNYIT",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76977,
+        "label": "LULU, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "LULU",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76978,
+        "label": "MELASU BARU, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "MELASU BARU",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76979,
+        "label": "PEMBELIANGAN, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "PEMBELIANGAN",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76980,
+        "label": "SUJAU, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "SUJAU",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76981,
+        "label": "TETABAN, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "TETABAN",
+        "zip_code": "77482"
+    },
+    {
+        "id": 76982,
+        "label": "BAMBANGAN, SEBATIK BARAT, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK BARAT",
+        "subdistrict_name": "BAMBANGAN",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76983,
+        "label": "BINALAWAN, SEBATIK BARAT, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK BARAT",
+        "subdistrict_name": "BINALAWAN",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76984,
+        "label": "LIANG BUNYU, SEBATIK BARAT, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK BARAT",
+        "subdistrict_name": "LIANG BUNYU",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76985,
+        "label": "SETABU, SEBATIK BARAT, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK BARAT",
+        "subdistrict_name": "SETABU",
+        "zip_code": "77483"
+    },
+    {
+        "id": 76986,
+        "label": "BATUNG, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "BATUNG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76987,
+        "label": "BOKOK, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "BOKOK",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76988,
+        "label": "BULU LAUN HILIR, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "BULU LAUN HILIR",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76989,
+        "label": "BULU LAUN HULU, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "BULU LAUN HULU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76990,
+        "label": "BULU LUAN HULU, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "BULU LUAN HULU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76991,
+        "label": "BULU MENGELOM, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "BULU MENGELOM",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76992,
+        "label": "DUYAN, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "DUYAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76993,
+        "label": "JUKUP, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "JUKUP",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76994,
+        "label": "KABUNGALOR, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "KABUNGALOR",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76995,
+        "label": "KALAM BUKU, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "KALAM BUKU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76996,
+        "label": "KALISUN, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "KALISUN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76997,
+        "label": "KUYO, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "KUYO",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76998,
+        "label": "LABANG, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "LABANG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 76999,
+        "label": "LABUK, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "LABUK",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77000,
+        "label": "LAGAS, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "LAGAS",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77001,
+        "label": "LANGGASON, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "LANGGASON",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77002,
+        "label": "LEPAGA, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "LEPAGA",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77003,
+        "label": "LIMPAKON, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "LIMPAKON",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77004,
+        "label": "LINSAYUNG, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "LINSAYUNG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77005,
+        "label": "LONG BULU, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "LONG BULU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77006,
+        "label": "MAMANIS, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "MAMANIS",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77007,
+        "label": "NAN SAPAN, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "NAN SAPAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77008,
+        "label": "NANTUKIDAN, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "NANTUKIDAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77009,
+        "label": "NGAWOL, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "NGAWOL",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77010,
+        "label": "PALUAN, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "PALUAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77011,
+        "label": "PANAS, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "PANAS",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77012,
+        "label": "PAYANG, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "PAYANG",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77013,
+        "label": "SALAN, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SALAN",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77014,
+        "label": "SAMUNTI, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SAMUNTI",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77015,
+        "label": "SANAL, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SANAL",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77016,
+        "label": "SEDALIT, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SEDALIT",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77017,
+        "label": "SEMATA, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SEMATA",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77018,
+        "label": "SIBALU, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SIBALU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77019,
+        "label": "SINAMPALA DUA, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SINAMPALA DUA",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77020,
+        "label": "SINAMPALA SATU, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SINAMPALA SATU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77021,
+        "label": "SUMANTIPAL, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SUMANTIPAL",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77022,
+        "label": "SUMENTOBOL, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SUMENTOBOL",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77023,
+        "label": "SUNGOI, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SUNGOI",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77024,
+        "label": "SUYADON, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "SUYADON",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77025,
+        "label": "TAMBALANG HILIR, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TAMBALANG HILIR",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77026,
+        "label": "TAMBALANG ULU, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TAMBALANG ULU",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77027,
+        "label": "TANTALUJUK, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TANTALUJUK",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77028,
+        "label": "TANTU LIBING, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TANTU LIBING",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77029,
+        "label": "TAU LUMBIS, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TAU LUMBIS",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77030,
+        "label": "TETAGAS, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TETAGAS",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77031,
+        "label": "TUBEL ALUNG (UBEL ALUNG), LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TUBEL ALUNG (UBEL ALUNG)",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77032,
+        "label": "TUKULEN (TUKULON), LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TUKULEN (TUKULON)",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77033,
+        "label": "TUMATALAS, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "TUMATALAS",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77034,
+        "label": "UBEL SULOK, LUMBIS OGONG, NUNUKAN, KALIMANTAN UTARA, 77457",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "LUMBIS OGONG",
+        "subdistrict_name": "UBEL SULOK",
+        "zip_code": "77457"
+    },
+    {
+        "id": 77035,
+        "label": "MANSAPA, NUNUKAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN SELATAN",
+        "subdistrict_name": "MANSAPA",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77036,
+        "label": "NUNUKAN SELATAN, NUNUKAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN SELATAN",
+        "subdistrict_name": "NUNUKAN SELATAN",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77037,
+        "label": "SELISUN, NUNUKAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN SELATAN",
+        "subdistrict_name": "SELISUN",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77038,
+        "label": "TANJUNG HARAPAN, NUNUKAN SELATAN, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "NUNUKAN SELATAN",
+        "subdistrict_name": "TANJUNG HARAPAN",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77039,
+        "label": "AJI KUNING, SEBATIK TENGAH, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK TENGAH",
+        "subdistrict_name": "AJI KUNING",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77040,
+        "label": "BUKIT HARAPAN, SEBATIK TENGAH, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK TENGAH",
+        "subdistrict_name": "BUKIT HARAPAN",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77041,
+        "label": "MASPUL, SEBATIK TENGAH, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK TENGAH",
+        "subdistrict_name": "MASPUL",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77042,
+        "label": "SEI LIMAU, SEBATIK TENGAH, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK TENGAH",
+        "subdistrict_name": "SEI LIMAU",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77043,
+        "label": "BUKIT ARU INDAH, SEBATIK TIMUR, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK TIMUR",
+        "subdistrict_name": "BUKIT ARU INDAH",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77044,
+        "label": "SEI/SUNGAI NYAMUK, SEBATIK TIMUR, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK TIMUR",
+        "subdistrict_name": "SEI/SUNGAI NYAMUK",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77045,
+        "label": "TANJUNG ARU, SEBATIK TIMUR, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK TIMUR",
+        "subdistrict_name": "TANJUNG ARU",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77046,
+        "label": "TANJUNG HARAPAN, SEBATIK TIMUR, NUNUKAN, KALIMANTAN UTARA, 77483",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBATIK TIMUR",
+        "subdistrict_name": "TANJUNG HARAPAN",
+        "zip_code": "77483"
+    },
+    {
+        "id": 77050,
+        "label": "SAMAENRE SEMAJA, SEI MENGGARIS, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEI MENGGARIS",
+        "subdistrict_name": "SAMAENRE SEMAJA",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77051,
+        "label": "SEKADUYAN TAKA, SEI MENGGARIS, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEI MENGGARIS",
+        "subdistrict_name": "SEKADUYAN TAKA",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77052,
+        "label": "SRINANTI, SEI MENGGARIS, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEI MENGGARIS",
+        "subdistrict_name": "SRINANTI",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77053,
+        "label": "TABUR LESTARI, SEI MENGGARIS, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEI MENGGARIS",
+        "subdistrict_name": "TABUR LESTARI",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77054,
+        "label": "BINANUN, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "BINANUN",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77055,
+        "label": "KATUL, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "KATUL",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77056,
+        "label": "LIUK BULU, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "LIUK BULU",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77057,
+        "label": "LUBOK BUAT, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "LUBOK BUAT",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77058,
+        "label": "MAMBULU, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "MAMBULU",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77059,
+        "label": "PAGALUYON, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "PAGALUYON",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77060,
+        "label": "PULAU KERAS, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "PULAU KERAS",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77061,
+        "label": "SABULUAN, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "SABULUAN",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77062,
+        "label": "SADUMAN, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "SADUMAN",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77063,
+        "label": "TULANG, SEMBAKUNG ATULAI, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG ATULAI",
+        "subdistrict_name": "TULANG",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77064,
+        "label": "BLATIKON (BELATIKAN), TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "BLATIKON (BELATIKAN)",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77065,
+        "label": "KULUNSAYAN (KALUN SAYAN), TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "KULUNSAYAN (KALUN SAYAN)",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77066,
+        "label": "NAPUTI, TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "NAPUTI",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77067,
+        "label": "SALANG, TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "SALANG",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77068,
+        "label": "SEBUKU I (SANUR), TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "SEBUKU I (SANUR)",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77069,
+        "label": "SEBUKU II (MAKMUR), TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "SEBUKU II (MAKMUR)",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77070,
+        "label": "SEKIKILAN, TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "SEKIKILAN",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77071,
+        "label": "SEMUNAD, TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "SEMUNAD",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77072,
+        "label": "TAU BARU, TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "TAU BARU",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77073,
+        "label": "TEMBALANG, TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "TEMBALANG",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77074,
+        "label": "TINAMPAK I, TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "TINAMPAK I",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77075,
+        "label": "TINAMPAK II, TULIN ONSOI, NUNUKAN, KALIMANTAN UTARA, 77482",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "TULIN ONSOI",
+        "subdistrict_name": "TINAMPAK II",
+        "zip_code": "77482"
+    },
+    {
+        "id": 77077,
+        "label": "ATAP, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "ATAP",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77078,
+        "label": "BUTAS BAGU, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "BUTAS BAGU",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77079,
+        "label": "LABUK, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "LABUK",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77080,
+        "label": "LUBAKAN, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "LUBAKAN",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77081,
+        "label": "MANUK BUNGKUL, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "MANUK BUNGKUL",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77082,
+        "label": "PAGAR, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "PAGAR",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77083,
+        "label": "PELAJU, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "PELAJU",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77084,
+        "label": "TAGUL, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "TAGUL",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77085,
+        "label": "TEPIAN, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "TEPIAN",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77086,
+        "label": "TUJUNG, SEMBAKUNG, NUNUKAN, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEMBAKUNG",
+        "subdistrict_name": "TUJUNG",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77087,
+        "label": "GUNAWAN, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP",
+        "subdistrict_name": "GUNAWAN",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77088,
+        "label": "LIMBU SEDULUN, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP",
+        "subdistrict_name": "LIMBU SEDULUN",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77089,
+        "label": "SEBAWANG, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP",
+        "subdistrict_name": "SEBAWANG",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77090,
+        "label": "SEBIDAI, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP",
+        "subdistrict_name": "SEBIDAI",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77091,
+        "label": "SEDULUN, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP",
+        "subdistrict_name": "SEDULUN",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77092,
+        "label": "TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP",
+        "subdistrict_name": "TIDENG PALE",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77093,
+        "label": "TIDENG PALE TIMUR, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP",
+        "subdistrict_name": "TIDENG PALE TIMUR",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77094,
+        "label": "BADAN BIKIS, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP HILIR",
+        "subdistrict_name": "BADAN BIKIS",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77095,
+        "label": "BEBATU, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP HILIR",
+        "subdistrict_name": "BEBATU",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77096,
+        "label": "MENJELUTUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP HILIR",
+        "subdistrict_name": "MENJELUTUNG",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77097,
+        "label": "SELUDAU, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP HILIR",
+        "subdistrict_name": "SELUDAU",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77098,
+        "label": "SENGKONG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP HILIR",
+        "subdistrict_name": "SENGKONG",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77099,
+        "label": "SEPALA DALUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP HILIR",
+        "subdistrict_name": "SEPALA DALUNG",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77100,
+        "label": "SESAYAP, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP HILIR",
+        "subdistrict_name": "SESAYAP",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77101,
+        "label": "SESAYAP SELOR, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "SESAYAP HILIR",
+        "subdistrict_name": "SESAYAP SELOR",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77102,
+        "label": "SAMBUNGAN, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "TANA LIA",
+        "subdistrict_name": "SAMBUNGAN",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77103,
+        "label": "SAMBUNGAN SELATAN, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "TANA LIA",
+        "subdistrict_name": "SAMBUNGAN SELATAN",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77104,
+        "label": "TANAH MERAH, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "TANA LIA",
+        "subdistrict_name": "TANAH MERAH",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77105,
+        "label": "TANAH MERAH BARAT, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "TANA LIA",
+        "subdistrict_name": "TANAH MERAH BARAT",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77106,
+        "label": "TENGKU DACING, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA, 77453",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "TANA LIA",
+        "subdistrict_name": "TENGKU DACING",
+        "zip_code": "77453"
+    },
+    {
+        "id": 77107,
+        "label": "BEBAKUNG, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "BETAYAU",
+        "subdistrict_name": "BEBAKUNG",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77108,
+        "label": "BUONG BARU, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "BETAYAU",
+        "subdistrict_name": "BUONG BARU",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77109,
+        "label": "KUJAU, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "BETAYAU",
+        "subdistrict_name": "KUJAU",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77110,
+        "label": "MANING, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "BETAYAU",
+        "subdistrict_name": "MANING",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77111,
+        "label": "MENDUPO, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "BETAYAU",
+        "subdistrict_name": "MENDUPO",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77112,
+        "label": "PERIUK, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "BETAYAU",
+        "subdistrict_name": "PERIUK",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77113,
+        "label": "BALAYAN ARI, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "MURUK RIAN",
+        "subdistrict_name": "BALAYAN ARI",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77114,
+        "label": "KAPUAK, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "MURUK RIAN",
+        "subdistrict_name": "KAPUAK",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77115,
+        "label": "RIAN, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "MURUK RIAN",
+        "subdistrict_name": "RIAN",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77116,
+        "label": "RIAN RAYO, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "MURUK RIAN",
+        "subdistrict_name": "RIAN RAYO",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77117,
+        "label": "SAPARI, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "MURUK RIAN",
+        "subdistrict_name": "SAPARI",
+        "zip_code": "77152"
+    },
+    {
+        "id": 77118,
+        "label": "SEPUTUK, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA, 77152",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "TANA TIDUNG",
+        "district_name": "MURUK RIAN",
+        "subdistrict_name": "SEPUTUK",
+        "zip_code": "77152"
+    },
+    {
+        "id": 82940,
+        "label": "SEKIKILAN, SEBUKU, NUNUKAN, KALIMANTAN UTARA, 77481",
+        "province_name": "KALIMANTAN UTARA",
+        "city_name": "NUNUKAN",
+        "district_name": "SEBUKU",
+        "subdistrict_name": "SEKIKILAN",
+        "zip_code": "77481"
+    }
+]
