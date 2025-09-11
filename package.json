@@ -1,0 +1,16 @@
+{
+  "name": "rajaongkir",
+  "version": "1.0.0",
+  "description": "\"# data-wilayah-rajaongkir2\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}
