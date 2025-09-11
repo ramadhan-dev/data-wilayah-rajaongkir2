@@ -30,6 +30,7 @@ jobs:
         env:
           RAJAONGKIR_API_KEY: ${{ secrets.RAJAONGKIR_API_KEY }}
           DELAY: ${{ secrets.DELAY }}
+          MAX_REQUEST: ${{ secrets.MAX_REQUEST }}
 
       - name: Commit changes
         run: |

@@ -19,7 +19,7 @@ const API_BASE = {
 // ⚡ Global config
 const DELAY = process.env.DELAY; // 1 detik per request
 let REQUEST_COUNT = 0;
-const MAX_REQUEST = 700; // batas harian
+const MAX_REQUEST = process.env.MAX_REQUEST; // batas harian
 
 
 // Helper delay
