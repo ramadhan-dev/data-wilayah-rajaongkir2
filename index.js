@@ -17,7 +17,7 @@ const API_BASE = {
 };
 
 // ⚡ Global config
-const DELAY = 1000; // 1 detik per request
+const DELAY = process.env.DELAY; // 1 detik per request
 let requestCount = 0;
 
 // Helper delay
@@ -67,8 +67,10 @@ async function limitedFetch(url) {
     return response.data?.data || [];
 }
 
+
+
 // Fetchers
-const fetchProvinces = provinceId => limitedFetch(`${API_BASE.PROVINCE}`);
+const fetchProvinces = () => limitedFetch(`${API_BASE.PROVINCE}`);
 const fetchCity = provinceId => limitedFetch(`${API_BASE.CITY}/${provinceId}`);
 const fetchDistricts = cityId => limitedFetch(`${API_BASE.DISTRICT}/${cityId}`);
 const fetchSubdistricts = districtId => limitedFetch(`${API_BASE.SUB_DISTRICT}/${districtId}`);
@@ -84,7 +86,7 @@ async function main() {
             console.error("❌ Gagal mengambil data province dari API.");
             process.exit(1);
         }
-        
+
         ensureDir(provinceRoot);
         fs.writeFileSync(provinceJsonPath, JSON.stringify(provinces, null, 2));
         console.log(`✅ province.json disimpan di ${provinceJsonPath}`);
