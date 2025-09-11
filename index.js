@@ -10,6 +10,7 @@ const provinceJsonPath = path.join(provinceRoot, "province.json");
 
 const API_KEY = process.env.RAJAONGKIR_API_KEY;
 const API_BASE = {
+    PROVINCE: "https://rajaongkir.komerce.id/api/v1/destination/province",
     CITY: "https://rajaongkir.komerce.id/api/v1/destination/city",
     DISTRICT: "https://rajaongkir.komerce.id/api/v1/destination/district",
     SUB_DISTRICT: "https://rajaongkir.komerce.id/api/v1/destination/sub-district",
@@ -67,19 +68,29 @@ async function limitedFetch(url) {
 }
 
 // Fetchers
+const fetchProvince = provinceId => limitedFetch(`${API_BASE.PROVINCE}`);
 const fetchCity = provinceId => limitedFetch(`${API_BASE.CITY}/${provinceId}`);
 const fetchDistricts = cityId => limitedFetch(`${API_BASE.DISTRICT}/${cityId}`);
-const fetchSubdistricts = districtId =>
-    limitedFetch(`${API_BASE.SUB_DISTRICT}/${districtId}`);
+const fetchSubdistricts = districtId => limitedFetch(`${API_BASE.SUB_DISTRICT}/${districtId}`);
 
 // Main process
 async function main() {
+    
     if (!fs.existsSync(provinceJsonPath)) {
-        console.error(`❌ province.json tidak ditemukan di ${provinceJsonPath}`);
-        process.exit(1);
-    }
+        console.warn(`⚠️ province.json tidak ditemukan, fetch dari API...`);
 
-    const provinces = JSON.parse(fs.readFileSync(provinceJsonPath, "utf-8"));
+        provinces = await fetchProvinces();
+        if (!provinces || provinces.length === 0) {
+            console.error("❌ Gagal mengambil data province dari API.");
+            process.exit(1);
+        }
+
+        fs.writeFileSync(provinceJsonPath, JSON.stringify(provinces, null, 2));
+        console.log(`✅ province.json disimpan di ${provinceJsonPath}`);
+    } else {
+        provinces = JSON.parse(fs.readFileSync(provinceJsonPath, "utf-8"));
+        console.log(`ℹ️ province.json ditemukan, gunakan cache`);
+    }
 
     for (const prov of provinces) {
         const provinceName = `(${prov.id}) ${prov.name}`;
