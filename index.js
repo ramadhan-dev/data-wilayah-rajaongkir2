@@ -3,7 +3,7 @@ const path = require('path');
 const axios = require('axios');
 
 // Konstanta
-const cityRoot = path.join(__dirname, 'city');
+const cityRoot = path.join(__dirname, 'City');
 const API_KEY = process.env.RAJAONGKIR_API_KEY;
 const API_BASE = 'https://rajaongkir.komerce.id/api/v1/destination/district';
 
@@ -59,7 +59,7 @@ async function main() {
         }
 
         // Path folder districts
-        const districtPath = path.join(cityRoot, cityName, 'districts');
+        const districtPath = path.join(cityRoot, cityName, 'Districts');
 
         // Buat folder districts kalau belum ada
         if (!fs.existsSync(districtPath)) {
