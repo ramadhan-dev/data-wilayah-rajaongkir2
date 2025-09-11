@@ -84,7 +84,8 @@ async function main() {
             console.error("❌ Gagal mengambil data province dari API.");
             process.exit(1);
         }
-
+        
+        ensureDir(provinceRoot);
         fs.writeFileSync(provinceJsonPath, JSON.stringify(provinces, null, 2));
         console.log(`✅ province.json disimpan di ${provinceJsonPath}`);
     } else {
