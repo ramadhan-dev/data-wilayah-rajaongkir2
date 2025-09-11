@@ -18,7 +18,9 @@ const API_BASE = {
 
 // ⚡ Global config
 const DELAY = process.env.DELAY; // 1 detik per request
-let requestCount = 0;
+let REQUEST_COUNT = 0;
+const MAX_REQUEST = 700; // batas harian
+
 
 // Helper delay
 function delay(ms) {
@@ -61,8 +63,14 @@ async function loadOrFetch(filePath, fetchFn) {
 
 // Fetch wrapper dengan limit request
 async function limitedFetch(url) {
-    requestCount++;
-    console.log(`🔎 Request ke-${requestCount}: ${url}`);
+    REQUEST_COUNT++;
+
+    if (requestCount > MAX_REQUEST) {
+        console.warn(`⛔ Batas ${MAX_REQUEST} request tercapai. Program dihentikan.`);
+        process.exit(0);
+    }
+    
+    console.log(`🔎 Request ke-${REQUEST_COUNT}: ${url}`);
     const response = await axios.get(url, { headers: { Key: API_KEY } });
     return response.data?.data || [];
 }
@@ -135,7 +143,7 @@ async function main() {
         }
     }
     process.exit(1)
-    console.log(`\n✅ Selesai! Total request: ${requestCount}`);
+    console.log(`\n✅ Selesai! Total request: ${REQUEST_COUNT}`);
 }
 
 main();

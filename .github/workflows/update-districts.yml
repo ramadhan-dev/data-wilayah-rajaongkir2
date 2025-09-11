@@ -6,7 +6,7 @@ on:
 
   # Jalan otomatis tiap hari jam 7 pagi WIB
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */3 * * *"
     # Cron di GA pakai UTC, jadi 0 0 UTC = 07:00 WIB
 
 jobs:
