@@ -29,6 +29,7 @@ jobs:
         run: node index.js
         env:
           RAJAONGKIR_API_KEY: ${{ secrets.RAJAONGKIR_API_KEY }}
+          DELAY: ${{ secrets.DELAY }}
 
       - name: Commit changes
         run: |
