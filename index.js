@@ -68,7 +68,7 @@ async function limitedFetch(url) {
 }
 
 // Fetchers
-const fetchProvince = provinceId => limitedFetch(`${API_BASE.PROVINCE}`);
+const fetchProvinces = provinceId => limitedFetch(`${API_BASE.PROVINCE}`);
 const fetchCity = provinceId => limitedFetch(`${API_BASE.CITY}/${provinceId}`);
 const fetchDistricts = cityId => limitedFetch(`${API_BASE.DISTRICT}/${cityId}`);
 const fetchSubdistricts = districtId => limitedFetch(`${API_BASE.SUB_DISTRICT}/${districtId}`);
