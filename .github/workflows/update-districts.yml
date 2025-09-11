@@ -30,10 +30,10 @@ jobs:
         env:
           RAJAONGKIR_API_KEY: ${{ secrets.RAJAONGKIR_API_KEY }}
 
-      - name: Commit & Push changes
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add city
-          git commit -m "chore: update district data [skip ci]" || echo "No changes to commit"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update data wilayah" || echo "no changes to commit"
           git push

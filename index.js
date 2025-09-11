@@ -1,118 +1,127 @@
-const fs = require('fs');
-const path = require('path');
-const axios = require('axios');
+const fs = require("fs");
+const path = require("path");
+const axios = require("axios");
 
 // Konstanta
-const cityRoot = path.join(__dirname, 'City');
+const rootDir = __dirname;
+const cityRoot = path.join(rootDir, "City");
+const provinceRoot = path.join(rootDir, "Province");
+const provinceJsonPath = path.join(provinceRoot, "province.json");
+
 const API_KEY = process.env.RAJAONGKIR_API_KEY;
-const API_BASE = 'https://rajaongkir.komerce.id/api/v1/destination/district';
+const API_BASE = {
+    CITY: "https://rajaongkir.komerce.id/api/v1/destination/city",
+    DISTRICT: "https://rajaongkir.komerce.id/api/v1/destination/district",
+    SUB_DISTRICT: "https://rajaongkir.komerce.id/api/v1/destination/sub-district",
+};
 
+// ⚡ Global config
+const DELAY = 1000; // 1 detik per request
+let requestCount = 0;
 
-// Ambil semua folder dalam "city"
-const cityFolders = fs.readdirSync(cityRoot, { withFileTypes: true })
-    .filter(dirent => dirent.isDirectory())
-    .map(dirent => dirent.name);
-
-
-// fetch data dari rajaongkir
-async function fetchDistricts(cityId) {
-    try {
-        const response = await axios.get(`${API_BASE}/${cityId}`, {
-            headers: { Key: API_KEY }
-        });
-        return response.data?.data || [];
-    } catch (err) {
-        console.error(`❌ Gagal fetch district untuk city ID ${cityId}:`, err.message);
-        return null;
-    }
-}
-
-
+// Helper delay
 function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-
-async function main() {
-
-
-    for (const cityName of cityFolders) {
-        
-        
-
-        const cityJsonPath = path.join(cityRoot, cityName, 'city.json');
-        if (!fs.existsSync(cityJsonPath)) {
-            console.warn(`⚠️ File city.json tidak ditemukan: ${cityName}`);
-            continue;
-        }
-
-
-        // Baca isi city.json
-        const rawData = fs.readFileSync(cityJsonPath, 'utf-8');
-        let city;
-
-        try {
-            city = JSON.parse(rawData);
-        } catch (err) {
-            console.error(`❌ Gagal parse JSON untuk ${cityName}:`, err.message);
-            return;
-        }
-
-        // Path folder districts
-        const districtPath = path.join(cityRoot, cityName, 'Districts');
-
-        // Buat folder districts kalau belum ada
-        if (!fs.existsSync(districtPath)) {
-            fs.mkdirSync(districtPath);
-        }
-
-
-        for (const district of city) {
-            await delay(10000); // ⏱️ Delay 1 detik
-
-            const folderName = `(${district.id}) ${district.name}`;
-            const fullPath = path.join(districtPath, folderName);
-
-            if (!fs.existsSync(fullPath)) {
-                fs.mkdirSync(fullPath);
-                console.log(`✅ ${cityName}: Folder distrik dibuat → ${folderName}`);
-            } else {
-                console.log(`ℹ️ ${cityName}: Folder sudah ada → ${folderName}`);
-            }
-
-
-            // Path district.json
-            const districtJsonPath = path.join(fullPath, 'district.json');
-
-
-            // 🔍 Cek apakah file district.json sudah ada dan ada isi valid
-            if (fs.existsSync(districtJsonPath)) {
-                try {
-                    const raw = fs.readFileSync(districtJsonPath, 'utf-8');
-                    const parsed = JSON.parse(raw);
-
-                    if (parsed && Array.isArray(parsed) && parsed.length > 0) {
-                        console.log(`ℹ️ District data sudah ada → skip: ${districtJsonPath}`);
-                        continue; // 👉 skip fetch API, lanjut ke district berikutnya
-                    }
-                } catch (err) {
-                    console.warn(`⚠️ Gagal parse district.json di ${districtJsonPath}:`, err.message);
-                    // kalau corrupt → tetap fetch ulang
-                }
-            }
-
-
-
-            const districts = await fetchDistricts(district.id);
-
-
-            fs.writeFileSync(districtJsonPath, JSON.stringify(districts, null, 2));
-            console.log(`✅ District data disimpan: ${districtJsonPath}`);
-        }
-
-
-        
+// Helper buat folder
+function ensureDir(dirPath) {
+    if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath, { recursive: true });
+        console.log(`📂 Folder dibuat: ${dirPath}`);
     }
+}
+
+// 🔄 Helper untuk load dari file kalau ada, kalau tidak fetch & simpan
+async function loadOrFetch(filePath, fetchFn) {
+    if (fs.existsSync(filePath)) {
+        try {
+            const raw = fs.readFileSync(filePath, "utf-8");
+            const parsed = JSON.parse(raw);
+            if (Array.isArray(parsed) && parsed.length > 0) {
+                console.log(`ℹ️ Cache digunakan: ${filePath}`);
+                return parsed;
+            }
+        } catch (err) {
+            console.warn(`⚠️ Gagal parse ${filePath}, fetch ulang: ${err.message}`);
+        }
+    }
+
+    // Fetch baru
+    const data = await fetchFn();
+    if (data && Array.isArray(data)) {
+        fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+        console.log(`✅ Data disimpan: ${filePath}`);
+        await delay(DELAY);
+        return data;
+    }
+    return [];
+}
+
+// Fetch wrapper dengan limit request
+async function limitedFetch(url) {
+    requestCount++;
+    console.log(`🔎 Request ke-${requestCount}: ${url}`);
+    const response = await axios.get(url, { headers: { Key: API_KEY } });
+    return response.data?.data || [];
+}
+
+// Fetchers
+const fetchCity = provinceId => limitedFetch(`${API_BASE.CITY}/${provinceId}`);
+const fetchDistricts = cityId => limitedFetch(`${API_BASE.DISTRICT}/${cityId}`);
+const fetchSubdistricts = districtId =>
+    limitedFetch(`${API_BASE.SUB_DISTRICT}/${districtId}`);
+
+// Main process
+async function main() {
+    if (!fs.existsSync(provinceJsonPath)) {
+        console.error(`❌ province.json tidak ditemukan di ${provinceJsonPath}`);
+        process.exit(1);
+    }
+
+    const provinces = JSON.parse(fs.readFileSync(provinceJsonPath, "utf-8"));
+
+    for (const prov of provinces) {
+        const provinceName = `(${prov.id}) ${prov.name}`;
+        console.log(`\n🌍 Memproses provinsi: ${provinceName}`);
+
+        const provinceCityPath = path.join(provinceRoot, provinceName);
+        ensureDir(provinceCityPath);
+
+        // --- Cities ---
+        const cityJsonPath = path.join(provinceCityPath, "city.json");
+        const cities = await loadOrFetch(cityJsonPath, () => fetchCity(prov.id));
+
+        const provinceCityFolder = path.join(provinceCityPath, "City");
+        ensureDir(provinceCityFolder);
+
+        for (const city of cities) {
+            const cityFolderName = `(${city.id}) ${city.name}`;
+            const cityFolderPath = path.join(provinceCityFolder, cityFolderName);
+            ensureDir(cityFolderPath);
+
+            // --- Districts ---
+            const districtJsonPath = path.join(cityFolderPath, "district.json");
+            const districts = await loadOrFetch(districtJsonPath, () =>
+                fetchDistricts(city.id)
+            );
+
+            const districtFolderRoot = path.join(cityFolderPath, "District");
+            ensureDir(districtFolderRoot);
+
+            for (const dist of districts) {
+                const distFolderName = `(${dist.id}) ${dist.name}`;
+                const distFolderPath = path.join(districtFolderRoot, distFolderName);
+                ensureDir(distFolderPath);
+
+                // --- Subdistricts ---
+                const subdistrictJsonPath = path.join(distFolderPath, "subdistrict.json");
+                await loadOrFetch(subdistrictJsonPath, () => fetchSubdistricts(dist.id));
+            }
+        }
+    }
+    process.exit(1)
+    console.log(`\n✅ Selesai! Total request: ${requestCount}`);
 }
 
 main();
