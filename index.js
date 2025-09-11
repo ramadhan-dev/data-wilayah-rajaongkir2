@@ -65,7 +65,7 @@ async function loadOrFetch(filePath, fetchFn) {
 async function limitedFetch(url) {
     REQUEST_COUNT++;
 
-    if (requestCount > MAX_REQUEST) {
+    if (REQUEST_COUNT > MAX_REQUEST) {
         console.warn(`⛔ Batas ${MAX_REQUEST} request tercapai. Program dihentikan.`);
         process.exit(0);
     }
