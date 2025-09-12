@@ -1,0 +1,47 @@
+[
+  {
+    "id": 62502,
+    "name": "BARENG",
+    "zip_code": "57414"
+  },
+  {
+    "id": 62503,
+    "name": "BUNTALAN",
+    "zip_code": "57419"
+  },
+  {
+    "id": 62504,
+    "name": "GUMULAN",
+    "zip_code": "57417"
+  },
+  {
+    "id": 62505,
+    "name": "JOMBORAN",
+    "zip_code": "57418"
+  },
+  {
+    "id": 62506,
+    "name": "KABUPATEN",
+    "zip_code": "57413"
+  },
+  {
+    "id": 62507,
+    "name": "KLATEN",
+    "zip_code": "57411"
+  },
+  {
+    "id": 62508,
+    "name": "MOJAYAN",
+    "zip_code": "57416"
+  },
+  {
+    "id": 62509,
+    "name": "SEMANGKAK",
+    "zip_code": "57415"
+  },
+  {
+    "id": 62510,
+    "name": "TONGGALAN",
+    "zip_code": "57412"
+  }
+]

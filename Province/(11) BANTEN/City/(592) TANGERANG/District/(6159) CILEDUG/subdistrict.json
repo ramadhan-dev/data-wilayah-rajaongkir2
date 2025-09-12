@@ -1,0 +1,42 @@
+[
+  {
+    "id": 73247,
+    "name": "PANINGGILAN",
+    "zip_code": "15153"
+  },
+  {
+    "id": 73248,
+    "name": "PANINGGILAN UTARA",
+    "zip_code": "15153"
+  },
+  {
+    "id": 73249,
+    "name": "PARUNG SERAB",
+    "zip_code": "15153"
+  },
+  {
+    "id": 73250,
+    "name": "SUDIMARA BARAT",
+    "zip_code": "15151"
+  },
+  {
+    "id": 73251,
+    "name": "SUDIMARA JAYA",
+    "zip_code": "15151"
+  },
+  {
+    "id": 73252,
+    "name": "SUDIMARA SELATAN",
+    "zip_code": "15151"
+  },
+  {
+    "id": 73253,
+    "name": "SUDIMARA TIMUR",
+    "zip_code": "15151"
+  },
+  {
+    "id": 73254,
+    "name": "TAJUR",
+    "zip_code": "15152"
+  }
+]

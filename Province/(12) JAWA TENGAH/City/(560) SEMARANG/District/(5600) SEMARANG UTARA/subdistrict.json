@@ -1,0 +1,47 @@
+[
+  {
+    "id": 65056,
+    "name": "BANDARHARJO",
+    "zip_code": "50175"
+  },
+  {
+    "id": 65057,
+    "name": "BULU LOR",
+    "zip_code": "50179"
+  },
+  {
+    "id": 65058,
+    "name": "DADAPSARI",
+    "zip_code": "50173"
+  },
+  {
+    "id": 65059,
+    "name": "KUNINGAN",
+    "zip_code": "50176"
+  },
+  {
+    "id": 65060,
+    "name": "PANGGUNG KIDUL",
+    "zip_code": "50178"
+  },
+  {
+    "id": 65061,
+    "name": "PANGGUNG LOR",
+    "zip_code": "50177"
+  },
+  {
+    "id": 65062,
+    "name": "PLOMBOKAN",
+    "zip_code": "50171"
+  },
+  {
+    "id": 65063,
+    "name": "PURWOSARI",
+    "zip_code": "50172"
+  },
+  {
+    "id": 65064,
+    "name": "TANJUNGMAS",
+    "zip_code": "50174"
+  }
+]

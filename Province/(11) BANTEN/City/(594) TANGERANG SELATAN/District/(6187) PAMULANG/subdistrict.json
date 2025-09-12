@@ -1,0 +1,42 @@
+[
+  {
+    "id": 73517,
+    "name": "BAMBU APUS",
+    "zip_code": "15415"
+  },
+  {
+    "id": 73518,
+    "name": "BENDA BARU",
+    "zip_code": "15418"
+  },
+  {
+    "id": 73519,
+    "name": "KEDAUNG",
+    "zip_code": "15415"
+  },
+  {
+    "id": 73520,
+    "name": "PAMULANG BARAT",
+    "zip_code": "15417"
+  },
+  {
+    "id": 73521,
+    "name": "PAMULANG TIMUR",
+    "zip_code": "15417"
+  },
+  {
+    "id": 73522,
+    "name": "PONDOK BENDA",
+    "zip_code": "15416"
+  },
+  {
+    "id": 73523,
+    "name": "PONDOK CABE ILIR",
+    "zip_code": "15418"
+  },
+  {
+    "id": 73524,
+    "name": "PONDOK CABE UDIK",
+    "zip_code": "15418"
+  }
+]

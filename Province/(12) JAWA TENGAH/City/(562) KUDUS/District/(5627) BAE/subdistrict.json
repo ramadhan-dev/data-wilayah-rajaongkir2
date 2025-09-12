@@ -1,0 +1,52 @@
+[
+  {
+    "id": 65401,
+    "name": "BACIN",
+    "zip_code": "59325"
+  },
+  {
+    "id": 65402,
+    "name": "BAE",
+    "zip_code": "59327"
+  },
+  {
+    "id": 65403,
+    "name": "DERSALAM",
+    "zip_code": "59321"
+  },
+  {
+    "id": 65404,
+    "name": "GONDANGMANIS",
+    "zip_code": "59327"
+  },
+  {
+    "id": 65405,
+    "name": "KARANGBENER",
+    "zip_code": "59323"
+  },
+  {
+    "id": 65406,
+    "name": "NGEMBALREJO",
+    "zip_code": "59322"
+  },
+  {
+    "id": 65407,
+    "name": "PANJANG",
+    "zip_code": "59326"
+  },
+  {
+    "id": 65408,
+    "name": "PEDAWANG",
+    "zip_code": "59324"
+  },
+  {
+    "id": 65409,
+    "name": "PEGANJARAN",
+    "zip_code": "59327"
+  },
+  {
+    "id": 65410,
+    "name": "PURWOREJO",
+    "zip_code": "59327"
+  }
+]

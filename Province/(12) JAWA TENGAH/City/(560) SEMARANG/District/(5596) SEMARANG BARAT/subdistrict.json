@@ -1,0 +1,82 @@
+[
+  {
+    "id": 65005,
+    "name": "BOJONGSALAMAN",
+    "zip_code": "50141"
+  },
+  {
+    "id": 65006,
+    "name": "BONGSARI",
+    "zip_code": "50148"
+  },
+  {
+    "id": 65007,
+    "name": "CABEAN",
+    "zip_code": "50141"
+  },
+  {
+    "id": 65008,
+    "name": "GISIKDRONO",
+    "zip_code": "50149"
+  },
+  {
+    "id": 65009,
+    "name": "KALIBANTENG KIDUL",
+    "zip_code": "50149"
+  },
+  {
+    "id": 65010,
+    "name": "KALIBANTENG KULON",
+    "zip_code": "50145"
+  },
+  {
+    "id": 65011,
+    "name": "KARANG AYU",
+    "zip_code": "50149"
+  },
+  {
+    "id": 65012,
+    "name": "KEMBANGARUM",
+    "zip_code": "50183"
+  },
+  {
+    "id": 65013,
+    "name": "KRAPYAK",
+    "zip_code": "50146"
+  },
+  {
+    "id": 65014,
+    "name": "KROBOKAN",
+    "zip_code": "50141"
+  },
+  {
+    "id": 65015,
+    "name": "MANYARAN",
+    "zip_code": "50147"
+  },
+  {
+    "id": 65016,
+    "name": "NGEMPLAK SIMONGAN",
+    "zip_code": "50148"
+  },
+  {
+    "id": 65017,
+    "name": "SALAMANMLOYO",
+    "zip_code": "50149"
+  },
+  {
+    "id": 65018,
+    "name": "TAMBAK HARJO",
+    "zip_code": "50149"
+  },
+  {
+    "id": 65019,
+    "name": "TAWANGMAS",
+    "zip_code": "50144"
+  },
+  {
+    "id": 65020,
+    "name": "TAWANGSARI",
+    "zip_code": "50144"
+  }
+]

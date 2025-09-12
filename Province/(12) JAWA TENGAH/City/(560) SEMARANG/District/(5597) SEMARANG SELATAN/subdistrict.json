@@ -1,0 +1,52 @@
+[
+  {
+    "id": 65021,
+    "name": "BARUSARI",
+    "zip_code": "50245"
+  },
+  {
+    "id": 65022,
+    "name": "BULUSTALAN",
+    "zip_code": "50246"
+  },
+  {
+    "id": 65023,
+    "name": "LAMPER KIDUL",
+    "zip_code": "50249"
+  },
+  {
+    "id": 65024,
+    "name": "LAMPER LOR",
+    "zip_code": "50249"
+  },
+  {
+    "id": 65025,
+    "name": "LAMPER TENGAH",
+    "zip_code": "50248"
+  },
+  {
+    "id": 65026,
+    "name": "MUGASSARI",
+    "zip_code": "50249"
+  },
+  {
+    "id": 65027,
+    "name": "PETERONGAN",
+    "zip_code": "50242"
+  },
+  {
+    "id": 65028,
+    "name": "PLEBURAN",
+    "zip_code": "50241"
+  },
+  {
+    "id": 65029,
+    "name": "RANDUSARI",
+    "zip_code": "50244"
+  },
+  {
+    "id": 65030,
+    "name": "WONODRI",
+    "zip_code": "50242"
+  }
+]

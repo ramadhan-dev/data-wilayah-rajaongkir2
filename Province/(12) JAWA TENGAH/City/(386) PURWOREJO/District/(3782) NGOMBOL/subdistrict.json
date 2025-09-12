@@ -1,0 +1,287 @@
+[
+  {
+    "id": 44815,
+    "name": "AWUAWU",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44816,
+    "name": "BOJONG",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44817,
+    "name": "BRIYAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44818,
+    "name": "CANDI",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44819,
+    "name": "COKROYASAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44820,
+    "name": "CURUG",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44821,
+    "name": "DEPOKREJO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44822,
+    "name": "GIRIREJO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44823,
+    "name": "JERUKEN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44824,
+    "name": "JOMBANG",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44825,
+    "name": "JOSO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44826,
+    "name": "KALITANJUNG",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44827,
+    "name": "KALIWUNGU KIDUL",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44828,
+    "name": "KALIWUNGU LOR",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44829,
+    "name": "KARANGTALUN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44830,
+    "name": "KEBURUHAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44831,
+    "name": "KEDONDONG",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44832,
+    "name": "KEMBANGKUNING",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44833,
+    "name": "KESIDAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44834,
+    "name": "KLANDARAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44835,
+    "name": "KUMPULSARI",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44836,
+    "name": "KUWUKAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44837,
+    "name": "LABAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44838,
+    "name": "MALANG",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44839,
+    "name": "MENDIRO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44840,
+    "name": "NGENTAK",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44841,
+    "name": "NGOMBOL",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44842,
+    "name": "PAGAK",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44843,
+    "name": "PEJAGRAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44844,
+    "name": "PIYONO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44845,
+    "name": "PULUTAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44846,
+    "name": "RASUKAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44847,
+    "name": "RINGGIT",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44848,
+    "name": "SEBORO PASAR",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44849,
+    "name": "SECANG",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44850,
+    "name": "SINGKIL KULON",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44851,
+    "name": "SINGKIL WETAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44852,
+    "name": "SRUWOH",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44853,
+    "name": "SUMBEREJO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44854,
+    "name": "SUSUK",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44855,
+    "name": "TANJUNG",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44856,
+    "name": "TANJUNGREJO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44857,
+    "name": "TUMENGGUNGAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44858,
+    "name": "TUNJUNGAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44859,
+    "name": "WALIKORO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44860,
+    "name": "WASIAT",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44861,
+    "name": "WERO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44862,
+    "name": "WINGKO SANGGRAHAN",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44863,
+    "name": "WINGKO SIGROMULYO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44864,
+    "name": "WINGKO TINUMPUK",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44865,
+    "name": "WINGKOHARJO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44866,
+    "name": "WINGKOMULYO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44867,
+    "name": "WONOBOYO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44868,
+    "name": "WONOROTO",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44869,
+    "name": "WONOSARI",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44870,
+    "name": "WONOSRI",
+    "zip_code": "54172"
+  },
+  {
+    "id": 44871,
+    "name": "WUNUT",
+    "zip_code": "54172"
+  }
+]
