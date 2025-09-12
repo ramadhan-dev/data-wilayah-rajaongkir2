@@ -1,0 +1,32 @@
+[
+  {
+    "id": 29999,
+    "name": "HELEDULAA SELATAN",
+    "zip_code": "96114"
+  },
+  {
+    "id": 30000,
+    "name": "HELEDULAA UTARA",
+    "zip_code": "96119"
+  },
+  {
+    "id": 30001,
+    "name": "IPILO",
+    "zip_code": "96112"
+  },
+  {
+    "id": 30002,
+    "name": "MOODU",
+    "zip_code": "96113"
+  },
+  {
+    "id": 30003,
+    "name": "PADEBUOLO",
+    "zip_code": "96113"
+  },
+  {
+    "id": 30004,
+    "name": "TAMALATE",
+    "zip_code": "96113"
+  }
+]

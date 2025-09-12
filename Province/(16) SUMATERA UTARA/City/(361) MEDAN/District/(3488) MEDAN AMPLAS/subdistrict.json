@@ -1,0 +1,37 @@
+[
+  {
+    "id": 41030,
+    "name": "AMPLAS",
+    "zip_code": "20229"
+  },
+  {
+    "id": 41031,
+    "name": "BANGUN MULIA",
+    "zip_code": "20149"
+  },
+  {
+    "id": 41032,
+    "name": "HARJOSARI I",
+    "zip_code": "20147"
+  },
+  {
+    "id": 41033,
+    "name": "HARJOSARI II",
+    "zip_code": "20147"
+  },
+  {
+    "id": 41034,
+    "name": "SITIREJO II",
+    "zip_code": "20219"
+  },
+  {
+    "id": 41035,
+    "name": "SITIREJO III",
+    "zip_code": "20219"
+  },
+  {
+    "id": 41036,
+    "name": "TIMBANG DELI",
+    "zip_code": "20148"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 42997,
+    "name": "ALUR GADUNG",
+    "zip_code": "20811"
+  },
+  {
+    "id": 42998,
+    "name": "ALUR MELATI",
+    "zip_code": "20811"
+  },
+  {
+    "id": 42999,
+    "name": "MEKAR SAWIT",
+    "zip_code": "20811"
+  },
+  {
+    "id": 43000,
+    "name": "SAWIT HULU",
+    "zip_code": "20811"
+  },
+  {
+    "id": 43001,
+    "name": "SAWIT SEBERANG",
+    "zip_code": "20811"
+  },
+  {
+    "id": 43002,
+    "name": "SEI LITUR TASIK",
+    "zip_code": "20811"
+  },
+  {
+    "id": 43003,
+    "name": "SIMPANG TIGA",
+    "zip_code": "20811"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": 28844,
+    "name": "AEK GAMBIR",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28845,
+    "name": "AEK JANGKANG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28846,
+    "name": "AEK SUHAT",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28847,
+    "name": "AEK TOLANG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28848,
+    "name": "AMBASANG NATIGOR",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28849,
+    "name": "BATANG BARUHAR JAE",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28850,
+    "name": "BATANG BARUHAR JULU",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28851,
+    "name": "BATU MAMAK",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28852,
+    "name": "BATU SUNDUNG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28853,
+    "name": "BATU TAMBUN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28854,
+    "name": "BATU TUNGGAL",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28855,
+    "name": "BOTUNG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28856,
+    "name": "BUKIT RAYA SEDANG / SORDANG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28857,
+    "name": "DOLOK SAE",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28858,
+    "name": "GAROGA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28859,
+    "name": "GARONGGANG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28860,
+    "name": "GUNUNG MANAON II",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28861,
+    "name": "GUNUNG TUA BARU",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28862,
+    "name": "GUNUNG TUA JAE",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28863,
+    "name": "GUNUNG TUA JULU",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28864,
+    "name": "GUNUNG TUA TONGA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28865,
+    "name": "HAJORAN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28866,
+    "name": "HAMBIRI BODING",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28867,
+    "name": "HUTA LOMBANG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28868,
+    "name": "HUTAIMBARU II",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28869,
+    "name": "LIANG HASONA/ASONA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28870,
+    "name": "LOSUNG BATU",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28871,
+    "name": "LUBUK TOROP",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28872,
+    "name": "MANANTI (MARENTI)",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28873,
+    "name": "MANDI ANGIN DOLOK",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28874,
+    "name": "MANDI ANGIN LOMBANG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28875,
+    "name": "MOMPANG/MEMPANG II",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28876,
+    "name": "NABONGAL (NABONGGAL)",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28877,
+    "name": "NAGA SARIBU",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28878,
+    "name": "NAPA GADUNG LAUT",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28879,
+    "name": "PADANG GARUGUR",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28880,
+    "name": "PAGARAN SINGKAM",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28881,
+    "name": "PAGARAN TONGA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28882,
+    "name": "PARAN/PARANG PADANG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28883,
+    "name": "PARLIMBATAN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28884,
+    "name": "PASAR GUNUNG TUA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28885,
+    "name": "PURBA SINOMBA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28886,
+    "name": "PURBA TUA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28887,
+    "name": "RAHUNNING/RAHUNING JAE",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28888,
+    "name": "RAMPA JAE",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28889,
+    "name": "RAMPA JULU",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28890,
+    "name": "SABA BANGUNAN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28891,
+    "name": "SABA SITAHUL TAHUL",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28892,
+    "name": "SAMPURAN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28893,
+    "name": "SIBAGASI",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28894,
+    "name": "SIBATANG KAYU",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28895,
+    "name": "SIDIKKAT (SIDINGKAT)",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28896,
+    "name": "SIGAMA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28897,
+    "name": "SIGAMA UJUNG GADING",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28898,
+    "name": "SIGIMBAL",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28899,
+    "name": "SIHAPAS HAPAS",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28900,
+    "name": "SIHODAHODA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28901,
+    "name": "SIMANOSOR",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28902,
+    "name": "SIMASI",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28903,
+    "name": "SIMBOLON",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28904,
+    "name": "SIOMBOB",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28905,
+    "name": "SOSOPAN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28906,
+    "name": "SUNGE DURIAN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28907,
+    "name": "SUNGE OROSAN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28908,
+    "name": "SUNGE TOLANG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28909,
+    "name": "TANGGA TANGGA HAMBENG",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28910,
+    "name": "TANJUNG MARULAK",
+    "zip_code": "22753"
+  },
+  {
+    "id": 28911,
+    "name": "TANJUNG TORAM",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43179,
+    "name": "BATANG PANE I",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43180,
+    "name": "BATANG PANE II",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43181,
+    "name": "BATANG PANE III",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43189,
+    "name": "AEK BAYUR",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43190,
+    "name": "BANGUN PURBA",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43191,
+    "name": "GULANGAN",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43192,
+    "name": "SIMANINGGIR",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43193,
+    "name": "SIUNGGAM JAE",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43194,
+    "name": "SIUNGGAM JULU",
+    "zip_code": "22753"
+  },
+  {
+    "id": 43195,
+    "name": "SIUNGGAM TONGA",
+    "zip_code": "22753"
+  }
+]

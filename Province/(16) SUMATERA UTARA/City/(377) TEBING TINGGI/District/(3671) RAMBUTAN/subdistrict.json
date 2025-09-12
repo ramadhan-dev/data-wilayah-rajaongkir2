@@ -1,0 +1,37 @@
+[
+  {
+    "id": 43158,
+    "name": "KARYA JAYA",
+    "zip_code": "20611"
+  },
+  {
+    "id": 43159,
+    "name": "LALANG",
+    "zip_code": "20614"
+  },
+  {
+    "id": 43160,
+    "name": "MEKAR SENTOSA",
+    "zip_code": "20616"
+  },
+  {
+    "id": 43161,
+    "name": "RANTAU LABAN",
+    "zip_code": "20614"
+  },
+  {
+    "id": 43162,
+    "name": "SRI PADANG",
+    "zip_code": "20616"
+  },
+  {
+    "id": 43163,
+    "name": "TANJUNG MARULAK",
+    "zip_code": "20616"
+  },
+  {
+    "id": 43164,
+    "name": "TANJUNG MARULAK HILIR",
+    "zip_code": "20616"
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "id": 28680,
+    "name": "AEK HARUAYA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28681,
+    "name": "AEK ILUNG",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28682,
+    "name": "AEK RAOTAN",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28683,
+    "name": "AEK SUHAT JAE",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28684,
+    "name": "AEK SUHAT TR",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28685,
+    "name": "AEK SUNDUR",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28686,
+    "name": "AEK TANGGA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28687,
+    "name": "ARSE",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28688,
+    "name": "BAHAP",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28689,
+    "name": "BANDAR NAULI",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28690,
+    "name": "BARINGIN SIL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28691,
+    "name": "BARINGIN SIP",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28692,
+    "name": "BATU RUNDING",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28693,
+    "name": "BINANGA GUMBOT",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28694,
+    "name": "BINTAIS JULU",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28695,
+    "name": "BUKIT TINGGI",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28696,
+    "name": "BUNUT",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28697,
+    "name": "DALIHAN NATOLU",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28698,
+    "name": "DOLOK SANGGUL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28699,
+    "name": "GUMARUNTAR",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28700,
+    "name": "GUMBOT",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28701,
+    "name": "GUNUNG MARIA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28702,
+    "name": "GUNUNG SALAMAT",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28703,
+    "name": "HULA BARINGIN",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28704,
+    "name": "HUTABARU SIL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28705,
+    "name": "HUTAIMBARU GUL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28706,
+    "name": "JAMBUR BATU",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28707,
+    "name": "JANJI MANAHAN GUL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28708,
+    "name": "JANJI MANAHAN SIL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28709,
+    "name": "JANJI MATOGU",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28710,
+    "name": "LUBUK GODANG",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28711,
+    "name": "LUBUK KUNDUR",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28712,
+    "name": "LUBUK LANJANG",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28713,
+    "name": "MOMPANG DOLOK",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28714,
+    "name": "MOMPANG LOMBANG",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28715,
+    "name": "NABONGGAL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28716,
+    "name": "NAGA SARIBU",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28717,
+    "name": "NAPA SUNDALI",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28718,
+    "name": "PAGARAN JULU",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28719,
+    "name": "PAGARAN JULU I",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28720,
+    "name": "PAGARAN SIREGAR",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28721,
+    "name": "PANCA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28722,
+    "name": "PANCARAN",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28723,
+    "name": "PARIGI",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28724,
+    "name": "PARMERAAN",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28725,
+    "name": "PASAR SIPIONGOT",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28726,
+    "name": "PAYA OMBIK",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28727,
+    "name": "PINTU PADANG MERDEKA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28728,
+    "name": "PURBA TUA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28729,
+    "name": "RONGKARE",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28730,
+    "name": "SIALAN GUNDI",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28731,
+    "name": "SIALANG DOLOK",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28732,
+    "name": "SIBANGA PANAHASAHAN",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28733,
+    "name": "SIBAYO",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28734,
+    "name": "SIBAYO JAE",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28735,
+    "name": "SIBIO BIO",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28736,
+    "name": "SIBUBUR",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28737,
+    "name": "SIGALA GALA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28738,
+    "name": "SIGAMBAL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28739,
+    "name": "SIGANYAL",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28740,
+    "name": "SIGUGAH",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28741,
+    "name": "SIJANTUNG JAE",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28742,
+    "name": "SIJANTUNG JULU",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28743,
+    "name": "SIJARA JARA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28744,
+    "name": "SIJORANG",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28745,
+    "name": "SILANGGE",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28746,
+    "name": "SILOGO LOGO",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28747,
+    "name": "SILOUNG",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28748,
+    "name": "SIMANGAMBAT TUA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28749,
+    "name": "SIMANINGGIR SIP",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28750,
+    "name": "SIMANOSOR",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28751,
+    "name": "SIMATANIARI",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28752,
+    "name": "SIMATANIARI JAE",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28753,
+    "name": "SIMATORKIS",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28754,
+    "name": "SINABONGAN",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28755,
+    "name": "SIPIONGOT",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28756,
+    "name": "SIRAGA HUTA PADANG",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28757,
+    "name": "SIRANAP",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28758,
+    "name": "SITUMBAGA",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28759,
+    "name": "SUNGAI DATAR",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28760,
+    "name": "SUNGAI PINING",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28761,
+    "name": "TANJUNG BARU B",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28762,
+    "name": "TANJUNG LONGAT",
+    "zip_code": "22756"
+  },
+  {
+    "id": 28763,
+    "name": "TARUTUNG BOLAK",
+    "zip_code": "22756"
+  },
+  {
+    "id": 43188,
+    "name": "PIJOR KOLING",
+    "zip_code": "22756"
+  }
+]
