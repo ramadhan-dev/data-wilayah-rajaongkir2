@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "MATARAM TIMUR",
+    "zip_code": "83121"
+  },
+  {
+    "id": 2,
+    "name": "PAGESANGAN",
+    "zip_code": "83127"
+  },
+  {
+    "id": 3,
+    "name": "PAGESANGAN BARAT",
+    "zip_code": "83127"
+  },
+  {
+    "id": 4,
+    "name": "PAGESANGAN TIMUR",
+    "zip_code": "83127"
+  },
+  {
+    "id": 5,
+    "name": "PAGUTAN",
+    "zip_code": "83117"
+  },
+  {
+    "id": 6,
+    "name": "PAGUTAN BARAT",
+    "zip_code": "83127"
+  },
+  {
+    "id": 7,
+    "name": "PAGUTAN TIMUR",
+    "zip_code": "83127"
+  },
+  {
+    "id": 8,
+    "name": "PEJANGGIK",
+    "zip_code": "83127"
+  },
+  {
+    "id": 9,
+    "name": "PUNIA",
+    "zip_code": "83127"
+  }
+]

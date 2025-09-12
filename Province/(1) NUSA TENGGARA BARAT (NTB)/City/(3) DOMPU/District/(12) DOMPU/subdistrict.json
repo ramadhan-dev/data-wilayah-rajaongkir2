@@ -1,0 +1,77 @@
+[
+  {
+    "id": 90,
+    "name": "BADA",
+    "zip_code": "84211"
+  },
+  {
+    "id": 91,
+    "name": "BALI",
+    "zip_code": "84213"
+  },
+  {
+    "id": 92,
+    "name": "DORA TANGGA",
+    "zip_code": "84219"
+  },
+  {
+    "id": 93,
+    "name": "DORE BARA",
+    "zip_code": "84212"
+  },
+  {
+    "id": 94,
+    "name": "KANDAI I",
+    "zip_code": "84219"
+  },
+  {
+    "id": 95,
+    "name": "KARAMABURA",
+    "zip_code": "84219"
+  },
+  {
+    "id": 96,
+    "name": "KAREKE",
+    "zip_code": "84219"
+  },
+  {
+    "id": 97,
+    "name": "KARIJAWA",
+    "zip_code": "84217"
+  },
+  {
+    "id": 98,
+    "name": "KATUA",
+    "zip_code": "84219"
+  },
+  {
+    "id": 99,
+    "name": "MANGGE NAE",
+    "zip_code": "84219"
+  },
+  {
+    "id": 100,
+    "name": "MANGGEASI",
+    "zip_code": "84219"
+  },
+  {
+    "id": 101,
+    "name": "MBAWI",
+    "zip_code": "84219"
+  },
+  {
+    "id": 102,
+    "name": "O'O",
+    "zip_code": "84219"
+  },
+  {
+    "id": 103,
+    "name": "POTU",
+    "zip_code": "84214"
+  },
+  {
+    "id": 104,
+    "name": "SORI SAKOLO",
+    "zip_code": "84213"
+  }
+]

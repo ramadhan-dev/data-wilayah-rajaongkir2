@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1168,
+    "name": "HALONG",
+    "zip_code": "97231"
+  },
+  {
+    "id": 1169,
+    "name": "LATERI",
+    "zip_code": "97231"
+  },
+  {
+    "id": 1170,
+    "name": "LATTA",
+    "zip_code": "97231"
+  },
+  {
+    "id": 1171,
+    "name": "NANIA",
+    "zip_code": "97232"
+  },
+  {
+    "id": 1172,
+    "name": "NEGERI LAMA",
+    "zip_code": "97232"
+  },
+  {
+    "id": 1173,
+    "name": "PASSO",
+    "zip_code": "97232"
+  },
+  {
+    "id": 1174,
+    "name": "WAIHERU",
+    "zip_code": "97233"
+  }
+]

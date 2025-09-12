@@ -1,0 +1,52 @@
+[
+  {
+    "id": 499,
+    "name": "GELANGGANG",
+    "zip_code": "83671"
+  },
+  {
+    "id": 500,
+    "name": "GERENENG",
+    "zip_code": "83671"
+  },
+  {
+    "id": 501,
+    "name": "GERENENG TIMUR",
+    "zip_code": "83671"
+  },
+  {
+    "id": 502,
+    "name": "LENTING",
+    "zip_code": "83671"
+  },
+  {
+    "id": 503,
+    "name": "LEPAK",
+    "zip_code": "83671"
+  },
+  {
+    "id": 504,
+    "name": "LEPAK TIMUR",
+    "zip_code": "83671"
+  },
+  {
+    "id": 505,
+    "name": "MENCEH",
+    "zip_code": "83671"
+  },
+  {
+    "id": 506,
+    "name": "MONTONGTANGI",
+    "zip_code": "83671"
+  },
+  {
+    "id": 507,
+    "name": "SURABAYA",
+    "zip_code": "83671"
+  },
+  {
+    "id": 508,
+    "name": "SURABAYA UTARA",
+    "zip_code": "83671"
+  }
+]

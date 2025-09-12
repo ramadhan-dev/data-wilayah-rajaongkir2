@@ -1,0 +1,52 @@
+[
+  {
+    "id": 361,
+    "name": "DANGER",
+    "zip_code": "83661"
+  },
+  {
+    "id": 362,
+    "name": "KESIK",
+    "zip_code": "83661"
+  },
+  {
+    "id": 363,
+    "name": "KUMBANG",
+    "zip_code": "83661"
+  },
+  {
+    "id": 364,
+    "name": "LENDANG NANGKA",
+    "zip_code": "83661"
+  },
+  {
+    "id": 365,
+    "name": "LENDANG NANGKA UTARA",
+    "zip_code": "83661"
+  },
+  {
+    "id": 366,
+    "name": "MASBAGIK SELATAN",
+    "zip_code": "83661"
+  },
+  {
+    "id": 367,
+    "name": "MASBAGIK TIMUR",
+    "zip_code": "83661"
+  },
+  {
+    "id": 368,
+    "name": "MASBAGIK UTARA",
+    "zip_code": "83661"
+  },
+  {
+    "id": 369,
+    "name": "MASBAGIK UTARA BARU",
+    "zip_code": "83661"
+  },
+  {
+    "id": 370,
+    "name": "PAOK MOTONG",
+    "zip_code": "83661"
+  }
+]

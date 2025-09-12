@@ -1,0 +1,52 @@
+[
+  {
+    "id": 20,
+    "name": "CAKRANEGARA BARAT",
+    "zip_code": "83239"
+  },
+  {
+    "id": 21,
+    "name": "CAKRANEGARA SELATAN",
+    "zip_code": "83239"
+  },
+  {
+    "id": 22,
+    "name": "CAKRANEGARA SELATAN BARU",
+    "zip_code": "83239"
+  },
+  {
+    "id": 23,
+    "name": "CAKRANEGARA TIMUR",
+    "zip_code": "83239"
+  },
+  {
+    "id": 24,
+    "name": "CAKRANEGARA UTARA",
+    "zip_code": "83239"
+  },
+  {
+    "id": 25,
+    "name": "CILINAYA",
+    "zip_code": "83238"
+  },
+  {
+    "id": 26,
+    "name": "KARANG TALIWANG",
+    "zip_code": "83238"
+  },
+  {
+    "id": 27,
+    "name": "MAYURA",
+    "zip_code": "83238"
+  },
+  {
+    "id": 28,
+    "name": "SAPTA MARGA",
+    "zip_code": "83238"
+  },
+  {
+    "id": 29,
+    "name": "SAYANG SAYANG",
+    "zip_code": "83239"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 662,
+    "name": "BRANG BARA",
+    "zip_code": "84314"
+  },
+  {
+    "id": 663,
+    "name": "BRANG BIJI",
+    "zip_code": "84318"
+  },
+  {
+    "id": 664,
+    "name": "BUGIS",
+    "zip_code": "84313"
+  },
+  {
+    "id": 665,
+    "name": "LEMPEH",
+    "zip_code": "84312"
+  },
+  {
+    "id": 666,
+    "name": "PEKAT",
+    "zip_code": "84315"
+  },
+  {
+    "id": 667,
+    "name": "SAMAPUIN",
+    "zip_code": "84316"
+  },
+  {
+    "id": 668,
+    "name": "SEKETENG",
+    "zip_code": "84311"
+  },
+  {
+    "id": 669,
+    "name": "UMA SIMA",
+    "zip_code": "84317"
+  }
+]

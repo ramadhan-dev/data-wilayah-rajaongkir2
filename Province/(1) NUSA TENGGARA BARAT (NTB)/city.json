@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "MATARAM"
+  },
+  {
+    "id": 2,
+    "name": "BIMA"
+  },
+  {
+    "id": 3,
+    "name": "DOMPU"
+  },
+  {
+    "id": 4,
+    "name": "LOMBOK TENGAH"
+  },
+  {
+    "id": 5,
+    "name": "LOMBOK TIMUR"
+  },
+  {
+    "id": 7,
+    "name": "SUMBAWA"
+  },
+  {
+    "id": 8,
+    "name": "LOMBOK BARAT"
+  },
+  {
+    "id": 9,
+    "name": "LOMBOK UTARA"
+  },
+  {
+    "id": 10,
+    "name": "SUMBAWA BARAT"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 30,
+    "name": "DASAN AGUNG",
+    "zip_code": "83125"
+  },
+  {
+    "id": 31,
+    "name": "DASAN AGUNG BARU",
+    "zip_code": "83125"
+  },
+  {
+    "id": 32,
+    "name": "GOMONG",
+    "zip_code": "83126"
+  },
+  {
+    "id": 33,
+    "name": "KARANG BARU",
+    "zip_code": "83123"
+  },
+  {
+    "id": 34,
+    "name": "MATARAM BARAT",
+    "zip_code": "83126"
+  },
+  {
+    "id": 35,
+    "name": "MONJOK",
+    "zip_code": "83122"
+  },
+  {
+    "id": 36,
+    "name": "MONJOK BARAT",
+    "zip_code": "83122"
+  },
+  {
+    "id": 37,
+    "name": "MONJOK TIMUR",
+    "zip_code": "83122"
+  },
+  {
+    "id": 38,
+    "name": "REMBIGA",
+    "zip_code": "83124"
+  }
+]

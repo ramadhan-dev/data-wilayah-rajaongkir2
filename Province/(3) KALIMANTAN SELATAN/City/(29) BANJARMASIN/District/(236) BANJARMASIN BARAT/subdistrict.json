@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2374,
+    "name": "BASIRIH",
+    "zip_code": "70245"
+  },
+  {
+    "id": 2375,
+    "name": "BELITUNG SELATAN",
+    "zip_code": "70116"
+  },
+  {
+    "id": 2376,
+    "name": "BELITUNG UTARA",
+    "zip_code": "70116"
+  },
+  {
+    "id": 2377,
+    "name": "KUIN CERUCUK",
+    "zip_code": "70129"
+  },
+  {
+    "id": 2378,
+    "name": "KUIN SELATAN",
+    "zip_code": "70128"
+  },
+  {
+    "id": 2379,
+    "name": "PELAMBUAN",
+    "zip_code": "70118"
+  },
+  {
+    "id": 2380,
+    "name": "TELAGA BIRU",
+    "zip_code": "70119"
+  },
+  {
+    "id": 2381,
+    "name": "TELAWANG",
+    "zip_code": "70112"
+  },
+  {
+    "id": 2382,
+    "name": "TELUK TIRAM",
+    "zip_code": "70113"
+  }
+]

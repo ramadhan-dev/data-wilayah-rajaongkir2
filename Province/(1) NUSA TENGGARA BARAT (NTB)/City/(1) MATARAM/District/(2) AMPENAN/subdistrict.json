@@ -1,0 +1,52 @@
+[
+  {
+    "id": 10,
+    "name": "AMPENAN SELATAN",
+    "zip_code": "83114"
+  },
+  {
+    "id": 11,
+    "name": "AMPENAN TENGAH",
+    "zip_code": "83112"
+  },
+  {
+    "id": 12,
+    "name": "AMPENAN UTARA",
+    "zip_code": "83511"
+  },
+  {
+    "id": 13,
+    "name": "BANJAR",
+    "zip_code": "83118"
+  },
+  {
+    "id": 14,
+    "name": "BINTARO",
+    "zip_code": "83118"
+  },
+  {
+    "id": 15,
+    "name": "DOYAN PEKEN",
+    "zip_code": "83118"
+  },
+  {
+    "id": 16,
+    "name": "KEBUNSARI",
+    "zip_code": "83118"
+  },
+  {
+    "id": 17,
+    "name": "PAJARAKAN KARYA",
+    "zip_code": "83118"
+  },
+  {
+    "id": 18,
+    "name": "PEJERUK",
+    "zip_code": "83113"
+  },
+  {
+    "id": 19,
+    "name": "TAMANSARI",
+    "zip_code": "83118"
+  }
+]

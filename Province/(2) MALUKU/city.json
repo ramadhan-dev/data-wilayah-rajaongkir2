@@ -1,0 +1,46 @@
+[
+  {
+    "id": 11,
+    "name": "AMBON"
+  },
+  {
+    "id": 12,
+    "name": "MALUKU TENGAH"
+  },
+  {
+    "id": 14,
+    "name": "MALUKU TENGGARA"
+  },
+  {
+    "id": 15,
+    "name": "TUAL"
+  },
+  {
+    "id": 16,
+    "name": "BURU"
+  },
+  {
+    "id": 17,
+    "name": "BURU SELATAN"
+  },
+  {
+    "id": 19,
+    "name": "KEPULAUAN ARU"
+  },
+  {
+    "id": 21,
+    "name": "SERAM BAGIAN BARAT"
+  },
+  {
+    "id": 23,
+    "name": "SERAM BAGIAN TIMUR"
+  },
+  {
+    "id": 24,
+    "name": "MALUKU BARAT DAYA"
+  },
+  {
+    "id": 25,
+    "name": "MALUKU TENGGARA BARAT"
+  }
+]

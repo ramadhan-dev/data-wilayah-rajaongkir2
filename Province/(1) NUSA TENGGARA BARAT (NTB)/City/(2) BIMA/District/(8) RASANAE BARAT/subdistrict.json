@@ -1,0 +1,32 @@
+[
+  {
+    "id": 56,
+    "name": "DARA (DORA)",
+    "zip_code": "84119"
+  },
+  {
+    "id": 57,
+    "name": "NAE",
+    "zip_code": "84116"
+  },
+  {
+    "id": 58,
+    "name": "PANE",
+    "zip_code": "84119"
+  },
+  {
+    "id": 59,
+    "name": "PARUGA",
+    "zip_code": "84111"
+  },
+  {
+    "id": 60,
+    "name": "SARAE",
+    "zip_code": "84117"
+  },
+  {
+    "id": 61,
+    "name": "TANJUNG",
+    "zip_code": "84118"
+  }
+]

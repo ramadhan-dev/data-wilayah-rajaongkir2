@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2416,
+    "name": "ALALAK SELATAN",
+    "zip_code": "70126"
+  },
+  {
+    "id": 2417,
+    "name": "ALALAK TENGAH",
+    "zip_code": "70126"
+  },
+  {
+    "id": 2418,
+    "name": "ALALAK UTARA",
+    "zip_code": "70125"
+  },
+  {
+    "id": 2419,
+    "name": "ANTASAN KECIL TIMUR",
+    "zip_code": "70123"
+  },
+  {
+    "id": 2420,
+    "name": "KUIN UTARA",
+    "zip_code": "70127"
+  },
+  {
+    "id": 2421,
+    "name": "PANGERAN",
+    "zip_code": "70124"
+  },
+  {
+    "id": 2422,
+    "name": "SEI/SUNGAI JINGAH",
+    "zip_code": "70121"
+  },
+  {
+    "id": 2423,
+    "name": "SEI/SUNGAI MIAI",
+    "zip_code": "70123"
+  },
+  {
+    "id": 2424,
+    "name": "SUNGAI ANDAI",
+    "zip_code": "70122"
+  },
+  {
+    "id": 2425,
+    "name": "SURGI MUFTI",
+    "zip_code": "70122"
+  }
+]

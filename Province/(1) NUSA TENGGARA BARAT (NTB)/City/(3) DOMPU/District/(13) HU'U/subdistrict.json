@@ -1,0 +1,42 @@
+[
+  {
+    "id": 105,
+    "name": "ADU",
+    "zip_code": "84271"
+  },
+  {
+    "id": 106,
+    "name": "CEMPI JAYA",
+    "zip_code": "84271"
+  },
+  {
+    "id": 107,
+    "name": "DAHA",
+    "zip_code": "84271"
+  },
+  {
+    "id": 108,
+    "name": "HU'U",
+    "zip_code": "84271"
+  },
+  {
+    "id": 109,
+    "name": "JALA",
+    "zip_code": "84271"
+  },
+  {
+    "id": 110,
+    "name": "MERADA",
+    "zip_code": "84271"
+  },
+  {
+    "id": 111,
+    "name": "RASA BOU",
+    "zip_code": "84271"
+  },
+  {
+    "id": 112,
+    "name": "SAWE",
+    "zip_code": "84271"
+  }
+]
