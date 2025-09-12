@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6499,
+    "name": "CIHEA",
+    "zip_code": "43283"
+  },
+  {
+    "id": 6500,
+    "name": "CIPEUYEUM",
+    "zip_code": "43282"
+  },
+  {
+    "id": 6501,
+    "name": "HAURWANGI",
+    "zip_code": "43283"
+  },
+  {
+    "id": 6502,
+    "name": "KERTAMUKTI",
+    "zip_code": "43282"
+  },
+  {
+    "id": 6503,
+    "name": "KERTASARI",
+    "zip_code": "43283"
+  },
+  {
+    "id": 6504,
+    "name": "MEKARWANGI",
+    "zip_code": "43282"
+  },
+  {
+    "id": 6505,
+    "name": "RAMASARI",
+    "zip_code": "43283"
+  },
+  {
+    "id": 6506,
+    "name": "SUKATANI (MEKARWANGI)",
+    "zip_code": "43283"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 6507,
+    "name": "GIRIJAYA",
+    "zip_code": "43267"
+  },
+  {
+    "id": 6508,
+    "name": "GIRIMUKTI",
+    "zip_code": "43267"
+  },
+  {
+    "id": 6509,
+    "name": "KALIBARU",
+    "zip_code": "43266"
+  },
+  {
+    "id": 6510,
+    "name": "KARANGJAYA",
+    "zip_code": "43266"
+  },
+  {
+    "id": 6511,
+    "name": "KUBANG",
+    "zip_code": "43267"
+  },
+  {
+    "id": 6512,
+    "name": "MEKARMULYA",
+    "zip_code": "43267"
+  },
+  {
+    "id": 6513,
+    "name": "PADAMULYA",
+    "zip_code": "43267"
+  },
+  {
+    "id": 6514,
+    "name": "PUSAKAJAYA",
+    "zip_code": "43266"
+  },
+  {
+    "id": 6515,
+    "name": "SIMPANG",
+    "zip_code": "43266"
+  }
+]

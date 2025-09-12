@@ -1,0 +1,86 @@
+[
+  {
+    "id": 55,
+    "name": "BANDUNG"
+  },
+  {
+    "id": 56,
+    "name": "CIMAHI"
+  },
+  {
+    "id": 57,
+    "name": "SUMEDANG"
+  },
+  {
+    "id": 59,
+    "name": "GARUT"
+  },
+  {
+    "id": 60,
+    "name": "BANDUNG BARAT"
+  },
+  {
+    "id": 62,
+    "name": "CIANJUR"
+  },
+  {
+    "id": 63,
+    "name": "BEKASI"
+  },
+  {
+    "id": 77,
+    "name": "BOGOR"
+  },
+  {
+    "id": 129,
+    "name": "CIREBON"
+  },
+  {
+    "id": 131,
+    "name": "INDRAMAYU"
+  },
+  {
+    "id": 132,
+    "name": "KUNINGAN"
+  },
+  {
+    "id": 133,
+    "name": "MAJALENGKA"
+  },
+  {
+    "id": 199,
+    "name": "DEPOK"
+  },
+  {
+    "id": 329,
+    "name": "KARAWANG"
+  },
+  {
+    "id": 532,
+    "name": "PURWAKARTA"
+  },
+  {
+    "id": 533,
+    "name": "SUBANG"
+  },
+  {
+    "id": 538,
+    "name": "SUKABUMI"
+  },
+  {
+    "id": 632,
+    "name": "TASIKMALAYA"
+  },
+  {
+    "id": 633,
+    "name": "BANJAR"
+  },
+  {
+    "id": 634,
+    "name": "CIAMIS"
+  },
+  {
+    "id": 635,
+    "name": "PANGANDARAN"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 16301,
+    "name": "BRONDONG",
+    "zip_code": "45219"
+  },
+  {
+    "id": 16302,
+    "name": "KARANGANYAR",
+    "zip_code": "45213"
+  },
+  {
+    "id": 16303,
+    "name": "PABEANILIR",
+    "zip_code": "45219"
+  },
+  {
+    "id": 16304,
+    "name": "PAGIRIKAN",
+    "zip_code": "45227"
+  },
+  {
+    "id": 16305,
+    "name": "PASEKAN",
+    "zip_code": "45228"
+  },
+  {
+    "id": 16306,
+    "name": "TOTORAN",
+    "zip_code": "45229"
+  }
+]

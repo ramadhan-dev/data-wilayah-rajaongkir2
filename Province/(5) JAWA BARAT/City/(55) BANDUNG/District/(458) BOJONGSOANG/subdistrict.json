@@ -1,0 +1,32 @@
+[
+  {
+    "id": 5008,
+    "name": "BOJONGSARI",
+    "zip_code": "40288"
+  },
+  {
+    "id": 5009,
+    "name": "BOJONGSOANG",
+    "zip_code": "40288"
+  },
+  {
+    "id": 5010,
+    "name": "BUAHBATU",
+    "zip_code": "40287"
+  },
+  {
+    "id": 5011,
+    "name": "CIPAGALO",
+    "zip_code": "40287"
+  },
+  {
+    "id": 5012,
+    "name": "LENGKONG",
+    "zip_code": "40287"
+  },
+  {
+    "id": 5013,
+    "name": "TEGALLUAR",
+    "zip_code": "40287"
+  }
+]
