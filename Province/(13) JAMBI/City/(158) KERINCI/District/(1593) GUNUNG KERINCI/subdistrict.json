@@ -1,0 +1,82 @@
+[
+  {
+    "id": 20053,
+    "name": "AIR BETUNG",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20054,
+    "name": "BARU SUNGAI BETUNG MUDIK",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20055,
+    "name": "DANAU TINGGI",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20056,
+    "name": "SIMPANG TUTUP",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20057,
+    "name": "SIULAK DERAS",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20058,
+    "name": "SIULAK DERAS MUDIK",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20059,
+    "name": "SIULAK TENANG",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20060,
+    "name": "SUKO PANGKAT",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20061,
+    "name": "SUNGAI BATU GANTIH",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20062,
+    "name": "SUNGAI BATU GANTIH HILIR",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20063,
+    "name": "SUNGAI BETUNG HILIR",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20064,
+    "name": "SUNGAI BETUNG MUDIK",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20065,
+    "name": "SUNGAI GELAMPEH",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20066,
+    "name": "TANJUNG GENTING",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20067,
+    "name": "TANJUNGGENTING MUDIK",
+    "zip_code": "37162"
+  },
+  {
+    "id": 20068,
+    "name": "UJUNG LADANG",
+    "zip_code": "37162"
+  }
+]

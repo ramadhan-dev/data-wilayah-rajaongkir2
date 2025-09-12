@@ -1,0 +1,37 @@
+[
+  {
+    "id": 20995,
+    "name": "ANGKASAPURA",
+    "zip_code": "99113"
+  },
+  {
+    "id": 20996,
+    "name": "BHAYANGKARA (BAYANGKARA)",
+    "zip_code": "99112"
+  },
+  {
+    "id": 20997,
+    "name": "GURABESI",
+    "zip_code": "99111"
+  },
+  {
+    "id": 20998,
+    "name": "IMBI",
+    "zip_code": "99116"
+  },
+  {
+    "id": 20999,
+    "name": "MANDALA",
+    "zip_code": "99115"
+  },
+  {
+    "id": 21000,
+    "name": "TANJUNG RIA",
+    "zip_code": "99117"
+  },
+  {
+    "id": 21001,
+    "name": "TRIKORA",
+    "zip_code": "99114"
+  }
+]

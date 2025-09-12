@@ -1,0 +1,42 @@
+[
+  {
+    "id": 21002,
+    "name": "HOLTEKAMP",
+    "zip_code": "99351"
+  },
+  {
+    "id": 21003,
+    "name": "KOYA BARAT",
+    "zip_code": "99351"
+  },
+  {
+    "id": 21004,
+    "name": "KOYA TENGAH",
+    "zip_code": "99351"
+  },
+  {
+    "id": 21005,
+    "name": "KOYA TIMUR",
+    "zip_code": "99351"
+  },
+  {
+    "id": 21006,
+    "name": "MOSSO",
+    "zip_code": "99351"
+  },
+  {
+    "id": 21007,
+    "name": "SKOW MABO (SKOUW MABO )",
+    "zip_code": "99351"
+  },
+  {
+    "id": 21008,
+    "name": "SKOW SAE (SKOUW SAE)",
+    "zip_code": "99351"
+  },
+  {
+    "id": 21009,
+    "name": "SKOW YAMBE (SKOUW YAMBE)",
+    "zip_code": "99351"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 20004,
+    "name": "AMAR SAKTI",
+    "zip_code": "37111"
+  },
+  {
+    "id": 20005,
+    "name": "GEDANG",
+    "zip_code": "37111"
+  },
+  {
+    "id": 20006,
+    "name": "PASAR BARU",
+    "zip_code": "37111"
+  },
+  {
+    "id": 20007,
+    "name": "PASAR SUNGAI PENUH",
+    "zip_code": "37113"
+  },
+  {
+    "id": 20008,
+    "name": "SUNGAI PENUH",
+    "zip_code": "37111"
+  }
+]

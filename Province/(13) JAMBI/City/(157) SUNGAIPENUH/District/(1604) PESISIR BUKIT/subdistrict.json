@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20260,
+    "name": "KOTO BENTO",
+    "zip_code": "37111"
+  },
+  {
+    "id": 20261,
+    "name": "KOTO DUA / DUO",
+    "zip_code": "37152"
+  },
+  {
+    "id": 20262,
+    "name": "KOTO KERAS",
+    "zip_code": "37111"
+  },
+  {
+    "id": 20263,
+    "name": "KOTO LOLO",
+    "zip_code": "37111"
+  },
+  {
+    "id": 20264,
+    "name": "KOTO RENAH",
+    "zip_code": "37111"
+  },
+  {
+    "id": 20265,
+    "name": "KOTO TENGAH",
+    "zip_code": "37111"
+  },
+  {
+    "id": 20266,
+    "name": "SEBERANG",
+    "zip_code": "37152"
+  },
+  {
+    "id": 20267,
+    "name": "SUMUR GEDANG",
+    "zip_code": "37152"
+  },
+  {
+    "id": 20268,
+    "name": "SUNGAI LIUK",
+    "zip_code": "37152"
+  }
+]

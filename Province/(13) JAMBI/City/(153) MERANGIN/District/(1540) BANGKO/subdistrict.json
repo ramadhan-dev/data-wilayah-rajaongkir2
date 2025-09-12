@@ -1,0 +1,42 @@
+[
+  {
+    "id": 19512,
+    "name": "DUSUN BANGKO",
+    "zip_code": "37313"
+  },
+  {
+    "id": 19513,
+    "name": "KUNGKAI",
+    "zip_code": "37311"
+  },
+  {
+    "id": 19514,
+    "name": "LANGLING",
+    "zip_code": "37311"
+  },
+  {
+    "id": 19515,
+    "name": "MUDO (DUSUN MUDO)",
+    "zip_code": "37311"
+  },
+  {
+    "id": 19516,
+    "name": "PASAR ATAS BANGKO",
+    "zip_code": "37312"
+  },
+  {
+    "id": 19517,
+    "name": "PASAR BANGKO",
+    "zip_code": "37311"
+  },
+  {
+    "id": 19518,
+    "name": "PEMATANG KANDIS",
+    "zip_code": "37314"
+  },
+  {
+    "id": 19519,
+    "name": "SUNGAI KAPAS",
+    "zip_code": "37311"
+  }
+]

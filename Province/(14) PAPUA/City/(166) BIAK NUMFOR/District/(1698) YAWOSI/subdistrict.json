@@ -1,0 +1,42 @@
+[
+  {
+    "id": 21314,
+    "name": "ASUR",
+    "zip_code": "98153"
+  },
+  {
+    "id": 21315,
+    "name": "BOSNABRAIDI",
+    "zip_code": "98153"
+  },
+  {
+    "id": 21316,
+    "name": "INDAWI",
+    "zip_code": "98157"
+  },
+  {
+    "id": 21317,
+    "name": "KARMON",
+    "zip_code": "98157"
+  },
+  {
+    "id": 21318,
+    "name": "MADIRAI",
+    "zip_code": "98157"
+  },
+  {
+    "id": 21319,
+    "name": "SOOR (SOR)",
+    "zip_code": "98157"
+  },
+  {
+    "id": 21320,
+    "name": "WASORI",
+    "zip_code": "98157"
+  },
+  {
+    "id": 21321,
+    "name": "YAWOSI (FANINDI)",
+    "zip_code": "98157"
+  }
+]
