@@ -1,0 +1,42 @@
+[
+  {
+    "id": 60709,
+    "name": "AIR HITAM",
+    "zip_code": "75124"
+  },
+  {
+    "id": 60710,
+    "name": "AIR PUTIH",
+    "zip_code": "75124"
+  },
+  {
+    "id": 60711,
+    "name": "BUKIT PINANG",
+    "zip_code": "75124"
+  },
+  {
+    "id": 60712,
+    "name": "DADI MULYA",
+    "zip_code": "75123"
+  },
+  {
+    "id": 60713,
+    "name": "GUNUNG KELUA",
+    "zip_code": "75123"
+  },
+  {
+    "id": 60714,
+    "name": "JAWA",
+    "zip_code": "75122"
+  },
+  {
+    "id": 60715,
+    "name": "SIDODADI",
+    "zip_code": "75123"
+  },
+  {
+    "id": 60716,
+    "name": "TELUK LERONG ILIR",
+    "zip_code": "75128"
+  }
+]

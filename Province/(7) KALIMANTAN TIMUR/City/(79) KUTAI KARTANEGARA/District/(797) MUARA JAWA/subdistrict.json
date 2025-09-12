@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8673,
+    "name": "DONDANG",
+    "zip_code": "75265"
+  },
+  {
+    "id": 8674,
+    "name": "MUARA JAWA ILIR",
+    "zip_code": "75263"
+  },
+  {
+    "id": 8675,
+    "name": "MUARA JAWA PESISIR",
+    "zip_code": "75263"
+  },
+  {
+    "id": 8676,
+    "name": "MUARA JAWA TENGAH",
+    "zip_code": "75264"
+  },
+  {
+    "id": 8677,
+    "name": "MUARA JAWA ULU",
+    "zip_code": "75261"
+  },
+  {
+    "id": 8678,
+    "name": "MUARA KEMBANG",
+    "zip_code": "75267"
+  },
+  {
+    "id": 8679,
+    "name": "TAMAPOLE",
+    "zip_code": "75266"
+  },
+  {
+    "id": 8680,
+    "name": "TELUK DALAM",
+    "zip_code": "75262"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 8830,
+    "name": "BUGIS",
+    "zip_code": "77312"
+  },
+  {
+    "id": 8831,
+    "name": "GAYAM",
+    "zip_code": "77315"
+  },
+  {
+    "id": 8832,
+    "name": "GUNUNG PANJANG",
+    "zip_code": "77311"
+  },
+  {
+    "id": 8833,
+    "name": "KARANG AMBUN",
+    "zip_code": "77315"
+  },
+  {
+    "id": 8834,
+    "name": "SEI/SUNGAI BEDUNGUN",
+    "zip_code": "77315"
+  },
+  {
+    "id": 8835,
+    "name": "TANJUNG REDEB",
+    "zip_code": "77315"
+  }
+]

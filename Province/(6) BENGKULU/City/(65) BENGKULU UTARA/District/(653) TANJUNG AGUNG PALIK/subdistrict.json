@@ -1,0 +1,52 @@
+[
+  {
+    "id": 7009,
+    "name": "ALUN DUA",
+    "zip_code": "38374"
+  },
+  {
+    "id": 7010,
+    "name": "KETAPI",
+    "zip_code": "38373"
+  },
+  {
+    "id": 7011,
+    "name": "LUBUK GADING",
+    "zip_code": "38373"
+  },
+  {
+    "id": 7012,
+    "name": "LUBUK PENDAM",
+    "zip_code": "38374"
+  },
+  {
+    "id": 7013,
+    "name": "LUBUK SEMATUNG",
+    "zip_code": "38373"
+  },
+  {
+    "id": 7014,
+    "name": "PADANG SEPAN",
+    "zip_code": "38575"
+  },
+  {
+    "id": 7015,
+    "name": "SAWANG LEBAR",
+    "zip_code": "38373"
+  },
+  {
+    "id": 7016,
+    "name": "SAWANG LEBAR ILIR",
+    "zip_code": "38575"
+  },
+  {
+    "id": 7017,
+    "name": "SENGKUANG",
+    "zip_code": "38374"
+  },
+  {
+    "id": 7018,
+    "name": "TANJUNG AGUNG",
+    "zip_code": "38575"
+  }
+]

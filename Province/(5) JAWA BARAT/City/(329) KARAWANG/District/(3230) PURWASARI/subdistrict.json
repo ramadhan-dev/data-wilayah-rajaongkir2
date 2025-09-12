@@ -1,0 +1,42 @@
+[
+  {
+    "id": 38000,
+    "name": "CENGKONG",
+    "zip_code": "41373"
+  },
+  {
+    "id": 38001,
+    "name": "DARAWOLONG",
+    "zip_code": "41371"
+  },
+  {
+    "id": 38002,
+    "name": "KARANGSARI",
+    "zip_code": "41373"
+  },
+  {
+    "id": 38003,
+    "name": "MEKARJAYA",
+    "zip_code": "41373"
+  },
+  {
+    "id": 38004,
+    "name": "PURWASARI",
+    "zip_code": "41373"
+  },
+  {
+    "id": 38005,
+    "name": "SUKASARI",
+    "zip_code": "41373"
+  },
+  {
+    "id": 38006,
+    "name": "TAMELANG",
+    "zip_code": "41373"
+  },
+  {
+    "id": 38007,
+    "name": "TEGALSARI",
+    "zip_code": "41373"
+  }
+]

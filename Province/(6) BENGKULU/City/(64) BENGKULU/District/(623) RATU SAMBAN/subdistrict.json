@@ -1,0 +1,47 @@
+[
+  {
+    "id": 6625,
+    "name": "ANGGUT ATAS",
+    "zip_code": "38222"
+  },
+  {
+    "id": 6626,
+    "name": "ANGGUT BAWAH",
+    "zip_code": "38223"
+  },
+  {
+    "id": 6627,
+    "name": "ANGGUT DALAM",
+    "zip_code": "38222"
+  },
+  {
+    "id": 6628,
+    "name": "BELAKANG PONDOK",
+    "zip_code": "38221"
+  },
+  {
+    "id": 6629,
+    "name": "KEBUN DAHRI",
+    "zip_code": "38221"
+  },
+  {
+    "id": 6630,
+    "name": "KEBUN GERAN (GERAND)",
+    "zip_code": "38222"
+  },
+  {
+    "id": 6631,
+    "name": "PADANG JATI",
+    "zip_code": "38227"
+  },
+  {
+    "id": 6632,
+    "name": "PENGGANTUNGAN",
+    "zip_code": "38221"
+  },
+  {
+    "id": 6633,
+    "name": "PENURUNAN",
+    "zip_code": "38223"
+  }
+]

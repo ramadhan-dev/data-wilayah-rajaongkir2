@@ -1,0 +1,47 @@
+[
+  {
+    "id": 7324,
+    "name": "BATU KUNING",
+    "zip_code": "38518"
+  },
+  {
+    "id": 7325,
+    "name": "BATU LAMBANG",
+    "zip_code": "38513"
+  },
+  {
+    "id": 7326,
+    "name": "BELAKANG GEDUNG",
+    "zip_code": "38514"
+  },
+  {
+    "id": 7327,
+    "name": "GUNUNG MESIR",
+    "zip_code": "38517"
+  },
+  {
+    "id": 7328,
+    "name": "KETAPANG BESAR",
+    "zip_code": "38516"
+  },
+  {
+    "id": 7329,
+    "name": "PADANG SIALANG",
+    "zip_code": "38517"
+  },
+  {
+    "id": 7330,
+    "name": "PASAR BAWAH",
+    "zip_code": "38515"
+  },
+  {
+    "id": 7331,
+    "name": "PASAR MULIA",
+    "zip_code": "38518"
+  },
+  {
+    "id": 7332,
+    "name": "TANJUNG MULIA",
+    "zip_code": "38518"
+  }
+]
