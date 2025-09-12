@@ -1,0 +1,42 @@
+[
+  {
+    "id": 17575,
+    "name": "GUNTUR",
+    "zip_code": "12980"
+  },
+  {
+    "id": 17576,
+    "name": "KARET",
+    "zip_code": "12920"
+  },
+  {
+    "id": 17577,
+    "name": "KARET KUNINGAN",
+    "zip_code": "12940"
+  },
+  {
+    "id": 17578,
+    "name": "KARET SEMANGGI",
+    "zip_code": "12930"
+  },
+  {
+    "id": 17579,
+    "name": "KUNINGAN TIMUR",
+    "zip_code": "12950"
+  },
+  {
+    "id": 17580,
+    "name": "MENTENG ATAS",
+    "zip_code": "12960"
+  },
+  {
+    "id": 17581,
+    "name": "PASAR MANGGIS",
+    "zip_code": "12970"
+  },
+  {
+    "id": 17582,
+    "name": "SETIABUDI",
+    "zip_code": "12910"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": 11934,
+    "name": "ADANG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11935,
+    "name": "ARON BEUNOT",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11936,
+    "name": "BALEE",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11937,
+    "name": "BARO BEURABO",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11938,
+    "name": "BARO KUNYET",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11939,
+    "name": "BLANG GEULEUDIENG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11940,
+    "name": "BLANG GUCI",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11941,
+    "name": "BULOH",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11942,
+    "name": "BULOH BUNI",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11943,
+    "name": "BUNI REULEUNG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11944,
+    "name": "CAPA",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11945,
+    "name": "COT KEUTAPANG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11946,
+    "name": "CRUENG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11947,
+    "name": "CUT",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11948,
+    "name": "DAYAH BAROH KUNYET",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11949,
+    "name": "DAYAH BAROH PEUDAYA",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11950,
+    "name": "DAYAH TANOH",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11951,
+    "name": "GAMPONG CUT",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11952,
+    "name": "GEULUMPANG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11953,
+    "name": "GLE",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11954,
+    "name": "GRONG GRONG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11955,
+    "name": "GURONG COT",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11956,
+    "name": "HAGU",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11957,
+    "name": "JOK",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11958,
+    "name": "JURONG ANOE",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11959,
+    "name": "KAMBUK NICAH",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11960,
+    "name": "KAMBUK PAYAPI",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11961,
+    "name": "KEUPULA",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11962,
+    "name": "KHANG TANJONG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11963,
+    "name": "KRET",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11964,
+    "name": "KUMBANG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11965,
+    "name": "LEUEN",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11966,
+    "name": "LEUHOB",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11967,
+    "name": "MESJID BEURABO",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11968,
+    "name": "MESJID GEULEUDIENG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11969,
+    "name": "MESJID GOGO",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11970,
+    "name": "MESJID KUNYET",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11971,
+    "name": "MESJID PALOH",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11972,
+    "name": "MESJID PEUDAYA",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11973,
+    "name": "MESJID TANJONG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11974,
+    "name": "MEURINYA",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11975,
+    "name": "MUKEE",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11976,
+    "name": "MUKO",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11977,
+    "name": "PALOH JEURAT",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11978,
+    "name": "PANTE CERMEN",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11979,
+    "name": "PASAR",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11980,
+    "name": "PERLAK",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11981,
+    "name": "PIALA KUNYET",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11982,
+    "name": "PULO HAGU",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11983,
+    "name": "RAYA",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11984,
+    "name": "SEKEUMBROK",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11985,
+    "name": "SEULEUNGGIENG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11986,
+    "name": "SEUNADEU",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11987,
+    "name": "SIRON",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11988,
+    "name": "SIRON TANJONG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11989,
+    "name": "SUKON",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11990,
+    "name": "SUYO",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11991,
+    "name": "TEUNGOH",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11992,
+    "name": "TEUNGOH DRIEN",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11993,
+    "name": "TONOENG TANJONG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11994,
+    "name": "TRIENG",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11995,
+    "name": "TUHA",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11996,
+    "name": "TUHA GOGO",
+    "zip_code": "24161"
+  },
+  {
+    "id": 11997,
+    "name": "TUNONG PEUDAYA",
+    "zip_code": "24161"
+  },
+  {
+    "id": 82827,
+    "name": "KUPULA TANJONG",
+    "zip_code": "24161"
+  }
+]

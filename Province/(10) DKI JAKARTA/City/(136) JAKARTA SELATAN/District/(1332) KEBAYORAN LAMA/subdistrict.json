@@ -1,0 +1,32 @@
+[
+  {
+    "id": 17546,
+    "name": "CIPULIR",
+    "zip_code": "12230"
+  },
+  {
+    "id": 17547,
+    "name": "GROGOL SELATAN",
+    "zip_code": "12220"
+  },
+  {
+    "id": 17548,
+    "name": "GROGOL UTARA",
+    "zip_code": "12210"
+  },
+  {
+    "id": 17549,
+    "name": "KEBAYORAN LAMA SELATAN",
+    "zip_code": "12240"
+  },
+  {
+    "id": 17550,
+    "name": "KEBAYORAN LAMA UTARA",
+    "zip_code": "12240"
+  },
+  {
+    "id": 17551,
+    "name": "PONDOK PINANG",
+    "zip_code": "12310"
+  }
+]

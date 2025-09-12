@@ -1,0 +1,42 @@
+[
+  {
+    "id": 12933,
+    "name": "ANEUK LAOT",
+    "zip_code": "23514"
+  },
+  {
+    "id": 12934,
+    "name": "BATEE SHOK",
+    "zip_code": "23517"
+  },
+  {
+    "id": 12935,
+    "name": "IBOIH",
+    "zip_code": "23518"
+  },
+  {
+    "id": 12936,
+    "name": "KOTA ATAS",
+    "zip_code": "23511"
+  },
+  {
+    "id": 12937,
+    "name": "KOTA BAWAH BARAT",
+    "zip_code": "23512"
+  },
+  {
+    "id": 12938,
+    "name": "KOTA BAWAH TIMUR",
+    "zip_code": "23513"
+  },
+  {
+    "id": 12939,
+    "name": "KRUENG RAYA",
+    "zip_code": "23515"
+  },
+  {
+    "id": 12940,
+    "name": "PAYA SEUNARA",
+    "zip_code": "23516"
+  }
+]

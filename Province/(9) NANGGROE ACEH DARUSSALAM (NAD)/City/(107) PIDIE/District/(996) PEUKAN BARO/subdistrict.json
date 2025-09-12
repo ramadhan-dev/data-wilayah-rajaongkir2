@@ -1,0 +1,242 @@
+[
+  {
+    "id": 11998,
+    "name": "BALEE",
+    "zip_code": "24172"
+  },
+  {
+    "id": 11999,
+    "name": "BALEE RESTONG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12000,
+    "name": "BLANG RAYA",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12001,
+    "name": "BLUK ARAB",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12002,
+    "name": "CEMPALA KUNENG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12003,
+    "name": "COT MEULU",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12004,
+    "name": "DAYAH BUBUE",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12005,
+    "name": "DAYAH MUARA",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12006,
+    "name": "DAYAH SEUMIDEUN",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12007,
+    "name": "DAYAH SUKON",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12008,
+    "name": "DAYAH TUNGKU",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12009,
+    "name": "DUA PAYA",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12010,
+    "name": "GAMPONG WAIDO",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12011,
+    "name": "JIM",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12012,
+    "name": "JURONG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12013,
+    "name": "JURONG RAYA",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12014,
+    "name": "KABAT",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12015,
+    "name": "KAMPONG BLANG SEUPENG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12016,
+    "name": "KEUTAPANG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12017,
+    "name": "KUMBANG WAIDO",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12018,
+    "name": "LEUHOP",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12019,
+    "name": "LUENG MESJID",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12020,
+    "name": "ME TANOH",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12021,
+    "name": "MEE HAGU",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12022,
+    "name": "MEE KRUENG SEUMIDEUN",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12023,
+    "name": "MEE KRUKON",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12024,
+    "name": "MEE LAMPOH SAKA",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12025,
+    "name": "MENJE MESJID",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12026,
+    "name": "MESJID RUMPONG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12027,
+    "name": "MEULEUWEUK",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12028,
+    "name": "MEUNASAH BLANG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12029,
+    "name": "MEUNASAH KABAT",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12030,
+    "name": "MEUNASAH KRUMBOK",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12031,
+    "name": "MEUNASAH LUENG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12032,
+    "name": "MEUNASAH RAYA",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12033,
+    "name": "MEUNASAH SUKON",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12034,
+    "name": "PEUNAYONG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12035,
+    "name": "PUUK",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12036,
+    "name": "RAMBAYAN KUPULA",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12037,
+    "name": "RAMBAYAN LUENG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12038,
+    "name": "REUBA WAIDO",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12039,
+    "name": "SAWIET",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12040,
+    "name": "SIALET-ALET",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12041,
+    "name": "SUMBOE BUGA",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12042,
+    "name": "TANJONG HAGU",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12043,
+    "name": "TEUNGOH BAROH",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12044,
+    "name": "ULEE COT SEUPENG",
+    "zip_code": "24172"
+  },
+  {
+    "id": 12045,
+    "name": "ULEE TUTUE",
+    "zip_code": "24172"
+  }
+]

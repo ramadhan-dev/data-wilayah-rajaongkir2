@@ -1,0 +1,37 @@
+[
+  {
+    "id": 17673,
+    "name": "CAKUNG BARAT",
+    "zip_code": "13910"
+  },
+  {
+    "id": 17674,
+    "name": "CAKUNG TIMUR",
+    "zip_code": "13910"
+  },
+  {
+    "id": 17675,
+    "name": "JATINEGARA",
+    "zip_code": "13930"
+  },
+  {
+    "id": 17676,
+    "name": "PENGGILINGAN",
+    "zip_code": "13940"
+  },
+  {
+    "id": 17677,
+    "name": "PULO GEBANG",
+    "zip_code": "13950"
+  },
+  {
+    "id": 17678,
+    "name": "RAWA TERATE",
+    "zip_code": "13920"
+  },
+  {
+    "id": 17679,
+    "name": "UJUNG MENTENG",
+    "zip_code": "13960"
+  }
+]

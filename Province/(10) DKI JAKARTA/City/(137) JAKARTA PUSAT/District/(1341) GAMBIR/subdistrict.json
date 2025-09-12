@@ -1,0 +1,32 @@
+[
+  {
+    "id": 17599,
+    "name": "CIDENG",
+    "zip_code": "10150"
+  },
+  {
+    "id": 17600,
+    "name": "DURI PULO",
+    "zip_code": "10140"
+  },
+  {
+    "id": 17601,
+    "name": "GAMBIR",
+    "zip_code": "10110"
+  },
+  {
+    "id": 17602,
+    "name": "KEBON KELAPA",
+    "zip_code": "10120"
+  },
+  {
+    "id": 17603,
+    "name": "PETOJO SELATAN",
+    "zip_code": "10160"
+  },
+  {
+    "id": 17604,
+    "name": "PETOJO UTARA",
+    "zip_code": "10130"
+  }
+]

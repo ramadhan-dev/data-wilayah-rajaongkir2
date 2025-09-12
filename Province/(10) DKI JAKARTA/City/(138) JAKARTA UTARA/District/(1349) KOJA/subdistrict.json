@@ -1,0 +1,32 @@
+[
+  {
+    "id": 17644,
+    "name": "KOJA (UTARA, SELATAN)",
+    "zip_code": "14210"
+  },
+  {
+    "id": 17645,
+    "name": "LAGOA",
+    "zip_code": "14270"
+  },
+  {
+    "id": 17646,
+    "name": "RAWA BADAK SELATAN",
+    "zip_code": "14230"
+  },
+  {
+    "id": 17647,
+    "name": "RAWA BADAK UTARA",
+    "zip_code": "14230"
+  },
+  {
+    "id": 17648,
+    "name": "TUGU SELATAN",
+    "zip_code": "14260"
+  },
+  {
+    "id": 17649,
+    "name": "TUGU UTARA",
+    "zip_code": "14260"
+  }
+]

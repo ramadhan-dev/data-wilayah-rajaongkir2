@@ -1,0 +1,287 @@
+[
+  {
+    "id": 14768,
+    "name": "ALUE GAMPONG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14769,
+    "name": "ALUE KEUJRUEN",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14770,
+    "name": "ALUE PANGKAT",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14771,
+    "name": "ALUE SIJUEK",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14772,
+    "name": "BAYI",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14773,
+    "name": "BLANG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14774,
+    "name": "BLANG BIDOK",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14775,
+    "name": "BLANG JRUEN",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14776,
+    "name": "BLANG PIE",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14777,
+    "name": "BUKIT MAKARTI",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14778,
+    "name": "CEUBREK (CIBREK)",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14779,
+    "name": "COT BARAT",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14780,
+    "name": "COT DAM/DAH",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14781,
+    "name": "GAMPONG ALUE",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14782,
+    "name": "GAMPONG AMPEH",
+    "zip_code": "24386"
+  },
+  {
+    "id": 14783,
+    "name": "GAMPONG BLANG TRIENG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14784,
+    "name": "GAMPONG DENG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14785,
+    "name": "GAMPONG PAYA",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14786,
+    "name": "GAMPONG SERBA JAMAN",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14787,
+    "name": "GAMPONG TEUNGOH B",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14788,
+    "name": "GAMPONG TEUPIN ME",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14789,
+    "name": "HAGU",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14790,
+    "name": "HUENG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14791,
+    "name": "JEUMPA B",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14792,
+    "name": "KEUDE BLANG JRUEN",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14793,
+    "name": "KEUTAPANG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14794,
+    "name": "LEU HONG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14795,
+    "name": "LEUPON SIREN",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14796,
+    "name": "MANYANG SB",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14797,
+    "name": "MANYANG TUNONG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14798,
+    "name": "MATANG BALOY",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14799,
+    "name": "MATANG BEN",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14800,
+    "name": "MATANG CEUBREK (CIBREK)",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14801,
+    "name": "MATANG MANE",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14802,
+    "name": "PANTE B",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14803,
+    "name": "PAYA BEURANDANG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14804,
+    "name": "PLU PAKAM",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14805,
+    "name": "PULO BLANG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14806,
+    "name": "PULO U",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14807,
+    "name": "PUNTI PA.",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14808,
+    "name": "PUNTI SB.",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14809,
+    "name": "RANGKAYA",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14810,
+    "name": "RAWA",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14811,
+    "name": "RAYEUK KUTA",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14812,
+    "name": "RAYEUK MEUNYE",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14813,
+    "name": "RAYEUK NALEUNG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14814,
+    "name": "SERBA JAMAN BAROH",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14815,
+    "name": "SERBA JAMAN TUNONG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14816,
+    "name": "TANJONG MESJID",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14817,
+    "name": "TEUNGOH PA",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14818,
+    "name": "TGK DIBALE",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14819,
+    "name": "TRIENG",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14820,
+    "name": "TUMPOK ACEH",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14821,
+    "name": "TUTONG (MEUNASAH TUTONG)",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14822,
+    "name": "UJONG BAROH B.",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14823,
+    "name": "UJONG BAROH SB",
+    "zip_code": "24385"
+  },
+  {
+    "id": 14824,
+    "name": "ULEE BUKET",
+    "zip_code": "24385"
+  }
+]

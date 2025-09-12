@@ -1,0 +1,67 @@
+[
+  {
+    "id": 9590,
+    "name": "KUALA LANGSA",
+    "zip_code": "24410"
+  },
+  {
+    "id": 9591,
+    "name": "LHOK BANIE",
+    "zip_code": "24415"
+  },
+  {
+    "id": 9592,
+    "name": "MATANG SEULIMENG",
+    "zip_code": "24413"
+  },
+  {
+    "id": 9593,
+    "name": "PAYA BUJOK BEURAMO (BEURAMOE)",
+    "zip_code": "24414"
+  },
+  {
+    "id": 9594,
+    "name": "PAYA BUJOK TEUNGOH",
+    "zip_code": "24415"
+  },
+  {
+    "id": 9595,
+    "name": "SERAMBI INDAH",
+    "zip_code": "24410"
+  },
+  {
+    "id": 9596,
+    "name": "SEURIGET",
+    "zip_code": "24415"
+  },
+  {
+    "id": 9597,
+    "name": "SIMPANG LHEE",
+    "zip_code": "24451"
+  },
+  {
+    "id": 9598,
+    "name": "SUNGAI PAUH",
+    "zip_code": "24410"
+  },
+  {
+    "id": 9599,
+    "name": "SUNGAI PAUS FIRDAUS",
+    "zip_code": "24410"
+  },
+  {
+    "id": 9600,
+    "name": "SUNGAI PAUS PUSAKA",
+    "zip_code": "24410"
+  },
+  {
+    "id": 9601,
+    "name": "SUNGAI PAUS TANJONG",
+    "zip_code": "24410"
+  },
+  {
+    "id": 9602,
+    "name": "TELAGA TUJUH",
+    "zip_code": "24410"
+  }
+]
