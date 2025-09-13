@@ -1,0 +1,32 @@
+[
+  {
+    "id": 74003,
+    "name": "ENGGAL",
+    "zip_code": "35118"
+  },
+  {
+    "id": 74004,
+    "name": "GUNUNG SARI",
+    "zip_code": "35111"
+  },
+  {
+    "id": 74005,
+    "name": "PAHOMAN",
+    "zip_code": "35213"
+  },
+  {
+    "id": 74006,
+    "name": "PELITA",
+    "zip_code": "35117"
+  },
+  {
+    "id": 74007,
+    "name": "RAWA LAUT",
+    "zip_code": "35127"
+  },
+  {
+    "id": 74008,
+    "name": "TANJUNG KARANG",
+    "zip_code": "35111"
+  }
+]
