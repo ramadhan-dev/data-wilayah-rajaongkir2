@@ -1,0 +1,82 @@
+[
+  {
+    "id": 50116,
+    "name": "KAMPUNG BESAR KOTA",
+    "zip_code": "29312"
+  },
+  {
+    "id": 50117,
+    "name": "KAMPUNG BESAR SEBERANG",
+    "zip_code": "29312"
+  },
+  {
+    "id": 50118,
+    "name": "KAMPUNG DAGANG",
+    "zip_code": "29313"
+  },
+  {
+    "id": 50119,
+    "name": "KAMPUNG PULAU",
+    "zip_code": "29314"
+  },
+  {
+    "id": 50120,
+    "name": "KUANTAN BARU",
+    "zip_code": "29314"
+  },
+  {
+    "id": 50121,
+    "name": "PASAR KOTA RENGAT",
+    "zip_code": "29311"
+  },
+  {
+    "id": 50122,
+    "name": "PASIR KEMILU",
+    "zip_code": "29316"
+  },
+  {
+    "id": 50123,
+    "name": "PULAU GAJAH",
+    "zip_code": "29313"
+  },
+  {
+    "id": 50124,
+    "name": "RANTAU MAPESAI",
+    "zip_code": "29319"
+  },
+  {
+    "id": 50125,
+    "name": "RAWA BANGUN",
+    "zip_code": "29319"
+  },
+  {
+    "id": 50126,
+    "name": "SEI/SUNGAI GUNTUNG HILIR",
+    "zip_code": "29319"
+  },
+  {
+    "id": 50127,
+    "name": "SEI/SUNGAI GUNTUNG TENGAH",
+    "zip_code": "29319"
+  },
+  {
+    "id": 50128,
+    "name": "SEKIP HILIR",
+    "zip_code": "29318"
+  },
+  {
+    "id": 50129,
+    "name": "SEKIP HULU",
+    "zip_code": "29319"
+  },
+  {
+    "id": 50130,
+    "name": "SUNGAI BERINGIN",
+    "zip_code": "29317"
+  },
+  {
+    "id": 50131,
+    "name": "SUNGAI RAYA",
+    "zip_code": "29319"
+  }
+]

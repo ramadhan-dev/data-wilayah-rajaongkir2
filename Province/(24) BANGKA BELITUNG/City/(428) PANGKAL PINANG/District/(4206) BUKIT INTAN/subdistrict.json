@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49327,
+    "name": "AIR ITAM",
+    "zip_code": "33149"
+  },
+  {
+    "id": 49328,
+    "name": "AIR MAWAR",
+    "zip_code": "33147"
+  },
+  {
+    "id": 49329,
+    "name": "BACANG",
+    "zip_code": "33148"
+  },
+  {
+    "id": 49330,
+    "name": "PASIR PUTIH",
+    "zip_code": "33147"
+  },
+  {
+    "id": 49331,
+    "name": "SEMABUNG LAMA",
+    "zip_code": "33147"
+  },
+  {
+    "id": 49332,
+    "name": "SINAR BULAN",
+    "zip_code": "33147"
+  },
+  {
+    "id": 49333,
+    "name": "TEMBERAN",
+    "zip_code": "33147"
+  }
+]

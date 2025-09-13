@@ -1,0 +1,47 @@
+[
+  {
+    "id": 48181,
+    "name": "AMPANG",
+    "zip_code": "25154"
+  },
+  {
+    "id": 48182,
+    "name": "ANDURING",
+    "zip_code": "25151"
+  },
+  {
+    "id": 48183,
+    "name": "GUNUNG SARIK",
+    "zip_code": "25158"
+  },
+  {
+    "id": 48184,
+    "name": "KALUMBUK",
+    "zip_code": "25155"
+  },
+  {
+    "id": 48185,
+    "name": "KORONG GADANG",
+    "zip_code": "25156"
+  },
+  {
+    "id": 48186,
+    "name": "KURANJI",
+    "zip_code": "25157"
+  },
+  {
+    "id": 48187,
+    "name": "LUBUK LINTAH",
+    "zip_code": "25153"
+  },
+  {
+    "id": 48188,
+    "name": "PASAR AMBACANG",
+    "zip_code": "25152"
+  },
+  {
+    "id": 48189,
+    "name": "SEI/SUNGAI SAPIH",
+    "zip_code": "25159"
+  }
+]

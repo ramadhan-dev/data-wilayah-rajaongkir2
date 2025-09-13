@@ -1,0 +1,77 @@
+[
+  {
+    "id": 50621,
+    "name": "BAGAN BARAT",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50622,
+    "name": "BAGAN HULU",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50623,
+    "name": "BAGAN JAWA",
+    "zip_code": "28913"
+  },
+  {
+    "id": 50624,
+    "name": "BAGAN JAWA PESISIR",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50625,
+    "name": "BAGAN KOTA",
+    "zip_code": "28911"
+  },
+  {
+    "id": 50626,
+    "name": "BAGAN PUNAK",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50627,
+    "name": "BAGAN PUNAK MERANTI",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50628,
+    "name": "BAGAN PUNAK PESISIR",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50629,
+    "name": "BAGAN TIMUR",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50630,
+    "name": "LABUHAN TANGGA BARU",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50631,
+    "name": "LABUHAN TANGGA BESAR",
+    "zip_code": "28913"
+  },
+  {
+    "id": 50632,
+    "name": "LABUHAN TANGGA HILIR",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50633,
+    "name": "LABUHAN TANGGA KECIL",
+    "zip_code": "28912"
+  },
+  {
+    "id": 50634,
+    "name": "PARIT AMAN",
+    "zip_code": "28914"
+  },
+  {
+    "id": 50635,
+    "name": "SERUSA",
+    "zip_code": "28912"
+  }
+]

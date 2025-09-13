@@ -1,0 +1,42 @@
+[
+  {
+    "id": 49657,
+    "name": "DELIMA",
+    "zip_code": "28291"
+  },
+  {
+    "id": 49659,
+    "name": "SIMPANG BARU",
+    "zip_code": "28293"
+  },
+  {
+    "id": 49660,
+    "name": "TUAH KARYA",
+    "zip_code": "28291"
+  },
+  {
+    "id": 82812,
+    "name": "SIALANGMUNGGU",
+    "zip_code": "28299"
+  },
+  {
+    "id": 82820,
+    "name": "AIR PUTIH",
+    "zip_code": "28296"
+  },
+  {
+    "id": 82830,
+    "name": "TOBEKGODANG",
+    "zip_code": "28297"
+  },
+  {
+    "id": 82882,
+    "name": "SIDOMULYO BARAT",
+    "zip_code": "28297"
+  },
+  {
+    "id": 82960,
+    "name": "BINAWIDYA",
+    "zip_code": "28295"
+  }
+]

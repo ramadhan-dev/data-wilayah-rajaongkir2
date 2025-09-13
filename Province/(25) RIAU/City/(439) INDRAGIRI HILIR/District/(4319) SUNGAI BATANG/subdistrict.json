@@ -1,0 +1,42 @@
+[
+  {
+    "id": 50521,
+    "name": "BENTENG",
+    "zip_code": "29273"
+  },
+  {
+    "id": 50522,
+    "name": "BENTENG BARAT",
+    "zip_code": "29273"
+  },
+  {
+    "id": 50523,
+    "name": "BENTENG UTARA",
+    "zip_code": "29273"
+  },
+  {
+    "id": 50524,
+    "name": "KUALA PATAH PARANG",
+    "zip_code": "29273"
+  },
+  {
+    "id": 50525,
+    "name": "KUALA SUNGAI BATANG",
+    "zip_code": "29273"
+  },
+  {
+    "id": 50526,
+    "name": "MUGO MULYO",
+    "zip_code": "29273"
+  },
+  {
+    "id": 50527,
+    "name": "PANDAN SARI",
+    "zip_code": "29273"
+  },
+  {
+    "id": 50528,
+    "name": "PESANGGERAHAN (PASENGGARAHAN)",
+    "zip_code": "29273"
+  }
+]
