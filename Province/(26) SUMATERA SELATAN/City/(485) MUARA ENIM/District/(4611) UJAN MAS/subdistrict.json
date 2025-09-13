@@ -1,0 +1,42 @@
+[
+  {
+    "id": 54105,
+    "name": "GUCI",
+    "zip_code": "31351"
+  },
+  {
+    "id": 54106,
+    "name": "MUARA GULA BARU",
+    "zip_code": "31351"
+  },
+  {
+    "id": 54107,
+    "name": "MUARA GULA LAMA",
+    "zip_code": "31351"
+  },
+  {
+    "id": 54108,
+    "name": "PINANG BELARIK",
+    "zip_code": "31351"
+  },
+  {
+    "id": 54109,
+    "name": "TANJUNG RAMAN",
+    "zip_code": "31351"
+  },
+  {
+    "id": 54110,
+    "name": "UJAN MAS BARU",
+    "zip_code": "31351"
+  },
+  {
+    "id": 54111,
+    "name": "UJAN MAS LAMA",
+    "zip_code": "31351"
+  },
+  {
+    "id": 54112,
+    "name": "ULAK BANDUNG",
+    "zip_code": "31351"
+  }
+]

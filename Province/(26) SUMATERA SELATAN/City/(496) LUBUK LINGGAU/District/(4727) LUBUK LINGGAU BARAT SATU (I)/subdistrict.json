@@ -1,0 +1,57 @@
+[
+  {
+    "id": 55747,
+    "name": "BANDUNG KIRI",
+    "zip_code": "31611"
+  },
+  {
+    "id": 55748,
+    "name": "BANDUNG UJUNG",
+    "zip_code": "31611"
+  },
+  {
+    "id": 55749,
+    "name": "KAYU ARA",
+    "zip_code": "31615"
+  },
+  {
+    "id": 55750,
+    "name": "LUBUK AMAN",
+    "zip_code": "31614"
+  },
+  {
+    "id": 55751,
+    "name": "LUBUK DURIAN",
+    "zip_code": "31611"
+  },
+  {
+    "id": 55752,
+    "name": "LUBUK TANJUNG",
+    "zip_code": "31614"
+  },
+  {
+    "id": 55753,
+    "name": "MUARA ENIM",
+    "zip_code": "31611"
+  },
+  {
+    "id": 55754,
+    "name": "PELITA JAYA",
+    "zip_code": "31611"
+  },
+  {
+    "id": 55755,
+    "name": "SUKAJADI",
+    "zip_code": "31613"
+  },
+  {
+    "id": 55756,
+    "name": "TANJUNG AMAN",
+    "zip_code": "31611"
+  },
+  {
+    "id": 55757,
+    "name": "TANJUNG INDAH",
+    "zip_code": "31611"
+  }
+]

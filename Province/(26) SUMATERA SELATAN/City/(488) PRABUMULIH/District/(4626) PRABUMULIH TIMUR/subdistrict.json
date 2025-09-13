@@ -1,0 +1,42 @@
+[
+  {
+    "id": 54223,
+    "name": "GUNUNG IBUL",
+    "zip_code": "31113"
+  },
+  {
+    "id": 54224,
+    "name": "GUNUNG IBUL BARAT",
+    "zip_code": "31117"
+  },
+  {
+    "id": 54225,
+    "name": "KARANG JAYA",
+    "zip_code": "31115"
+  },
+  {
+    "id": 54226,
+    "name": "KARANG RAJA",
+    "zip_code": "31111"
+  },
+  {
+    "id": 54227,
+    "name": "MUARA DUA",
+    "zip_code": "31113"
+  },
+  {
+    "id": 54228,
+    "name": "PRABU JAYA",
+    "zip_code": "31111"
+  },
+  {
+    "id": 54229,
+    "name": "SUKAJADI",
+    "zip_code": "31111"
+  },
+  {
+    "id": 54230,
+    "name": "TUGU KECIL",
+    "zip_code": "31111"
+  }
+]
