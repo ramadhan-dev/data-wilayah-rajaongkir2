@@ -1,0 +1,130 @@
+[
+  {
+    "id": 3018,
+    "name": "AMANATUN UTARA"
+  },
+  {
+    "id": 3019,
+    "name": "AMANATUN SELATAN"
+  },
+  {
+    "id": 3020,
+    "name": "AMANUBAN SELATAN"
+  },
+  {
+    "id": 3021,
+    "name": "AMANUBAN BARAT"
+  },
+  {
+    "id": 3022,
+    "name": "MOLLO UTARA"
+  },
+  {
+    "id": 3023,
+    "name": "MOLLO SELATAN"
+  },
+  {
+    "id": 3024,
+    "name": "AMANUBAN TENGAH"
+  },
+  {
+    "id": 3025,
+    "name": "AMANUBAN TIMUR"
+  },
+  {
+    "id": 3026,
+    "name": "BATU PUTIH"
+  },
+  {
+    "id": 3027,
+    "name": "BOKING"
+  },
+  {
+    "id": 3028,
+    "name": "FATUMNASI"
+  },
+  {
+    "id": 3029,
+    "name": "KOLBANO"
+  },
+  {
+    "id": 3030,
+    "name": "KIE (KI'E)"
+  },
+  {
+    "id": 3031,
+    "name": "KOT OLIN"
+  },
+  {
+    "id": 3032,
+    "name": "KUALIN"
+  },
+  {
+    "id": 3033,
+    "name": "KUANFATU"
+  },
+  {
+    "id": 3034,
+    "name": "NUNKOLO"
+  },
+  {
+    "id": 3035,
+    "name": "OENINO"
+  },
+  {
+    "id": 3036,
+    "name": "POLEN"
+  },
+  {
+    "id": 3037,
+    "name": "TOIANAS"
+  },
+  {
+    "id": 3038,
+    "name": "SANTIAN"
+  },
+  {
+    "id": 3039,
+    "name": "NUNBENA"
+  },
+  {
+    "id": 3040,
+    "name": "NOEBANA"
+  },
+  {
+    "id": 3041,
+    "name": "MOLLO TENGAH"
+  },
+  {
+    "id": 3042,
+    "name": "MOLLO BARAT"
+  },
+  {
+    "id": 3043,
+    "name": "KUATNANA"
+  },
+  {
+    "id": 3044,
+    "name": "KOTA SOE"
+  },
+  {
+    "id": 3045,
+    "name": "TOBU"
+  },
+  {
+    "id": 3046,
+    "name": "KOK BAUN"
+  },
+  {
+    "id": 3047,
+    "name": "FAUTMOLO"
+  },
+  {
+    "id": 3048,
+    "name": "FATUKOPA"
+  },
+  {
+    "id": 3049,
+    "name": "NOEBEBA"
+  }
+]

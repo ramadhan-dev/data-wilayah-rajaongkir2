@@ -1,0 +1,47 @@
+[
+  {
+    "id": 38034,
+    "name": "BAHU",
+    "zip_code": "95115"
+  },
+  {
+    "id": 38035,
+    "name": "BATU KOTA",
+    "zip_code": "95163"
+  },
+  {
+    "id": 38036,
+    "name": "KLEAK",
+    "zip_code": "95115"
+  },
+  {
+    "id": 38037,
+    "name": "MALALAYANG DUA (II)",
+    "zip_code": "95163"
+  },
+  {
+    "id": 38038,
+    "name": "MALALAYANG SATU (I)",
+    "zip_code": "95162"
+  },
+  {
+    "id": 38039,
+    "name": "MALALAYANG SATU BARAT",
+    "zip_code": "95163"
+  },
+  {
+    "id": 38040,
+    "name": "MALALAYANG SATU TIMUR",
+    "zip_code": "95163"
+  },
+  {
+    "id": 38041,
+    "name": "WINANGUN DUA",
+    "zip_code": "95161"
+  },
+  {
+    "id": 38042,
+    "name": "WINANGUN SATU",
+    "zip_code": "95161"
+  }
+]
