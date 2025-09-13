@@ -1,0 +1,37 @@
+[
+  {
+    "id": 78500,
+    "name": "BATU RAJA",
+    "zip_code": "97863"
+  },
+  {
+    "id": 78501,
+    "name": "BUMI RESTU",
+    "zip_code": "97863"
+  },
+  {
+    "id": 78502,
+    "name": "CEMARA JAYA",
+    "zip_code": "97863"
+  },
+  {
+    "id": 78503,
+    "name": "GULAPAPO",
+    "zip_code": "97863"
+  },
+  {
+    "id": 78504,
+    "name": "MEKAR SARI",
+    "zip_code": "97863"
+  },
+  {
+    "id": 78505,
+    "name": "SUBAIM",
+    "zip_code": "97863"
+  },
+  {
+    "id": 78506,
+    "name": "WAISUBA",
+    "zip_code": "97863"
+  }
+]

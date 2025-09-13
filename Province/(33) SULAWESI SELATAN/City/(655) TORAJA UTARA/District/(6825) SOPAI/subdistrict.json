@@ -1,0 +1,42 @@
+[
+  {
+    "id": 80021,
+    "name": "LANGDA",
+    "zip_code": "92119"
+  },
+  {
+    "id": 80022,
+    "name": "MARANTE",
+    "zip_code": "92119"
+  },
+  {
+    "id": 80023,
+    "name": "NONONGAN SELATAN",
+    "zip_code": "92119"
+  },
+  {
+    "id": 80024,
+    "name": "NONONGAN UTARA",
+    "zip_code": "92119"
+  },
+  {
+    "id": 80025,
+    "name": "SALU",
+    "zip_code": "91852"
+  },
+  {
+    "id": 80026,
+    "name": "SALU RANTE",
+    "zip_code": "91852"
+  },
+  {
+    "id": 80027,
+    "name": "SALU SOPAI",
+    "zip_code": "92119"
+  },
+  {
+    "id": 80028,
+    "name": "TOMBANG LANGDA",
+    "zip_code": "92119"
+  }
+]
