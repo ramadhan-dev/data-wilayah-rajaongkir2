@@ -1,0 +1,37 @@
+[
+  {
+    "id": 82019,
+    "name": "BUKIT HARAPAN",
+    "zip_code": "91131"
+  },
+  {
+    "id": 82020,
+    "name": "BUKIT INDAH",
+    "zip_code": "91131"
+  },
+  {
+    "id": 82021,
+    "name": "KAMPUNG PISANG",
+    "zip_code": "91131"
+  },
+  {
+    "id": 82022,
+    "name": "LAKESSI",
+    "zip_code": "91133"
+  },
+  {
+    "id": 82023,
+    "name": "UJUNG BARU",
+    "zip_code": "91131"
+  },
+  {
+    "id": 82024,
+    "name": "UJUNG LARE",
+    "zip_code": "91131"
+  },
+  {
+    "id": 82025,
+    "name": "WATTANG SOREANG",
+    "zip_code": "91132"
+  }
+]
