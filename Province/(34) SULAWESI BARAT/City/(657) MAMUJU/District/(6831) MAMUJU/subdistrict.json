@@ -1,0 +1,42 @@
+[
+  {
+    "id": 80061,
+    "name": "BAMBU",
+    "zip_code": "91514"
+  },
+  {
+    "id": 80062,
+    "name": "BATU PANNU",
+    "zip_code": "91511"
+  },
+  {
+    "id": 80063,
+    "name": "BINANGA",
+    "zip_code": "91511"
+  },
+  {
+    "id": 80064,
+    "name": "KARAMPUANG",
+    "zip_code": "91515"
+  },
+  {
+    "id": 80065,
+    "name": "KAREMA",
+    "zip_code": "91515"
+  },
+  {
+    "id": 80066,
+    "name": "MAMUNYU",
+    "zip_code": "91511"
+  },
+  {
+    "id": 80067,
+    "name": "RIMUKU",
+    "zip_code": "91515"
+  },
+  {
+    "id": 80068,
+    "name": "TADUI",
+    "zip_code": "91511"
+  }
+]
