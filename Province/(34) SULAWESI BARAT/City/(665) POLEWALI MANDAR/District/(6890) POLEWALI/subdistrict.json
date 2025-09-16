@@ -1,0 +1,47 @@
+[
+  {
+    "id": 80561,
+    "name": "DARMA",
+    "zip_code": "91314"
+  },
+  {
+    "id": 80562,
+    "name": "LANTORA",
+    "zip_code": "91313"
+  },
+  {
+    "id": 80563,
+    "name": "MADATTE",
+    "zip_code": "91315"
+  },
+  {
+    "id": 80564,
+    "name": "MANDING",
+    "zip_code": "91311"
+  },
+  {
+    "id": 80565,
+    "name": "PEKKABATA",
+    "zip_code": "91311"
+  },
+  {
+    "id": 80566,
+    "name": "POLEWALI",
+    "zip_code": "91311"
+  },
+  {
+    "id": 80567,
+    "name": "SULEWATANG",
+    "zip_code": "91315"
+  },
+  {
+    "id": 80568,
+    "name": "TAKATIDUNG",
+    "zip_code": "91311"
+  },
+  {
+    "id": 80569,
+    "name": "WATTANG",
+    "zip_code": "91315"
+  }
+]
